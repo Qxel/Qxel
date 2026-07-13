@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "field",
+    "title": "research field"
+  },
+  "taxonomy_2": {
+    "item": "type",
+    "title": "paper type"
+  },
+  "taxonomy_3": {
+    "item": "publication",
+    "title": "publication/journal"
+  },
+  "taxonomy_4": {
+    "item": "year",
+    "title": "publication year"
+  }
+}

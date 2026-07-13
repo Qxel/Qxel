@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "category",
+    "title": "model category"
+  },
+  "taxonomy_2": {
+    "item": "format",
+    "title": "file format"
+  },
+  "taxonomy_3": {
+    "item": "poly_count",
+    "title": "polygon count"
+  },
+  "taxonomy_4": {
+    "item": "textured",
+    "title": "textured/untextured"
+  }
+}

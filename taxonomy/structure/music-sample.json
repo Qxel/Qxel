@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "genre",
+    "title": "music genre"
+  },
+  "taxonomy_2": {
+    "item": "tempo",
+    "title": "tempo/BPM"
+  },
+  "taxonomy_3": {
+    "item": "key",
+    "title": "musical key"
+  },
+  "taxonomy_4": {
+    "item": "format",
+    "title": "audio format"
+  }
+}

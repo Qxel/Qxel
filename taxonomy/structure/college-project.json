@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "college",
+    "title": "college/university"
+  },
+  "taxonomy_2": {
+    "item": "department",
+    "title": "department/major"
+  },
+  "taxonomy_3": {
+    "item": "year",
+    "title": "academic year"
+  },
+  "taxonomy_4": {
+    "item": "project_type",
+    "title": "project type"
+  }
+}

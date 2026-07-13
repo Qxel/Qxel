@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "platform",
+    "title": "social platform"
+  },
+  "taxonomy_2": {
+    "item": "industry",
+    "title": "industry/niche"
+  },
+  "taxonomy_3": {
+    "item": "style",
+    "title": "style/theme"
+  },
+  "taxonomy_4": {
+    "item": "format",
+    "title": "format/type"
+  }
+}

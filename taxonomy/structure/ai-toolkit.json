@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "purpose",
+    "title": "purpose/application"
+  },
+  "taxonomy_2": {
+    "item": "model",
+    "title": "AI model/framework"
+  },
+  "taxonomy_3": {
+    "item": "complexity",
+    "title": "complexity level"
+  },
+  "taxonomy_4": {
+    "item": "platform",
+    "title": "platform/integration"
+  }
+}

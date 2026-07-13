@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "software",
+    "title": "compatible software"
+  },
+  "taxonomy_2": {
+    "item": "function",
+    "title": "function/purpose"
+  },
+  "taxonomy_3": {
+    "item": "version",
+    "title": "version/compatibility"
+  },
+  "taxonomy_4": {
+    "item": "category",
+    "title": "plugin category"
+  }
+}

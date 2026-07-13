@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "topic",
+    "title": "topic/subject"
+  },
+  "taxonomy_2": {
+    "item": "duration",
+    "title": "duration/hours"
+  },
+  "taxonomy_3": {
+    "item": "difficulty",
+    "title": "difficulty level"
+  },
+  "taxonomy_4": {
+    "item": "format",
+    "title": "delivery format"
+  }
+}
