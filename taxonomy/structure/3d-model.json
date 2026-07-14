@@ -1,17 +1,13 @@
 {
   "taxonomy_1": {
-    "item": "category",
-    "title": "model category"
+    "item": "model",
+    "title": "3d model"
   },
   "taxonomy_2": {
-    "item": "format",
-    "title": "file format"
-  },
-  "taxonomy_3": {
     "item": "poly_count",
     "title": "polygon count"
   },
-  "taxonomy_4": {
+  "taxonomy_3": {
     "item": "textured",
     "title": "textured/untextured"
   }
