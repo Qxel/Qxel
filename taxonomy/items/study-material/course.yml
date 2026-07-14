@@ -1,380 +1,530 @@
-# Undergraduate Science Courses
-- item: "bsc_physics"
+- item: "bsc-physics"
   title: "B.Sc. Physics"
-- item: "bsc_chemistry"
+
+- item: "bsc-chemistry"
   title: "B.Sc. Chemistry"
-- item: "bsc_mathematics"
+
+- item: "bsc-mathematics"
   title: "B.Sc. Mathematics"
-- item: "bsc_computer_science"
+
+- item: "bsc-computer-science"
   title: "B.Sc. Computer Science"
-- item: "bsc_electronics"
+
+- item: "bsc-electronics"
   title: "B.Sc. Electronics"
-- item: "bsc_statistics"
+
+- item: "bsc-statistics"
   title: "B.Sc. Statistics"
-- item: "bsc_biotechnology"
+
+- item: "bsc-biotechnology"
   title: "B.Sc. Biotechnology"
-- item: "bsc_microbiology"
+
+- item: "bsc-microbiology"
   title: "B.Sc. Microbiology"
-- item: "bsc_environmental_science"
+
+- item: "bsc-environmental-science"
   title: "B.Sc. Environmental Science"
-- item: "bsc_agriculture"
+
+- item: "bsc-agriculture"
   title: "B.Sc. Agriculture"
-- item: "bsc_food_technology"
+
+- item: "bsc-food-technology"
   title: "B.Sc. Food Technology"
-- item: "bsc_data_science"
+
+- item: "bsc-data-science"
   title: "B.Sc. Data Science"
-- item: "bsc_artificial_intelligence"
+
+- item: "bsc-artificial-intelligence"
   title: "B.Sc. Artificial Intelligence"
-- item: "bsc_zoology"
+
+- item: "bsc-zoology"
   title: "B.Sc. Zoology"
-- item: "bsc_botany"
+
+- item: "bsc-botany"
   title: "B.Sc. Botany"
-- item: "bsc_geology"
+
+- item: "bsc-geology"
   title: "B.Sc. Geology"
 
 # Postgraduate Science Courses
-- item: "msc_physics"
+- item: "msc-physics"
   title: "M.Sc. Physics"
-- item: "msc_chemistry"
+
+- item: "msc-chemistry"
   title: "M.Sc. Chemistry"
-- item: "msc_mathematics"
+
+- item: "msc-mathematics"
   title: "M.Sc. Mathematics"
-- item: "msc_computer_science"
+
+- item: "msc-computer-science"
   title: "M.Sc. Computer Science"
-- item: "msc_statistics"
+
+- item: "msc-statistics"
   title: "M.Sc. Statistics"
-- item: "msc_biotechnology"
+
+- item: "msc-biotechnology"
   title: "M.Sc. Biotechnology"
-- item: "msc_microbiology"
+
+- item: "msc-microbiology"
   title: "M.Sc. Microbiology"
-- item: "msc_environmental_science"
+
+- item: "msc-environmental-science"
   title: "M.Sc. Environmental Science"
-- item: "msc_data_science"
+
+- item: "msc-data-science"
   title: "M.Sc. Data Science"
-- item: "msc_artificial_intelligence"
+
+- item: "msc-artificial-intelligence"
   title: "M.Sc. Artificial Intelligence"
-- item: "msc_zoology"
+
+- item: "msc-zoology"
   title: "M.Sc. Zoology"
-- item: "msc_botany"
+
+- item: "msc-botany"
   title: "M.Sc. Botany"
-- item: "msc_biochemistry"
+
+- item: "msc-biochemistry"
   title: "M.Sc. Biochemistry"
-- item: "msc_geology"
+
+- item: "msc-geology"
   title: "M.Sc. Geology"
-- item: "msc_food_technology"
+
+- item: "msc-food-technology"
   title: "M.Sc. Food Technology"
-- item: "msc_yogic_science"
+
+- item: "msc-yogic-science"
   title: "M.Sc. Yogic Science"
-- item: "msc_analytical_techniques_biochemistry"
+
+- item: "msc-analytical-techniques-biochemistry"
   title: "M.Sc. Analytical Techniques in Biochemistry"
-- item: "msc_metamorphic_petrology"
+
+- item: "msc-metamorphic-petrology"
   title: "M.Sc. Metamorphic Petrology & Thermodynamics"
 
 # Engineering and Technology
-- item: "btech_computer_science"
+- item: "btech-computer-science"
   title: "B.Tech in Computer Science and Engineering"
-- item: "btech_electronics"
+
+- item: "btech-electronics"
   title: "B.Tech in Electronics and Communication Engineering"
-- item: "btech_mechanical"
+
+- item: "btech-mechanical"
   title: "B.Tech in Mechanical Engineering"
-- item: "btech_civil"
+
+- item: "btech-civil"
   title: "B.Tech in Civil Engineering"
-- item: "btech_electrical"
+
+- item: "btech-electrical"
   title: "B.Tech in Electrical Engineering"
-- item: "btech_information_technology"
+
+- item: "btech-information-technology"
   title: "B.Tech in Information Technology"
-- item: "btech_construction_management"
+
+- item: "btech-construction-management"
   title: "B.Tech in Civil (Construction Management)"
+
 - item: "bca"
   title: "Bachelor of Computer Applications (BCA)"
+
 - item: "mca"
   title: "Master of Computer Applications (MCA)"
 
 # Undergraduate Commerce and Management
 - item: "bcom"
   title: "B.Com"
-- item: "bcom_hons"
+
+- item: "bcom-hons"
   title: "B.Com (Hons)"
+
 - item: "bba"
   title: "Bachelor of Business Administration (BBA)"
-- item: "bba_hons"
+
+- item: "bba-hons"
   title: "BBA (Hons)"
+
 - item: "bms"
   title: "Bachelor of Management Studies (BMS)"
+
 - item: "bbe"
   title: "Bachelor of Business Economics (BBE)"
+
 - item: "bfm"
   title: "Bachelor of Financial Markets (BFM)"
+
 - item: "baf"
   title: "Bachelor of Accounting and Finance (BAF)"
 
 # Postgraduate Commerce and Management
 - item: "mcom"
   title: "M.Com"
+
 - item: "mba"
   title: "Master of Business Administration (MBA)"
-- item: "mba_finance"
+
+- item: "mba-finance"
   title: "MBA in Finance"
-- item: "mba_marketing"
+
+- item: "mba-marketing"
   title: "MBA in Marketing"
-- item: "mba_human_resource"
+
+- item: "mba-human-resource"
   title: "MBA in Human Resource Management"
-- item: "mba_operations"
+
+- item: "mba-operations"
   title: "MBA in Operations"
-- item: "mba_international_business"
+
+- item: "mba-international-business"
   title: "MBA in International Business"
-- item: "msc_finance"
+
+- item: "msc-finance"
   title: "M.Sc. Finance"
-- item: "msc_banking_and_finance"
+
+- item: "msc-banking-and-finance"
   title: "M.Sc. Banking and Finance"
-- item: "ma_economics"
+
+- item: "ma-economics"
   title: "M.A. Economics"
-- item: "ma_business_economics"
+
+- item: "ma-business-economics"
   title: "M.A. Business Economics"
-- item: "ma_tourism_management"
+
+- item: "ma-tourism-management"
   title: "M.A. Tourism Management"
 
 # Undergraduate Arts
 - item: "ba"
   title: "Bachelor of Arts (BA)"
-- item: "ba_hons_english"
+
+- item: "ba-hons-english"
   title: "B.A. (Hons) English"
-- item: "ba_hons_economics"
+
+- item: "ba-hons-economics"
   title: "B.A. (Hons) Economics"
-- item: "ba_hons_political_science"
+
+- item: "ba-hons-political-science"
   title: "B.A. (Hons) Political Science"
-- item: "ba_hons_history"
+
+- item: "ba-hons-history"
   title: "B.A. (Hons) History"
-- item: "ba_hons_sociology"
+
+- item: "ba-hons-sociology"
   title: "B.A. (Hons) Sociology"
-- item: "ba_hons_psychology"
+
+- item: "ba-hons-psychology"
   title: "B.A. (Hons) Psychology"
-- item: "ba_hons_geography"
+
+- item: "ba-hons-geography"
   title: "B.A. (Hons) Geography"
-- item: "ba_hons_philosophy"
+
+- item: "ba-hons-philosophy"
   title: "B.A. (Hons) Philosophy"
-- item: "ba_hons_public_administration"
+
+- item: "ba-hons-public-administration"
   title: "B.A. (Hons) Public Administration"
-- item: "ba_hons_journalism"
+
+- item: "ba-hons-journalism"
   title: "B.A. (Hons) Journalism"
-- item: "ba_hons_hindi"
+
+- item: "ba-hons-hindi"
   title: "B.A. (Hons) Hindi"
-- item: "ba_hons_sanskrit"
+
+- item: "ba-hons-sanskrit"
   title: "B.A. (Hons) Sanskrit"
-- item: "ba_hons_linguistics"
+
+- item: "ba-hons-linguistics"
   title: "B.A. (Hons) Linguistics"
-- item: "ba_liberal_arts"
+
+- item: "ba-liberal-arts"
   title: "B.A. Liberal Arts"
-- item: "ba_foreign_languages"
+
+- item: "ba-foreign-languages"
   title: "B.A. (Hons) Foreign Languages (French, German, etc.)"
 
 # Postgraduate Arts
-- item: "ma_english"
+- item: "ma-english"
   title: "M.A. English"
-- item: "ma_economics"
+
+- item: "ma-economics"
   title: "M.A. Economics"
-- item: "ma_political_science"
+
+- item: "ma-political-science"
   title: "M.A. Political Science"
-- item: "ma_history"
+
+- item: "ma-history"
   title: "M.A. History"
-- item: "ma_sociology"
+
+- item: "ma-sociology"
   title: "M.A. Sociology"
-- item: "ma_psychology"
+
+- item: "ma-psychology"
   title: "M.A. Psychology"
-- item: "ma_geography"
+
+- item: "ma-geography"
   title: "M.A. Geography"
-- item: "ma_public_administration"
+
+- item: "ma-public-administration"
   title: "M.A. Public Administration"
-- item: "ma_philosophy"
+
+- item: "ma-philosophy"
   title: "M.A. Philosophy"
-- item: "ma_journalism_mass_communication"
+
+- item: "ma-journalism-mass-communication"
   title: "M.A. Journalism and Mass Communication"
-- item: "ma_international_relations"
+
+- item: "ma-international-relations"
   title: "M.A. International Relations"
-- item: "ma_linguistics"
+
+- item: "ma-linguistics"
   title: "M.A. Linguistics"
-- item: "ma_hindi"
+
+- item: "ma-hindi"
   title: "M.A. Hindi"
-- item: "ma_sanskrit"
+
+- item: "ma-sanskrit"
   title: "M.A. Sanskrit"
-- item: "ma_vedic_studies"
+
+- item: "ma-vedic-studies"
   title: "M.A. Vedic Studies"
-- item: "ma_anthropology"
+
+- item: "ma-anthropology"
   title: "M.A. Anthropology"
-- item: "ma_arabic"
+
+- item: "ma-arabic"
   title: "M.A. Arabic"
-- item: "ma_hindu_studies"
+
+- item: "ma-hindu-studies"
   title: "M.A. Hindu Studies"
-- item: "ma_yoga"
+
+- item: "ma-yoga"
   title: "M.A. Yoga"
-- item: "ma_education"
+
+- item: "ma-education"
   title: "M.A. Education"
-- item: "ma_rural_development"
+
+- item: "ma-rural-development"
   title: "M.A. Rural Development"
 
 # Law
 - item: "llb"
   title: "LL.B. (Bachelor of Laws)"
-- item: "ba_llb"
+
+- item: "ba-llb"
   title: "B.A. LL.B. (Hons)"
+
 - item: "llm"
   title: "LL.M. (Master of Laws)"
 
 # Education
 - item: "bed"
   title: "Bachelor of Education (B.Ed)"
+
 - item: "med"
   title: "Master of Education (M.Ed)"
-- item: "ba_bed"
+
+- item: "ba-bed"
   title: "B.A. B.Ed (Integrated)"
 
 # Social Work
 - item: "bsw"
   title: "Bachelor of Social Work (BSW)"
+
 - item: "msw"
   title: "Master of Social Work (MSW)"
 
 # Library and Information Science
 - item: "blis"
   title: "Bachelor of Library and Information Science (BLIS)"
+
 - item: "mlis"
   title: "Master of Library and Information Science (MLIS)"
 
 # Traditional and Specialized Arts
-- item: "shastri_shuklayajurveda"
+- item: "shastri-shuklayajurveda"
   title: "Shastri in Shuklayajurveda"
-- item: "shastri_navya_vyakarana"
+
+- item: "shastri-navya-vyakarana"
   title: "Shastri in Navya Vyakarana"
-- item: "shastri_prachin_vyakarana"
+
+- item: "shastri-prachin-vyakarana"
   title: "Shastri in Prachin Vyakarana"
-- item: "shastri_sahitya"
+
+- item: "shastri-sahitya"
   title: "Shastri in Sahitya"
-- item: "shastri_falitajyotisha"
+
+- item: "shastri-falitajyotisha"
   title: "Shastri in Falitajyotisha"
-- item: "shastri_siddhantajyotisha"
+
+- item: "shastri-siddhantajyotisha"
   title: "Shastri in Siddhantajyotisha"
-- item: "shastri_nyayadarshana"
+
+- item: "shastri-nyayadarshana"
   title: "Shastri in Nyayadarshana"
-- item: "acharya_shuklayajurveda"
+
+- item: "acharya-shuklayajurveda"
   title: "Acharya in Shuklayajurveda"
-- item: "acharya_navya_vyakarana"
+
+- item: "acharya-navya-vyakarana"
   title: "Acharya in Navya Vyakarana"
-- item: "acharya_sahitya"
+
+- item: "acharya-sahitya"
   title: "Acharya in Sahitya"
-- item: "acharya_falitajyotisha"
+
+- item: "acharya-falitajyotisha"
   title: "Acharya in Falitajyotisha"
-- item: "acharya_siddhantajyotisha"
+
+- item: "acharya-siddhantajyotisha"
   title: "Acharya in Siddhantajyotisha"
-- item: "acharya_nyayadarshana"
+
+- item: "acharya-nyayadarshana"
   title: "Acharya in Nyayadarshana"
-- item: "acharya_advaitavedanta"
+
+- item: "acharya-advaitavedanta"
   title: "Acharya in Advaitavedanta"
-- item: "ma_jyotirvigyana"
+
+- item: "ma-jyotirvigyana"
   title: "M.A. in Jyotirvigyana"
-- item: "ma_vastu"
+
+- item: "ma-vastu"
   title: "M.A. in Vastu"
 
-- item: "phd_science"
+- item: "phd-science"
   title: "Ph.D. in Sciences (Physics, Chemistry, Biology, etc.)"
-- item: "phd_engineering"
+
+- item: "phd-engineering"
   title: "Ph.D. in Engineering & Technology"
-- item: "phd_humanities"
+
+- item: "phd-humanities"
   title: "Ph.D. in Humanities and Social Sciences"
-- item: "phd_management"
+
+- item: "phd-management"
   title: "Ph.D. in Management & Business Administration"
-- item: "phd_law"
+
+- item: "phd-law"
   title: "Ph.D. in Law"
-- item: "phd_veda"
+
+- item: "phd-veda"
   title: "Ph.D. in Veda"
-- item: "phd_vyakarana"
+
+- item: "phd-vyakarana"
   title: "Ph.D. in Vyakarana"
-- item: "phd_sanskrit_sahitya"
+
+- item: "phd-sanskrit-sahitya"
   title: "Ph.D. in Sanskrit Sahitya"
-- item: "phd_jyotisha"
+
+- item: "phd-jyotisha"
   title: "Ph.D. in Jyotisha"
-- item: "phd_darshana"
+
+- item: "phd-darshana"
   title: "Ph.D. in Darshana"
-- item: "phd_yoga"
+
+- item: "phd-yoga"
   title: "Ph.D. in Yoga"
 
 # Diploma Programs
-- item: "diploma_creative_writing"
+- item: "diploma-creative-writing"
   title: "Diploma in Creative Writing"
-- item: "diploma_tourism_studies"
+
+- item: "diploma-tourism-studies"
   title: "Diploma in Tourism Studies"
-- item: "diploma_nutrition_health"
+
+- item: "diploma-nutrition-health"
   title: "Diploma in Nutrition and Health Education"
-- item: "diploma_early_childhood_education"
+
+- item: "diploma-early-childhood-education"
   title: "Diploma in Early Childhood Care and Education"
-- item: "diploma_dairy_technology"
+
+- item: "diploma-dairy-technology"
   title: "Diploma in Dairy Technology"
-- item: "diploma_value_added_products"
+
+- item: "diploma-value-added-products"
   title: "Diploma in Value Added Products from Fruits and Vegetables"
 
 # Certificate Programs
-- item: "certificate_information_technology"
+- item: "certificate-information-technology"
   title: "Certificate in Information Technology"
-- item: "certificate_tourism_studies"
+
+- item: "certificate-tourism-studies"
   title: "Certificate in Tourism Studies"
-- item: "certificate_environmental_studies"
+
+- item: "certificate-environmental-studies"
   title: "Certificate in Environmental Studies"
-- item: "certificate_human_rights"
+
+- item: "certificate-human-rights"
   title: "Certificate in Human Rights"
-- item: "certificate_disaster_management"
+
+- item: "certificate-disaster-management"
   title: "Certificate in Disaster Management"
-- item: "certificate_food_nutrition"
+
+- item: "certificate-food-nutrition"
   title: "Certificate in Food and Nutrition"
-- item: "certificate_guidance"
+
+- item: "certificate-guidance"
   title: "Certificate in Guidance"
-- item: "certificate_hiv_education"
+
+- item: "certificate-hiv-education"
   title: "Certificate in HIV and Family Education"
-- item: "certificate_teaching_english"
+
+- item: "certificate-teaching-english"
   title: "Certificate in Teaching English as a Second Language"
 
 # Integrated Programs
-- item: "integrated_ma_phd"
+- item: "integrated-ma-phd"
   title: "Integrated M.A.-Ph.D. Program"
-- item: "integrated_msc_phd"
+
+- item: "integrated-msc-phd"
   title: "Integrated M.Sc.-Ph.D. Program"
-- item: "integrated_bs_ms"
+
+- item: "integrated-bs-ms"
   title: "Integrated B.S.-M.S. Program"
 
 # University of Delhi, JNU, etc.
-- item: "ba_hons_urdu"
+- item: "ba-hons-urdu"
   title: "B.A. (Hons) Urdu"
-- item: "ba_hons_music"
+
+- item: "ba-hons-music"
   title: "B.A. (Hons) Music"
-- item: "ba_hons_drawing_painting"
+
+- item: "ba-hons-drawing-painting"
   title: "B.A. (Hons) Drawing & Painting"
-- item: "bsc_geophysics"
+
+- item: "bsc-geophysics"
   title: "B.Sc. Geophysics"
-- item: "bsc_biomedical_science"
+
+- item: "bsc-biomedical-science"
   title: "B.Sc. Biomedical Science"
-- item: "bsc_forensic_science"
+
+- item: "bsc-forensic-science"
   title: "B.Sc. Forensic Science"
-- item: "bsc_home_science"
+
+- item: "bsc-home-science"
   title: "B.Sc. Home Science"
 
 # specific universities like IITs, NITs
-- item: "integrated_ba_bed"
+- item: "integrated-ba-bed"
   title: "Integrated B.A.-B.Ed"
-- item: "integrated_bsc_bed"
+
+- item: "integrated-bsc-bed"
   title: "Integrated B.Sc.-B.Ed"
 
 # Tata Institute of Social Sciences
-- item: "ma_development_studies"
+- item: "ma-development-studies"
   title: "M.A. Development Studies"
-- item: "ma_women_studies"
+
+- item: "ma-women-studies"
   title: "M.A. Women's Studies"
-- item: "ma_public_health"
+
+- item: "ma-public-health"
   title: "M.A. Public Health"
 
 # Agricultural Universities
-- item: "bsc_agriculture_hons"
+- item: "bsc-agriculture-hons"
   title: "B.Sc. Agriculture (Hons)"
-- item: "bsc_horticulture"
+
+- item: "bsc-horticulture"
   title: "B.Sc. Horticulture"
-- item: "btech_agricultural_engineering"
+
+- item: "btech-agricultural-engineering"
   title: "B.Tech Agricultural Engineering"
+
 - item: "bvh"
   title: "B.V.Sc & A.H. (Veterinary Science)"
