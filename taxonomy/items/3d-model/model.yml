@@ -1,0 +1,61 @@
+# 3D Model Categories
+
+- item: "architecture"
+  title: "Architecture Models"
+  
+- item: "vehicles"
+  title: "Vehicle Models"
+  
+- item: "characters"
+  title: "Character Models"
+  
+- item: "furniture"
+  title: "Furniture Models"
+  
+- item: "electronics"
+  title: "Electronic Devices Models"
+  
+- item: "nature"
+  title: "Nature & Environment Models"
+  
+- item: "industrial"
+  title: "Industrial Equipment Models"
+  
+- item: "medical"
+  title: "Medical & Anatomical Models"
+  
+- item: "scientific"
+  title: "Scientific Instruments Models"
+  
+- item: "games"
+  title: "Game Assets Models"
+  
+- item: "animation"
+  title: "Animation & Cartoon Models"
+  
+- item: "interior"
+  title: "Interior Design Models"
+  
+- item: "exterior"
+  title: "Exterior & Landscape Models"
+  
+- item: "weapons"
+  title: "Weapons & Armory Models"
+  
+- item: "food"
+  title: "Food & Beverage Models"
+  
+- item: "jewelry"
+  title: "Jewelry & Accessories Models"
+  
+- item: "sports"
+  title: "Sports Equipment Models"
+  
+- item: "musical"
+  title: "Musical Instruments Models"
+  
+- item: "robotics"
+  title: "Robotics & Machinery Models"
+  
+- item: "educational"
+  title: "Educational & Training Models"
