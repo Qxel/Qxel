@@ -4,10 +4,6 @@
     "title": "3d model"
   },
   "taxonomy_2": {
-    "item": "poly_count",
-    "title": "polygon count"
-  },
-  "taxonomy_3": {
     "item": "textured",
     "title": "textured/untextured"
   }
