@@ -65,4 +65,6 @@
 ```
 
 ---
-- *The loop just repeats for more and more items*
+**The loop just repeats for more and more items**
+**Note📢: If the Nesting isn't necessary for some Taxonomies then we will use basic list for them too.
+Example: Semesters for courses are almost same(1 to 8) so we dont have to categorize them based on course**
