@@ -1,9 +1,17 @@
+# Taxonomy Structure Documentation
+
+## Overview
+
+This document outlines the taxonomy structures used in the system. Taxonomies can be represented in different formats depending on the level of nesting required.
 
 ---
 
-## Here are valid YAML files for each taxonomy:
+## Taxonomy 1: Basic List Format
 
-### **Taxonomy 1** (`taxonomy1.yml`) — Pure list of items:
+**File:** `taxonomy1.yml`
+
+**Structure:** Pure list of items without categorization
+
 ```yaml
 - item: "hello-birds"
   title: "Hello Birds"
@@ -11,9 +19,16 @@
   title: "My World"
 ```
 
+**Use Case:** When items don't require hierarchical organization or categorization.
+
 ---
 
-### **Taxonomy 2** (`taxonomy2.yml`) — Categorized under Taxonomy 1:
+## Taxonomy 2: Single-Level Categorization
+
+**File:** `taxonomy2.yml`
+
+**Structure:** Items categorized under parent categories (2 levels deep)
+
 ```yaml
 - hello-birds:
     - item: "penguin"
@@ -27,9 +42,16 @@
       title: "The Cosmos"
 ```
 
+**Use Case:** When items need to be grouped under broader categories.
+
 ---
 
-### **Taxonomy 3** (`taxonomy3.yml`) — Nested under both (3 levels deep):
+## Taxonomy 3: Multi-Level Nesting
+
+**File:** `taxonomy3.yml`
+
+**Structure:** Three levels of nested categorization
+
 ```yaml
 - hello-birds:
     - penguin:
@@ -48,9 +70,16 @@
           title: "Everest"
 ```
 
+**Use Case:** When items require deeper hierarchical organization.
+
 ---
 
-### **Taxonomy 4** (`taxonomy4.yml`) — Even deeper nesting:
+## Taxonomy 4: Deep Nesting
+
+**File:** `taxonomy4.yml`
+
+**Structure:** Four or more levels of nested categorization
+
 ```yaml
 - hello-birds:
     - penguin:
@@ -64,7 +93,25 @@
               title: "Adelie Chick"
 ```
 
+**Use Case:** When items require highly detailed hierarchical organization.
+
 ---
-**The loop just repeats for more and more items**  
-# **Note📢: If the Nesting isn't necessary for some Taxonomies then we will use basic list for them too.**
-**Example: Semesters for courses are almost same(1 to 8) so we dont have to categorize them based on course**
+
+## Important Note 📢
+
+**Flexibility in Structure Selection**
+
+The nesting level can vary based on the specific taxonomy requirements:
+
+- **When nesting is necessary:** Use appropriate nested structures (Taxonomies 2-4)
+- **When nesting is NOT necessary:** Use the basic list format (Taxonomy 1)
+
+### Example: Semesters in Courses
+
+```
+Semesters are almost uniform (1 to 8) across all courses
+→ No need to categorize them based on courses
+→ Use basic list format (Taxonomy 1)
+```
+
+**The loop continues for more items as needed.**
