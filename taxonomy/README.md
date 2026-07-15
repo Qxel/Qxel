@@ -94,7 +94,7 @@ This document outlines the taxonomy structures used in the system. Taxonomies ca
 ```
 
 **Use Case:** When items require highly detailed hierarchical organization.
-## sometimes the taxonomy 1 wouldn't be included in the taxonomy 3 or 4 because in that case only taxonomy 2 will be necessary. in case of study material subjects only course and semester were actually necessary it doesn't matter university/school
+- *sometimes the taxonomy 1 wouldn't be included in the taxonomy 3 or 4 because in that case only taxonomy 2 will be necessary. in case of study material subjects only course and semester were actually necessary it doesn't matter university/school*
 ---
 
 ## Important Note 📢
