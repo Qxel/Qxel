@@ -1,0 +1,10 @@
+{
+  "taxonomy_1": {
+    "item": "model",
+    "title": "3d model"
+  },
+  "taxonomy_2": {
+    "item": "textured",
+    "title": "textured/untextured"
+  }
+}
