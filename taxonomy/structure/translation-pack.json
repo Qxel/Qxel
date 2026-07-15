@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "source_language",
+    "title": "source language"
+  },
+  "taxonomy_2": {
+    "item": "target_language",
+    "title": "target language"
+  },
+  "taxonomy_3": {
+    "item": "domain",
+    "title": "domain/sector"
+  },
+  "taxonomy_4": {
+    "item": "format",
+    "title": "translation format"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "industry",
+    "title": "industry/sector"
+  },
+  "taxonomy_2": {
+    "item": "strategy",
+    "title": "strategy/approach"
+  },
+  "taxonomy_3": {
+    "item": "channel",
+    "title": "marketing channel"
+  },
+  "taxonomy_4": {
+    "item": "target_audience",
+    "title": "target audience"
+  }
+}

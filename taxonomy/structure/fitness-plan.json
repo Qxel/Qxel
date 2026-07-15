@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "goal",
+    "title": "fitness goal"
+  },
+  "taxonomy_2": {
+    "item": "level",
+    "title": "fitness level"
+  },
+  "taxonomy_3": {
+    "item": "type",
+    "title": "workout type"
+  },
+  "taxonomy_4": {
+    "item": "duration",
+    "title": "program duration"
+  }
+}

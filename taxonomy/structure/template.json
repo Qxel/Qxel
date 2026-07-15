@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "category",
+    "title": "template category"
+  },
+  "taxonomy_2": {
+    "item": "purpose",
+    "title": "purpose/use case"
+  },
+  "taxonomy_3": {
+    "item": "format",
+    "title": "file format"
+  },
+  "taxonomy_4": {
+    "item": "complexity",
+    "title": "complexity level"
+  }
+}

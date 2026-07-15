@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "purpose",
+    "title": "purpose/use case"
+  },
+  "taxonomy_2": {
+    "item": "industry",
+    "title": "industry/sector"
+  },
+  "taxonomy_3": {
+    "item": "style",
+    "title": "style/tone"
+  },
+  "taxonomy_4": {
+    "item": "format",
+    "title": "format/compatibility"
+  }
+}

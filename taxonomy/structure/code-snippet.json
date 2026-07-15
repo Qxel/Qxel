@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "language",
+    "title": "programming language"
+  },
+  "taxonomy_2": {
+    "item": "category",
+    "title": "function/category"
+  },
+  "taxonomy_3": {
+    "item": "complexity",
+    "title": "complexity level"
+  },
+  "taxonomy_4": {
+    "item": "framework",
+    "title": "framework/library"
+  }
+}

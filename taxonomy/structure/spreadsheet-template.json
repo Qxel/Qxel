@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "purpose",
+    "title": "purpose/use"
+  },
+  "taxonomy_2": {
+    "item": "complexity",
+    "title": "complexity level"
+  },
+  "taxonomy_3": {
+    "item": "software",
+    "title": "software"
+  },
+  "taxonomy_4": {
+    "item": "industry",
+    "title": "industry/application"
+  }
+}

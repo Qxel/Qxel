@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "category",
+    "title": "bundle category"
+  },
+  "taxonomy_2": {
+    "item": "size",
+    "title": "bundle size/items"
+  },
+  "taxonomy_3": {
+    "item": "format",
+    "title": "format/type"
+  },
+  "taxonomy_4": {
+    "item": "value",
+    "title": "value/price tier"
+  }
+}

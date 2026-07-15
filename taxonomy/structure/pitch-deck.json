@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "industry",
+    "title": "industry/sector"
+  },
+  "taxonomy_2": {
+    "item": "stage",
+    "title": "company stage"
+  },
+  "taxonomy_3": {
+    "item": "format",
+    "title": "presentation format"
+  },
+  "taxonomy_4": {
+    "item": "audience",
+    "title": "target audience"
+  }
+}

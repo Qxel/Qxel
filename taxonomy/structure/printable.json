@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "category",
+    "title": "printable type"
+  },
+  "taxonomy_2": {
+    "item": "size",
+    "title": "paper size"
+  },
+  "taxonomy_3": {
+    "item": "format",
+    "title": "file format"
+  },
+  "taxonomy_4": {
+    "item": "color",
+    "title": "color mode"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "taxonomy_1": {
+    "item": "document_type",
+    "title": "document type"
+  },
+  "taxonomy_2": {
+    "item": "jurisdiction",
+    "title": "jurisdiction/region"
+  },
+  "taxonomy_3": {
+    "item": "complexity",
+    "title": "complexity level"
+  },
+  "taxonomy_4": {
+    "item": "industry",
+    "title": "industry/sector"
+  }
+}
