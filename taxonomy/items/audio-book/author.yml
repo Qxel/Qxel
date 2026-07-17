@@ -1,0 +1,294 @@
+# Audio Book Authors & Narrators
+
+- item: "stephen-king"
+  title: "Stephen King"
+
+- item: "j-k-rowling"
+  title: "J.K. Rowling"
+
+- item: "george-r-r-martin"
+  title: "George R.R. Martin"
+
+- item: "j-r-r-tolkien"
+  title: "J.R.R. Tolkien"
+
+- item: "agatha-christie"
+  title: "Agatha Christie"
+
+- item: "dan-brown"
+  title: "Dan Brown"
+
+- item: "john-grisham"
+  title: "John Grisham"
+
+- item: "james-patterson"
+  title: "James Patterson"
+
+- item: "nora-roberts"
+  title: "Nora Roberts"
+
+- item: "stephenie-meyer"
+  title: "Stephenie Meyer"
+
+- item: "suzanne-collins"
+  title: "Suzanne Collins"
+
+- item: "veronica-roth"
+  title: "Veronica Roth"
+
+- item: "rick-riordan"
+  title: "Rick Riordan"
+
+- item: "c-s-lewis"
+  title: "C.S. Lewis"
+
+- item: "roald-dahl"
+  title: "Roald Dahl"
+
+- item: "dr-seuss"
+  title: "Dr. Seuss"
+
+- item: "margaret-atwood"
+  title: "Margaret Atwood"
+
+- item: "kurt-vonnegut"
+  title: "Kurt Vonnegut"
+
+- item: "harper-lee"
+  title: "Harper Lee"
+
+- item: "f-scott-fitzgerald"
+  title: "F. Scott Fitzgerald"
+
+- item: "ernest-hemingway"
+  title: "Ernest Hemingway"
+
+- item: "jane-austen"
+  title: "Jane Austen"
+
+- item: "charles-dickens"
+  title: "Charles Dickens"
+
+- item: "mark-twain"
+  title: "Mark Twain"
+
+- item: "oscar-wilde"
+  title: "Oscar Wilde"
+
+- item: "william-shakespeare"
+  title: "William Shakespeare"
+
+- item: "maya-angelou"
+  title: "Maya Angelou"
+
+- item: "toni-morrison"
+  title: "Toni Morrison"
+
+- item: "khaled-hosseini"
+  title: "Khaled Hosseini"
+
+- item: "paulo-coelho"
+  title: "Paulo Coelho"
+
+- item: "nicholas-sparks"
+  title: "Nicholas Sparks"
+
+- item: "e-l-james"
+  title: "E.L. James"
+
+- item: "gillian-flynn"
+  title: "Gillian Flynn"
+
+- item: "paula-hawkins"
+  title: "Paula Hawkins"
+
+- item: "david-baldacci"
+  title: "David Baldacci"
+
+- item: "lee-child"
+  title: "Lee Child"
+
+- item: "tom-clancy"
+  title: "Tom Clancy"
+
+- item: "clive-cussler"
+  title: "Clive Cussler"
+
+- item: "dean-koontz"
+  title: "Dean Koontz"
+
+- item: "michael-crichton"
+  title: "Michael Crichton"
+
+- item: "ray-bradbury"
+  title: "Ray Bradbury"
+
+- item: "isaac-asimov"
+  title: "Isaac Asimov"
+
+- item: "arthur-c-clarke"
+  title: "Arthur C. Clarke"
+
+- item: "philip-k-dick"
+  title: "Philip K. Dick"
+
+- item: "neil-gaiman"
+  title: "Neil Gaiman"
+
+- item: "terry-pratchett"
+  title: "Terry Pratchett"
+
+- item: "brandon-sanderson"
+  title: "Brandon Sanderson"
+
+- item: "patrick-rothfuss"
+  title: "Patrick Rothfuss"
+
+- item: "robert-jordan"
+  title: "Robert Jordan"
+
+- item: "ursula-k-le-guin"
+  title: "Ursula K. Le Guin"
+
+- item: "robert-ludlum"
+  title: "Robert Ludlum"
+
+- item: "frederick-forsyth"
+  title: "Frederick Forsyth"
+
+- item: "ken-follett"
+  title: "Ken Follett"
+
+- item: "diana-gabaldon"
+  title: "Diana Gabaldon"
+
+- item: "karen-marie-moning"
+  title: "Karen Marie Moning"
+
+- item: "charlaine-harris"
+  title: "Charlaine Harris"
+
+- item: "patricia-cornwell"
+  title: "Patricia Cornwell"
+
+- item: "kathy-reichs"
+  title: "Kathy Reichs"
+
+- item: "robin-cook"
+  title: "Robin Cook"
+
+- item: "tess-gerritsen"
+  title: "Tess Gerritsen"
+
+- item: "brad-thor"
+  title: "Brad Thor"
+
+- item: "vince-flynn"
+  title: "Vince Flynn"
+
+- item: "jack-carr"
+  title: "Jack Carr"
+
+- item: "mark-greaney"
+  title: "Mark Greaney"
+
+- item: "don-winslow"
+  title: "Don Winslow"
+
+- item: "james-rollins"
+  title: "James Rollins"
+
+- item: "steve-berry"
+  title: "Steve Berry"
+
+- item: "raymond-e-feist"
+  title: "Raymond E. Feist"
+
+- item: "david-eddings"
+  title: "David Eddings"
+
+- item: "anne-mccaffrey"
+  title: "Anne McCaffrey"
+
+- item: "marion-zimmer-bradley"
+  title: "Marion Zimmer Bradley"
+
+- item: "pierce-brown"
+  title: "Pierce Brown"
+
+- item: "joe-abercrombie"
+  title: "Joe Abercrombie"
+
+- item: "scott-lynch"
+  title: "Scott Lynch"
+
+- item: "brent-weeks"
+  title: "Brent Weeks"
+
+- item: "peter-v-brett"
+  title: "Peter V. Brett"
+
+- item: "mark-lawrence"
+  title: "Mark Lawrence"
+
+# Popular Narrators
+
+- item: "jim-dale"
+  title: "Jim Dale"
+
+- item: "frank-muller"
+  title: "Frank Muller"
+
+- item: "george-guidall"
+  title: "George Guidall"
+
+- item: "barbara-rosenblat"
+  title: "Barbara Rosenblat"
+
+- item: "davina-porter"
+  title: "Davina Porter"
+
+- item: "simon-prebble"
+  title: "Simon Prebble"
+
+- item: "juliet-stevenson"
+  title: "Juliet Stevenson"
+
+- item: "richard-armitage"
+  title: "Richard Armitage"
+
+- item: "dan-stevens"
+  title: "Dan Stevens"
+
+- item: "tom-hiddleston"
+  title: "Tom Hiddleston"
+
+- item: "benedict-cumberbatch"
+  title: "Benedict Cumberbatch"
+
+- item: "stephen-fry"
+  title: "Stephen Fry"
+
+- item: "scott-brick"
+  title: "Scott Brick"
+
+- item: "dion-graham"
+  title: "Dion Graham"
+
+- item: "bahni-turpin"
+  title: "Bahni Turpin"
+
+- item: "robin-miles"
+  title: "Robin Miles"
+
+- item: "michael-kramer"
+  title: "Michael Kramer"
+
+- item: "kate-reading"
+  title: "Kate Reading"
+
+- item: "steven-pacey"
+  title: "Steven Pacey"
+
+- item: "tim-gerard-reynolds"
+  title: "Tim Gerard Reynolds"
