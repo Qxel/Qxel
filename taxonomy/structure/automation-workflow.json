@@ -6,13 +6,5 @@
   "taxonomy_2": {
     "item": "purpose",
     "title": "purpose/automation type"
-  },
-  "taxonomy_3": {
-    "item": "complexity",
-    "title": "complexity level"
-  },
-  "taxonomy_4": {
-    "item": "industry",
-    "title": "industry/application"
   }
 }
