@@ -1,0 +1,1756 @@
+# AI Toolkit Models
+
+- item: "gpt-4o"
+  title: "GPT-4o"
+  
+- item: "gpt-4o-mini"
+  title: "GPT-4o Mini"
+  
+- item: "gpt-4-turbo"
+  title: "GPT-4 Turbo"
+  
+- item: "gpt-4"
+  title: "GPT-4"
+  
+- item: "gpt-3.5-turbo"
+  title: "GPT-3.5 Turbo"
+  
+- item: "gpt-3.5"
+  title: "GPT-3.5"
+  
+- item: "claude-3.5-sonnet"
+  title: "Claude 3.5 Sonnet"
+  
+- item: "claude-3-opus"
+  title: "Claude 3 Opus"
+  
+- item: "claude-3-sonnet"
+  title: "Claude 3 Sonnet"
+  
+- item: "claude-3-haiku"
+  title: "Claude 3 Haiku"
+  
+- item: "claude-2"
+  title: "Claude 2"
+  
+- item: "claude-instant"
+  title: "Claude Instant"
+  
+- item: "gemini-pro"
+  title: "Gemini Pro"
+  
+- item: "gemini-ultra"
+  title: "Gemini Ultra"
+  
+- item: "gemini-nano"
+  title: "Gemini Nano"
+  
+- item: "gemini-flash"
+  title: "Gemini Flash"
+  
+- item: "palm-2"
+  title: "PaLM 2"
+  
+- item: "palm"
+  title: "PaLM"
+  
+- item: "llama-3.1-405b"
+  title: "Llama 3.1 405B"
+  
+- item: "llama-3.1-70b"
+  title: "Llama 3.1 70B"
+  
+- item: "llama-3.1-8b"
+  title: "Llama 3.1 8B"
+  
+- item: "llama-3-70b"
+  title: "Llama 3 70B"
+  
+- item: "llama-3-8b"
+  title: "Llama 3 8B"
+  
+- item: "llama-2-70b"
+  title: "Llama 2 70B"
+  
+- item: "llama-2-13b"
+  title: "Llama 2 13B"
+  
+- item: "llama-2-7b"
+  title: "Llama 2 7B"
+  
+- item: "mistral-large"
+  title: "Mistral Large"
+  
+- item: "mistral-medium"
+  title: "Mistral Medium"
+  
+- item: "mistral-small"
+  title: "Mistral Small"
+  
+- item: "mistral-8x7b"
+  title: "Mistral 8x7B"
+  
+- item: "mixtral-8x22b"
+  title: "Mixtral 8x22B"
+  
+- item: "codestral"
+  title: "Codestral"
+  
+- item: "mathstral"
+  title: "Mathstral"
+  
+- item: "gemma-2-27b"
+  title: "Gemma 2 27B"
+  
+- item: "gemma-2-9b"
+  title: "Gemma 2 9B"
+  
+- item: "gemma-7b"
+  title: "Gemma 7B"
+  
+- item: "gemma-2b"
+  title: "Gemma 2B"
+  
+- item: "phi-3-mini"
+  title: "Phi-3 Mini"
+  
+- item: "phi-3-small"
+  title: "Phi-3 Small"
+  
+- item: "phi-3-medium"
+  title: "Phi-3 Medium"
+  
+- item: "phi-2"
+  title: "Phi-2"
+  
+- item: "phi-1.5"
+  title: "Phi-1.5"
+  
+- item: "deepseek-v3"
+  title: "DeepSeek-V3"
+  
+- item: "deepseek-r1"
+  title: "DeepSeek-R1"
+  
+- item: "deepseek-coder"
+  title: "DeepSeek-Coder"
+  
+- item: "deepseek-v2"
+  title: "DeepSeek-V2"
+  
+- item: "qwen-2.5-72b"
+  title: "Qwen 2.5 72B"
+  
+- item: "qwen-2.5-32b"
+  title: "Qwen 2.5 32B"
+  
+- item: "qwen-2.5-14b"
+  title: "Qwen 2.5 14B"
+  
+- item: "qwen-2.5-7b"
+  title: "Qwen 2.5 7B"
+  
+- item: "qwen-2.5-1.5b"
+  title: "Qwen 2.5 1.5B"
+  
+- item: "qwen-2.5-0.5b"
+  title: "Qwen 2.5 0.5B"
+  
+- item: "qwen-2-72b"
+  title: "Qwen 2 72B"
+  
+- item: "qwen-2-7b"
+  title: "Qwen 2 7B"
+  
+- item: "qwen-coder"
+  title: "Qwen-Coder"
+  
+- item: "qwen-math"
+  title: "Qwen-Math"
+  
+- item: "yi-34b"
+  title: "Yi 34B"
+  
+- item: "yi-6b"
+  title: "Yi 6B"
+  
+- item: "yi-9b"
+  title: "Yi 9B"
+  
+- item: "yi-coder"
+  title: "Yi-Coder"
+  
+- item: "yi-vision"
+  title: "Yi-Vision"
+  
+- item: "falcon-180b"
+  title: "Falcon 180B"
+  
+- item: "falcon-40b"
+  title: "Falcon 40B"
+  
+- item: "falcon-7b"
+  title: "Falcon 7B"
+  
+- item: "falcon-rw"
+  title: "Falcon RW"
+  
+- item: "dbrx"
+  title: "DBRX"
+  
+- item: "grok-1"
+  title: "Grok-1"
+  
+- item: "grok-1.5"
+  title: "Grok-1.5"
+  
+- item: "grok-2"
+  title: "Grok-2"
+  
+- item: "command-r-plus"
+  title: "Command R Plus"
+  
+- item: "command-r"
+  title: "Command R"
+  
+- item: "command"
+  title: "Command"
+  
+- item: "embed-v3"
+  title: "Embed V3"
+  
+- item: "rerank-v3"
+  title: "Rerank V3"
+  
+- item: "jamba-1.5-large"
+  title: "Jamba 1.5 Large"
+  
+- item: "jamba-1.5-mini"
+  title: "Jamba 1.5 Mini"
+  
+- item: "jamba-instruct"
+  title: "Jamba Instruct"
+  
+- item: "jurassic-2-ultra"
+  title: "Jurassic-2 Ultra"
+  
+- item: "jurassic-2-mid"
+  title: "Jurassic-2 Mid"
+  
+- item: "jurassic-2-light"
+  title: "Jurassic-2 Light"
+  
+- item: "starcoder2-15b"
+  title: "StarCoder2 15B"
+  
+- item: "starcoder2-7b"
+  title: "StarCoder2 7B"
+  
+- item: "starcoder2-3b"
+  title: "StarCoder2 3B"
+  
+- item: "starcoder"
+  title: "StarCoder"
+  
+- item: "codegeex2"
+  title: "CodeGeeX2"
+  
+- item: "codegen-16b"
+  title: "CodeGen 16B"
+  
+- item: "codegen-6b"
+  title: "CodeGen 6B"
+  
+- item: "codegen-2b"
+  title: "CodeGen 2B"
+  
+- item: "codegen-350m"
+  title: "CodeGen 350M"
+  
+- item: "gpt-neox-20b"
+  title: "GPT-NeoX 20B"
+  
+- item: "gpt-j-6b"
+  title: "GPT-J 6B"
+  
+- item: "gpt-neo-2.7b"
+  title: "GPT-Neo 2.7B"
+  
+- item: "gpt-neo-1.3b"
+  title: "GPT-Neo 1.3B"
+  
+- item: "gpt-neo-125m"
+  title: "GPT-Neo 125M"
+  
+- item: "pythia-12b"
+  title: "Pythia 12B"
+  
+- item: "pythia-6.9b"
+  title: "Pythia 6.9B"
+  
+- item: "pythia-2.8b"
+  title: "Pythia 2.8B"
+  
+- item: "pythia-1.4b"
+  title: "Pythia 1.4B"
+  
+- item: "pythia-410m"
+  title: "Pythia 410M"
+  
+- item: "pythia-160m"
+  title: "Pythia 160M"
+  
+- item: "pythia-70m"
+  title: "Pythia 70M"
+  
+- item: "olmo-7b"
+  title: "OLMo 7B"
+  
+- item: "olmo-1b"
+  title: "OLMo 1B"
+  
+- item: "olmo-7b-instruct"
+  title: "OLMo 7B Instruct"
+  
+- item: "tulu-2-70b"
+  title: "Tulu 2 70B"
+  
+- item: "tulu-2-13b"
+  title: "Tulu 2 13B"
+  
+- item: "tulu-2-7b"
+  title: "Tulu 2 7B"
+  
+- item: "zephyr-7b-beta"
+  title: "Zephyr 7B Beta"
+  
+- item: "zephyr-7b-alpha"
+  title: "Zephyr 7B Alpha"
+  
+- item: "zephyr-3b"
+  title: "Zephyr 3B"
+  
+- item: "mpt-30b"
+  title: "MPT 30B"
+  
+- item: "mpt-7b"
+  title: "MPT 7B"
+  
+- item: "mpt-7b-instruct"
+  title: "MPT 7B Instruct"
+  
+- item: "mpt-7b-chat"
+  title: "MPT 7B Chat"
+  
+- item: "flan-t5-xxl"
+  title: "FLAN-T5 XXL"
+  
+- item: "flan-t5-xl"
+  title: "FLAN-T5 XL"
+  
+- item: "flan-t5-large"
+  title: "FLAN-T5 Large"
+  
+- item: "flan-t5-base"
+  title: "FLAN-T5 Base"
+  
+- item: "flan-t5-small"
+  title: "FLAN-T5 Small"
+  
+- item: "t5-11b"
+  title: "T5 11B"
+  
+- item: "t5-3b"
+  title: "T5 3B"
+  
+- item: "t5-large"
+  title: "T5 Large"
+  
+- item: "t5-base"
+  title: "T5 Base"
+  
+- item: "t5-small"
+  title: "T5 Small"
+  
+- item: "bart-large"
+  title: "BART Large"
+  
+- item: "bart-base"
+  title: "BART Base"
+  
+- item: "pegasus-large"
+  title: "Pegasus Large"
+  
+- item: "pegasus-base"
+  title: "Pegasus Base"
+  
+- item: "led-large"
+  title: "LED Large"
+  
+- item: "led-base"
+  title: "LED Base"
+  
+- item: "bigbird-pegasus"
+  title: "BigBird Pegasus"
+  
+- item: "longformer-large"
+  title: "Longformer Large"
+  
+- item: "longformer-base"
+  title: "Longformer Base"
+  
+- item: "distilbert-base"
+  title: "DistilBERT Base"
+  
+- item: "distilbert-cased"
+  title: "DistilBERT Cased"
+  
+- item: "distilroberta-base"
+  title: "DistilRoBERTa Base"
+  
+- item: "albert-base"
+  title: "ALBERT Base"
+  
+- item: "albert-large"
+  title: "ALBERT Large"
+  
+- item: "albert-xlarge"
+  title: "ALBERT XLarge"
+  
+- item: "albert-xxlarge"
+  title: "ALBERT XXLarge"
+  
+- item: "roberta-large"
+  title: "RoBERTa Large"
+  
+- item: "roberta-base"
+  title: "RoBERTa Base"
+  
+- item: "xlm-roberta-large"
+  title: "XLM-RoBERTa Large"
+  
+- item: "xlm-roberta-base"
+  title: "XLM-RoBERTa Base"
+  
+- item: "bert-large-uncased"
+  title: "BERT Large Uncased"
+  
+- item: "bert-large-cased"
+  title: "BERT Large Cased"
+  
+- item: "bert-base-uncased"
+  title: "BERT Base Uncased"
+  
+- item: "bert-base-cased"
+  title: "BERT Base Cased"
+  
+- item: "bert-tiny"
+  title: "BERT Tiny"
+  
+- item: "bert-mini"
+  title: "BERT Mini"
+  
+- item: "bert-small"
+  title: "BERT Small"
+  
+- item: "bert-medium"
+  title: "BERT Medium"
+  
+- item: "sentence-bert"
+  title: "Sentence-BERT"
+  
+- item: "all-mpnet-base-v2"
+  title: "all-mpnet-base-v2"
+  
+- item: "all-MiniLM-L6-v2"
+  title: "all-MiniLM-L6-v2"
+  
+- item: "all-MiniLM-L12-v2"
+  title: "all-MiniLM-L12-v2"
+  
+- item: "multi-qa-mpnet-base-dot-v1"
+  title: "multi-qa-mpnet-base-dot-v1"
+  
+- item: "multi-qa-distilbert-cos-v1"
+  title: "multi-qa-distilbert-cos-v1"
+  
+- item: "gte-large"
+  title: "GTE Large"
+  
+- item: "gte-base"
+  title: "GTE Base"
+  
+- item: "gte-small"
+  title: "GTE Small"
+  
+- item: "bge-large-en"
+  title: "BGE Large En"
+  
+- item: "bge-base-en"
+  title: "BGE Base En"
+  
+- item: "bge-small-en"
+  title: "BGE Small En"
+  
+- item: "bge-large-zh"
+  title: "BGE Large Zh"
+  
+- item: "bge-base-zh"
+  title: "BGE Base Zh"
+  
+- item: "bge-small-zh"
+  title: "BGE Small Zh"
+  
+- item: "e5-large-v2"
+  title: "E5 Large V2"
+  
+- item: "e5-base-v2"
+  title: "E5 Base V2"
+  
+- item: "e5-small-v2"
+  title: "E5 Small V2"
+  
+- item: "e5-mistral-7b"
+  title: "E5 Mistral 7B"
+  
+- item: "cohere-embed-english-v3"
+  title: "Cohere Embed English V3"
+  
+- item: "cohere-embed-multilingual-v3"
+  title: "Cohere Embed Multilingual V3"
+  
+- item: "cohere-embed-english-v2"
+  title: "Cohere Embed English V2"
+  
+- item: "cohere-embed-multilingual-v2"
+  title: "Cohere Embed Multilingual V2"
+  
+- item: "voyage-large-2"
+  title: "Voyage Large 2"
+  
+- item: "voyage-code-2"
+  title: "Voyage Code 2"
+  
+- item: "voyage-law-2"
+  title: "Voyage Law 2"
+  
+- item: "voyage-finance-2"
+  title: "Voyage Finance 2"
+  
+- item: "voyage-multilingual-2"
+  title: "Voyage Multilingual 2"
+  
+- item: "nomic-embed-text-v1"
+  title: "Nomic Embed Text V1"
+  
+- item: "nomic-embed-text-v1.5"
+  title: "Nomic Embed Text V1.5"
+  
+- item: "jina-embed-v2"
+  title: "Jina Embed V2"
+  
+- item: "jina-embed-v1"
+  title: "Jina Embed V1"
+  
+- item: "mxbai-embed-large-v1"
+  title: "mxbai-embed-large-v1"
+  
+- item: "text-embedding-ada-002"
+  title: "Text Embedding Ada 002"
+  
+- item: "text-embedding-3-small"
+  title: "Text Embedding 3 Small"
+  
+- item: "text-embedding-3-large"
+  title: "Text Embedding 3 Large"
+  
+- item: "text-embedding-ada-001"
+  title: "Text Embedding Ada 001"
+  
+- item: "davinci-002"
+  title: "Davinci 002"
+  
+- item: "babbage-002"
+  title: "Babbage 002"
+  
+- item: "curie-002"
+  title: "Curie 002"
+  
+- item: "rerank-english-v3"
+  title: "Rerank English V3"
+  
+- item: "rerank-multilingual-v3"
+  title: "Rerank Multilingual V3"
+  
+- item: "rerank-english-v2"
+  title: "Rerank English V2"
+  
+- item: "rerank-multilingual-v2"
+  title: "Rerank Multilingual V2"
+  
+- item: "bge-reranker-large"
+  title: "BGE Reranker Large"
+  
+- item: "bge-reranker-base"
+  title: "BGE Reranker Base"
+  
+- item: "bge-reranker-v2-m3"
+  title: "BGE Reranker V2 M3"
+  
+- item: "jina-reranker-v2"
+  title: "Jina Reranker V2"
+  
+- item: "jina-reranker-v1"
+  title: "Jina Reranker V1"
+  
+- item: "flashrank"
+  title: "FlashRank"
+  
+- item: "rankllm"
+  title: "RankLLM"
+  
+- item: "monot5"
+  title: "monoT5"
+  
+- item: "duot5"
+  title: "duoT5"
+  
+- item: "dpr-ctx-encoder"
+  title: "DPR Context Encoder"
+  
+- item: "dpr-question-encoder"
+  title: "DPR Question Encoder"
+  
+- item: "colbertv2"
+  title: "ColBERTv2"
+  
+- item: "colbert"
+  title: "ColBERT"
+  
+- item: "splade"
+  title: "SPLADE"
+  
+- item: "splade-v2"
+  title: "SPLADE V2"
+  
+- item: "dpr"
+  title: "DPR"
+  
+- item: "fiass"
+  title: "FIASS"
+  
+- item: "haystack"
+  title: "Haystack"
+  
+- item: "faiss"
+  title: "FAISS"
+  
+- item: "scann"
+  title: "SCANN"
+  
+- item: "hnsw"
+  title: "HNSW"
+  
+- item: "annoy"
+  title: "Annoy"
+  
+- item: "pgvector"
+  title: "PGVector"
+  
+- item: "weaviate"
+  title: "Weaviate"
+  
+- item: "pinecone"
+  title: "Pinecone"
+  
+- item: "qdrant"
+  title: "Qdrant"
+  
+- item: "milvus"
+  title: "Milvus"
+  
+- item: "chromadb"
+  title: "ChromaDB"
+  
+- item: "lancedb"
+  title: "LanceDB"
+  
+- item: "clickhouse"
+  title: "ClickHouse"
+  
+- item: "elasticsearch"
+  title: "Elasticsearch"
+  
+- item: "opensearch"
+  title: "OpenSearch"
+  
+- item: "redis-search"
+  title: "Redis Search"
+  
+- item: "solr"
+  title: "Solr"
+  
+- item: "vespa"
+  title: "Vespa"
+  
+- item: "nns"
+  title: "NNS"
+  
+- item: "cuvs"
+  title: "cuVS"
+  
+- item: "raft"
+  title: "RAFT"
+  
+- item: "huggingface-hub"
+  title: "Hugging Face Hub"
+  
+- item: "openai-api"
+  title: "OpenAI API"
+  
+- item: "anthropic-api"
+  title: "Anthropic API"
+  
+- item: "google-ai-studio"
+  title: "Google AI Studio"
+  
+- item: "mistral-api"
+  title: "Mistral API"
+  
+- item: "cohere-api"
+  title: "Cohere API"
+  
+- item: "groq-api"
+  title: "Groq API"
+  
+- item: "together-api"
+  title: "Together API"
+  
+- item: "replicate-api"
+  title: "Replicate API"
+  
+- item: "perplexity-api"
+  title: "Perplexity API"
+  
+- item: "deepseek-api"
+  title: "DeepSeek API"
+  
+- item: "qwen-api"
+  title: "Qwen API"
+  
+- item: "yi-api"
+  title: "Yi API"
+  
+- item: "falcon-api"
+  title: "Falcon API"
+  
+- item: "ai21-api"
+  title: "AI21 API"
+  
+- item: "voyage-api"
+  title: "Voyage API"
+  
+- item: "jina-api"
+  title: "Jina API"
+  
+- item: "nomic-api"
+  title: "Nomic API"
+  
+- item: "vllm"
+  title: "vLLM"
+  
+- item: "tgi"
+  title: "TGI"
+  
+- item: "llamacpp"
+  title: "LLama.cpp"
+  
+- item: "ollama"
+  title: "Ollama"
+  
+- item: "exllama"
+  title: "ExLlama"
+  
+- item: "exllamav2"
+  title: "ExLlamaV2"
+  
+- item: "awq"
+  title: "AWQ"
+  
+- item: "gptq"
+  title: "GPTQ"
+  
+- item: "bitsandbytes"
+  title: "BitsAndBytes"
+  
+- item: "gguf"
+  title: "GGUF"
+  
+- item: "ggml"
+  title: "GGML"
+  
+- item: "safetensors"
+  title: "SafeTensors"
+  
+- item: "pytorch"
+  title: "PyTorch"
+  
+- item: "tensorflow"
+  title: "TensorFlow"
+  
+- item: "jax"
+  title: "JAX"
+  
+- item: "keras"
+  title: "Keras"
+  
+- item: "onnx"
+  title: "ONNX"
+  
+- item: "tensorrt"
+  title: "TensorRT"
+  
+- item: "openvino"
+  title: "OpenVINO"
+  
+- item: "coreml"
+  title: "CoreML"
+  
+- item: "tflite"
+  title: "TensorFlow Lite"
+  
+- item: "webnn"
+  title: "WebNN"
+  
+- item: "webgpu"
+  title: "WebGPU"
+  
+- item: "transformers"
+  title: "Transformers"
+  
+- item: "diffusers"
+  title: "Diffusers"
+  
+- item: "peft"
+  title: "PEFT"
+  
+- item: "trl"
+  title: "TRL"
+  
+- item: "lora"
+  title: "LoRA"
+  
+- item: "qlora"
+  title: "QLoRA"
+  
+- item: "adapter"
+  title: "Adapter"
+  
+- item: "prompt-tuning"
+  title: "Prompt Tuning"
+  
+- item: "prefix-tuning"
+  title: "Prefix Tuning"
+  
+- item: "p-tuning"
+  title: "P-Tuning"
+  
+- item: "ia3"
+  title: "IA3"
+  
+- item: "vectara"
+  title: "Vectara"
+  
+- item: "ragas"
+  title: "Ragas"
+  
+- item: "langchain"
+  title: "LangChain"
+  
+- item: "llamaindex"
+  title: "LlamaIndex"
+  
+- item: "haystack-pipeline"
+  title: "Haystack Pipeline"
+  
+- item: "r2r"
+  title: "R2R"
+  
+- item: "canopy"
+  title: "Canopy"
+  
+- item: "camel"
+  title: "CAMEL"
+  
+- item: "autogen"
+  title: "AutoGen"
+  
+- item: "crewai"
+  title: "CrewAI"
+  
+- item: "swarms"
+  title: "Swarms"
+  
+- item: "langgraph"
+  title: "LangGraph"
+  
+- item: "semantic-kernel"
+  title: "Semantic Kernel"
+  
+- item: "dspy"
+  title: "DSPy"
+  
+- item: "guidance"
+  title: "Guidance"
+  
+- item: "outlines"
+  title: "Outlines"
+  
+- item: "jsonformer"
+  title: "JSONFormer"
+  
+- item: "lmql"
+  title: "LMQL"
+  
+- item: "replicate-cog"
+  title: "Replicate Cog"
+  
+- item: "bentoml"
+  title: "BentoML"
+  
+- item: "truss"
+  title: "Truss"
+  
+- item: "mlflow"
+  title: "MLflow"
+  
+- item: "wandb"
+  title: "Weights & Biases"
+  
+- item: "comet"
+  title: "Comet"
+  
+- item: "neptune"
+  title: "Neptune"
+  
+- item: "dvc"
+  title: "DVC"
+  
+- item: "lakefs"
+  title: "LakeFS"
+  
+- item: "dbt"
+  title: "dbt"
+  
+- item: "airflow"
+  title: "Airflow"
+  
+- item: "prefect"
+  title: "Prefect"
+  
+- item: "dagster"
+  title: "Dagster"
+  
+- item: "kubeflow"
+  title: "Kubeflow"
+  
+- item: "ray"
+  title: "Ray"
+  
+- item: "spark"
+  title: "Spark"
+  
+- item: "flink"
+  title: "Flink"
+  
+- item: "dask"
+  title: "Dask"
+  
+- item: "modin"
+  title: "Modin"
+  
+- item: "polars"
+  title: "Polars"
+  
+- item: "duckdb"
+  title: "DuckDB"
+  
+- item: "arrow"
+  title: "Arrow"
+  
+- item: "parquet"
+  title: "Parquet"
+  
+- item: "orc"
+  title: "ORC"
+  
+- item: "avro"
+  title: "Avro"
+  
+- item: "protobuf"
+  title: "Protobuf"
+  
+- item: "grpc"
+  title: "gRPC"
+  
+- item: "graphql"
+  title: "GraphQL"
+  
+- item: "fastapi"
+  title: "FastAPI"
+  
+- item: "flask"
+  title: "Flask"
+  
+- item: "django"
+  title: "Django"
+  
+- item: "litestar"
+  title: "Litestar"
+  
+- item: "gradio"
+  title: "Gradio"
+  
+- item: "streamlit"
+  title: "Streamlit"
+  
+- item: "chainlit"
+  title: "Chainlit"
+  
+- item: "panel"
+  title: "Panel"
+  
+- item: "dash"
+  title: "Dash"
+  
+- item: "shiny"
+  title: "Shiny"
+  
+- item: "plotly"
+  title: "Plotly"
+  
+- item: "matplotlib"
+  title: "Matplotlib"
+  
+- item: "seaborn"
+  title: "Seaborn"
+  
+- item: "ggplot"
+  title: "ggplot"
+  
+- item: "bokeh"
+  title: "Bokeh"
+  
+- item: "altair"
+  title: "Altair"
+  
+- item: "vega"
+  title: "Vega"
+  
+- item: "d3"
+  title: "D3.js"
+  
+- item: "threejs"
+  title: "Three.js"
+  
+- item: "babylon"
+  title: "Babylon.js"
+  
+- item: "aframe"
+  title: "A-Frame"
+  
+- item: "react-three"
+  title: "React Three Fiber"
+  
+- item: "spline"
+  title: "Spline"
+  
+- item: "blender"
+  title: "Blender"
+  
+- item: "autocad"
+  title: "AutoCAD"
+  
+- item: "fusion360"
+  title: "Fusion 360"
+  
+- item: "sketchup"
+  title: "SketchUp"
+  
+- item: "rhino"
+  title: "Rhino"
+  
+- item: "zbrush"
+  title: "ZBrush"
+  
+- item: "maya"
+  title: "Maya"
+  
+- item: "3dsmax"
+  title: "3ds Max"
+  
+- item: "cinema4d"
+  title: "Cinema 4D"
+  
+- item: "houdini"
+  title: "Houdini"
+  
+- item: "substance-painter"
+  title: "Substance Painter"
+  
+- item: "substance-designer"
+  title: "Substance Designer"
+  
+- item: "marvelous-designer"
+  title: "Marvelous Designer"
+  
+- item: "unreal-engine"
+  title: "Unreal Engine"
+  
+- item: "unity"
+  title: "Unity"
+  
+- item: "godot"
+  title: "Godot"
+  
+- item: "cryengine"
+  title: "CryEngine"
+  
+- item: "source-engine"
+  title: "Source Engine"
+  
+- item: "defold"
+  title: "Defold"
+  
+- item: "photon"
+  title: "Photon"
+  
+- item: "playfab"
+  title: "PlayFab"
+  
+- item: "microsoft-gaming"
+  title: "Microsoft Gaming"
+  
+- item: "aws-gamelift"
+  title: "AWS GameLift"
+  
+- item: "azure-playfab"
+  title: "Azure PlayFab"
+  
+- item: "google-cloud-game"
+  title: "Google Cloud Game"
+  
+- item: "agones"
+  title: "Agones"
+  
+- item: "nakama"
+  title: "Nakama"
+  
+- item: "heroic"
+  title: "Heroic"
+  
+- item: "spatialos"
+  title: "SpatialOS"
+  
+- item: "dynamo"
+  title: "Dynamo"
+  
+- item: "stencyl"
+  title: "Stencyl"
+  
+- item: "construct"
+  title: "Construct"
+  
+- item: "gamemaker"
+  title: "GameMaker"
+  
+- item: "rpgmaker"
+  title: "RPG Maker"
+  
+- item: "twine"
+  title: "Twine"
+  
+- item: "inkle"
+  title: "Inkle"
+  
+- item: "renpy"
+  title: "Ren'Py"
+  
+- item: "tyranobuilder"
+  title: "TyranoBuilder"
+  
+- item: "naninovel"
+  title: "Naninovel"
+  
+- item: "mugen"
+  title: "M.U.G.E.N"
+  
+- item: "openbor"
+  title: "OpenBOR"
+  
+- item: "srpg-studio"
+  title: "SRPG Studio"
+  
+- item: "smile-game-builder"
+  title: "Smile Game Builder"
+  
+- item: "rpg-in-a-box"
+  title: "RPG in a Box"
+  
+- item: "gdevelop"
+  title: "GDevelop"
+  
+- item: "baba-is-you"
+  title: "Baba Is You"
+  
+- item: "pico-8"
+  title: "PICO-8"
+  
+- item: "tic-80"
+  title: "TIC-80"
+  
+- item: "gbstudio"
+  title: "GBStudio"
+  
+- item: "nesmaker"
+  title: "NESmaker"
+  
+- item: "smwcentral"
+  title: "SMW Central"
+  
+- item: "rom-hacking"
+  title: "ROM Hacking"
+  
+- item: "mame"
+  title: "MAME"
+  
+- item: "dolphin"
+  title: "Dolphin"
+  
+- item: "pcsx2"
+  title: "PCSX2"
+  
+- item: "rpcs3"
+  title: "RPCS3"
+  
+- item: "citra"
+  title: "Citra"
+  
+- item: "yuzu"
+  title: "Yuzu"
+  
+- item: "ryujinx"
+  title: "Ryujinx"
+  
+- item: "cemu"
+  title: "Cemu"
+  
+- item: "xemu"
+  title: "Xemu"
+  
+- item: "dolphin-gc"
+  title: "Dolphin GC"
+  
+- item: "pcsx-rearmed"
+  title: "PCSX-ReARMed"
+  
+- item: "duckstation"
+  title: "DuckStation"
+  
+- item: "melon-ds"
+  title: "melonDS"
+  
+- item: "desmume"
+  title: "DeSmuME"
+  
+- item: "mgba"
+  title: "mGBA"
+  
+- item: "vba-m"
+  title: "VBA-M"
+  
+- item: "snes9x"
+  title: "Snes9x"
+  
+- item: "bsnes"
+  title: "bsnes"
+  
+- item: "genesis-plus-gx"
+  title: "Genesis Plus GX"
+  
+- item: "pico-drive"
+  title: "Pico Drive"
+  
+- item: "hatari"
+  title: "Hatari"
+  
+- item: "winuae"
+  title: "WinUAE"
+  
+- item: "vice"
+  title: "VICE"
+  
+- item: "fceux"
+  title: "FCEUX"
+  
+- item: "nestopia"
+  title: "Nestopia"
+  
+- item: "mister-fpga"
+  title: "MiSTer FPGA"
+  
+- item: "fpga-arcade"
+  title: "FPGA Arcade"
+  
+- item: "analogue-pocket"
+  title: "Analogue Pocket"
+  
+- item: "evercade"
+  title: "Evercade"
+  
+- item: "playdate"
+  title: "Playdate"
+  
+- item: "arduboy"
+  title: "Arduboy"
+  
+- item: "gamebuino"
+  title: "Gamebuino"
+  
+- item: "pokitto"
+  title: "Pokitto"
+  
+- item: "uconsole"
+  title: "uConsole"
+  
+- item: "pi-top"
+  title: "pi-top"
+  
+- item: "microbit"
+  title: "Micro:bit"
+  
+- item: "circuitpython"
+  title: "CircuitPython"
+  
+- item: "micropython"
+  title: "MicroPython"
+  
+- item: "arduino"
+  title: "Arduino"
+  
+- item: "esp32"
+  title: "ESP32"
+  
+- item: "raspberry-pi"
+  title: "Raspberry Pi"
+  
+- item: "jetson-nano"
+  title: "Jetson Nano"
+  
+- item: "jetson-orin"
+  title: "Jetson Orin"
+  
+- item: "coral-dev"
+  title: "Coral Dev"
+  
+- item: "coral-accelerator"
+  title: "Coral Accelerator"
+  
+- item: "tpu"
+  title: "TPU"
+  
+- item: "cpu"
+  title: "CPU"
+  
+- item: "gpu"
+  title: "GPU"
+  
+- item: "cuda"
+  title: "CUDA"
+  
+- item: "rocm"
+  title: "ROCm"
+  
+- item: "opencl"
+  title: "OpenCL"
+  
+- item: "vulkan"
+  title: "Vulkan"
+  
+- item: "metal"
+  title: "Metal"
+  
+- item: "directml"
+  title: "DirectML"
+  
+- item: "oneapi"
+  title: "oneAPI"
+  
+- item: "sycl"
+  title: "SYCL"
+  
+- item: "hip"
+  title: "HIP"
+  
+- item: "triton"
+  title: "Triton"
+  
+- item: "xla"
+  title: "XLA"
+  
+- item: "mlir"
+  title: "MLIR"
+  
+- item: "tvm"
+  title: "TVM"
+  
+- item: "relay"
+  title: "Relay"
+  
+- item: "onnx-runtime"
+  title: "ONNX Runtime"
+  
+- item: "onnx-tensorrt"
+  title: "ONNX TensorRT"
+  
+- item: "onnx-openvino"
+  title: "ONNX OpenVINO"
+  
+- item: "onnx-coreml"
+  title: "ONNX CoreML"
+  
+- item: "onnx-tflite"
+  title: "ONNX TFLite"
+  
+- item: "quantization-aware"
+  title: "Quantization-Aware"
+  
+- item: "post-training"
+  title: "Post-Training"
+  
+- item: "dynamic-quantization"
+  title: "Dynamic Quantization"
+  
+- item: "static-quantization"
+  title: "Static Quantization"
+  
+- item: "fp16"
+  title: "FP16"
+  
+- item: "bf16"
+  title: "BF16"
+  
+- item: "fp8"
+  title: "FP8"
+  
+- item: "int8"
+  title: "INT8"
+  
+- item: "int4"
+  title: "INT4"
+  
+- item: "int3"
+  title: "INT3"
+  
+- item: "int2"
+  title: "INT2"
+  
+- item: "mixed-precision"
+  title: "Mixed Precision"
+  
+- item: "automatic-mixed"
+  title: "Automatic Mixed"
+  
+- item: "distillation-teacher"
+  title: "Distillation Teacher"
+  
+- item: "distillation-student"
+  title: "Distillation Student"
+  
+- item: "kd-loss"
+  title: "KD Loss"
+  
+- item: "pruning-magnitude"
+  title: "Pruning Magnitude"
+  
+- item: "pruning-structured"
+  title: "Structured Pruning"
+  
+- item: "pruning-unstructured"
+  title: "Unstructured Pruning"
+  
+- item: "pruning-iterative"
+  title: "Iterative Pruning"
+  
+- item: "pruning-one-shot"
+  title: "One-Shot Pruning"
+  
+- item: "nas-darts"
+  title: "DARTS"
+  
+- item: "nas-efficientnet"
+  title: "EfficientNet NAS"
+  
+- item: "nas-mnasnet"
+  title: "MnasNet NAS"
+  
+- item: "nas-proxyless"
+  title: "ProxylessNAS"
+  
+- item: "nas-once-for-all"
+  title: "Once-for-All"
+  
+- item: "nas-spos"
+  title: "SPOS"
+  
+- item: "nas-fair"
+  title: "FairNAS"
+  
+- item: "nas-attention"
+  title: "Attention NAS"
+  
+- item: "nas-transformer"
+  title: "Transformer NAS"
+  
+- item: "nas-autoformer"
+  title: "AutoFormer"
+  
+- item: "nas-hrnet"
+  title: "HRNet NAS"
+  
+- item: "nas-mobilevit"
+  title: "MobileViT NAS"
+  
+- item: "automl-hyperopt"
+  title: "Hyperopt"
+  
+- item: "automl-optuna"
+  title: "Optuna"
+  
+- item: "automl-raytune"
+  title: "Ray Tune"
+  
+- item: "automl-sigopt"
+  title: "SigOpt"
+  
+- item: "automl-azure"
+  title: "Azure AutoML"
+  
+- item: "automl-aws"
+  title: "AWS AutoML"
+  
+- item: "automl-gcp"
+  title: "GCP AutoML"
+  
+- item: "automl-h2o"
+  title: "H2O AutoML"
+  
+- item: "automl-datarobot"
+  title: "DataRobot"
+  
+- item: "automl-sklearn"
+  title: "Auto-Sklearn"
+  
+- item: "automl-tpot"
+  title: "TPOT"
+  
+- item: "automl-flaml"
+  title: "FLAML"
+  
+- item: "automl-nni"
+  title: "NNI"
+  
+- item: "automl-katib"
+  title: "Katib"
+  
+- item: "automl-advisor"
+  title: "Advisor"
+  
+- item: "automl-bayesian"
+  title: "Bayesian"
+  
+- item: "automl-grid-search"
+  title: "Grid Search"
+  
+- item: "automl-random-search"
+  title: "Random Search"
+  
+- item: "automl-bayes-search"
+  title: "Bayes Search"
+  
+- item: "automl-smbo"
+  title: "SMBO"
+  
+- item: "automl-tpe"
+  title: "TPE"
+  
+- item: "automl-cma-es"
+  title: "CMA-ES"
+  
+- item: "automl-bohb"
+  title: "BOHB"
+  
+- item: "automl-dehb"
+  title: "DEHB"
+  
+- item: "automl-hb"
+  title: "Hyperband"
+  
+- item: "automl-async-hb"
+  title: "Async HB"
+  
+- item: "automl-population"
+  title: "Population"
+  
+- item: "automl-pbt"
+  title: "PBT"
+  
+- item: "automl-asha"
+  title: "ASHA"
+  
+- item: "automl-median"
+  title: "Median Stopping"
+  
+- item: "automl-early-stop"
+  title: "Early Stopping"
+  
+- item: "automl-learning-rate"
+  title: "Learning Rate"
+  
+- item: "automl-batch-size"
+  title: "Batch Size"
+  
+- item: "automl-optimizer"
+  title: "Optimizer"
+  
+- item: "automl-activation"
+  title: "Activation"
+  
+- item: "automl-layers"
+  title: "Layers"
+  
+- item: "automl-hidden-size"
+  title: "Hidden Size"
+  
+- item: "automl-attention-heads"
+  title: "Attention Heads"
+  
+- item: "automl-dropout"
+  title: "Dropout"
+  
+- item: "automl-weight-decay"
+  title: "Weight Decay"
+  
+- item: "automl-gradient-clip"
+  title: "Gradient Clip"
+  
+- item: "automl-scheduler"
+  title: "Scheduler"
+  
+- item: "automl-warmup"
+  title: "Warmup"
+  
+- item: "automl-ema"
+  title: "EMA"
+  
+- item: "automl-label-smoothing"
+  title: "Label Smoothing"
+  
+- item: "automl-mixup"
+  title: "Mixup"
+  
+- item: "automl-cutmix"
+  title: "CutMix"
+  
+- item: "automl-augmentation"
+  title: "Augmentation"
+  
+- item: "automl-regularization"
+  title: "Regularization"
+  
+- item: "automl-loss-function"
+  title: "Loss Function"
+  
+- item: "automl-metric"
+  title: "Metric"
+  
+- item: "automl-threshold"
+  title: "Threshold"
+  
+- item: "automl-scaling"
+  title: "Scaling"
+  
+- item: "automl-imputation"
+  title: "Imputation"
+  
+- item: "automl-feature-selection"
+  title: "Feature Selection"
+  
+- item: "automl-feature-engineering"
+  title: "Feature Engineering"
+  
+- item: "automl-encoding"
+  title: "Encoding"
+  
+- item: "automl-norm"
+  title: "Normalization"
+  
+- item: "automl-pca"
+  title: "PCA"
+  
+- item: "automl-tsne"
+  title: "t-SNE"
+  
+- item: "automl-umap"
+  title: "UMAP"
+  
+- item: "automl-cluster"
+  title: "Clustering"
+  
+- item: "automl-classification"
+  title: "Classification"
+  
+- item: "automl-regression"
+  title: "Regression"
+  
+- item: "automl-forecasting"
+  title: "Forecasting"
+  
+- item: "automl-anomaly"
+  title: "Anomaly"
+  
+- item: "automl-recommendation"
+  title: "Recommendation"
+  
+- item: "automl-ranking"
+  title: "Ranking"
+  
+- item: "automl-retrieval"
+  title: "Retrieval"
+  
+- item: "automl-search"
+  title: "Search"
+  
+- item: "automl-rag"
+  title: "RAG"
+  
+- item: "automl-llm"
+  title: "LLM"
+  
+- item: "automl-vlm"
+  title: "VLM"
+  
+- item: "automl-embedding"
+  title: "Embedding"
+  
+- item: "automl-reranker"
+  title: "Reranker"
+  
+- item: "automl-evaluation"
+  title: "Evaluation"
+  
+- item: "automl-deployment"
+  title: "Deployment"
+  
+- item: "automl-monitoring"
+  title: "Monitoring"
