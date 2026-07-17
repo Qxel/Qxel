@@ -10,9 +10,5 @@
   "taxonomy_3": {
     "item": "year",
     "title": "academic year"
-  },
-  "taxonomy_4": {
-    "item": "project_type",
-    "title": "project type"
   }
 }
