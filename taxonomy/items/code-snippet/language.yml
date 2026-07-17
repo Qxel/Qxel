@@ -1,0 +1,134 @@
+- item: "python"
+  title: "Python"
+
+- item: "html"
+  title: "HTML"
+
+- item: "javascript"
+  title: "JavaScript"
+
+- item: "go"
+  title: "Go"
+
+- item: "rust"
+  title: "Rust"
+
+- item: "java"
+  title: "Java"
+
+- item: "csharp"
+  title: "C#"
+
+- item: "php"
+  title: "PHP"
+
+- item: "kotlin"
+  title: "Kotlin"
+
+- item: "cpp"
+  title: "C++"
+
+- item: "c"
+  title: "C"
+
+- item: "ruby"
+  title: "Ruby"
+
+- item: "swift"
+  title: "Swift"
+
+- item: "typescript"
+  title: "TypeScript"
+
+- item: "css"
+  title: "CSS"
+
+- item: "sql"
+  title: "SQL"
+
+- item: "bash"
+  title: "Bash"
+
+- item: "powershell"
+  title: "PowerShell"
+
+- item: "perl"
+  title: "Perl"
+
+- item: "lua"
+  title: "Lua"
+
+- item: "r"
+  title: "R"
+
+- item: "scala"
+  title: "Scala"
+
+- item: "haskell"
+  title: "Haskell"
+
+- item: "dart"
+  title: "Dart"
+
+- item: "groovy"
+  title: "Groovy"
+
+- item: "clojure"
+  title: "Clojure"
+
+- item: "elixir"
+  title: "Elixir"
+
+- item: "erlang"
+  title: "Erlang"
+
+- item: "julia"
+  title: "Julia"
+
+- item: "objective-c"
+  title: "Objective-C"
+
+- item: "assembly"
+  title: "Assembly"
+
+- item: "fortran"
+  title: "Fortran"
+
+- item: "cobol"
+  title: "COBOL"
+
+- item: "pascal"
+  title: "Pascal"
+
+- item: "matlab"
+  title: "MATLAB"
+
+- item: "xml"
+  title: "XML"
+
+- item: "json"
+  title: "JSON"
+
+- item: "yaml"
+  title: "YAML"
+
+- item: "toml"
+  title: "TOML"
+
+- item: "markdown"
+  title: "Markdown"
+
+- item: "regex"
+  title: "Regex"
+
+- item: "graphql"
+  title: "GraphQL"
+
+- item: "protobuf"
+  title: "Protobuf"
+
+- item: "vimscript"
+  title: "Vimscript"
+
+- item: "emacs-lisp"
+  title: "Emacs Lisp"
