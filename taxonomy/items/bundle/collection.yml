@@ -1,0 +1,311 @@
+- item: "anime-templates"
+  title: "Anime Templates"
+
+- item: "python-templates"
+  title: "Python Templates"
+
+- item: "html-templates"
+  title: "HTML Templates"
+
+- item: "developer-tools"
+  title: "Developer Tools"
+
+- item: "marketing"
+  title: "Marketing"
+
+- item: "business-templates"
+  title: "Business Templates"
+
+- item: "social-media"
+  title: "Social Media"
+
+- item: "email-templates"
+  title: "Email Templates"
+
+- item: "landing-pages"
+  title: "Landing Pages"
+
+- item: "wordpress-themes"
+  title: "WordPress Themes"
+
+- item: "bootstrap-templates"
+  title: "Bootstrap Templates"
+
+- item: "react-components"
+  title: "React Components"
+
+- item: "vue-templates"
+  title: "Vue Templates"
+
+- item: "angular-templates"
+  title: "Angular Templates"
+
+- item: "tailwind-templates"
+  title: "Tailwind Templates"
+
+- item: "css-templates"
+  title: "CSS Templates"
+
+- item: "javascript-templates"
+  title: "JavaScript Templates"
+
+- item: "typescript-templates"
+  title: "TypeScript Templates"
+
+- item: "nodejs-templates"
+  title: "Node.js Templates"
+
+- item: "django-templates"
+  title: "Django Templates"
+
+- item: "flask-templates"
+  title: "Flask Templates"
+
+- item: "fastapi-templates"
+  title: "FastAPI Templates"
+
+- item: "data-science"
+  title: "Data Science"
+
+- item: "machine-learning"
+  title: "Machine Learning"
+
+- item: "ai-templates"
+  title: "AI Templates"
+
+- item: "chatgpt-prompts"
+  title: "ChatGPT Prompts"
+
+- item: "midjourney-prompts"
+  title: "Midjourney Prompts"
+
+- item: "stable-diffusion"
+  title: "Stable Diffusion"
+
+- item: "video-templates"
+  title: "Video Templates"
+
+- item: "audio-templates"
+  title: "Audio Templates"
+
+- item: "podcast-templates"
+  title: "Podcast Templates"
+
+- item: "ebook-templates"
+  title: "Ebook Templates"
+
+- item: "presentation-templates"
+  title: "Presentation Templates"
+
+- item: "resume-templates"
+  title: "Resume Templates"
+
+- item: "cover-letter-templates"
+  title: "Cover Letter Templates"
+
+- item: "invoice-templates"
+  title: "Invoice Templates"
+
+- item: "contract-templates"
+  title: "Contract Templates"
+
+- item: "proposal-templates"
+  title: "Proposal Templates"
+
+- item: "report-templates"
+  title: "Report Templates"
+
+- item: "dashboard-templates"
+  title: "Dashboard Templates"
+
+- item: "admin-panel-templates"
+  title: "Admin Panel Templates"
+
+- item: "ecommerce-templates"
+  title: "Ecommerce Templates"
+
+- item: "portfolio-templates"
+  title: "Portfolio Templates"
+
+- item: "blog-templates"
+  title: "Blog Templates"
+
+- item: "magazine-templates"
+  title: "Magazine Templates"
+
+- item: "newsletter-templates"
+  title: "Newsletter Templates"
+
+- item: "brochure-templates"
+  title: "Brochure Templates"
+
+- item: "flyer-templates"
+  title: "Flyer Templates"
+
+- item: "poster-templates"
+  title: "Poster Templates"
+
+- item: "business-card-templates"
+  title: "Business Card Templates"
+
+- item: "logo-templates"
+  title: "Logo Templates"
+
+- item: "icon-templates"
+  title: "Icon Templates"
+
+- item: "ui-kit-templates"
+  title: "UI Kit Templates"
+
+- item: "wireframe-templates"
+  title: "Wireframe Templates"
+
+- item: "prototype-templates"
+  title: "Prototype Templates"
+
+- item: "mockup-templates"
+  title: "Mockup Templates"
+
+- item: "social-media-posts"
+  title: "Social Media Posts"
+
+- item: "instagram-templates"
+  title: "Instagram Templates"
+
+- item: "facebook-templates"
+  title: "Facebook Templates"
+
+- item: "twitter-templates"
+  title: "Twitter Templates"
+
+- item: "linkedin-templates"
+  title: "LinkedIn Templates"
+
+- item: "pinterest-templates"
+  title: "Pinterest Templates"
+
+- item: "youtube-thumbnails"
+  title: "YouTube Thumbnails"
+
+- item: "tiktok-templates"
+  title: "TikTok Templates"
+
+- item: "snapchat-templates"
+  title: "Snapchat Templates"
+
+- item: "infographic-templates"
+  title: "Infographic Templates"
+
+- item: "chart-templates"
+  title: "Chart Templates"
+
+- item: "graph-templates"
+  title: "Graph Templates"
+
+- item: "table-templates"
+  title: "Table Templates"
+
+- item: "form-templates"
+  title: "Form Templates"
+
+- item: "survey-templates"
+  title: "Survey Templates"
+
+- item: "quiz-templates"
+  title: "Quiz Templates"
+
+- item: "game-templates"
+  title: "Game Templates"
+
+- item: "app-templates"
+  title: "App Templates"
+
+- item: "mobile-app-templates"
+  title: "Mobile App Templates"
+
+- item: "desktop-app-templates"
+  title: "Desktop App Templates"
+
+- item: "web-app-templates"
+  title: "Web App Templates"
+
+- item: "api-templates"
+  title: "API Templates"
+
+- item: "database-templates"
+  title: "Database Templates"
+
+- item: "cloud-templates"
+  title: "Cloud Templates"
+
+- item: "devops-templates"
+  title: "DevOps Templates"
+
+- item: "cicd-templates"
+  title: "CI/CD Templates"
+
+- item: "docker-templates"
+  title: "Docker Templates"
+
+- item: "kubernetes-templates"
+  title: "Kubernetes Templates"
+
+- item: "aws-templates"
+  title: "AWS Templates"
+
+- item: "azure-templates"
+  title: "Azure Templates"
+
+- item: "gcp-templates"
+  title: "GCP Templates"
+
+- item: "security-templates"
+  title: "Security Templates"
+
+- item: "testing-templates"
+  title: "Testing Templates"
+
+- item: "documentation-templates"
+  title: "Documentation Templates"
+
+- item: "readme-templates"
+  title: "README Templates"
+
+- item: "changelog-templates"
+  title: "Changelog Templates"
+
+- item: "contributing-templates"
+  title: "Contributing Templates"
+
+- item: "license-templates"
+  title: "License Templates"
+
+- item: "gitignore-templates"
+  title: "Gitignore Templates"
+
+- item: "dockerfile-templates"
+  title: "Dockerfile Templates"
+
+- item: "makefile-templates"
+  title: "Makefile Templates"
+
+- item: "config-templates"
+  title: "Config Templates"
+
+- item: "env-templates"
+  title: "Env Templates"
+
+- item: "seo-templates"
+  title: "SEO Templates"
+
+- item: "analytics-templates"
+  title: "Analytics Templates"
+
+- item: "ads-templates"
+  title: "Ads Templates"
+
+- item: "copywriting-templates"
+  title: "Copywriting Templates"
+
+- item: "sales-templates"
+  title: "Sales Templates"
