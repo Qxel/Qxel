@@ -5,18 +5,6 @@
   },
   "taxonomy_2": {
     "item": "author",
-    "title": "author/creator"
-  },
-  "taxonomy_3": {
-    "item": "publisher",
-    "title": "publisher"
-  },
-  "taxonomy_4": {
-    "item": "publication_year",
-    "title": "publication year"
-  },
-  "taxonomy_5": {
-    "item": "format",
-    "title": "format/edition"
+    "title": "author/creator/publisher"
   }
 }
