@@ -1,0 +1,764 @@
+- item: "python"
+  title: "Python"
+
+- item: "javascript"
+  title: "JavaScript"
+
+- item: "react"
+  title: "React"
+
+- item: "ai"
+  title: "AI"
+
+- item: "docker"
+  title: "Docker"
+
+- item: "chatgpt"
+  title: "ChatGPT"
+
+- item: "notion"
+  title: "Notion"
+
+- item: "excel"
+  title: "Excel"
+
+- item: "terraform"
+  title: "Terraform"
+
+- item: "kubernetes"
+  title: "Kubernetes"
+
+- item: "aws"
+  title: "AWS"
+
+- item: "seo"
+  title: "SEO"
+
+- item: "google-ads"
+  title: "Google Ads"
+
+- item: "accounting"
+  title: "Accounting"
+
+- item: "finance"
+  title: "Finance"
+
+- item: "maths"
+  title: "Maths"
+
+- item: "physics"
+  title: "Physics"
+
+- item: "chemistry"
+  title: "Chemistry"
+
+- item: "biology"
+  title: "Biology"
+
+- item: "anatomy"
+  title: "Anatomy"
+
+- item: "physiology"
+  title: "Physiology"
+
+- item: "medicine"
+  title: "Medicine"
+
+- item: "nursing"
+  title: "Nursing"
+
+- item: "dentistry"
+  title: "Dentistry"
+
+- item: "veterinary"
+  title: "Veterinary"
+
+- item: "psychology"
+  title: "Psychology"
+
+- item: "sociology"
+  title: "Sociology"
+
+- item: "anthropology"
+  title: "Anthropology"
+
+- item: "archaeology"
+  title: "Archaeology"
+
+- item: "history"
+  title: "History"
+
+- item: "geography"
+  title: "Geography"
+
+- item: "geology"
+  title: "Geology"
+
+- item: "astronomy"
+  title: "Astronomy"
+
+- item: "astrophysics"
+  title: "Astrophysics"
+
+- item: "cosmology"
+  title: "Cosmology"
+
+- item: "ecology"
+  title: "Ecology"
+
+- item: "environmental-science"
+  title: "Environmental Science"
+
+- item: "climate-science"
+  title: "Climate Science"
+
+- item: "oceanography"
+  title: "Oceanography"
+
+- item: "meteorology"
+  title: "Meteorology"
+
+- item: "statistics"
+  title: "Statistics"
+
+- item: "probability"
+  title: "Probability"
+
+- item: "algebra"
+  title: "Algebra"
+
+- item: "geometry"
+  title: "Geometry"
+
+- item: "calculus"
+  title: "Calculus"
+
+- item: "trigonometry"
+  title: "Trigonometry"
+
+- item: "linear-algebra"
+  title: "Linear Algebra"
+
+- item: "discrete-mathematics"
+  title: "Discrete Mathematics"
+
+- item: "computer-science"
+  title: "Computer Science"
+
+- item: "data-structures"
+  title: "Data Structures"
+
+- item: "algorithms"
+  title: "Algorithms"
+
+- item: "programming"
+  title: "Programming"
+
+- item: "web-development"
+  title: "Web Development"
+
+- item: "frontend"
+  title: "Frontend"
+
+- item: "backend"
+  title: "Backend"
+
+- item: "full-stack"
+  title: "Full Stack"
+
+- item: "devops"
+  title: "DevOps"
+
+- item: "cloud-computing"
+  title: "Cloud Computing"
+
+- item: "azure"
+  title: "Azure"
+
+- item: "gcp"
+  title: "GCP"
+
+- item: "linux"
+  title: "Linux"
+
+- item: "bash"
+  title: "Bash"
+
+- item: "powershell"
+  title: "PowerShell"
+
+- item: "git"
+  title: "Git"
+
+- item: "github"
+  title: "GitHub"
+
+- item: "gitlab"
+  title: "GitLab"
+
+- item: "jenkins"
+  title: "Jenkins"
+
+- item: "ansible"
+  title: "Ansible"
+
+- item: "puppet"
+  title: "Puppet"
+
+- item: "chef"
+  title: "Chef"
+
+- item: "prometheus"
+  title: "Prometheus"
+
+- item: "grafana"
+  title: "Grafana"
+
+- item: "elasticsearch"
+  title: "Elasticsearch"
+
+- item: "kibana"
+  title: "Kibana"
+
+- item: "logstash"
+  title: "Logstash"
+
+- item: "nginx"
+  title: "Nginx"
+
+- item: "apache"
+  title: "Apache"
+
+- item: "mysql"
+  title: "MySQL"
+
+- item: "postgresql"
+  title: "PostgreSQL"
+
+- item: "mongodb"
+  title: "MongoDB"
+
+- item: "redis"
+  title: "Redis"
+
+- item: "elasticsearch"
+  title: "Elasticsearch"
+
+- item: "cassandra"
+  title: "Cassandra"
+
+- item: "sql"
+  title: "SQL"
+
+- item: "nosql"
+  title: "NoSQL"
+
+- item: "graphql"
+  title: "GraphQL"
+
+- item: "rest-api"
+  title: "REST API"
+
+- item: "microservices"
+  title: "Microservices"
+
+- item: "serverless"
+  title: "Serverless"
+
+- item: "nodejs"
+  title: "Node.js"
+
+- item: "typescript"
+  title: "TypeScript"
+
+- item: "angular"
+  title: "Angular"
+
+- item: "vue"
+  title: "Vue"
+
+- item: "svelte"
+  title: "Svelte"
+
+- item: "nextjs"
+  title: "Next.js"
+
+- item: "nuxtjs"
+  title: "Nuxt.js"
+
+- item: "gatsby"
+  title: "Gatsby"
+
+- item: "tailwind"
+  title: "Tailwind"
+
+- item: "bootstrap"
+  title: "Bootstrap"
+
+- item: "sass"
+  title: "SASS"
+
+- item: "html"
+  title: "HTML"
+
+- item: "css"
+  title: "CSS"
+
+- item: "java"
+  title: "Java"
+
+- item: "c"
+  title: "C"
+
+- item: "cpp"
+  title: "C++"
+
+- item: "csharp"
+  title: "C#"
+
+- item: "go"
+  title: "Go"
+
+- item: "rust"
+  title: "Rust"
+
+- item: "swift"
+  title: "Swift"
+
+- item: "kotlin"
+  title: "Kotlin"
+
+- item: "php"
+  title: "PHP"
+
+- item: "ruby"
+  title: "Ruby"
+
+- item: "rails"
+  title: "Rails"
+
+- item: "laravel"
+  title: "Laravel"
+
+- item: "django"
+  title: "Django"
+
+- item: "flask"
+  title: "Flask"
+
+- item: "fastapi"
+  title: "FastAPI"
+
+- item: "spring"
+  title: "Spring"
+
+- item: "hibernate"
+  title: "Hibernate"
+
+- item: "jpa"
+  title: "JPA"
+
+- item: "aspnet"
+  title: "ASP.NET"
+
+- item: "blazor"
+  title: "Blazor"
+
+- item: "machine-learning"
+  title: "Machine Learning"
+
+- item: "deep-learning"
+  title: "Deep Learning"
+
+- item: "nlp"
+  title: "NLP"
+
+- item: "computer-vision"
+  title: "Computer Vision"
+
+- item: "reinforcement-learning"
+  title: "Reinforcement Learning"
+
+- item: "tensorflow"
+  title: "TensorFlow"
+
+- item: "pytorch"
+  title: "PyTorch"
+
+- item: "keras"
+  title: "Keras"
+
+- item: "scikit-learn"
+  title: "Scikit-learn"
+
+- item: "pandas"
+  title: "Pandas"
+
+- item: "numpy"
+  title: "NumPy"
+
+- item: "matplotlib"
+  title: "Matplotlib"
+
+- item: "seaborn"
+  title: "Seaborn"
+
+- item: "jupyter"
+  title: "Jupyter"
+
+- item: "colab"
+  title: "Colab"
+
+- item: "data-science"
+  title: "Data Science"
+
+- item: "data-analytics"
+  title: "Data Analytics"
+
+- item: "data-engineering"
+  title: "Data Engineering"
+
+- item: "big-data"
+  title: "Big Data"
+
+- item: "hadoop"
+  title: "Hadoop"
+
+- item: "spark"
+  title: "Spark"
+
+- item: "kafka"
+  title: "Kafka"
+
+- item: "airflow"
+  title: "Airflow"
+
+- item: "databricks"
+  title: "Databricks"
+
+- item: "snowflake"
+  title: "Snowflake"
+
+- item: "power-bi"
+  title: "Power BI"
+
+- item: "tableau"
+  title: "Tableau"
+
+- item: "looker"
+  title: "Looker"
+
+- item: "business-intelligence"
+  title: "Business Intelligence"
+
+- item: "economics"
+  title: "Economics"
+
+- item: "microeconomics"
+  title: "Microeconomics"
+
+- item: "macroeconomics"
+  title: "Macroeconomics"
+
+- item: "econometrics"
+  title: "Econometrics"
+
+- item: "business"
+  title: "Business"
+
+- item: "management"
+  title: "Management"
+
+- item: "leadership"
+  title: "Leadership"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship"
+
+- item: "marketing"
+  title: "Marketing"
+
+- item: "digital-marketing"
+  title: "Digital Marketing"
+
+- item: "content-marketing"
+  title: "Content Marketing"
+
+- item: "social-media-marketing"
+  title: "Social Media Marketing"
+
+- item: "email-marketing"
+  title: "Email Marketing"
+
+- item: "affiliate-marketing"
+  title: "Affiliate Marketing"
+
+- item: "sales"
+  title: "Sales"
+
+- item: "negotiation"
+  title: "Negotiation"
+
+- item: "communication"
+  title: "Communication"
+
+- item: "public-speaking"
+  title: "Public Speaking"
+
+- item: "writing"
+  title: "Writing"
+
+- item: "creative-writing"
+  title: "Creative Writing"
+
+- item: "technical-writing"
+  title: "Technical Writing"
+
+- item: "journalism"
+  title: "Journalism"
+
+- item: "philosophy"
+  title: "Philosophy"
+
+- item: "ethics"
+  title: "Ethics"
+
+- item: "logic"
+  title: "Logic"
+
+- item: "politics"
+  title: "Politics"
+
+- item: "international-relations"
+  title: "International Relations"
+
+- item: "law"
+  title: "Law"
+
+- item: "criminology"
+  title: "Criminology"
+
+- item: "linguistics"
+  title: "Linguistics"
+
+- item: "languages"
+  title: "Languages"
+
+- item: "english"
+  title: "English"
+
+- item: "spanish"
+  title: "Spanish"
+
+- item: "french"
+  title: "French"
+
+- item: "german"
+  title: "German"
+
+- item: "mandarin"
+  title: "Mandarin"
+
+- item: "japanese"
+  title: "Japanese"
+
+- item: "korean"
+  title: "Korean"
+
+- item: "russian"
+  title: "Russian"
+
+- item: "arabic"
+  title: "Arabic"
+
+- item: "hindi"
+  title: "Hindi"
+
+- item: "italian"
+  title: "Italian"
+
+- item: "portuguese"
+  title: "Portuguese"
+
+- item: "art"
+  title: "Art"
+
+- item: "painting"
+  title: "Painting"
+
+- item: "drawing"
+  title: "Drawing"
+
+- item: "sculpture"
+  title: "Sculpture"
+
+- item: "photography"
+  title: "Photography"
+
+- item: "film-making"
+  title: "Film Making"
+
+- item: "animation"
+  title: "Animation"
+
+- item: "graphic-design"
+  title: "Graphic Design"
+
+- item: "ui-ux"
+  title: "UI/UX"
+
+- item: "product-design"
+  title: "Product Design"
+
+- item: "interior-design"
+  title: "Interior Design"
+
+- item: "fashion-design"
+  title: "Fashion Design"
+
+- item: "architecture"
+  title: "Architecture"
+
+- item: "music"
+  title: "Music"
+
+- item: "music-theory"
+  title: "Music Theory"
+
+- item: "guitar"
+  title: "Guitar"
+
+- item: "piano"
+  title: "Piano"
+
+- item: "drums"
+  title: "Drums"
+
+- item: "singing"
+  title: "Singing"
+
+- item: "dance"
+  title: "Dance"
+
+- item: "theatre"
+  title: "Theatre"
+
+- item: "cooking"
+  title: "Cooking"
+
+- item: "baking"
+  title: "Baking"
+
+- item: "nutrition"
+  title: "Nutrition"
+
+- item: "yoga"
+  title: "Yoga"
+
+- item: "meditation"
+  title: "Meditation"
+
+- item: "mindfulness"
+  title: "Mindfulness"
+
+- item: "fitness"
+  title: "Fitness"
+
+- item: "weightlifting"
+  title: "Weightlifting"
+
+- item: "running"
+  title: "Running"
+
+- item: "swimming"
+  title: "Swimming"
+
+- item: "cycling"
+  title: "Cycling"
+
+- item: "martial-arts"
+  title: "Martial Arts"
+
+- item: "boxing"
+  title: "Boxing"
+
+- item: "chess"
+  title: "Chess"
+
+- item: "poker"
+  title: "Poker"
+
+- item: "gaming"
+  title: "Gaming"
+
+- item: "esports"
+  title: "Esports"
+
+- item: "productivity"
+  title: "Productivity"
+
+- item: "time-management"
+  title: "Time Management"
+
+- item: "mindset"
+  title: "Mindset"
+
+- item: "motivation"
+  title: "Motivation"
+
+- item: "habits"
+  title: "Habits"
+
+- item: "stoicism"
+  title: "Stoicism"
+
+- item: "buddhism"
+  title: "Buddhism"
+
+- item: "spirituality"
+  title: "Spirituality"
+
+- item: "religion"
+  title: "Religion"
+
+- item: "mythology"
+  title: "Mythology"
+
+- item: "folklore"
+  title: "Folklore"
+
+- item: "literature"
+  title: "Literature"
+
+- item: "poetry"
+  title: "Poetry"
+
+- item: "fiction"
+  title: "Fiction"
+
+- item: "nonfiction"
+  title: "Nonfiction"
+
+- item: "science-fiction"
+  title: "Science Fiction"
+
+- item: "fantasy"
+  title: "Fantasy"
+
+- item: "mystery"
+  title: "Mystery"
+
+- item: "thriller"
+  title: "Thriller"
+
+- item: "horror"
+  title: "Horror"
+
+- item: "romance"
+  title: "Romance"
+
+- item: "comedy"
+  title: "Comedy"
+
+- item: "drama"
+  title: "Drama"
