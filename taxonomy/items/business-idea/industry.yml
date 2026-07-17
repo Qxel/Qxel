@@ -1,0 +1,311 @@
+- item: "saas"
+  title: "SaaS"
+
+- item: "fintech"
+  title: "Fintech"
+
+- item: "marketplace"
+  title: "Marketplace"
+
+- item: "ecommerce"
+  title: "Ecommerce"
+
+- item: "healthcare"
+  title: "Healthcare"
+
+- item: "ai"
+  title: "AI"
+
+- item: "agriculture"
+  title: "Agriculture"
+
+- item: "edtech"
+  title: "EdTech"
+
+- item: "real-estate"
+  title: "Real Estate"
+
+- item: "travel"
+  title: "Travel"
+
+- item: "hospitality"
+  title: "Hospitality"
+
+- item: "food-beverage"
+  title: "Food & Beverage"
+
+- item: "retail"
+  title: "Retail"
+
+- item: "fashion"
+  title: "Fashion"
+
+- item: "beauty"
+  title: "Beauty"
+
+- item: "wellness"
+  title: "Wellness"
+
+- item: "fitness"
+  title: "Fitness"
+
+- item: "sports"
+  title: "Sports"
+
+- item: "entertainment"
+  title: "Entertainment"
+
+- item: "gaming"
+  title: "Gaming"
+
+- item: "media"
+  title: "Media"
+
+- item: "publishing"
+  title: "Publishing"
+
+- item: "music"
+  title: "Music"
+
+- item: "film"
+  title: "Film"
+
+- item: "photography"
+  title: "Photography"
+
+- item: "design"
+  title: "Design"
+
+- item: "architecture"
+  title: "Architecture"
+
+- item: "construction"
+  title: "Construction"
+
+- item: "realty"
+  title: "Realty"
+
+- item: "property-management"
+  title: "Property Management"
+
+- item: "logistics"
+  title: "Logistics"
+
+- item: "supply-chain"
+  title: "Supply Chain"
+
+- item: "transportation"
+  title: "Transportation"
+
+- item: "automotive"
+  title: "Automotive"
+
+- item: "aerospace"
+  title: "Aerospace"
+
+- item: "defense"
+  title: "Defense"
+
+- item: "cybersecurity"
+  title: "Cybersecurity"
+
+- item: "blockchain"
+  title: "Blockchain"
+
+- item: "cryptocurrency"
+  title: "Cryptocurrency"
+
+- item: "web3"
+  title: "Web3"
+
+- item: "metaverse"
+  title: "Metaverse"
+
+- item: "vr-ar"
+  title: "VR/AR"
+
+- item: "robotics"
+  title: "Robotics"
+
+- item: "iot"
+  title: "IoT"
+
+- item: "cleantech"
+  title: "CleanTech"
+
+- item: "renewable-energy"
+  title: "Renewable Energy"
+
+- item: "sustainability"
+  title: "Sustainability"
+
+- item: "waste-management"
+  title: "Waste Management"
+
+- item: "recycling"
+  title: "Recycling"
+
+- item: "water-tech"
+  title: "Water Tech"
+
+- item: "biotech"
+  title: "Biotech"
+
+- item: "pharmaceuticals"
+  title: "Pharmaceuticals"
+
+- item: "medtech"
+  title: "MedTech"
+
+- item: "telemedicine"
+  title: "Telemedicine"
+
+- item: "mental-health"
+  title: "Mental Health"
+
+- item: "senior-care"
+  title: "Senior Care"
+
+- item: "childcare"
+  title: "Childcare"
+
+- item: "pet-care"
+  title: "Pet Care"
+
+- item: "insurance"
+  title: "Insurance"
+
+- item: "banking"
+  title: "Banking"
+
+- item: "wealth-management"
+  title: "Wealth Management"
+
+- item: "accounting"
+  title: "Accounting"
+
+- item: "legal"
+  title: "Legal"
+
+- item: "consulting"
+  title: "Consulting"
+
+- item: "hr"
+  title: "HR"
+
+- item: "recruiting"
+  title: "Recruiting"
+
+- item: "staffing"
+  title: "Staffing"
+
+- item: "training"
+  title: "Training"
+
+- item: "coaching"
+  title: "Coaching"
+
+- item: "events"
+  title: "Events"
+
+- item: "weddings"
+  title: "Weddings"
+
+- item: "interior-design"
+  title: "Interior Design"
+
+- item: "landscaping"
+  title: "Landscaping"
+
+- item: "cleaning"
+  title: "Cleaning"
+
+- item: "maintenance"
+  title: "Maintenance"
+
+- item: "security"
+  title: "Security"
+
+- item: "insurance-tech"
+  title: "Insurance Tech"
+
+- item: "lending"
+  title: "Lending"
+
+- item: "mortgage"
+  title: "Mortgage"
+
+- item: "payments"
+  title: "Payments"
+
+- item: "remittances"
+  title: "Remittances"
+
+- item: "personal-finance"
+  title: "Personal Finance"
+
+- item: "business-finance"
+  title: "Business Finance"
+
+- item: "investing"
+  title: "Investing"
+
+- item: "trading"
+  title: "Trading"
+
+- item: "crypto-trading"
+  title: "Crypto Trading"
+
+- item: "nft"
+  title: "NFT"
+
+- item: "dao"
+  title: "DAO"
+
+- item: "gaming-tech"
+  title: "Gaming Tech"
+
+- item: "esports"
+  title: "Esports"
+
+- item: "sports-tech"
+  title: "Sports Tech"
+
+- item: "fitness-tech"
+  title: "Fitness Tech"
+
+- item: "wearables"
+  title: "Wearables"
+
+- item: "smart-home"
+  title: "Smart Home"
+
+- item: "smart-city"
+  title: "Smart City"
+
+- item: "autonomous-vehicles"
+  title: "Autonomous Vehicles"
+
+- item: "space-tech"
+  title: "Space Tech"
+
+- item: "quantum-computing"
+  title: "Quantum Computing"
+
+- item: "nanotech"
+  title: "Nanotech"
+
+- item: "materials-science"
+  title: "Materials Science"
+
+- item: "chemicals"
+  title: "Chemicals"
+
+- item: "manufacturing"
+  title: "Manufacturing"
+
+- item: "3d-printing"
+  title: "3D Printing"
+
+- item: "industrial-automation"
+  title: "Industrial Automation"
