@@ -1,0 +1,3397 @@
+# AI Toolkit Purposes
+
+- item: "image-generation"
+  title: "Image Generation"
+  
+- item: "deep-research"
+  title: "Deep Research"
+  
+- item: "deep-thinking"
+  title: "Deep Thinking"
+  
+- item: "video-generation"
+  title: "Video Generation"
+  
+- item: "text-generation"
+  title: "Text Generation"
+  
+- item: "code-generation"
+  title: "Code Generation"
+  
+- item: "audio-generation"
+  title: "Audio Generation"
+  
+- item: "music-generation"
+  title: "Music Generation"
+  
+- item: "speech-recognition"
+  title: "Speech Recognition"
+  
+- item: "language-translation"
+  title: "Language Translation"
+  
+- item: "sentiment-analysis"
+  title: "Sentiment Analysis"
+  
+- item: "text-summarization"
+  title: "Text Summarization"
+  
+- item: "question-answering"
+  title: "Question Answering"
+  
+- item: "chatbots"
+  title: "Chatbots & Conversational AI"
+  
+- item: "data-analysis"
+  title: "Data Analysis & Insights"
+  
+- item: "predictive-modeling"
+  title: "Predictive Modeling"
+  
+- item: "anomaly-detection"
+  title: "Anomaly Detection"
+  
+- item: "recommendation-systems"
+  title: "Recommendation Systems"
+  
+- item: "computer-vision"
+  title: "Computer Vision"
+  
+- item: "object-detection"
+  title: "Object Detection"
+  
+- item: "face-recognition"
+  title: "Face Recognition"
+  
+- item: "image-classification"
+  title: "Image Classification"
+  
+- item: "image-segmentation"
+  title: "Image Segmentation"
+  
+- item: "ocr"
+  title: "Optical Character Recognition (OCR)"
+  
+- item: "document-processing"
+  title: "Document Processing"
+  
+- item: "knowledge-graphs"
+  title: "Knowledge Graphs"
+  
+- item: "reasoning"
+  title: "Logical Reasoning"
+  
+- item: "planning"
+  title: "Planning & Decision Making"
+  
+- item: "autonomous-agents"
+  title: "Autonomous Agents"
+  
+- item: "workflow-automation"
+  title: "Workflow Automation"
+  
+- item: "creative-writing"
+  title: "Creative Writing"
+  
+- item: "story-generation"
+  title: "Story Generation"
+  
+- item: "poetry-generation"
+  title: "Poetry Generation"
+  
+- item: "scriptwriting"
+  title: "Scriptwriting"
+  
+- item: "marketing-copy"
+  title: "Marketing Copy Generation"
+  
+- item: "seo-content"
+  title: "SEO Content Generation"
+  
+- item: "email-generation"
+  title: "Email Generation"
+  
+- item: "report-generation"
+  title: "Report Generation"
+  
+- item: "presentation-generation"
+  title: "Presentation Generation"
+  
+- item: "data-visualization"
+  title: "Data Visualization"
+  
+- item: "3d-modeling"
+  title: "3D Modeling"
+  
+- item: "3d-animation"
+  title: "3D Animation"
+  
+- item: "game-development"
+  title: "Game Development"
+  
+- item: "vr-ar"
+  title: "VR/AR Content Creation"
+  
+- item: "synthetic-data"
+  title: "Synthetic Data Generation"
+  
+- item: "style-transfer"
+  title: "Style Transfer"
+  
+- item: "image-editing"
+  title: "Image Editing & Enhancement"
+  
+- item: "video-editing"
+  title: "Video Editing & Enhancement"
+  
+- item: "audio-editing"
+  title: "Audio Editing & Enhancement"
+  
+- item: "noise-reduction"
+  title: "Noise Reduction"
+  
+- item: "super-resolution"
+  title: "Super Resolution"
+  
+- item: "colorization"
+  title: "Colorization"
+  
+- item: "inpainting"
+  title: "Inpainting"
+  
+- item: "background-removal"
+  title: "Background Removal"
+  
+- item: "pose-estimation"
+  title: "Pose Estimation"
+  
+- item: "motion-capture"
+  title: "Motion Capture"
+  
+- item: "simulation"
+  title: "Simulation"
+  
+- item: "forecasting"
+  title: "Forecasting"
+  
+- item: "optimization"
+  title: "Optimization"
+  
+- item: "classification"
+  title: "Classification"
+  
+- item: "clustering"
+  title: "Clustering"
+  
+- item: "regression"
+  title: "Regression"
+  
+- item: "feature-extraction"
+  title: "Feature Extraction"
+  
+- item: "dimensionality-reduction"
+  title: "Dimensionality Reduction"
+  
+- item: "sentiment-classification"
+  title: "Sentiment Classification"
+  
+- item: "topic-modeling"
+  title: "Topic Modeling"
+  
+- item: "named-entity-recognition"
+  title: "Named Entity Recognition"
+  
+- item: "parts-of-speech"
+  title: "Parts of Speech Tagging"
+  
+- item: "dependency-parsing"
+  title: "Dependency Parsing"
+  
+- item: "text-to-speech"
+  title: "Text-to-Speech"
+  
+- item: "speech-to-text"
+  title: "Speech-to-Text"
+  
+- item: "language-modeling"
+  title: "Language Modeling"
+  
+- item: "fine-tuning"
+  title: "Fine-Tuning"
+  
+- item: "prompt-engineering"
+  title: "Prompt Engineering"
+  
+- item: "rag"
+  title: "Retrieval-Augmented Generation (RAG)"
+  
+- item: "embedding-generation"
+  title: "Embedding Generation"
+  
+- item: "vector-search"
+  title: "Vector Search"
+  
+- item: "semantic-search"
+  title: "Semantic Search"
+  
+- item: "hybrid-search"
+  title: "Hybrid Search"
+  
+- item: "multimodal"
+  title: "Multimodal Processing"
+  
+- item: "cross-modal"
+  title: "Cross-Modal Retrieval"
+  
+- item: "text-to-image"
+  title: "Text-to-Image Generation"
+  
+- item: "text-to-video"
+  title: "Text-to-Video Generation"
+  
+- item: "text-to-3d"
+  title: "Text-to-3D Generation"
+  
+- item: "image-to-text"
+  title: "Image-to-Text Captioning"
+  
+- item: "image-to-video"
+  title: "Image-to-Video Generation"
+  
+- item: "video-to-text"
+  title: "Video-to-Text Description"
+  
+- item: "style-gan"
+  title: "StyleGAN Generation"
+  
+- item: "diffusion-modeling"
+  title: "Diffusion Modeling"
+  
+- item: "transformer-modeling"
+  title: "Transformer Modeling"
+  
+- item: "llm-inference"
+  title: "LLM Inference"
+  
+- item: "llm-training"
+  title: "LLM Training"
+  
+- item: "rlhf"
+  title: "RLHF (Reinforcement Learning from Human Feedback)"
+  
+- item: "dpo"
+  title: "DPO (Direct Preference Optimization)"
+  
+- item: "quantization"
+  title: "Quantization"
+  
+- item: "distillation"
+  title: "Model Distillation"
+  
+- item: "pruning"
+  title: "Model Pruning"
+  
+- item: "knowledge-distillation"
+  title: "Knowledge Distillation"
+  
+- item: "few-shot-learning"
+  title: "Few-Shot Learning"
+  
+- item: "zero-shot-learning"
+  title: "Zero-Shot Learning"
+  
+- item: "transfer-learning"
+  title: "Transfer Learning"
+  
+- item: "active-learning"
+  title: "Active Learning"
+  
+- item: "self-supervised"
+  title: "Self-Supervised Learning"
+  
+- item: "unsupervised-learning"
+  title: "Unsupervised Learning"
+  
+- item: "semi-supervised"
+  title: "Semi-Supervised Learning"
+  
+- item: "reinforcement-learning"
+  title: "Reinforcement Learning"
+  
+- item: "imitation-learning"
+  title: "Imitation Learning"
+  
+- item: "federated-learning"
+  title: "Federated Learning"
+  
+- item: "explainable-ai"
+  title: "Explainable AI (XAI)"
+  
+- item: "bias-detection"
+  title: "Bias Detection & Mitigation"
+  
+- item: "fairness-evaluation"
+  title: "Fairness Evaluation"
+  
+- item: "model-interpretability"
+  title: "Model Interpretability"
+  
+- item: "adversarial-defense"
+  title: "Adversarial Defense"
+  
+- item: "data-augmentation"
+  title: "Data Augmentation"
+  
+- item: "data-labeling"
+  title: "Data Labeling"
+  
+- item: "data-cleaning"
+  title: "Data Cleaning"
+  
+- item: "data-preprocessing"
+  title: "Data Preprocessing"
+  
+- item: "feature-engineering"
+  title: "Feature Engineering"
+  
+- item: "hyperparameter-optimization"
+  title: "Hyperparameter Optimization"
+  
+- item: "neural-architecture-search"
+  title: "Neural Architecture Search"
+  
+- item: "automl"
+  title: "AutoML"
+  
+- item: "model-evaluation"
+  title: "Model Evaluation"
+  
+- item: "model-deployment"
+  title: "Model Deployment"
+  
+- item: "model-monitoring"
+  title: "Model Monitoring"
+  
+- item: "api-generation"
+  title: "API Generation"
+  
+- item: "database-query"
+  title: "Database Query Generation"
+  
+- item: "sql-generation"
+  title: "SQL Generation"
+  
+- item: "regex-generation"
+  title: "Regex Generation"
+  
+- item: "test-generation"
+  title: "Test Case Generation"
+  
+- item: "documentation-generation"
+  title: "Documentation Generation"
+  
+- item: "commit-message-generation"
+  title: "Commit Message Generation"
+  
+- item: "code-review"
+  title: "Code Review"
+  
+- item: "code-refactoring"
+  title: "Code Refactoring"
+  
+- item: "bug-detection"
+  title: "Bug Detection"
+  
+- item: "vulnerability-detection"
+  title: "Vulnerability Detection"
+  
+- item: "security-audit"
+  title: "Security Audit"
+  
+- item: "compliance-check"
+  title: "Compliance Checking"
+  
+- item: "log-analysis"
+  title: "Log Analysis"
+  
+- item: "event-correlation"
+  title: "Event Correlation"
+  
+- item: "root-cause-analysis"
+  title: "Root Cause Analysis"
+  
+- item: "anomaly-prediction"
+  title: "Anomaly Prediction"
+  
+- item: "failure-prediction"
+  title: "Failure Prediction"
+  
+- item: "maintenance-scheduling"
+  title: "Maintenance Scheduling"
+  
+- item: "quality-control"
+  title: "Quality Control"
+  
+- item: "defect-detection"
+  title: "Defect Detection"
+  
+- item: "inventory-management"
+  title: "Inventory Management"
+  
+- item: "supply-chain-optimization"
+  title: "Supply Chain Optimization"
+  
+- item: "demand-forecasting"
+  title: "Demand Forecasting"
+  
+- item: "price-optimization"
+  title: "Price Optimization"
+  
+- item: "customer-segmentation"
+  title: "Customer Segmentation"
+  
+- item: "churn-prediction"
+  title: "Churn Prediction"
+  
+- item: "lead-scoring"
+  title: "Lead Scoring"
+  
+- item: "fraud-detection"
+  title: "Fraud Detection"
+  
+- item: "risk-assessment"
+  title: "Risk Assessment"
+  
+- item: "credit-scoring"
+  title: "Credit Scoring"
+  
+- item: "underwriting"
+  title: "Underwriting"
+  
+- item: "claims-processing"
+  title: "Claims Processing"
+  
+- item: "medical-diagnosis"
+  title: "Medical Diagnosis"
+  
+- item: "drug-discovery"
+  title: "Drug Discovery"
+  
+- item: "genomics-analysis"
+  title: "Genomics Analysis"
+  
+- item: "protein-folding"
+  title: "Protein Folding"
+  
+- item: "clinical-trial"
+  title: "Clinical Trial Optimization"
+  
+- item: "patient-monitoring"
+  title: "Patient Monitoring"
+  
+- item: "health-prediction"
+  title: "Health Prediction"
+  
+- item: "mental-health"
+  title: "Mental Health Support"
+  
+- item: "education-personalization"
+  title: "Personalized Education"
+  
+- item: "tutoring"
+  title: "AI Tutoring"
+  
+- item: "assessment-grading"
+  title: "Automated Assessment & Grading"
+  
+- item: "curriculum-design"
+  title: "Curriculum Design"
+  
+- item: "language-learning"
+  title: "Language Learning"
+  
+- item: "skill-assessment"
+  title: "Skill Assessment"
+  
+- item: "interview-coaching"
+  title: "Interview Coaching"
+  
+- item: "resume-screening"
+  title: "Resume Screening"
+  
+- item: "job-matching"
+  title: "Job Matching"
+  
+- item: "talent-acquisition"
+  title: "Talent Acquisition"
+  
+- item: "performance-review"
+  title: "Performance Review"
+  
+- item: "employee-engagement"
+  title: "Employee Engagement Analysis"
+  
+- item: "sentiment-tracking"
+  title: "Sentiment Tracking"
+  
+- item: "social-media-monitoring"
+  title: "Social Media Monitoring"
+  
+- item: "trend-detection"
+  title: "Trend Detection"
+  
+- item: "competitive-analysis"
+  title: "Competitive Analysis"
+  
+- item: "market-intelligence"
+  title: "Market Intelligence"
+  
+- item: "business-intelligence"
+  title: "Business Intelligence"
+  
+- item: "financial-analysis"
+  title: "Financial Analysis"
+  
+- item: "portfolio-optimization"
+  title: "Portfolio Optimization"
+  
+- item: "trading-signals"
+  title: "Trading Signal Generation"
+  
+- item: "sentiment-trading"
+  title: "Sentiment-Based Trading"
+  
+- item: "news-summarization"
+  title: "News Summarization"
+  
+- item: "content-curation"
+  title: "Content Curation"
+  
+- item: "personalization"
+  title: "Personalization"
+  
+- item: "user-modeling"
+  title: "User Modeling"
+  
+- item: "behavior-prediction"
+  title: "Behavior Prediction"
+  
+- item: "intent-recognition"
+  title: "Intent Recognition"
+  
+- item: "emotion-detection"
+  title: "Emotion Detection"
+  
+- item: "personality-analysis"
+  title: "Personality Analysis"
+  
+- item: "dialog-management"
+  title: "Dialog Management"
+  
+- item: "conversational-memory"
+  title: "Conversational Memory"
+  
+- item: "contextual-understanding"
+  title: "Contextual Understanding"
+  
+- item: "multi-turn-dialog"
+  title: "Multi-Turn Dialogue"
+  
+- item: "task-oriented-dialog"
+  title: "Task-Oriented Dialogue"
+  
+- item: "open-domain-chat"
+  title: "Open-Domain Chat"
+  
+- item: "role-playing"
+  title: "Role-Playing Characters"
+  
+- item: "world-building"
+  title: "World Building"
+  
+- item: "narrative-design"
+  title: "Narrative Design"
+  
+- item: "interactive-fiction"
+  title: "Interactive Fiction"
+  
+- item: "dialogue-generation"
+  title: "Dialogue Generation"
+  
+- item: "voice-cloning"
+  title: "Voice Cloning"
+  
+- item: "accent-adaptation"
+  title: "Accent Adaptation"
+  
+- item: "emotion-tts"
+  title: "Emotional TTS"
+  
+- item: "real-time-translation"
+  title: "Real-Time Translation"
+  
+- item: "subtitling"
+  title: "Subtitling & Captioning"
+  
+- item: "dubbing"
+  title: "Dubbing"
+  
+- item: "lip-sync"
+  title: "Lip Sync Generation"
+  
+- item: "avatar-creation"
+  title: "Avatar Creation"
+  
+- item: "virtual-try-on"
+  title: "Virtual Try-On"
+  
+- item: "pose-transfer"
+  title: "Pose Transfer"
+  
+- item: "face-swap"
+  title: "Face Swap"
+  
+- item: "deepfake-detection"
+  title: "Deepfake Detection"
+  
+- item: "watermarking"
+  title: "Watermarking"
+  
+- item: "copyright-detection"
+  title: "Copyright Detection"
+  
+- item: "plagiarism-check"
+  title: "Plagiarism Check"
+  
+- item: "fact-checking"
+  title: "Fact Checking"
+  
+- item: "misinformation-detection"
+  title: "Misinformation Detection"
+  
+- item: "hate-speech-detection"
+  title: "Hate Speech Detection"
+  
+- item: "toxicity-detection"
+  title: "Toxicity Detection"
+  
+- item: "moderation"
+  title: "Content Moderation"
+  
+- item: "nsfw-detection"
+  title: "NSFW Detection"
+  
+- item: "age-estimation"
+  title: "Age Estimation"
+  
+- item: "gender-recognition"
+  title: "Gender Recognition"
+  
+- item: "emotion-recognition"
+  title: "Emotion Recognition"
+  
+- item: "gesture-recognition"
+  title: "Gesture Recognition"
+  
+- item: "action-recognition"
+  title: "Action Recognition"
+  
+- item: "activity-recognition"
+  title: "Activity Recognition"
+  
+- item: "scene-understanding"
+  title: "Scene Understanding"
+  
+- item: "depth-estimation"
+  title: "Depth Estimation"
+  
+- item: "3d-reconstruction"
+  title: "3D Reconstruction"
+  
+- item: "nerf-generation"
+  title: "NeRF Generation"
+  
+- item: "point-cloud"
+  title: "Point Cloud Processing"
+  
+- item: "mesh-generation"
+  title: "Mesh Generation"
+  
+- item: "texture-generation"
+  title: "Texture Generation"
+  
+- item: "material-generation"
+  title: "Material Generation"
+  
+- item: "lighting-simulation"
+  title: "Lighting Simulation"
+  
+- item: "physics-simulation"
+  title: "Physics Simulation"
+  
+- item: "fluid-simulation"
+  title: "Fluid Simulation"
+  
+- item: "cloth-simulation"
+  title: "Cloth Simulation"
+  
+- item: "hair-simulation"
+  title: "Hair Simulation"
+  
+- item: "crowd-simulation"
+  title: "Crowd Simulation"
+  
+- item: "traffic-simulation"
+  title: "Traffic Simulation"
+  
+- item: "urban-planning"
+  title: "Urban Planning"
+  
+- item: "architectural-design"
+  title: "Architectural Design"
+  
+- item: "interior-design"
+  title: "Interior Design"
+  
+- item: "landscape-design"
+  title: "Landscape Design"
+  
+- item: "product-design"
+  title: "Product Design"
+  
+- item: "industrial-design"
+  title: "Industrial Design"
+  
+- item: "fashion-design"
+  title: "Fashion Design"
+  
+- item: "jewelry-design"
+  title: "Jewelry Design"
+  
+- item: "packaging-design"
+  title: "Packaging Design"
+  
+- item: "logo-design"
+  title: "Logo Design"
+  
+- item: "graphic-design"
+  title: "Graphic Design"
+  
+- item: "ui-ux-design"
+  title: "UI/UX Design"
+  
+- item: "wireframe-generation"
+  title: "Wireframe Generation"
+  
+- item: "prototype-generation"
+  title: "Prototype Generation"
+  
+- item: "mockup-generation"
+  title: "Mockup Generation"
+  
+- item: "color-palette"
+  title: "Color Palette Generation"
+  
+- item: "typography"
+  title: "Typography Selection"
+  
+- item: "layout-design"
+  title: "Layout Design"
+  
+- item: "banner-generation"
+  title: "Banner Generation"
+  
+- item: "ad-generation"
+  title: "Ad Generation"
+  
+- item: "social-media-content"
+  title: "Social Media Content"
+  
+- item: "video-thumbnail"
+  title: "Video Thumbnail Generation"
+  
+- item: "podcast-generation"
+  title: "Podcast Generation"
+  
+- item: "audiobook-generation"
+  title: "Audiobook Generation"
+  
+- item: "narration"
+  title: "Narration"
+  
+- item: "sound-design"
+  title: "Sound Design"
+  
+- item: "sfx-generation"
+  title: "Sound Effects Generation"
+  
+- item: "bgm-generation"
+  title: "Background Music Generation"
+  
+- item: "mixing-mastering"
+  title: "Mixing & Mastering"
+  
+- item: "lyrics-generation"
+  title: "Lyrics Generation"
+  
+- item: "melody-generation"
+  title: "Melody Generation"
+  
+- item: "harmony-generation"
+  title: "Harmony Generation"
+  
+- item: "beat-generation"
+  title: "Beat Generation"
+  
+- item: "arrangement"
+  title: "Arrangement"
+  
+- item: "orchestration"
+  title: "Orchestration"
+  
+- item: "transcription"
+  title: "Music Transcription"
+  
+- item: "score-generation"
+  title: "Score Generation"
+  
+- item: "tablature-generation"
+  title: "Tablature Generation"
+  
+- item: "chord-recognition"
+  title: "Chord Recognition"
+  
+- item: "key-detection"
+  title: "Key Detection"
+  
+- item: "tempo-detection"
+  title: "Tempo Detection"
+  
+- item: "genre-classification"
+  title: "Genre Classification"
+  
+- item: "mood-classification"
+  title: "Mood Classification"
+  
+- item: "similarity-search"
+  title: "Similarity Search"
+  
+- item: "recommendation"
+  title: "Recommendation"
+  
+- item: "playlist-generation"
+  title: "Playlist Generation"
+  
+- item: "radio-generation"
+  title: "Radio Generation"
+  
+- item: "dj-mixing"
+  title: "DJ Mixing"
+  
+- item: "live-remix"
+  title: "Live Remix"
+  
+- item: "karaoke-generation"
+  title: "Karaoke Generation"
+  
+- item: "vocal-removal"
+  title: "Vocal Removal"
+  
+- item: "instrument-separation"
+  title: "Instrument Separation"
+  
+- item: "audio-restoration"
+  title: "Audio Restoration"
+  
+- item: "audio-upscaling"
+  title: "Audio Upscaling"
+  
+- item: "binaural-audio"
+  title: "Binaural Audio Generation"
+  
+- item: "spatial-audio"
+  title: "Spatial Audio"
+  
+- item: "ambient-generation"
+  title: "Ambient Sound Generation"
+  
+- item: "nature-sounds"
+  title: "Nature Sound Generation"
+  
+- item: "city-sounds"
+  title: "City Sound Generation"
+  
+- item: "foley-generation"
+  title: "Foley Sound Generation"
+  
+- item: "dialogue-enhancement"
+  title: "Dialogue Enhancement"
+  
+- item: "noise-cancellation"
+  title: "Noise Cancellation"
+  
+- item: "echo-removal"
+  title: "Echo Removal"
+  
+- item: "reverb-generation"
+  title: "Reverb Generation"
+  
+- item: "delay-generation"
+  title: "Delay Generation"
+  
+- item: "filter-design"
+  title: "Filter Design"
+  
+- item: "synthesizer-design"
+  title: "Synthesizer Design"
+  
+- item: "patch-generation"
+  title: "Patch Generation"
+  
+- item: "preset-generation"
+  title: "Preset Generation"
+  
+- item: "sample-generation"
+  title: "Sample Generation"
+  
+- item: "loop-generation"
+  title: "Loop Generation"
+  
+- item: "drum-pattern"
+  title: "Drum Pattern Generation"
+  
+- item: "bassline-generation"
+  title: "Bassline Generation"
+  
+- item: "arpeggio-generation"
+  title: "Arpeggio Generation"
+  
+- item: "riff-generation"
+  title: "Riff Generation"
+  
+- item: "solo-generation"
+  title: "Solo Generation"
+  
+- item: "improvisation"
+  title: "Improvisation"
+  
+- item: "counterpoint"
+  title: "Counterpoint Generation"
+  
+- item: "fugue-generation"
+  title: "Fugue Generation"
+  
+- item: "canon-generation"
+  title: "Canon Generation"
+  
+- item: "sonata-form"
+  title: "Sonata Form Generation"
+  
+- item: "variation-generation"
+  title: "Variation Generation"
+  
+- item: "theme-development"
+  title: "Theme Development"
+  
+- item: "motif-generation"
+  title: "Motif Generation"
+  
+- item: "leitmotif-generation"
+  title: "Leitmotif Generation"
+  
+- item: "film-scoring"
+  title: "Film Scoring"
+  
+- item: "game-scoring"
+  title: "Game Scoring"
+  
+- item: "tv-scoring"
+  title: "TV Scoring"
+  
+- item: "advertising-jingle"
+  title: "Advertising Jingle Generation"
+  
+- item: "sound-branding"
+  title: "Sound Branding"
+  
+- item: "sonic-branding"
+  title: "Sonic Branding"
+  
+- item: "audio-branding"
+  title: "Audio Branding"
+  
+- item: "music-therapy"
+  title: "Music Therapy"
+  
+- item: "sound-healing"
+  title: "Sound Healing"
+  
+- item: "meditation-audio"
+  title: "Meditation Audio"
+  
+- item: "sleep-audio"
+  title: "Sleep Audio"
+  
+- item: "focus-audio"
+  title: "Focus Audio"
+  
+- item: "productivity-audio"
+  title: "Productivity Audio"
+  
+- item: "workout-audio"
+  title: "Workout Audio"
+  
+- item: "motivational-audio"
+  title: "Motivational Audio"
+  
+- item: "storytelling-audio"
+  title: "Storytelling Audio"
+  
+- item: "podcast-creation"
+  title: "Podcast Creation"
+  
+- item: "radio-drama"
+  title: "Radio Drama"
+  
+- item: "audio-drama"
+  title: "Audio Drama"
+  
+- item: "voice-over"
+  title: "Voice-Over"
+  
+- item: "commercial-voice"
+  title: "Commercial Voice"
+  
+- item: "character-voice"
+  title: "Character Voice"
+  
+- item: "narrator-voice"
+  title: "Narrator Voice"
+  
+- item: "announcer-voice"
+  title: "Announcer Voice"
+  
+- item: "news-reader"
+  title: "News Reader Voice"
+  
+- item: "weather-forecast"
+  title: "Weather Forecast Voice"
+  
+- item: "traffic-report"
+  title: "Traffic Report Voice"
+  
+- item: "sports-commentary"
+  title: "Sports Commentary"
+  
+- item: "esports-commentary"
+  title: "Esports Commentary"
+  
+- item: "live-event-casting"
+  title: "Live Event Casting"
+  
+- item: "virtual-assistant"
+  title: "Virtual Assistant"
+  
+- item: "smart-speaker"
+  title: "Smart Speaker Integration"
+  
+- item: "iot-control"
+  title: "IoT Device Control"
+  
+- item: "home-automation"
+  title: "Home Automation"
+  
+- item: "automotive-assistant"
+  title: "Automotive Assistant"
+  
+- item: "aviation-assistant"
+  title: "Aviation Assistant"
+  
+- item: "maritime-assistant"
+  title: "Maritime Assistant"
+  
+- item: "military-assistant"
+  title: "Military Assistant"
+  
+- item: "emergency-response"
+  title: "Emergency Response"
+  
+- item: "disaster-management"
+  title: "Disaster Management"
+  
+- item: "crisis-communication"
+  title: "Crisis Communication"
+  
+- item: "public-safety"
+  title: "Public Safety"
+  
+- item: "law-enforcement"
+  title: "Law Enforcement"
+  
+- item: "legal-research"
+  title: "Legal Research"
+  
+- item: "contract-analysis"
+  title: "Contract Analysis"
+  
+- item: "due-diligence"
+  title: "Due Diligence"
+  
+- item: "compliance-monitoring"
+  title: "Compliance Monitoring"
+  
+- item: "regulatory-reporting"
+  title: "Regulatory Reporting"
+  
+- item: "audit-support"
+  title: "Audit Support"
+  
+- item: "tax-optimization"
+  title: "Tax Optimization"
+  
+- item: "accounting-automation"
+  title: "Accounting Automation"
+  
+- item: "bookkeeping"
+  title: "Bookkeeping"
+  
+- item: "expense-tracking"
+  title: "Expense Tracking"
+  
+- item: "budget-forecasting"
+  title: "Budget Forecasting"
+  
+- item: "cashflow-analysis"
+  title: "Cashflow Analysis"
+  
+- item: "investment-analysis"
+  title: "Investment Analysis"
+  
+- item: "real-estate-analysis"
+  title: "Real Estate Analysis"
+  
+- item: "property-valuation"
+  title: "Property Valuation"
+  
+- item: "mortgage-underwriting"
+  title: "Mortgage Underwriting"
+  
+- item: "insurance-underwriting"
+  title: "Insurance Underwriting"
+  
+- item: "actuarial-science"
+  title: "Actuarial Science"
+  
+- item: "pension-optimization"
+  title: "Pension Optimization"
+  
+- item: "retirement-planning"
+  title: "Retirement Planning"
+  
+- item: "estate-planning"
+  title: "Estate Planning"
+  
+- item: "philanthropy-optimization"
+  title: "Philanthropy Optimization"
+  
+- item: "nonprofit-management"
+  title: "Nonprofit Management"
+  
+- item: "grant-writing"
+  title: "Grant Writing"
+  
+- item: "fundraising-optimization"
+  title: "Fundraising Optimization"
+  
+- item: "event-planning"
+  title: "Event Planning"
+  
+- item: "logistics-optimization"
+  title: "Logistics Optimization"
+  
+- item: "route-optimization"
+  title: "Route Optimization"
+  
+- item: "fleet-management"
+  title: "Fleet Management"
+  
+- item: "warehouse-management"
+  title: "Warehouse Management"
+  
+- item: "inventory-optimization"
+  title: "Inventory Optimization"
+  
+- item: "procurement-optimization"
+  title: "Procurement Optimization"
+  
+- item: "vendor-management"
+  title: "Vendor Management"
+  
+- item: "contract-negotiation"
+  title: "Contract Negotiation"
+  
+- item: "pricing-strategy"
+  title: "Pricing Strategy"
+  
+- item: "revenue-management"
+  title: "Revenue Management"
+  
+- item: "sales-forecasting"
+  title: "Sales Forecasting"
+  
+- item: "pipeline-management"
+  title: "Pipeline Management"
+  
+- item: "lead-generation"
+  title: "Lead Generation"
+  
+- item: "customer-acquisition"
+  title: "Customer Acquisition"
+  
+- item: "retention-strategy"
+  title: "Retention Strategy"
+  
+- item: "loyalty-program"
+  title: "Loyalty Program Design"
+  
+- item: "referral-program"
+  title: "Referral Program Design"
+  
+- item: "affiliate-marketing"
+  title: "Affiliate Marketing Optimization"
+  
+- item: "influencer-matching"
+  title: "Influencer Matching"
+  
+- item: "brand-strategy"
+  title: "Brand Strategy"
+  
+- item: "brand-voice"
+  title: "Brand Voice Generation"
+  
+- item: "messaging-framework"
+  title: "Messaging Framework"
+  
+- item: "positioning-strategy"
+  title: "Positioning Strategy"
+  
+- item: "competitive-strategy"
+  title: "Competitive Strategy"
+  
+- item: "go-to-market"
+  title: "Go-to-Market Strategy"
+  
+- item: "market-entry"
+  title: "Market Entry Strategy"
+  
+- item: "product-launch"
+  title: "Product Launch"
+  
+- item: "campaign-strategy"
+  title: "Campaign Strategy"
+  
+- item: "media-planning"
+  title: "Media Planning"
+  
+- item: "budget-allocation"
+  title: "Budget Allocation"
+  
+- item: "roi-optimization"
+  title: "ROI Optimization"
+  
+- item: "conversion-optimization"
+  title: "Conversion Optimization"
+  
+- item: "landing-page-design"
+  title: "Landing Page Design"
+  
+- item: "cta-generation"
+  title: "CTA Generation"
+  
+- item: "headline-generation"
+  title: "Headline Generation"
+  
+- item: "slogan-generation"
+  title: "Slogan Generation"
+  
+- item: "tagline-generation"
+  title: "Tagline Generation"
+  
+- item: "product-description"
+  title: "Product Description Generation"
+  
+- item: "service-description"
+  title: "Service Description Generation"
+  
+- item: "company-bio"
+  title: "Company Bio Generation"
+  
+- item: "mission-statement"
+  title: "Mission Statement Generation"
+  
+- item: "vision-statement"
+  title: "Vision Statement Generation"
+  
+- item: "values-statement"
+  title: "Values Statement Generation"
+  
+- item: "culture-code"
+  title: "Culture Code Generation"
+  
+- item: "employee-handbook"
+  title: "Employee Handbook Generation"
+  
+- item: "policy-generation"
+  title: "Policy Generation"
+  
+- item: "procedure-generation"
+  title: "Procedure Generation"
+  
+- item: "workflow-design"
+  title: "Workflow Design"
+  
+- item: "process-optimization"
+  title: "Process Optimization"
+  
+- item: "lean-methodology"
+  title: "Lean Methodology"
+  
+- item: "six-sigma"
+  title: "Six Sigma"
+  
+- item: "kaizen"
+  title: "Kaizen"
+  
+- item: "agile-coaching"
+  title: "Agile Coaching"
+  
+- item: "scrum-master"
+  title: "Scrum Master"
+  
+- item: "sprint-planning"
+  title: "Sprint Planning"
+  
+- item: "retrospective"
+  title: "Retrospective"
+  
+- item: "standup-generation"
+  title: "Standup Generation"
+  
+- item: "meeting-summary"
+  title: "Meeting Summary"
+  
+- item: "action-item"
+  title: "Action Item Generation"
+  
+- item: "decision-log"
+  title: "Decision Log Generation"
+  
+- item: "project-planning"
+  title: "Project Planning"
+  
+- item: "resource-allocation"
+  title: "Resource Allocation"
+  
+- item: "timeline-generation"
+  title: "Timeline Generation"
+  
+- item: "gantt-chart"
+  title: "Gantt Chart Generation"
+  
+- item: "milestone-planning"
+  title: "Milestone Planning"
+  
+- item: "risk-management"
+  title: "Risk Management"
+  
+- item: "issue-tracking"
+  title: "Issue Tracking"
+  
+- item: "bug-tracking"
+  title: "Bug Tracking"
+  
+- item: "feature-prioritization"
+  title: "Feature Prioritization"
+  
+- item: "roadmap-generation"
+  title: "Roadmap Generation"
+  
+- item: "strategic-planning"
+  title: "Strategic Planning"
+  
+- item: "business-planning"
+  title: "Business Planning"
+  
+- item: "financial-planning"
+  title: "Financial Planning"
+  
+- item: "operational-planning"
+  title: "Operational Planning"
+  
+- item: "contingency-planning"
+  title: "Contingency Planning"
+  
+- item: "crisis-planning"
+  title: "Crisis Planning"
+  
+- item: "succession-planning"
+  title: "Succession Planning"
+  
+- item: "talent-management"
+  title: "Talent Management"
+  
+- item: "learning-development"
+  title: "Learning & Development"
+  
+- item: "training-program"
+  title: "Training Program Design"
+  
+- item: "onboarding-generation"
+  title: "Onboarding Generation"
+  
+- item: "mentoring-program"
+  title: "Mentoring Program"
+  
+- item: "coaching-program"
+  title: "Coaching Program"
+  
+- item: "leadership-development"
+  title: "Leadership Development"
+  
+- item: "team-building"
+  title: "Team Building"
+  
+- item: "collaboration-design"
+  title: "Collaboration Design"
+  
+- item: "communication-strategy"
+  title: "Communication Strategy"
+  
+- item: "feedback-system"
+  title: "Feedback System"
+  
+- item: "performance-management"
+  title: "Performance Management"
+  
+- item: "goal-setting"
+  title: "Goal Setting"
+  
+- item: "okr-generation"
+  title: "OKR Generation"
+  
+- item: "kpi-generation"
+  title: "KPI Generation"
+  
+- item: "metric-design"
+  title: "Metric Design"
+  
+- item: "dashboard-generation"
+  title: "Dashboard Generation"
+  
+- item: "report-automation"
+  title: "Report Automation"
+  
+- item: "insight-generation"
+  title: "Insight Generation"
+  
+- item: "pattern-recognition"
+  title: "Pattern Recognition"
+  
+- item: "trend-analysis"
+  title: "Trend Analysis"
+  
+- item: "correlation-analysis"
+  title: "Correlation Analysis"
+  
+- item: "causal-inference"
+  title: "Causal Inference"
+  
+- item: "ab-testing"
+  title: "A/B Testing"
+  
+- item: "multivariate-testing"
+  title: "Multivariate Testing"
+  
+- item: "experiment-design"
+  title: "Experiment Design"
+  
+- item: "hypothesis-generation"
+  title: "Hypothesis Generation"
+  
+- item: "validation-testing"
+  title: "Validation Testing"
+  
+- item: "quality-assurance"
+  title: "Quality Assurance"
+  
+- item: "user-testing"
+  title: "User Testing"
+  
+- item: "usability-analysis"
+  title: "Usability Analysis"
+  
+- item: "accessibility-check"
+  title: "Accessibility Checking"
+  
+- item: "compliance-checking"
+  title: "Compliance Checking"
+  
+- item: "security-testing"
+  title: "Security Testing"
+  
+- item: "penetration-testing"
+  title: "Penetration Testing"
+  
+- item: "vulnerability-scan"
+  title: "Vulnerability Scanning"
+  
+- item: "patch-generation"
+  title: "Patch Generation"
+  
+- item: "incident-response"
+  title: "Incident Response"
+  
+- item: "forensics-analysis"
+  title: "Forensics Analysis"
+  
+- item: "malware-analysis"
+  title: "Malware Analysis"
+  
+- item: "threat-detection"
+  title: "Threat Detection"
+  
+- item: "intelligence-gathering"
+  title: "Intelligence Gathering"
+  
+- item: "osint"
+  title: "Open Source Intelligence"
+  
+- item: "social-engineering"
+  title: "Social Engineering Detection"
+  
+- item: "phishing-detection"
+  title: "Phishing Detection"
+  
+- item: "spam-detection"
+  title: "Spam Detection"
+  
+- item: "bot-detection"
+  title: "Bot Detection"
+  
+- item: "fraud-prevention"
+  title: "Fraud Prevention"
+  
+- item: "identity-verification"
+  title: "Identity Verification"
+  
+- item: "biometric-authentication"
+  title: "Biometric Authentication"
+  
+- item: "liveness-detection"
+  title: "Liveness Detection"
+  
+- item: "deepfake-detection"
+  title: "Deepfake Detection"
+  
+- item: "synthetic-id-detection"
+  title: "Synthetic ID Detection"
+  
+- item: "money-laundering"
+  title: "Money Laundering Detection"
+  
+- item: "terrorism-financing"
+  title: "Terrorism Financing Detection"
+  
+- item: "sanctions-screening"
+  title: "Sanctions Screening"
+  
+- item: "pep-screening"
+  title: "PEP Screening"
+  
+- item: "kyc-automation"
+  title: "KYC Automation"
+  
+- item: "aml-automation"
+  title: "AML Automation"
+  
+- item: "regulatory-reporting"
+  title: "Regulatory Reporting"
+  
+- item: "tax-reporting"
+  title: "Tax Reporting"
+  
+- item: "financial-reporting"
+  title: "Financial Reporting"
+  
+- item: "esg-reporting"
+  title: "ESG Reporting"
+  
+- item: "sustainability-reporting"
+  title: "Sustainability Reporting"
+  
+- item: "carbon-footprint"
+  title: "Carbon Footprint Calculation"
+  
+- item: "emissions-tracking"
+  title: "Emissions Tracking"
+  
+- item: "climate-modeling"
+  title: "Climate Modeling"
+  
+- item: "weather-prediction"
+  title: "Weather Prediction"
+  
+- item: "natural-disaster"
+  title: "Natural Disaster Prediction"
+  
+- item: "agriculture-optimization"
+  title: "Agriculture Optimization"
+  
+- item: "crop-yield-prediction"
+  title: "Crop Yield Prediction"
+  
+- item: "soil-analysis"
+  title: "Soil Analysis"
+  
+- item: "water-management"
+  title: "Water Management"
+  
+- item: "irrigation-optimization"
+  title: "Irrigation Optimization"
+  
+- item: "pest-detection"
+  title: "Pest Detection"
+  
+- item: "disease-detection"
+  title: "Disease Detection"
+  
+- item: "livestock-management"
+  title: "Livestock Management"
+  
+- item: "supply-chain-tracking"
+  title: "Supply Chain Tracking"
+  
+- item: "traceability"
+  title: "Traceability"
+  
+- item: "blockchain-integration"
+  title: "Blockchain Integration"
+  
+- item: "smart-contract"
+  title: "Smart Contract Generation"
+  
+- item: "token-design"
+  title: "Token Design"
+  
+- item: "nft-generation"
+  title: "NFT Generation"
+  
+- item: "dao-management"
+  title: "DAO Management"
+  
+- item: "governance-design"
+  title: "Governance Design"
+  
+- item: "voting-systems"
+  title: "Voting Systems"
+  
+- item: "consensus-mechanisms"
+  title: "Consensus Mechanisms"
+  
+- item: "cryptography"
+  title: "Cryptography"
+  
+- item: "key-management"
+  title: "Key Management"
+  
+- item: "encryption"
+  title: "Encryption"
+  
+- item: "decryption"
+  title: "Decryption"
+  
+- item: "hash-generation"
+  title: "Hash Generation"
+  
+- item: "signature-verification"
+  title: "Signature Verification"
+  
+- item: "certificate-management"
+  title: "Certificate Management"
+  
+- item: "pki"
+  title: "PKI Management"
+  
+- item: "identity-management"
+  title: "Identity Management"
+  
+- item: "access-control"
+  title: "Access Control"
+  
+- item: "authorization"
+  title: "Authorization"
+  
+- item: "authentication"
+  title: "Authentication"
+  
+- item: "sso"
+  title: "Single Sign-On"
+  
+- item: "mfa"
+  title: "Multi-Factor Authentication"
+  
+- item: "password-management"
+  title: "Password Management"
+  
+- item: "credential-management"
+  title: "Credential Management"
+  
+- item: "secret-management"
+  title: "Secret Management"
+  
+- item: "vault-management"
+  title: "Vault Management"
+  
+- item: "audit-logging"
+  title: "Audit Logging"
+  
+- item: "activity-monitoring"
+  title: "Activity Monitoring"
+  
+- item: "behavioral-analytics"
+  title: "Behavioral Analytics"
+  
+- item: "user-analytics"
+  title: "User Analytics"
+  
+- item: "product-analytics"
+  title: "Product Analytics"
+  
+- item: "web-analytics"
+  title: "Web Analytics"
+  
+- item: "mobile-analytics"
+  title: "Mobile Analytics"
+  
+- item: "app-analytics"
+  title: "App Analytics"
+  
+- item: "game-analytics"
+  title: "Game Analytics"
+  
+- item: "esports-analytics"
+  title: "Esports Analytics"
+  
+- item: "sports-analytics"
+  title: "Sports Analytics"
+  
+- item: "player-analytics"
+  title: "Player Analytics"
+  
+- item: "team-analytics"
+  title: "Team Analytics"
+  
+- item: "coaching-analytics"
+  title: "Coaching Analytics"
+  
+- item: "performance-analytics"
+  title: "Performance Analytics"
+  
+- item: "injury-prediction"
+  title: "Injury Prediction"
+  
+- item: "recovery-optimization"
+  title: "Recovery Optimization"
+  
+- item: "nutrition-planning"
+  title: "Nutrition Planning"
+  
+- item: "diet-planning"
+  title: "Diet Planning"
+  
+- item: "meal-planning"
+  title: "Meal Planning"
+  
+- item: "recipe-generation"
+  title: "Recipe Generation"
+  
+- item: "menu-planning"
+  title: "Menu Planning"
+  
+- item: "food-combining"
+  title: "Food Combining"
+  
+- item: "allergy-management"
+  title: "Allergy Management"
+  
+- item: "intolerance-detection"
+  title: "Intolerance Detection"
+  
+- item: "health-risk-assessment"
+  title: "Health Risk Assessment"
+  
+- item: "wellness-planning"
+  title: "Wellness Planning"
+  
+- item: "fitness-planning"
+  title: "Fitness Planning"
+  
+- item: "workout-generation"
+  title: "Workout Generation"
+  
+- item: "exercise-form-check"
+  title: "Exercise Form Check"
+  
+- item: "yoga-pose-generation"
+  title: "Yoga Pose Generation"
+  
+- item: "meditation-guidance"
+  title: "Meditation Guidance"
+  
+- item: "breathing-exercises"
+  title: "Breathing Exercises"
+  
+- item: "stress-management"
+  title: "Stress Management"
+  
+- item: "sleep-optimization"
+  title: "Sleep Optimization"
+  
+- item: "circadian-rhythm"
+  title: "Circadian Rhythm"
+  
+- item: "biohacking"
+  title: "Biohacking"
+  
+- item: "nootropic-recommendation"
+  title: "Nootropic Recommendation"
+  
+- item: "supplement-recommendation"
+  title: "Supplement Recommendation"
+  
+- item: "vitamin-optimization"
+  title: "Vitamin Optimization"
+  
+- item: "mineral-optimization"
+  title: "Mineral Optimization"
+  
+- item: "hydration-tracking"
+  title: "Hydration Tracking"
+  
+- item: "sleep-tracking"
+  title: "Sleep Tracking"
+  
+- item: "activity-tracking"
+  title: "Activity Tracking"
+  
+- item: "heart-rate-analysis"
+  title: "Heart Rate Analysis"
+  
+- item: "ecg-analysis"
+  title: "ECG Analysis"
+  
+- item: "blood-pressure-analysis"
+  title: "Blood Pressure Analysis"
+  
+- item: "glucose-monitoring"
+  title: "Glucose Monitoring"
+  
+- item: "cholesterol-monitoring"
+  title: "Cholesterol Monitoring"
+  
+- item: "weight-management"
+  title: "Weight Management"
+  
+- item: "body-composition"
+  title: "Body Composition Analysis"
+  
+- item: "metabolic-analysis"
+  title: "Metabolic Analysis"
+  
+- item: "hormone-optimization"
+  title: "Hormone Optimization"
+  
+- item: "neurofeedback"
+  title: "Neurofeedback"
+  
+- item: "brain-training"
+  title: "Brain Training"
+  
+- item: "cognitive-assessment"
+  title: "Cognitive Assessment"
+  
+- item: "memory-enhancement"
+  title: "Memory Enhancement"
+  
+- item: "focus-enhancement"
+  title: "Focus Enhancement"
+  
+- item: "creativity-enhancement"
+  title: "Creativity Enhancement"
+  
+- item: "productivity-enhancement"
+  title: "Productivity Enhancement"
+  
+- item: "time-management"
+  title: "Time Management"
+  
+- item: "task-prioritization"
+  title: "Task Prioritization"
+  
+- item: "delegation-optimization"
+  title: "Delegation Optimization"
+  
+- item: "meeting-optimization"
+  title: "Meeting Optimization"
+  
+- item: "email-optimization"
+  title: "Email Optimization"
+  
+- item: "inbox-management"
+  title: "Inbox Management"
+  
+- item: "calendar-optimization"
+  title: "Calendar Optimization"
+  
+- item: "schedule-optimization"
+  title: "Schedule Optimization"
+  
+- item: "travel-planning"
+  title: "Travel Planning"
+  
+- item: "itinerary-generation"
+  title: "Itinerary Generation"
+  
+- item: "accommodation-booking"
+  title: "Accommodation Booking"
+  
+- item: "flight-optimization"
+  title: "Flight Optimization"
+  
+- item: "transportation-optimization"
+  title: "Transportation Optimization"
+  
+- item: "packing-list"
+  title: "Packing List Generation"
+  
+- item: "trip-summary"
+  title: "Trip Summary"
+  
+- item: "travel-risk-assessment"
+  title: "Travel Risk Assessment"
+  
+- item: "destination-analysis"
+  title: "Destination Analysis"
+  
+- item: "cultural-adaptation"
+  title: "Cultural Adaptation"
+  
+- item: "language-adaptation"
+  title: "Language Adaptation"
+  
+- item: "localization"
+  title: "Localization"
+  
+- item: "transcreation"
+  title: "Transcreation"
+  
+- item: "translation-memory"
+  title: "Translation Memory"
+  
+- item: "terminology-management"
+  title: "Terminology Management"
+  
+- item: "glossary-generation"
+  title: "Glossary Generation"
+  
+- item: "style-guide"
+  title: "Style Guide Generation"
+  
+- item: "tone-guide"
+  title: "Tone Guide Generation"
+  
+- item: "brand-guidelines"
+  title: "Brand Guidelines Generation"
+  
+- item: "visual-identity"
+  title: "Visual Identity Design"
+  
+- item: "design-system"
+  title: "Design System Generation"
+  
+- item: "component-library"
+  title: "Component Library Generation"
+  
+- item: "pattern-library"
+  title: "Pattern Library Generation"
+  
+- item: "ui-framework"
+  title: "UI Framework Generation"
+  
+- item: "css-generation"
+  title: "CSS Generation"
+  
+- item: "html-generation"
+  title: "HTML Generation"
+  
+- item: "javascript-generation"
+  title: "JavaScript Generation"
+  
+- item: "typescript-generation"
+  title: "TypeScript Generation"
+  
+- item: "python-generation"
+  title: "Python Generation"
+  
+- item: "java-generation"
+  title: "Java Generation"
+  
+- item: "csharp-generation"
+  title: "C# Generation"
+  
+- item: "cpp-generation"
+  title: "C++ Generation"
+  
+- item: "rust-generation"
+  title: "Rust Generation"
+  
+- item: "go-generation"
+  title: "Go Generation"
+  
+- item: "swift-generation"
+  title: "Swift Generation"
+  
+- item: "kotlin-generation"
+  title: "Kotlin Generation"
+  
+- item: "ruby-generation"
+  title: "Ruby Generation"
+  
+- item: "php-generation"
+  title: "PHP Generation"
+  
+- item: "perl-generation"
+  title: "Perl Generation"
+  
+- item: "lua-generation"
+  title: "Lua Generation"
+  
+- item: "r-generation"
+  title: "R Generation"
+  
+- item: "matlab-generation"
+  title: "MATLAB Generation"
+  
+- item: "julia-generation"
+  title: "Julia Generation"
+  
+- item: "scala-generation"
+  title: "Scala Generation"
+  
+- item: "clojure-generation"
+  title: "Clojure Generation"
+  
+- item: "elixir-generation"
+  title: "Elixir Generation"
+  
+- item: "erlang-generation"
+  title: "Erlang Generation"
+  
+- item: "haskell-generation"
+  title: "Haskell Generation"
+  
+- item: "ocaml-generation"
+  title: "OCaml Generation"
+  
+- item: "prolog-generation"
+  title: "Prolog Generation"
+  
+- item: "sql-generation"
+  title: "SQL Generation"
+  
+- item: "nosql-generation"
+  title: "NoSQL Generation"
+  
+- item: "graphql-generation"
+  title: "GraphQL Generation"
+  
+- item: "rest-api-generation"
+  title: "REST API Generation"
+  
+- item: "grpc-generation"
+  title: "gRPC Generation"
+  
+- item: "websocket-generation"
+  title: "WebSocket Generation"
+  
+- item: "mqtt-generation"
+  title: "MQTT Generation"
+  
+- item: "amqp-generation"
+  title: "AMQP Generation"
+  
+- item: "docker-generation"
+  title: "Docker Generation"
+  
+- item: "kubernetes-generation"
+  title: "Kubernetes Generation"
+  
+- item: "terraform-generation"
+  title: "Terraform Generation"
+  
+- item: "ansible-generation"
+  title: "Ansible Generation"
+  
+- item: "chef-generation"
+  title: "Chef Generation"
+  
+- item: "puppet-generation"
+  title: "Puppet Generation"
+  
+- item: "jenkins-generation"
+  title: "Jenkins Generation"
+  
+- item: "github-actions"
+  title: "GitHub Actions Generation"
+  
+- item: "gitlab-ci"
+  title: "GitLab CI Generation"
+  
+- item: "circleci-generation"
+  title: "CircleCI Generation"
+  
+- item: "travis-generation"
+  title: "Travis CI Generation"
+  
+- item: "deployment-generation"
+  title: "Deployment Generation"
+  
+- item: "monitoring-generation"
+  title: "Monitoring Generation"
+  
+- item: "logging-generation"
+  title: "Logging Generation"
+  
+- item: "alerting-generation"
+  title: "Alerting Generation"
+  
+- item: "observability-generation"
+  title: "Observability Generation"
+  
+- item: "tracing-generation"
+  title: "Tracing Generation"
+  
+- item: "metrics-generation"
+  title: "Metrics Generation"
+  
+- item: "dashboard-generation"
+  title: "Dashboard Generation"
+  
+- item: "visualization-generation"
+  title: "Visualization Generation"
+  
+- item: "chart-generation"
+  title: "Chart Generation"
+  
+- item: "graph-generation"
+  title: "Graph Generation"
+  
+- item: "map-generation"
+  title: "Map Generation"
+  
+- item: "gis-analysis"
+  title: "GIS Analysis"
+  
+- item: "spatial-analysis"
+  title: "Spatial Analysis"
+  
+- item: "geospatial-analysis"
+  title: "Geospatial Analysis"
+  
+- item: "satellite-analysis"
+  title: "Satellite Analysis"
+  
+- item: "drone-analysis"
+  title: "Drone Analysis"
+  
+- item: "aerial-analysis"
+  title: "Aerial Analysis"
+  
+- item: "terrain-analysis"
+  title: "Terrain Analysis"
+  
+- item: "topography-analysis"
+  title: "Topography Analysis"
+  
+- item: "bathymetry-analysis"
+  title: "Bathymetry Analysis"
+  
+- item: "hydrology-analysis"
+  title: "Hydrology Analysis"
+  
+- item: "oceanography-analysis"
+  title: "Oceanography Analysis"
+  
+- item: "atmospheric-analysis"
+  title: "Atmospheric Analysis"
+  
+- item: "space-analysis"
+  title: "Space Analysis"
+  
+- item: "astronomy-analysis"
+  title: "Astronomy Analysis"
+  
+- item: "astrophysics-analysis"
+  title: "Astrophysics Analysis"
+  
+- item: "cosmology-analysis"
+  title: "Cosmology Analysis"
+  
+- item: "particle-physics"
+  title: "Particle Physics"
+  
+- item: "quantum-physics"
+  title: "Quantum Physics"
+  
+- item: "chemistry-analysis"
+  title: "Chemistry Analysis"
+  
+- item: "biology-analysis"
+  title: "Biology Analysis"
+  
+- item: "ecology-analysis"
+  title: "Ecology Analysis"
+  
+- item: "evolution-analysis"
+  title: "Evolution Analysis"
+  
+- item: "genetics-analysis"
+  title: "Genetics Analysis"
+  
+- item: "microbiology-analysis"
+  title: "Microbiology Analysis"
+  
+- item: "virology-analysis"
+  title: "Virology Analysis"
+  
+- item: "immunology-analysis"
+  title: "Immunology Analysis"
+  
+- item: "neuroscience-analysis"
+  title: "Neuroscience Analysis"
+  
+- item: "psychology-analysis"
+  title: "Psychology Analysis"
+  
+- item: "sociology-analysis"
+  title: "Sociology Analysis"
+  
+- item: "anthropology-analysis"
+  title: "Anthropology Analysis"
+  
+- item: "archaeology-analysis"
+  title: "Archaeology Analysis"
+  
+- item: "history-analysis"
+  title: "History Analysis"
+  
+- item: "linguistics-analysis"
+  title: "Linguistics Analysis"
+  
+- item: "philosophy-analysis"
+  title: "Philosophy Analysis"
+  
+- item: "ethics-analysis"
+  title: "Ethics Analysis"
+  
+- item: "morality-analysis"
+  title: "Morality Analysis"
+  
+- item: "logic-analysis"
+  title: "Logic Analysis"
+  
+- item: "mathematics-analysis"
+  title: "Mathematics Analysis"
+  
+- item: "statistics-analysis"
+  title: "Statistics Analysis"
+  
+- item: "probability-analysis"
+  title: "Probability Analysis"
+  
+- item: "game-theory"
+  title: "Game Theory"
+  
+- item: "decision-theory"
+  title: "Decision Theory"
+  
+- item: "information-theory"
+  title: "Information Theory"
+  
+- item: "control-theory"
+  title: "Control Theory"
+  
+- item: "signal-processing"
+  title: "Signal Processing"
+  
+- item: "image-processing"
+  title: "Image Processing"
+  
+- item: "video-processing"
+  title: "Video Processing"
+  
+- item: "audio-processing"
+  title: "Audio Processing"
+  
+- item: "natural-language-processing"
+  title: "Natural Language Processing"
+  
+- item: "speech-processing"
+  title: "Speech Processing"
+  
+- item: "knowledge-representation"
+  title: "Knowledge Representation"
+  
+- item: "semantic-web"
+  title: "Semantic Web"
+  
+- item: "ontology-engineering"
+  title: "Ontology Engineering"
+  
+- item: "knowledge-graph"
+  title: "Knowledge Graph"
+  
+- item: "reasoning-engine"
+  title: "Reasoning Engine"
+  
+- item: "inference-engine"
+  title: "Inference Engine"
+  
+- item: "rule-engine"
+  title: "Rule Engine"
+  
+- item: "expert-system"
+  title: "Expert System"
+  
+- item: "decision-support"
+  title: "Decision Support System"
+  
+- item: "business-rules"
+  title: "Business Rules Engine"
+  
+- item: "workflow-engine"
+  title: "Workflow Engine"
+  
+- item: "process-automation"
+  title: "Process Automation"
+  
+- item: "rpa"
+  title: "Robotic Process Automation"
+  
+- item: "intelligent-automation"
+  title: "Intelligent Automation"
+  
+- item: "cognitive-automation"
+  title: "Cognitive Automation"
+  
+- item: "hyperautomation"
+  title: "Hyperautomation"
+  
+- item: "agentic-automation"
+  title: "Agentic Automation"
+  
+- item: "swarm-intelligence"
+  title: "Swarm Intelligence"
+  
+- item: "collective-intelligence"
+  title: "Collective Intelligence"
+  
+- item: "human-ai-collaboration"
+  title: "Human-AI Collaboration"
+  
+- item: "human-in-the-loop"
+  title: "Human-in-the-Loop"
+  
+- item: "human-feedback"
+  title: "Human Feedback"
+  
+- item: "preference-learning"
+  title: "Preference Learning"
+  
+- item: "preference-optimization"
+  title: "Preference Optimization"
+  
+- item: "preference-matching"
+  title: "Preference Matching"
+  
+- item: "recommendation-engine"
+  title: "Recommendation Engine"
+  
+- item: "personalization-engine"
+  title: "Personalization Engine"
+  
+- item: "ranking-algorithm"
+  title: "Ranking Algorithm"
+  
+- item: "search-algorithm"
+  title: "Search Algorithm"
+  
+- item: "retrieval-algorithm"
+  title: "Retrieval Algorithm"
+  
+- item: "matching-algorithm"
+  title: "Matching Algorithm"
+  
+- item: "clustering-algorithm"
+  title: "Clustering Algorithm"
+  
+- item: "classification-algorithm"
+  title: "Classification Algorithm"
+  
+- item: "regression-algorithm"
+  title: "Regression Algorithm"
+  
+- item: "optimization-algorithm"
+  title: "Optimization Algorithm"
+  
+- item: "heuristic-algorithm"
+  title: "Heuristic Algorithm"
+  
+- item: "metaheuristic-algorithm"
+  title: "Metaheuristic Algorithm"
+  
+- item: "genetic-algorithm"
+  title: "Genetic Algorithm"
+  
+- item: "evolutionary-algorithm"
+  title: "Evolutionary Algorithm"
+  
+- item: "particle-swarm"
+  title: "Particle Swarm Optimization"
+  
+- item: "ant-colony"
+  title: "Ant Colony Optimization"
+  
+- item: "simulated-annealing"
+  title: "Simulated Annealing"
+  
+- item: "tabu-search"
+  title: "Tabu Search"
+  
+- item: "hill-climbing"
+  title: "Hill Climbing"
+  
+- item: "gradient-descent"
+  title: "Gradient Descent"
+  
+- item: "stochastic-gradient"
+  title: "Stochastic Gradient Descent"
+  
+- item: "adam-optimizer"
+  title: "Adam Optimizer"
+  
+- item: "rmsprop"
+  title: "RMSprop"
+  
+- item: "adagrad"
+  title: "Adagrad"
+  
+- item: "adadelta"
+  title: "Adadelta"
+  
+- item: "adamw"
+  title: "AdamW"
+  
+- item: "lamb"
+  title: "LAMB"
+  
+- item: "lars"
+  title: "LARS"
+  
+- item: "shampoo"
+  title: "Shampoo"
+  
+- item: "softhinge"
+  title: "Softhinge"
+  
+- item: "normalization"
+  title: "Normalization"
+  
+- item: "standardization"
+  title: "Standardization"
+  
+- item: "scaling"
+  title: "Scaling"
+  
+- item: "imputation"
+  title: "Imputation"
+  
+- item: "encoding"
+  title: "Encoding"
+  
+- item: "embedding"
+  title: "Embedding"
+  
+- item: "tokenization"
+  title: "Tokenization"
+  
+- item: "segmentation"
+  title: "Segmentation"
+  
+- item: "parsing"
+  title: "Parsing"
+  
+- item: "lemmatization"
+  title: "Lemmatization"
+  
+- item: "stemming"
+  title: "Stemming"
+  
+- item: "stopword-removal"
+  title: "Stopword Removal"
+  
+- item: "ngram-generation"
+  title: "N-gram Generation"
+  
+- item: "tfidf"
+  title: "TF-IDF"
+  
+- item: "bag-of-words"
+  title: "Bag of Words"
+  
+- item: "word2vec"
+  title: "Word2Vec"
+  
+- item: "glove"
+  title: "GloVe"
+  
+- item: "fasttext"
+  title: "FastText"
+  
+- item: "bert-embedding"
+  title: "BERT Embedding"
+  
+- item: "sentence-embedding"
+  title: "Sentence Embedding"
+  
+- item: "document-embedding"
+  title: "Document Embedding"
+  
+- item: "image-embedding"
+  title: "Image Embedding"
+  
+- item: "video-embedding"
+  title: "Video Embedding"
+  
+- item: "audio-embedding"
+  title: "Audio Embedding"
+  
+- item: "multimodal-embedding"
+  title: "Multimodal Embedding"
+  
+- item: "cross-modal-embedding"
+  title: "Cross-Modal Embedding"
+  
+- item: "clip-embedding"
+  title: "CLIP Embedding"
+  
+- item: "blip-embedding"
+  title: "BLIP Embedding"
+  
+- item: "dino-embedding"
+  title: "DINO Embedding"
+  
+- item: "sam-embedding"
+  title: "SAM Embedding"
+  
+- item: "segformer-embedding"
+  title: "SegFormer Embedding"
+  
+- item: "vit-embedding"
+  title: "ViT Embedding"
+  
+- item: "resnet-embedding"
+  title: "ResNet Embedding"
+  
+- item: "efficientnet-embedding"
+  title: "EfficientNet Embedding"
+  
+- item: "mobilenet-embedding"
+  title: "MobileNet Embedding"
+  
+- item: "yolo-embedding"
+  title: "YOLO Embedding"
+  
+- item: "detr-embedding"
+  title: "DETR Embedding"
+  
+- item: "mask-rcnn-embedding"
+  title: "Mask R-CNN Embedding"
+  
+- item: "faster-rcnn-embedding"
+  title: "Faster R-CNN Embedding"
+  
+- item: "ssd-embedding"
+  title: "SSD Embedding"
+  
+- item: "retinanet-embedding"
+  title: "RetinaNet Embedding"
+  
+- item: "efficientdet-embedding"
+  title: "EfficientDet Embedding"
+  
+- item: "nanodet-embedding"
+  title: "NanoDet Embedding"
+  
+- item: "centernet-embedding"
+  title: "CenterNet Embedding"
+  
+- item: "cornernet-embedding"
+  title: "CornerNet Embedding"
+  
+- item: "extremenet-embedding"
+  title: "ExtremeNet Embedding"
+  
+- item: "fcos-embedding"
+  title: "FCOS Embedding"
+  
+- item: "atss-embedding"
+  title: "ATSS Embedding"
+  
+- item: "pafpn-embedding"
+  title: "PAFPN Embedding"
+  
+- item: "bi-fpn-embedding"
+  title: "BiFPN Embedding"
+  
+- item: "nas-fpn-embedding"
+  title: "NAS-FPN Embedding"
+  
+- item: "slim-neck-embedding"
+  title: "Slim-Neck Embedding"
+  
+- item: "slim-head-embedding"
+  title: "Slim-Head Embedding"
+  
+- item: "sparse-embedding"
+  title: "Sparse Embedding"
+  
+- item: "dense-embedding"
+  title: "Dense Embedding"
+  
+- item: "binary-embedding"
+  title: "Binary Embedding"
+  
+- item: "quantized-embedding"
+  title: "Quantized Embedding"
+  
+- item: "product-quantization"
+  title: "Product Quantization"
+  
+- item: "additive-quantization"
+  title: "Additive Quantization"
+  
+- item: "residual-quantization"
+  title: "Residual Quantization"
+  
+- item: "vector-quantization"
+  title: "Vector Quantization"
+  
+- item: "hashing"
+  title: "Hashing"
+  
+- item: "locality-sensitive-hashing"
+  title: "Locality-Sensitive Hashing"
+  
+- item: "random-projection"
+  title: "Random Projection"
+  
+- item: "pca"
+  title: "Principal Component Analysis"
+  
+- item: "tsne"
+  title: "t-SNE"
+  
+- item: "umap"
+  title: "UMAP"
+  
+- item: "pca-umap"
+  title: "PCA-UMAP"
+  
+- item: "pca-tsne"
+  title: "PCA-t-SNE"
+  
+- item: "umap-tsne"
+  title: "UMAP-t-SNE"
+  
+- item: "isomap"
+  title: "Isomap"
+  
+- item: "mds"
+  title: "Multidimensional Scaling"
+  
+- item: "lda"
+  title: "Linear Discriminant Analysis"
+  
+- item: "qda"
+  title: "Quadratic Discriminant Analysis"
+  
+- item: "gda"
+  title: "Gaussian Discriminant Analysis"
+  
+- item: "naive-bayes"
+  title: "Naive Bayes"
+  
+- item: "logistic-regression"
+  title: "Logistic Regression"
+  
+- item: "linear-regression"
+  title: "Linear Regression"
+  
+- item: "ridge-regression"
+  title: "Ridge Regression"
+  
+- item: "lasso-regression"
+  title: "Lasso Regression"
+  
+- item: "elastic-net"
+  title: "Elastic Net"
+  
+- item: "svm"
+  title: "Support Vector Machine"
+  
+- item: "kernel-svm"
+  title: "Kernel SVM"
+  
+- item: "decision-tree"
+  title: "Decision Tree"
+  
+- item: "random-forest"
+  title: "Random Forest"
+  
+- item: "gradient-boosting"
+  title: "Gradient Boosting"
+  
+- item: "xgboost"
+  title: "XGBoost"
+  
+- item: "lightgbm"
+  title: "LightGBM"
+  
+- item: "catboost"
+  title: "CatBoost"
+  
+- item: "adaboost"
+  title: "AdaBoost"
+  
+- item: "bagging"
+  title: "Bagging"
+  
+- item: "stacking"
+  title: "Stacking"
+  
+- item: "voting"
+  title: "Voting"
+  
+- item: "weighted-voting"
+  title: "Weighted Voting"
+  
+- item: "soft-voting"
+  title: "Soft Voting"
+  
+- item: "hard-voting"
+  title: "Hard Voting"
+  
+- item: "blending"
+  title: "Blending"
+  
+- item: "ensemble-learning"
+  title: "Ensemble Learning"
+  
+- item: "meta-learning"
+  title: "Meta-Learning"
+  
+- item: "multi-task-learning"
+  title: "Multi-Task Learning"
+  
+- item: "few-shot-learning"
+  title: "Few-Shot Learning"
+  
+- item: "one-shot-learning"
+  title: "One-Shot Learning"
+  
+- item: "zero-shot-learning"
+  title: "Zero-Shot Learning"
+  
+- item: "continual-learning"
+  title: "Continual Learning"
+  
+- item: "lifelong-learning"
+  title: "Lifelong Learning"
+  
+- item: "online-learning"
+  title: "Online Learning"
+  
+- item: "incremental-learning"
+  title: "Incremental Learning"
+  
+- item: "active-learning"
+  title: "Active Learning"
+  
+- item: "semi-supervised-learning"
+  title: "Semi-Supervised Learning"
+  
+- item: "self-supervised-learning"
+  title: "Self-Supervised Learning"
+  
+- item: "unsupervised-learning"
+  title: "Unsupervised Learning"
+  
+- item: "supervised-learning"
+  title: "Supervised Learning"
+  
+- item: "reinforcement-learning"
+  title: "Reinforcement Learning"
+  
+- item: "deep-reinforcement-learning"
+  title: "Deep Reinforcement Learning"
+  
+- item: "multi-agent-reinforcement"
+  title: "Multi-Agent Reinforcement Learning"
+  
+- item: "inverse-reinforcement"
+  title: "Inverse Reinforcement Learning"
+  
+- item: "imitation-learning"
+  title: "Imitation Learning"
+  
+- item: "behavioral-cloning"
+  title: "Behavioral Cloning"
+  
+- item: "dagger"
+  title: "DAgger"
+  
+- item: "gail"
+  title: "GAIL"
+  
+- item: "airl"
+  title: "AIRL"
+  
+- item: "sac"
+  title: "SAC"
+  
+- item: "td3"
+  title: "TD3"
+  
+- item: "ddpg"
+  title: "DDPG"
+  
+- item: "ppo"
+  title: "PPO"
+  
+- item: "trpo"
+  title: "TRPO"
+  
+- item: "a2c"
+  title: "A2C"
+  
+- item: "a3c"
+  title: "A3C"
+  
+- item: "dqn"
+  title: "DQN"
+  
+- item: "double-dqn"
+  title: "Double DQN"
+  
+- item: "dueling-dqn"
+  title: "Dueling DQN"
+  
+- item: "prioritized-dqn"
+  title: "Prioritized DQN"
+  
+- item: "rainbow-dqn"
+  title: "Rainbow DQN"
+  
+- item: "iqn"
+  title: "IQN"
+  
+- item: "fqf"
+  title: "FQF"
+  
+- item: "qr-dqn"
+  title: "QR-DQN"
+  
+- item: "c51"
+  title: "C51"
+  
+- item: "her"
+  title: "HER"
+  
+- item: "curiosity-driven"
+  title: "Curiosity-Driven Learning"
+  
+- item: "intrinsic-motivation"
+  title: "Intrinsic Motivation"
+  
+- item: "extrinsic-motivation"
+  title: "Extrinsic Motivation"
+  
+- item: "reward-shaping"
+  title: "Reward Shaping"
+  
+- item: "hierarchical-rl"
+  title: "Hierarchical Reinforcement Learning"
+  
+- item: "option-critic"
+  title: "Option-Critic"
+  
+- item: "feudal-rl"
+  title: "Feudal Reinforcement Learning"
+  
+- item: "maxq"
+  title: "MAXQ"
+  
+- item: "hqn"
+  title: "HQN"
+  
+- item: "hppo"
+  title: "HPPO"
+  
+- item: "hddpg"
+  title: "HDDPG"
+  
+- item: "hsac"
+  title: "HSAC"
+  
+- item: "hga"
+  title: "HGA"
+  
+- item: "hdp"
+  title: "HDP"
+  
+- item: "hdpg"
+  title: "HDPG"
+  
+- item: "ha2c"
+  title: "HA2C"
+  
+- item: "ha3c"
+  title: "HA3C"
+  
+- item: "hrl"
+  title: "HRL"
+  
+- item: "rl"
+  title: "RL"
+  
+- item: "drl"
+  title: "DRL"
+  
+- item: "marl"
+  title: "MARL"
+  
+- item: "marl-framework"
+  title: "MARL Framework"
+  
+- item: "marl-algorithms"
+  title: "MARL Algorithms"
+  
+- item: "marl-environments"
+  title: "MARL Environments"
+  
+- item: "marl-benchmarks"
+  title: "MARL Benchmarks"
+  
+- item: "marl-applications"
+  title: "MARL Applications"
+  
+- item: "multi-agent-systems"
+  title: "Multi-Agent Systems"
+  
+- item: "distributed-ai"
+  title: "Distributed AI"
+  
+- item: "federated-learning"
+  title: "Federated Learning"
+  
+- item: "federated-averaging"
+  title: "Federated Averaging"
+  
+- item: "federated-optimization"
+  title: "Federated Optimization"
+  
+- item: "split-learning"
+  title: "Split Learning"
+  
+- item: "vertical-federated"
+  title: "Vertical Federated Learning"
+  
+- item: "horizontal-federated"
+  title: "Horizontal Federated Learning"
+  
+- item: "transfer-learning"
+  title: "Transfer Learning"
+  
+- item: "domain-adaptation"
+  title: "Domain Adaptation"
+  
+- item: "domain-generalization"
+  title: "Domain Generalization"
+  
+- item: "style-transfer"
+  title: "Style Transfer"
+  
+- item: "adversarial-training"
+  title: "Adversarial Training"
+  
+- item: "adversarial-attacks"
+  title: "Adversarial Attacks"
+  
+- item: "adversarial-defense"
+  title: "Adversarial Defense"
+  
+- item: "model-robustness"
+  title: "Model Robustness"
+  
+- item: "model-interpretability"
+  title: "Model Interpretability"
+  
+- item: "model-explainability"
+  title: "Model Explainability"
+  
+- item: "model-fairness"
+  title: "Model Fairness"
+  
+- item: "model-bias"
+  title: "Model Bias Detection"
+  
+- item: "model-accountability"
+  title: "Model Accountability"
+  
+- item: "model-transparency"
+  title: "Model Transparency"
+  
+- item: "model-privacy"
+  title: "Model Privacy"
+  
+- item: "differential-privacy"
+  title: "Differential Privacy"
+  
+- item: "privacy-preserving"
+  title: "Privacy-Preserving AI"
+  
+- item: "homomorphic-encryption"
+  title: "Homomorphic Encryption"
+  
+- item: "secure-multiparty"
+  title: "Secure Multi-Party Computation"
+  
+- item: "zero-knowledge-proofs"
+  title: "Zero-Knowledge Proofs"
+  
+- item: "trusted-execution"
+  title: "Trusted Execution"
+  
+- item: "confidential-computing"
+  title: "Confidential Computing"
+  
+- item: "data-privacy"
+  title: "Data Privacy"
+  
+- item: "data-security"
+  title: "Data Security"
+  
+- item: "data-governance"
+  title: "Data Governance"
+  
+- item: "data-lineage"
+  title: "Data Lineage"
+  
+- item: "data-catalog"
+  title: "Data Catalog"
+  
+- item: "data-discovery"
+  title: "Data Discovery"
+  
+- item: "data-mesh"
+  title: "Data Mesh"
+  
+- item: "data-fabric"
+  title: "Data Fabric"
+  
+- item: "data-lake"
+  title: "Data Lake"
+  
+- item: "data-warehouse"
+  title: "Data Warehouse"
+  
+- item: "data-mart"
+  title: "Data Mart"
+  
+- item: "data-pipeline"
+  title: "Data Pipeline"
+  
+- item: "etl"
+  title: "ETL"
+  
+- item: "elt"
+  title: "ELT"
+  
+- item: "data-integration"
+  title: "Data Integration"
+  
+- item: "data-sync"
+  title: "Data Sync"
+  
+- item: "data-replication"
+  title: "Data Replication"
+  
+- item: "data-migration"
+  title: "Data Migration"
+  
+- item: "data-conversion"
+  title: "Data Conversion"
+  
+- item: "data-transformation"
+  title: "Data Transformation"
+  
+- item: "data-enrichment"
+  title: "Data Enrichment"
+  
+- item: "data-augmentation"
+  title: "Data Augmentation"
+  
+- item: "data-synthesis"
+  title: "Data Synthesis"
+  
+- item: "data-generation"
+  title: "Data Generation"
+  
+- item: "data-labeling"
+  title: "Data Labeling"
+  
+- item: "data-annotation"
+  title: "Data Annotation"
+  
+- item: "data-curation"
+  title: "Data Curation"
+  
+- item: "data-cleaning"
+  title: "Data Cleaning"
+  
+- item: "data-validation"
+  title: "Data Validation"
+  
+- item: "data-quality"
+  title: "Data Quality Assessment"
+  
+- item: "data-profiling"
+  title: "Data Profiling"
+  
+- item: "data-audit"
+  title: "Data Audit"
+  
+- item: "data-compliance"
+  title: "Data Compliance"
+  
+- item: "data-ethics"
+  title: "Data Ethics"
+  
+- item: "responsible-ai"
+  title: "Responsible AI"
+  
+- item: "ethical-ai"
+  title: "Ethical AI"
+  
+- item: "trustworthy-ai"
+  title: "Trustworthy AI"
+  
+- item: "human-centric-ai"
+  title: "Human-Centric AI"
+  
+- item: "value-aligned-ai"
+  title: "Value-Aligned AI"
+  
+- item: "safe-ai"
+  title: "Safe AI"
+  
+- item: "align-ai"
+  title: "AI Alignment"
+  
+- item: "ai-safety"
+  title: "AI Safety"
+  
+- item: "ai-governance"
+  title: "AI Governance"
+  
+- item: "ai-regulation"
+  title: "AI Regulation"
+  
+- item: "ai-policy"
+  title: "AI Policy"
+  
+- item: "ai-standardization"
+  title: "AI Standardization"
+  
+- item: "ai-benchmarking"
+  title: "AI Benchmarking"
+  
+- item: "ai-evaluation"
+  title: "AI Evaluation"
+  
+- item: "ai-testing"
+  title: "AI Testing"
+  
+- item: "ai-validation"
+  title: "AI Validation"
+  
+- item: "ai-verification"
+  title: "AI Verification"
+  
+- item: "ai-certification"
+  title: "AI Certification"
+  
+- item: "ai-auditing"
+  title: "AI Auditing"
+  
+- item: "ai-risk-management"
+  title: "AI Risk Management"
+  
+- item: "ai-impact-assessment"
+  title: "AI Impact Assessment"
+  
+- item: "ai-readiness"
+  title: "AI Readiness Assessment"
+  
+- item: "ai-maturity"
+  title: "AI Maturity Assessment"
+  
+- item: "ai-strategy"
+  title: "AI Strategy Development"
+  
+- item: "ai-roadmap"
+  title: "AI Roadmap Generation"
+  
+- item: "ai-transformation"
+  title: "AI Transformation"
+  
+- item: "ai-adoption"
+  title: "AI Adoption"
+  
+- item: "ai-innovation"
+  title: "AI Innovation"
+  
+- item: "ai-research"
+  title: "AI Research"
+  
+- item: "ai-development"
+  title: "AI Development"
+  
+- item: "ai-engineering"
+  title: "AI Engineering"
+  
+- item: "ai-operations"
+  title: "AI Operations"
+  
+- item: "ai-ops"
+  title: "AIOps"
+  
+- item: "ml-ops"
+  title: "MLOps"
+  
+- item: "llm-ops"
+  title: "LLMOps"
+  
+- item: "data-ops"
+  title: "DataOps"
+  
+- item: "model-ops"
+  title: "ModelOps"
+  
+- item: "feature-ops"
+  title: "FeatureOps"
+  
+- item: "pipeline-ops"
+  title: "PipelineOps"
+  
+- item: "deployment-ops"
+  title: "DeploymentOps"
+  
+- item: "monitoring-ops"
+  title: "MonitoringOps"
+  
+- item: "alerting-ops"
+  title: "AlertingOps"
+  
+- item: "observability-ops"
+  title: "ObservabilityOps"
+  
+- item: "security-ops"
+  title: "SecurityOps"
+  
+- item: "compliance-ops"
+  title: "ComplianceOps"
+  
+- item: "governance-ops"
+  title: "GovernanceOps"
+  
+- item: "automation-ops"
+  title: "AutomationOps"
+  
+- item: "orchestration-ops"
+  title: "OrchestrationOps"
+  
+- item: "scaling-ops"
+  title: "ScalingOps"
+  
+- item: "performance-ops"
+  title: "PerformanceOps"
+  
+- item: "cost-ops"
+  title: "CostOps"
+  
+- item: "resource-ops"
+  title: "ResourceOps"
+  
+- item: "capacity-ops"
+  title: "CapacityOps"
+  
+- item: "reliability-ops"
+  title: "ReliabilityOps"
+  
+- item: "availability-ops"
+  title: "AvailabilityOps"
+  
+- item: "durability-ops"
+  title: "DurabilityOps"
+  
+- item: "consistency-ops"
+  title: "ConsistencyOps"
+  
+- item: "latency-ops"
+  title: "LatencyOps"
+  
+- item: "throughput-ops"
+  title: "ThroughputOps"
+  
+- item: "efficiency-ops"
+  title: "EfficiencyOps"
+  
+- item: "sustainability-ops"
+  title: "SustainabilityOps"
+  
+- item: "green-ai"
+  title: "Green AI"
+  
+- item: "energy-efficient-ai"
+  title: "Energy-Efficient AI"
+  
+- item: "carbon-aware-ai"
+  title: "Carbon-Aware AI"
+  
+- item: "eco-friendly-ai"
+  title: "Eco-Friendly AI"
+  
+- item: "sustainable-ai"
+  title: "Sustainable AI"
