@@ -1,0 +1,308 @@
+- item: "commerce"
+  title: "Commerce"
+
+- item: "psychology"
+  title: "Psychology"
+
+- item: "politics"
+  title: "Politics"
+
+- item: "computer-science"
+  title: "Computer Science"
+
+- item: "information-technology"
+  title: "Information Technology"
+
+- item: "software-engineering"
+  title: "Software Engineering"
+
+- item: "data-science"
+  title: "Data Science"
+
+- item: "artificial-intelligence"
+  title: "Artificial Intelligence"
+
+- item: "cybersecurity"
+  title: "Cybersecurity"
+
+- item: "mathematics"
+  title: "Mathematics"
+
+- item: "statistics"
+  title: "Statistics"
+
+- item: "physics"
+  title: "Physics"
+
+- item: "chemistry"
+  title: "Chemistry"
+
+- item: "biology"
+  title: "Biology"
+
+- item: "biotechnology"
+  title: "Biotechnology"
+
+- item: "biochemistry"
+  title: "Biochemistry"
+
+- item: "microbiology"
+  title: "Microbiology"
+
+- item: "zoology"
+  title: "Zoology"
+
+- item: "botany"
+  title: "Botany"
+
+- item: "environmental-science"
+  title: "Environmental Science"
+
+- item: "geology"
+  title: "Geology"
+
+- item: "astronomy"
+  title: "Astronomy"
+
+- item: "engineering"
+  title: "Engineering"
+
+- item: "mechanical-engineering"
+  title: "Mechanical Engineering"
+
+- item: "electrical-engineering"
+  title: "Electrical Engineering"
+
+- item: "civil-engineering"
+  title: "Civil Engineering"
+
+- item: "chemical-engineering"
+  title: "Chemical Engineering"
+
+- item: "electronics-engineering"
+  title: "Electronics Engineering"
+
+- item: "telecommunication-engineering"
+  title: "Telecommunication Engineering"
+
+- item: "aerospace-engineering"
+  title: "Aerospace Engineering"
+
+- item: "automobile-engineering"
+  title: "Automobile Engineering"
+
+- item: "robotics-engineering"
+  title: "Robotics Engineering"
+
+- item: "architecture"
+  title: "Architecture"
+
+- item: "urban-planning"
+  title: "Urban Planning"
+
+- item: "design"
+  title: "Design"
+
+- item: "graphic-design"
+  title: "Graphic Design"
+
+- item: "fashion-design"
+  title: "Fashion Design"
+
+- item: "interior-design"
+  title: "Interior Design"
+
+- item: "fine-arts"
+  title: "Fine Arts"
+
+- item: "performing-arts"
+  title: "Performing Arts"
+
+- item: "music"
+  title: "Music"
+
+- item: "dance"
+  title: "Dance"
+
+- item: "theatre"
+  title: "Theatre"
+
+- item: "film-studies"
+  title: "Film Studies"
+
+- item: "journalism"
+  title: "Journalism"
+
+- item: "mass-communication"
+  title: "Mass Communication"
+
+- item: "advertising"
+  title: "Advertising"
+
+- item: "public-relations"
+  title: "Public Relations"
+
+- item: "marketing"
+  title: "Marketing"
+
+- item: "finance"
+  title: "Finance"
+
+- item: "accounting"
+  title: "Accounting"
+
+- item: "economics"
+  title: "Economics"
+
+- item: "business-administration"
+  title: "Business Administration"
+
+- item: "human-resources"
+  title: "Human Resources"
+
+- item: "management"
+  title: "Management"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship"
+
+- item: "international-business"
+  title: "International Business"
+
+- item: "law"
+  title: "Law"
+
+- item: "criminology"
+  title: "Criminology"
+
+- item: "political-science"
+  title: "Political Science"
+
+- item: "public-administration"
+  title: "Public Administration"
+
+- item: "international-relations"
+  title: "International Relations"
+
+- item: "sociology"
+  title: "Sociology"
+
+- item: "anthropology"
+  title: "Anthropology"
+
+- item: "archaeology"
+  title: "Archaeology"
+
+- item: "history"
+  title: "History"
+
+- item: "geography"
+  title: "Geography"
+
+- item: "linguistics"
+  title: "Linguistics"
+
+- item: "literature"
+  title: "Literature"
+
+- item: "english"
+  title: "English"
+
+- item: "creative-writing"
+  title: "Creative Writing"
+
+- item: "philosophy"
+  title: "Philosophy"
+
+- item: "ethics"
+  title: "Ethics"
+
+- item: "religious-studies"
+  title: "Religious Studies"
+
+- item: "theology"
+  title: "Theology"
+
+- item: "education"
+  title: "Education"
+
+- item: "physical-education"
+  title: "Physical Education"
+
+- item: "sports-science"
+  title: "Sports Science"
+
+- item: "nutrition"
+  title: "Nutrition"
+
+- item: "public-health"
+  title: "Public Health"
+
+- item: "medicine"
+  title: "Medicine"
+
+- item: "dentistry"
+  title: "Dentistry"
+
+- item: "pharmacy"
+  title: "Pharmacy"
+
+- item: "nursing"
+  title: "Nursing"
+
+- item: "veterinary-science"
+  title: "Veterinary Science"
+
+- item: "physiotherapy"
+  title: "Physiotherapy"
+
+- item: "occupational-therapy"
+  title: "Occupational Therapy"
+
+- item: "speech-therapy"
+  title: "Speech Therapy"
+
+- item: "psychology"
+  title: "Psychology"
+
+- item: "counseling"
+  title: "Counseling"
+
+- item: "social-work"
+  title: "Social Work"
+
+- item: "library-science"
+  title: "Library Science"
+
+- item: "information-science"
+  title: "Information Science"
+
+- item: "hospitality"
+  title: "Hospitality"
+
+- item: "tourism"
+  title: "Tourism"
+
+- item: "culinary-arts"
+  title: "Culinary Arts"
+
+- item: "agriculture"
+  title: "Agriculture"
+
+- item: "horticulture"
+  title: "Horticulture"
+
+- item: "forestry"
+  title: "Forestry"
+
+- item: "fisheries"
+  title: "Fisheries"
+
+- item: "animal-science"
+  title: "Animal Science"
+
+- item: "food-technology"
+  title: "Food Technology"
+
+- item: "textile-design"
+  title: "Textile Design"
