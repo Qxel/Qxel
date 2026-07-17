@@ -6,9 +6,5 @@
   "taxonomy_2": {
     "item": "purpose",
     "title": "function/purpose"
-  },
-  "taxonomy_3": {
-    "item": "framework",
-    "title": "framework/library"
   }
 }
