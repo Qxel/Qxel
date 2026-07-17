@@ -1,10 +1,12 @@
 {
   "taxonomy_1": {
     "item": "model",
-    "title": "3d model"
+    "title": "3d model",
+    "example" "Character Models"
   },
   "taxonomy_2": {
     "item": "textured",
-    "title": "textured/untextured"
+    "title": "textured/untextured",
+    "example": "untextured"
   }
 }
