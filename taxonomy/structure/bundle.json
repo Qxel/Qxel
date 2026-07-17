@@ -1,10 +1,6 @@
 {
   "taxonomy_1": {
-    "item": "category",
-    "title": "bundle category"
-  },
-  "taxonomy_2": {
-    "item": "content",
-    "title": "Contents / Item Type"
+    "item": "collection",
+    "title": "bundle collections category"
   }
 }
