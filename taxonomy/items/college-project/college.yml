@@ -1,0 +1,493 @@
+# Top Rank Universities
+
+- item: "indian-institute-of-science"
+  title: "Indian Institute of Science (IISc)"
+  
+- item: "jawaharlal-nehru-university"
+  title: "Jawaharlal Nehru University (JNU)"
+  
+- item: "jamia-millia-islamia"
+  title: "Jamia Millia Islamia (JMI)"
+  
+- item: "university-of-delhi"
+  title: "University of Delhi (DU)"
+  
+- item: "banaras-hindu-university"
+  title: "Banaras Hindu University (BHU)"
+  
+- item: "aligarh-muslim-university"
+  title: "Aligarh Muslim University (AMU)"
+  
+- item: "university-of-hyderabad"
+  title: "University of Hyderabad"
+  
+- item: "university-of-calcutta"
+  title: "University of Calcutta"
+  
+- item: "university-of-mumbai"
+  title: "University of Mumbai"
+  
+- item: "jadavpur-university"
+  title: "Jadavpur University"
+  
+- item: "anna-university"
+  title: "Anna University"
+  
+- item: "panjab-university"
+  title: "Panjab University"
+  
+- item: "gauhati-university"
+  title: "Gauhati University"
+  
+- item: "osmania-university"
+  title: "Osmania University"
+  
+- item: "university-of-kashmir"
+  title: "University of Kashmir"
+  
+- item: "university-of-jammu"
+  title: "University of Jammu"
+  
+- item: "savitribai-phule-pune-university"
+  title: "Savitribai Phule Pune University"
+  
+- item: "university-of-madras"
+  title: "University of Madras"
+  
+- item: "mysore-university"
+  title: "University of Mysore"
+  
+- item: "bangalore-university"
+  title: "Bangalore University"
+  
+- item: "kerala-university"
+  title: "University of Kerala"
+  
+- item: "calicut-university"
+  title: "University of Calicut"
+  
+- item: "mahatma-gandhi-university"
+  title: "Mahatma Gandhi University"
+  
+- item: "cochin-university-of-science-and-technology"
+  title: "Cochin University of Science and Technology"
+  
+- item: "visvesvaraya-technological-university"
+  title: "Visvesvaraya Technological University"
+  
+- item: "andhra-university"
+  title: "Andhra University"
+  
+- item: "sri-venkateswara-university"
+  title: "Sri Venkateswara University"
+
+# IIT
+
+- item: "iit-delhi"
+  title: "Indian Institute of Technology Delhi (IITD)"
+  
+- item: "iit-bombay"
+  title: "Indian Institute of Technology Bombay (IITB)"
+  
+- item: "iit-madras"
+  title: "Indian Institute of Technology Madras (IITM)"
+  
+- item: "iit-kharagpur"
+  title: "Indian Institute of Technology Kharagpur (IIT-KGP)"
+  
+- item: "iit-kanpur"
+  title: "Indian Institute of Technology Kanpur (IITK)"
+  
+- item: "iit-guwahati"
+  title: "Indian Institute of Technology Guwahati (IITG)"
+  
+- item: "iit-roorkee"
+  title: "Indian Institute of Technology Roorkee (IITR)"
+  
+- item: "iit-indore"
+  title: "Indian Institute of Technology Indore"
+  
+- item: "iit-bhu-varanasi"
+  title: "Indian Institute of Technology BHU Varanasi"
+  
+- item: "iit-hyderabad"
+  title: "Indian Institute of Technology Hyderabad (IITH)"
+  
+- item: "iit-gandhinagar"
+  title: "Indian Institute of Technology Gandhinagar"
+  
+- item: "iit-patna"
+  title: "Indian Institute of Technology Patna"
+  
+- item: "iit-ropar"
+  title: "Indian Institute of Technology Ropar"
+
+# Private Universities
+
+- item: "manipal-academy-of-higher-education"
+  title: "Manipal Academy of Higher Education"
+  
+- item: "birla-institute-of-technology-and-science-pilani"
+  title: "Birla Institute of Technology & Science (BITS), Pilani"
+  
+- item: "amrita-vishwa-vidyapeetham"
+  title: "Amrita Vishwa Vidyapeetham"
+  
+- item: "srm-institute-of-science-and-technology"
+  title: "SRM Institute of Science and Technology"
+  
+- item: "homi-bhabha-national-institute"
+  title: "Homi Bhabha National Institute"
+  
+- item: "saveetha-institute-of-medical-and-technical-sciences"
+  title: "Saveetha Institute of Medical and Technical Sciences"
+  
+- item: "vellore-institute-of-technology"
+  title: "Vellore Institute of Technology (VIT)"
+  
+- item: "siksha-o-anusandhan"
+  title: "Siksha 'O' Anusandhan"
+  
+- item: "kalinga-institute-of-industrial-technology"
+  title: "Kalinga Institute of Industrial Technology (KIIT)"
+  
+- item: "jss-academy-of-higher-education-and-research"
+  title: "JSS Academy of Higher Education and Research"
+  
+- item: "amity-university"
+  title: "Amity University"
+  
+- item: "chandigarh-university"
+  title: "Chandigarh University"
+  
+- item: "lovely-professional-university"
+  title: "Lovely Professional University (LPU)"
+  
+- item: "symbiosis-international-university"
+  title: "Symbiosis International (Deemed University)"
+  
+- item: "shiv-nadar-university"
+  title: "Shiv Nadar University"
+  
+- item: "op-jindal-global-university"
+  title: "O.P. Jindal Global University (JGU)"
+  
+- item: "shoolini-university"
+  title: "Shoolini University of Biotechnology and Management Sciences"
+  
+- item: "upes"
+  title: "UPES"
+  
+- item: "thapar-institute-of-engineering-and-technology"
+  title: "Thapar Institute of Engineering & Technology"
+  
+- item: "christ-university"
+  title: "Christ University"
+  
+- item: "jain-university"
+  title: "Jain University"
+  
+- item: "chitkara-university"
+  title: "Chitkara University"
+  
+- item: "graphic-era-university"
+  title: "Graphic Era University"
+  
+- item: "sharda-university"
+  title: "Sharda University"
+  
+- item: "datta-meghe-institute-of-higher-education-and-research"
+  title: "Datta Meghe Institute of Higher Education and Research"
+  
+- item: "narsee-monjee-institute-of-management-studies"
+  title: "SVKM's Narsee Monjee Institute of Management Studies"
+  
+- item: "bharati-vidyapeeth"
+  title: "Bharati Vidyapeeth"
+  
+- item: "kalasalingam-academy-of-research-and-education"
+  title: "Kalasalingam Academy of Research and Education"
+  
+- item: "sathyabama-institute-of-science-and-technology"
+  title: "Sathyabama Institute of Science and Technology"
+  
+- item: "kl-university"
+  title: "KL University"
+  
+- item: "nitte"
+  title: "NITTE"
+  
+- item: "vignans-foundation"
+  title: "Vignan's Foundation for Science, Technology and Research"
+  
+- item: "manav-rachna-international-institute"
+  title: "Manav Rachna International Institute of Research and Studies"
+  
+- item: "maharishi-markandeshwar-university"
+  title: "Maharishi Markandeshwar (Deemed to be University)"
+  
+- item: "banasthali-vidyapith"
+  title: "Banasthali Vidyapith"
+  
+- item: "birla-institute-of-technology"
+  title: "Birla Institute of Technology, Ranchi"
+  
+- item: "shri-ramachandra-institute"
+  title: "Sri Ramachandra Institute of Higher Education and Research"
+  
+- item: "bharath-institute-of-higher-education-and-research"
+  title: "Bharath Institute of Higher Education and Research"
+  
+- item: "chettinad-academy"
+  title: "Chettinad Academy of Research and Education"
+  
+- item: "international-institute-of-information-technology-hyderabad"
+  title: "International Institute of Information Technology Hyderabad"
+  
+- item: "institute-of-chemical-technology"
+  title: "Institute of Chemical Technology"
+  
+- item: "tata-institute-of-social-sciences"
+  title: "Tata Institute of Social Sciences"
+
+# State Universities
+
+- item: "acharya-narendra-deva-university"
+  title: "Acharya Narendra Deva University of Agriculture & Technology"
+  
+- item: "berhampur-university"
+  title: "Berhampur University"
+  
+- item: "bundelkhand-university"
+  title: "Bundelkhand University"
+  
+- item: "chaudhary-charan-singh-haryana-agricultural-university"
+  title: "Chaudhary Charan Singh Haryana Agricultural University"
+  
+- item: "deen-dayal-upadhyay-gorakhpur-university"
+  title: "Deen Dayal Upadhyay Gorakhpur University"
+  
+- item: "delhi-pharmaceutical-sciences-and-research-university"
+  title: "Delhi Pharmaceutical Sciences and Research University"
+  
+- item: "dr-br-ambedkar-university-agra"
+  title: "Dr. B. R. Ambedkar University, Agra"
+  
+- item: "dr-babasaheb-ambedkar-marathwada-university"
+  title: "Dr. Babasaheb Ambedkar Marathwada University"
+  
+- item: "fakir-mohan-university"
+  title: "Fakir Mohan University"
+  
+- item: "goa-university"
+  title: "Goa University"
+  
+- item: "gujarat-technological-university"
+  title: "Gujarat Technological University"
+  
+- item: "harcourt-butler-technical-university"
+  title: "Harcourt Butler Technical University"
+  
+- item: "islamic-university-of-science-and-technology"
+  title: "Islamic University of Science & Technology, Pulwama"
+  
+- item: "jawaharlal-nehru-technological-university-anantapur"
+  title: "Jawaharlal Nehru Technological University, Ananthapuramu"
+  
+- item: "junagadh-agricultural-university"
+  title: "Junagadh Agricultural University"
+  
+- item: "kalyani-university"
+  title: "University of Kalyani"
+  
+- item: "kannur-university"
+  title: "Kannur University"
+  
+- item: "kerala-agricultural-university"
+  title: "Kerala Agricultural University"
+  
+- item: "kuvempu-university"
+  title: "Kuvempu University"
+  
+- item: "maharaja-sayajirao-university-of-baroda"
+  title: "Maharaja Sayajirao University of Baroda"
+  
+- item: "mangalore-university"
+  title: "Mangalore University"
+  
+- item: "mohan-lal-sukhadia-university"
+  title: "Mohan Lal Sukhadia University"
+  
+- item: "north-bengal-university"
+  title: "University of North Bengal"
+  
+- item: "north-maharashtra-university"
+  title: "North Maharashtra University"
+  
+- item: "presidency-university-kolkata"
+  title: "Presidency University, Kolkata"
+  
+- item: "pt-ravishankar-shukla-university"
+  title: "Pt. Ravishankar Shukla University"
+  
+- item: "punjabi-university-patiala"
+  title: "Punjabi University, Patiala"
+  
+- item: "ravenshaw-university"
+  title: "Ravenshaw University"
+  
+- item: "sambalpur-university"
+  title: "Sambalpur University"
+  
+- item: "sri-krishnadevaraya-university"
+  title: "Sri Krishnadevaraya University"
+  
+- item: "sri-padmavathi-mahila-visvavidyalayam"
+  title: "Sri Padmavathi Mahila Visvavidyalayam"
+  
+- item: "rashtrasant-tukadoji-maharaj-nagpur-university"
+  title: "The Rashtrasant Tukadoji Maharaj Nagpur University"
+  
+- item: "university-of-burdwan"
+  title: "The University of Burdwan"
+  
+- item: "veer-surendra-sai-university-of-technology"
+  title: "Veer Surendra Sai University of Technology"
+  
+- item: "vidyasagar-university"
+  title: "Vidyasagar University"
+  
+- item: "yogi-vemana-university"
+  title: "Yogi Vemana University"
+  
+- item: "gondwana-university"
+  title: "Gondwana University"
+  
+- item: "cotton-college-state-university"
+  title: "Cotton College State University"
+  
+- item: "sidho-kanho-birsha-university"
+  title: "Sidho-Kanho-Birsha University"
+  
+- item: "vijayanagara-sri-krishnadevaraya-university"
+  title: "Vijayanagara Sri Krishnadevaraya University"
+
+# Agricultural Universities
+
+- item: "g-b-pant-university"
+  title: "G.B. Pant University of Agriculture and Technology"
+  
+- item: "punjab-agricultural-university"
+  title: "Punjab Agricultural University"
+  
+- item: "tamil-nadu-agricultural-university"
+  title: "Tamil Nadu Agricultural University"
+  
+- item: "university-of-agricultural-sciences-bangalore"
+  title: "University of Agricultural Sciences, Bengaluru"
+  
+- item: "university-of-agricultural-sciences-dharwad"
+  title: "University of Agricultural Sciences, Dharwad"
+  
+- item: "university-of-agricultural-sciences-mandya"
+  title: "University of Agricultural Sciences, Mandya"
+  
+- item: "odisha-university-of-agriculture-and-technology"
+  title: "Odisha University of Agriculture and Technology"
+  
+- item: "sher-e-kashmir-university-of-agricultural-science-and-technology"
+  title: "Sher-e-Kashmir University of Agricultural Science and Technology"
+  
+- item: "maharana-pratap-university-of-agriculture-and-technology"
+  title: "Maharana Pratap University of Agriculture & Technology"
+  
+- item: "mahatma-phule-krishi-vidyapeeth"
+  title: "Mahatma Phule Krishi Vidyapeeth, Rahuri"
+  
+- item: "indira-gandhi-krishi-vishwavidyalaya"
+  title: "Indira Gandhi Krishi Vishwavidyalaya, Raipur"
+  
+- item: "navsari-agricultural-university"
+  title: "Navsari Agricultural University"
+  
+- item: "chaudhary-sarwan-kumar-himachal-pradesh-krishi-vishvavidyalaya"
+  title: "Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya"
+  
+- item: "dr-ys-parmar-university-of-horticulture-and-forestry"
+  title: "Dr. Y.S. Parmar University of Horticulture and Forestry"
+  
+- item: "guru-angad-dev-veterinary-and-animal-sciences-university"
+  title: "Guru Angad Dev Veterinary & Animal Sciences University"
+  
+- item: "tamil-nadu-veterinary-and-animal-sciences-university"
+  title: "Tamil Nadu Veterinary & Animal Sciences University"
+  
+- item: "keladi-shivappa-mayaka-agricultural-and-horticultural-sciences-university"
+  title: "Keladi Shivappa Mayaka Agricultural and Horticultural Sciences University"
+
+# NIT
+
+- item: "nit-tiruchirappalli"
+  title: "National Institute of Technology, Tiruchirappalli"
+  
+- item: "nit-rourkela"
+  title: "National Institute of Technology Rourkela"
+  
+- item: "nit-silchar"
+  title: "National Institute of Technology Silchar"
+  
+- item: "malaviya-national-institute-of-technology"
+  title: "Malaviya National Institute of Technology"
+
+# Others
+
+- item: "central-university-of-punjab"
+  title: "Central University of Punjab"
+  
+- item: "mizoram-university"
+  title: "Mizoram University"
+  
+- item: "tezpur-university"
+  title: "Tezpur University"
+  
+- item: "visva-bharati-university"
+  title: "Visva-Bharati University"
+  
+- item: "english-and-foreign-languages-university"
+  title: "English and Foreign Languages University"
+  
+- item: "rajiv-gandhi-university-of-knowledge-technologies"
+  title: "Rajiv Gandhi University of Knowledge Technologies"
+  
+- item: "national-law-university-and-judicial-academy"
+  title: "National Law University and Judicial Academy"
+  
+- item: "king-georges-medical-university"
+  title: "King George's Medical University"
+  
+- item: "pt-bhagwat-dayal-sharma-university-of-health-sciences"
+  title: "Pt. Bhagwat Dayal Sharma University of Health Sciences"
+  
+- item: "delhi-technological-university"
+  title: "Delhi Technological University"
+  
+- item: "sant-longowal-institute-of-engineering-and-technology"
+  title: "Sant Longowal Institute of Engineering and Technology"
+  
+- item: "shri-mata-vaishno-devi-university"
+  title: "Shri Mata Vaishno Devi University"
+  
+- item: "jaypee-university-of-information-technology"
+  title: "Jaypee University of Information Technology"
+  
+- item: "madhav-institute-of-technology-and-science"
+  title: "Madhav Institute of Technology and Science"
+  
+- item: "institute-of-infrastructure-technology-research-and-management"
+  title: "Institute of Infrastructure Technology Research and Management (IITRAM)"
+  
+- item: "mit-university-sikkim"
+  title: "MIT University Sikkim"
+  
+- item: "university-of-southampton-delhi"
+  title: "University of Southampton Delhi"
