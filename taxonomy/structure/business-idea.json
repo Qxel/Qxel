@@ -2,9 +2,5 @@
   "taxonomy_1": {
     "item": "industry",
     "title": "industry/sector"
-  },
-  "taxonomy_2": {
-    "item": "stage",
-    "title": "stage/maturity"
   }
 }
