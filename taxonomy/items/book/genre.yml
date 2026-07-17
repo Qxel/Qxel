@@ -1,0 +1,163 @@
+# Audio Book Genres
+
+- item: "romance"
+  title: "Romance"
+
+- item: "horror"
+  title: "Horror"
+
+- item: "thriller"
+  title: "Thriller"
+
+- item: "mystery"
+  title: "Mystery"
+
+- item: "science-fiction"
+  title: "Science Fiction"
+
+- item: "fantasy"
+  title: "Fantasy"
+
+- item: "adventure"
+  title: "Adventure"
+
+- item: "action"
+  title: "Action"
+
+- item: "drama"
+  title: "Drama"
+
+- item: "comedy"
+  title: "Comedy"
+
+- item: "historical-fiction"
+  title: "Historical Fiction"
+
+- item: "crime"
+  title: "Crime"
+
+- item: "suspense"
+  title: "Suspense"
+
+- item: "western"
+  title: "Western"
+
+- item: "young-adult"
+  title: "Young Adult"
+
+- item: "children"
+  title: "Children's"
+
+- item: "non-fiction"
+  title: "Non-Fiction"
+
+- item: "biography"
+  title: "Biography & Memoir"
+
+- item: "self-help"
+  title: "Self-Help"
+
+- item: "business"
+  title: "Business & Finance"
+
+- item: "health"
+  title: "Health & Wellness"
+
+- item: "psychology"
+  title: "Psychology"
+
+- item: "philosophy"
+  title: "Philosophy"
+
+- item: "history"
+  title: "History"
+
+- item: "true-crime"
+  title: "True Crime"
+
+- item: "classics"
+  title: "Classics"
+
+- item: "poetry"
+  title: "Poetry"
+
+- item: "short-stories"
+  title: "Short Stories"
+
+- item: "literary-fiction"
+  title: "Literary Fiction"
+
+- item: "contemporary"
+  title: "Contemporary Fiction"
+
+- item: "paranormal"
+  title: "Paranormal"
+
+- item: "urban-fantasy"
+  title: "Urban Fantasy"
+
+- item: "dystopian"
+  title: "Dystopian"
+
+- item: "post-apocalyptic"
+  title: "Post-Apocalyptic"
+
+- item: "steampunk"
+  title: "Steampunk"
+
+- item: "cyberpunk"
+  title: "Cyberpunk"
+
+- item: "military"
+  title: "Military"
+
+- item: "espionage"
+  title: "Espionage"
+
+- item: "legal"
+  title: "Legal Thriller"
+
+- item: "medical-thriller"
+  title: "Medical Thriller"
+
+- item: "religious"
+  title: "Religious & Spiritual"
+
+- item: "inspirational"
+  title: "Inspirational"
+
+- item: "lgbtq"
+  title: "LGBTQ+"
+
+- item: "multicultural"
+  title: "Multicultural"
+
+- item: "erotica"
+  title: "Erotica"
+
+- item: "humor"
+  title: "Humor"
+
+- item: "travel"
+  title: "Travel"
+
+- item: "cooking"
+  title: "Cooking & Food"
+
+- item: "art"
+  title: "Art & Photography"
+
+- item: "music"
+  title: "Music"
+
+- item: "sports"
+  title: "Sports"
+
+- item: "science"
+  title: "Science"
+
+- item: "technology"
+  title: "Technology"
+
+- item: "environment"
+  title: "Environment & Nature"
