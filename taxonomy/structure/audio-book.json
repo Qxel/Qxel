@@ -6,13 +6,5 @@
   "taxonomy_2": {
     "item": "author",
     "title": "author/narrator"
-  },
-  "taxonomy_3": {
-    "item": "duration",
-    "title": "duration/length"
-  },
-  "taxonomy_4": {
-    "item": "format",
-    "title": "audio format"
   }
 }
