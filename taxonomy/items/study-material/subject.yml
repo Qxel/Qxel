@@ -1,4 +1,3 @@
-# B.Sc. Physics - Semester 1
 - item: "mechanics"
   title: "Mechanics"
 - item: "properties-of-matter"
@@ -9,8 +8,6 @@
   title: "Chemistry I"
 - item: "communication-skills"
   title: "Communication Skills"
-
-# B.Sc. Physics - Semester 2
 - item: "electricity-and-magnetism"
   title: "Electricity and Magnetism"
 - item: "waves-and-optics"
@@ -21,8 +18,6 @@
   title: "Chemistry II"
 - item: "environmental-science"
   title: "Environmental Science"
-
-# B.Sc. Physics - Semester 3
 - item: "thermodynamics"
   title: "Thermodynamics"
 - item: "classical-mechanics"
@@ -33,8 +28,6 @@
   title: "Electronics I"
 - item: "mathematical-physics-iii"
   title: "Mathematical Physics III"
-
-# B.Sc. Physics - Semester 4
 - item: "electromagnetic-theory"
   title: "Electromagnetic Theory"
 - item: "statistical-mechanics"
@@ -45,8 +38,6 @@
   title: "Electronics II"
 - item: "computational-physics"
   title: "Computational Physics"
-
-# B.Sc. Physics - Semester 5
 - item: "nuclear-physics"
   title: "Nuclear Physics"
 - item: "solid-state-physics"
@@ -57,8 +48,6 @@
   title: "Optics and Lasers"
 - item: "physics-lab-v"
   title: "Physics Lab V"
-
-# B.Sc. Physics - Semester 6
 - item: "particle-physics"
   title: "Particle Physics"
 - item: "astrophysics"
@@ -69,10 +58,6 @@
   title: "Biophysics"
 - item: "physics-project"
   title: "Physics Project"
-
----
-
-# B.Sc. Chemistry - Semester 1
 - item: "inorganic-chemistry-i"
   title: "Inorganic Chemistry I"
 - item: "organic-chemistry-i"
@@ -83,8 +68,6 @@
   title: "Mathematics I"
 - item: "physics-i"
   title: "Physics I"
-
-# B.Sc. Chemistry - Semester 2
 - item: "inorganic-chemistry-ii"
   title: "Inorganic Chemistry II"
 - item: "organic-chemistry-ii"
@@ -95,8 +78,6 @@
   title: "Mathematics II"
 - item: "physics-ii"
   title: "Physics II"
-
-# B.Sc. Chemistry - Semester 3
 - item: "inorganic-chemistry-iii"
   title: "Inorganic Chemistry III"
 - item: "organic-chemistry-iii"
@@ -107,8 +88,6 @@
   title: "Analytical Chemistry"
 - item: "chemistry-lab-iii"
   title: "Chemistry Lab III"
-
-# B.Sc. Chemistry - Semester 4
 - item: "inorganic-chemistry-iv"
   title: "Inorganic Chemistry IV"
 - item: "organic-chemistry-iv"
@@ -119,8 +98,6 @@
   title: "Spectroscopy"
 - item: "chemistry-lab-iv"
   title: "Chemistry Lab IV"
-
-# B.Sc. Chemistry - Semester 5
 - item: "inorganic-chemistry-v"
   title: "Inorganic Chemistry V"
 - item: "organic-chemistry-v"
@@ -131,8 +108,6 @@
   title: "Polymer Chemistry"
 - item: "chemistry-lab-v"
   title: "Chemistry Lab V"
-
-# B.Sc. Chemistry - Semester 6
 - item: "inorganic-chemistry-vi"
   title: "Inorganic Chemistry VI"
 - item: "organic-chemistry-vi"
@@ -143,34 +118,22 @@
   title: "Nanochemistry"
 - item: "chemistry-project"
   title: "Chemistry Project"
-
----
-
-# B.Sc. Mathematics - Semester 1
 - item: "calculus-i"
   title: "Calculus I"
 - item: "algebra-i"
   title: "Algebra I"
 - item: "coordinate-geometry"
   title: "Coordinate Geometry"
-- item: "physics-i"
-  title: "Physics I"
 - item: "computer-fundamentals"
   title: "Computer Fundamentals"
-
-# B.Sc. Mathematics - Semester 2
 - item: "calculus-ii"
   title: "Calculus II"
 - item: "algebra-ii"
   title: "Algebra II"
 - item: "differential-equations-i"
   title: "Differential Equations I"
-- item: "physics-ii"
-  title: "Physics II"
 - item: "programming-in-c"
   title: "Programming in C"
-
-# B.Sc. Mathematics - Semester 3
 - item: "real-analysis-i"
   title: "Real Analysis I"
 - item: "linear-algebra"
@@ -181,8 +144,6 @@
   title: "Statistics I"
 - item: "mathematical-methods"
   title: "Mathematical Methods"
-
-# B.Sc. Mathematics - Semester 4
 - item: "real-analysis-ii"
   title: "Real Analysis II"
 - item: "abstract-algebra"
@@ -193,8 +154,6 @@
   title: "Statistics II"
 - item: "numerical-methods"
   title: "Numerical Methods"
-
-# B.Sc. Mathematics - Semester 5
 - item: "topology"
   title: "Topology"
 - item: "functional-analysis"
@@ -205,8 +164,6 @@
   title: "Mathematical Modeling"
 - item: "operations-research"
   title: "Operations Research"
-
-# B.Sc. Mathematics - Semester 6
 - item: "measure-theory"
   title: "Measure Theory"
 - item: "differential-geometry"
@@ -217,22 +174,12 @@
   title: "Cryptography"
 - item: "mathematics-project"
   title: "Mathematics Project"
-
----
-
-# B.Sc. Computer Science - Semester 1
 - item: "programming-fundamentals"
   title: "Programming Fundamentals"
 - item: "digital-logic-design"
   title: "Digital Logic Design"
-- item: "mathematics-i"
-  title: "Mathematics I"
 - item: "computer-organization"
   title: "Computer Organization"
-- item: "communication-skills"
-  title: "Communication Skills"
-
-# B.Sc. Computer Science - Semester 2
 - item: "data-structures"
   title: "Data Structures"
 - item: "object-oriented-programming"
@@ -241,10 +188,6 @@
   title: "Discrete Mathematics"
 - item: "operating-systems"
   title: "Operating Systems"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# B.Sc. Computer Science - Semester 3
 - item: "database-management-systems"
   title: "Database Management Systems"
 - item: "computer-networks"
@@ -255,8 +198,6 @@
   title: "Software Engineering"
 - item: "probability-and-statistics"
   title: "Probability and Statistics"
-
-# B.Sc. Computer Science - Semester 4
 - item: "theory-of-computation"
   title: "Theory of Computation"
 - item: "microprocessors"
@@ -267,8 +208,6 @@
   title: "Python Programming"
 - item: "computer-graphics"
   title: "Computer Graphics"
-
-# B.Sc. Computer Science - Semester 5
 - item: "artificial-intelligence"
   title: "Artificial Intelligence"
 - item: "machine-learning"
@@ -279,8 +218,6 @@
   title: "Cloud Computing"
 - item: "mobile-app-development"
   title: "Mobile App Development"
-
-# B.Sc. Computer Science - Semester 6
 - item: "big-data-analytics"
   title: "Big Data Analytics"
 - item: "blockchain-technology"
@@ -291,34 +228,18 @@
   title: "DevOps"
 - item: "cs-project"
   title: "CS Project"
-
----
-
-# B.Sc. Electronics - Semester 1
 - item: "basic-electronics"
   title: "Basic Electronics"
 - item: "circuit-theory"
   title: "Circuit Theory"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "physics-i"
-  title: "Physics I"
 - item: "engineering-drawing"
   title: "Engineering Drawing"
-
-# B.Sc. Electronics - Semester 2
 - item: "analog-electronics"
   title: "Analog Electronics"
 - item: "digital-electronics"
   title: "Digital Electronics"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "physics-ii"
-  title: "Physics II"
 - item: "c-programming"
   title: "C Programming"
-
-# B.Sc. Electronics - Semester 3
 - item: "electronic-devices"
   title: "Electronic Devices"
 - item: "signals-and-systems"
@@ -329,8 +250,6 @@
   title: "Measurements and Instruments"
 - item: "electronics-lab-iii"
   title: "Electronics Lab III"
-
-# B.Sc. Electronics - Semester 4
 - item: "linear-integrated-circuits"
   title: "Linear Integrated Circuits"
 - item: "communication-systems"
@@ -341,8 +260,6 @@
   title: "Control Systems"
 - item: "electronics-lab-iv"
   title: "Electronics Lab IV"
-
-# B.Sc. Electronics - Semester 5
 - item: "digital-signal-processing"
   title: "Digital Signal Processing"
 - item: "wireless-communication"
@@ -353,8 +270,6 @@
   title: "VLSI Design"
 - item: "electronics-lab-v"
   title: "Electronics Lab V"
-
-# B.Sc. Electronics - Semester 6
 - item: "optical-communication"
   title: "Optical Communication"
 - item: "robotics"
@@ -365,34 +280,22 @@
   title: "Power Electronics"
 - item: "electronics-project"
   title: "Electronics Project"
-
----
-
-# B.Sc. Statistics - Semester 1
 - item: "descriptive-statistics"
   title: "Descriptive Statistics"
 - item: "probability-theory-i"
   title: "Probability Theory I"
-- item: "mathematics-i"
-  title: "Mathematics I"
 - item: "economics-i"
   title: "Economics I"
 - item: "computer-basics"
   title: "Computer Basics"
-
-# B.Sc. Statistics - Semester 2
 - item: "probability-theory-ii"
   title: "Probability Theory II"
 - item: "statistical-methods"
   title: "Statistical Methods"
-- item: "mathematics-ii"
-  title: "Mathematics II"
 - item: "economics-ii"
   title: "Economics II"
 - item: "data-analysis-using-excel"
   title: "Data Analysis Using Excel"
-
-# B.Sc. Statistics - Semester 3
 - item: "distributions-theory"
   title: "Distributions Theory"
 - item: "sampling-techniques"
@@ -403,8 +306,6 @@
   title: "Linear Models"
 - item: "operations-research-i"
   title: "Operations Research I"
-
-# B.Sc. Statistics - Semester 4
 - item: "statistical-inference-ii"
   title: "Statistical Inference II"
 - item: "multivariate-analysis"
@@ -415,8 +316,6 @@
   title: "Design of Experiments"
 - item: "operations-research-ii"
   title: "Operations Research II"
-
-# B.Sc. Statistics - Semester 5
 - item: "econometrics"
   title: "Econometrics"
 - item: "survival-analysis"
@@ -427,46 +326,26 @@
   title: "Data Mining"
 - item: "statistical-computing-r"
   title: "Statistical Computing R"
-
-# B.Sc. Statistics - Semester 6
 - item: "advanced-inference"
   title: "Advanced Inference"
 - item: "machine-learning-for-stats"
   title: "Machine Learning for Statistics"
 - item: "actuarial-science"
   title: "Actuarial Science"
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
 - item: "statistics-project"
   title: "Statistics Project"
-
----
-
-# B.Sc. Biotechnology - Semester 1
 - item: "cell-biology"
   title: "Cell Biology"
 - item: "biochemistry-i"
   title: "Biochemistry I"
 - item: "microbiology-i"
   title: "Microbiology I"
-- item: "chemistry-i"
-  title: "Chemistry I"
-- item: "physics-i"
-  title: "Physics I"
-
-# B.Sc. Biotechnology - Semester 2
 - item: "molecular-biology"
   title: "Molecular Biology"
 - item: "biochemistry-ii"
   title: "Biochemistry II"
 - item: "microbiology-ii"
   title: "Microbiology II"
-- item: "chemistry-ii"
-  title: "Chemistry II"
-- item: "physics-ii"
-  title: "Physics II"
-
-# B.Sc. Biotechnology - Semester 3
 - item: "genetics"
   title: "Genetics"
 - item: "enzyme-technology"
@@ -477,8 +356,6 @@
   title: "Biostatistics"
 - item: "bioprocess-engineering"
   title: "Bioprocess Engineering"
-
-# B.Sc. Biotechnology - Semester 4
 - item: "genetic-engineering"
   title: "Genetic Engineering"
 - item: "bioinformatics"
@@ -489,8 +366,6 @@
   title: "Environmental Biotechnology"
 - item: "biotech-lab-iv"
   title: "Biotech Lab IV"
-
-# B.Sc. Biotechnology - Semester 5
 - item: "pharmaceutical-biotechnology"
   title: "Pharmaceutical Biotechnology"
 - item: "agricultural-biotechnology"
@@ -501,8 +376,6 @@
   title: "Nanobiotechnology"
 - item: "biotech-lab-v"
   title: "Biotech Lab V"
-
-# B.Sc. Biotechnology - Semester 6
 - item: "clinical-biotechnology"
   title: "Clinical Biotechnology"
 - item: "industrial-biotechnology"
@@ -513,58 +386,30 @@
   title: "Biosafety and Bioethics"
 - item: "biotech-project"
   title: "Biotech Project"
-
----
-
-# B.Sc. Microbiology - Semester 1
 - item: "general-microbiology"
   title: "General Microbiology"
 - item: "biochemistry"
   title: "Biochemistry"
-- item: "cell-biology"
-  title: "Cell Biology"
-- item: "chemistry-i"
-  title: "Chemistry I"
-- item: "physics-i"
-  title: "Physics I"
-
-# B.Sc. Microbiology - Semester 2
 - item: "bacteriology"
   title: "Bacteriology"
 - item: "mycology"
   title: "Mycology"
 - item: "virology"
   title: "Virology"
-- item: "chemistry-ii"
-  title: "Chemistry II"
-- item: "physics-ii"
-  title: "Physics II"
-
-# B.Sc. Microbiology - Semester 3
 - item: "microbial-physiology"
   title: "Microbial Physiology"
 - item: "microbial-genetics"
   title: "Microbial Genetics"
-- item: "immunology"
-  title: "Immunology"
-- item: "biostatistics"
-  title: "Biostatistics"
 - item: "microbiology-lab-iii"
   title: "Microbiology Lab III"
-
-# B.Sc. Microbiology - Semester 4
 - item: "environmental-microbiology"
   title: "Environmental Microbiology"
 - item: "food-microbiology"
   title: "Food Microbiology"
 - item: "pharmaceutical-microbiology"
   title: "Pharmaceutical Microbiology"
-- item: "bioinformatics"
-  title: "Bioinformatics"
 - item: "microbiology-lab-iv"
   title: "Microbiology Lab IV"
-
-# B.Sc. Microbiology - Semester 5
 - item: "industrial-microbiology"
   title: "Industrial Microbiology"
 - item: "medical-microbiology"
@@ -575,8 +420,6 @@
   title: "Soil Microbiology"
 - item: "microbiology-lab-v"
   title: "Microbiology Lab V"
-
-# B.Sc. Microbiology - Semester 6
 - item: "fermentation-microbiology"
   title: "Fermentation Microbiology"
 - item: "microbial-biotechnology"
@@ -587,46 +430,26 @@
   title: "Biosafety"
 - item: "microbiology-project"
   title: "Microbiology Project"
-
----
-
-# B.Sc. Environmental Science - Semester 1
 - item: "environmental-chemistry"
   title: "Environmental Chemistry"
 - item: "ecology"
   title: "Ecology"
 - item: "geology"
   title: "Geology"
-- item: "physics-i"
-  title: "Physics I"
-- item: "mathematics-i"
-  title: "Mathematics I"
-
-# B.Sc. Environmental Science - Semester 2
 - item: "atmospheric-science"
   title: "Atmospheric Science"
 - item: "hydrogeology"
   title: "Hydrogeology"
 - item: "environmental-biology"
   title: "Environmental Biology"
-- item: "physics-ii"
-  title: "Physics II"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-
-# B.Sc. Environmental Science - Semester 3
 - item: "environmental-pollution"
   title: "Environmental Pollution"
 - item: "waste-management"
   title: "Waste Management"
-- item: "environmental-microbiology"
-  title: "Environmental Microbiology"
 - item: "statistics"
   title: "Statistics"
 - item: "gis-and-remote-sensing"
   title: "GIS and Remote Sensing"
-
-# B.Sc. Environmental Science - Semester 4
 - item: "environmental-impact-assessment"
   title: "Environmental Impact Assessment"
 - item: "natural-resource-management"
@@ -637,10 +460,6 @@
   title: "Environmental Toxicology"
 - item: "env-lab-iv"
   title: "Env Lab IV"
-
-# B.Sc. Environmental Science - Semester 5
-- item: "environmental-biotechnology"
-  title: "Environmental Biotechnology"
 - item: "environmental-laws-and-policies"
   title: "Environmental Laws and Policies"
 - item: "soil-and-water-conservation"
@@ -649,8 +468,6 @@
   title: "Energy and Environment"
 - item: "env-lab-v"
   title: "Env Lab V"
-
-# B.Sc. Environmental Science - Semester 6
 - item: "environmental-modeling"
   title: "Environmental Modeling"
 - item: "urban-environment"
@@ -661,46 +478,26 @@
   title: "Environmental Sustainability"
 - item: "env-project"
   title: "Env Project"
-
----
-
-# B.Sc. Agriculture - Semester 1
 - item: "agronomy-i"
   title: "Agronomy I"
 - item: "soil-science"
   title: "Soil Science"
 - item: "plant-physiology"
   title: "Plant Physiology"
-- item: "chemistry-i"
-  title: "Chemistry I"
-- item: "mathematics-i"
-  title: "Mathematics I"
-
-# B.Sc. Agriculture - Semester 2
 - item: "agronomy-ii"
   title: "Agronomy II"
 - item: "horticulture"
   title: "Horticulture"
 - item: "plant-pathology"
   title: "Plant Pathology"
-- item: "chemistry-ii"
-  title: "Chemistry II"
-- item: "statistics"
-  title: "Statistics"
-
-# B.Sc. Agriculture - Semester 3
 - item: "entomology"
   title: "Entomology"
 - item: "soil-fertility"
   title: "Soil Fertility"
 - item: "crop-production"
   title: "Crop Production"
-- item: "agricultural-microbiology"
-  title: "Agricultural Microbiology"
 - item: "agriculture-lab-iii"
   title: "Agriculture Lab III"
-
-# B.Sc. Agriculture - Semester 4
 - item: "weed-management"
   title: "Weed Management"
 - item: "irrigation-and-water-management"
@@ -711,8 +508,6 @@
   title: "Agricultural Extension"
 - item: "agriculture-lab-iv"
   title: "Agriculture Lab IV"
-
-# B.Sc. Agriculture - Semester 5
 - item: "agricultural-economics"
   title: "Agricultural Economics"
 - item: "organic-farming"
@@ -723,58 +518,32 @@
   title: "Agricultural Engineering"
 - item: "agriculture-lab-v"
   title: "Agriculture Lab V"
-
-# B.Sc. Agriculture - Semester 6
 - item: "agricultural-marketing"
   title: "Agricultural Marketing"
 - item: "post-harvest-technology"
   title: "Post-Harvest Technology"
-- item: "agricultural-biotechnology"
-  title: "Agricultural Biotechnology"
 - item: "climate-smart-agriculture"
   title: "Climate Smart Agriculture"
 - item: "agriculture-project"
   title: "Agriculture Project"
-
----
-
-# B.Sc. Food Technology - Semester 1
 - item: "food-chemistry"
   title: "Food Chemistry"
-- item: "food-microbiology"
-  title: "Food Microbiology"
 - item: "food-processing-i"
   title: "Food Processing I"
-- item: "chemistry-i"
-  title: "Chemistry I"
-- item: "physics-i"
-  title: "Physics I"
-
-# B.Sc. Food Technology - Semester 2
 - item: "food-engineering"
   title: "Food Engineering"
 - item: "food-analysis"
   title: "Food Analysis"
 - item: "food-processing-ii"
   title: "Food Processing II"
-- item: "chemistry-ii"
-  title: "Chemistry II"
-- item: "mathematics-i"
-  title: "Mathematics I"
-
-# B.Sc. Food Technology - Semester 3
 - item: "food-packaging"
   title: "Food Packaging"
 - item: "food-quality-assurance"
   title: "Food Quality Assurance"
 - item: "food-biotechnology"
   title: "Food Biotechnology"
-- item: "statistics"
-  title: "Statistics"
 - item: "food-lab-iii"
   title: "Food Lab III"
-
-# B.Sc. Food Technology - Semester 4
 - item: "food-preservation"
   title: "Food Preservation"
 - item: "dairy-technology"
@@ -785,8 +554,6 @@
   title: "Fruit and Vegetable Processing"
 - item: "food-lab-iv"
   title: "Food Lab IV"
-
-# B.Sc. Food Technology - Semester 5
 - item: "meat-and-poultry-technology"
   title: "Meat and Poultry Technology"
 - item: "bakery-and-confectionery"
@@ -797,8 +564,6 @@
   title: "Food Additives"
 - item: "food-lab-v"
   title: "Food Lab V"
-
-# B.Sc. Food Technology - Semester 6
 - item: "functional-foods"
   title: "Functional Foods"
 - item: "food-supply-chain"
@@ -809,58 +574,28 @@
   title: "Nutraceuticals"
 - item: "food-project"
   title: "Food Project"
-
----
-
-# B.Sc. Data Science - Semester 1
 - item: "programming-in-python"
   title: "Programming in Python"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "statistics-i"
-  title: "Statistics I"
-- item: "data-structures"
-  title: "Data Structures"
-- item: "computer-fundamentals"
-  title: "Computer Fundamentals"
-
-# B.Sc. Data Science - Semester 2
 - item: "advanced-python"
   title: "Advanced Python"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "statistics-ii"
-  title: "Statistics II"
 - item: "database-systems"
   title: "Database Systems"
-- item: "communication-skills"
-  title: "Communication Skills"
-
-# B.Sc. Data Science - Semester 3
 - item: "data-visualization"
   title: "Data Visualization"
-- item: "linear-algebra"
-  title: "Linear Algebra"
 - item: "probability-theory"
   title: "Probability Theory"
 - item: "sql-and-data-warehousing"
   title: "SQL and Data Warehousing"
 - item: "ds-lab-iii"
   title: "DS Lab III"
-
-# B.Sc. Data Science - Semester 4
 - item: "machine-learning-i"
   title: "Machine Learning I"
 - item: "big-data-technologies"
   title: "Big Data Technologies"
-- item: "data-mining"
-  title: "Data Mining"
 - item: "optimization-techniques"
   title: "Optimization Techniques"
 - item: "ds-lab-iv"
   title: "DS Lab IV"
-
-# B.Sc. Data Science - Semester 5
 - item: "machine-learning-ii"
   title: "Machine Learning II"
 - item: "deep-learning"
@@ -871,8 +606,6 @@
   title: "Cloud Computing for Data"
 - item: "ds-lab-v"
   title: "DS Lab V"
-
-# B.Sc. Data Science - Semester 6
 - item: "reinforcement-learning"
   title: "Reinforcement Learning"
 - item: "time-series-forecasting"
@@ -883,60 +616,16 @@
   title: "Data Ethics and Privacy"
 - item: "ds-project"
   title: "DS Project"
-
----
-
-# B.Sc. Artificial Intelligence - Semester 1
-- item: "programming-in-python"
-  title: "Programming in Python"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "discrete-mathematics"
-  title: "Discrete Mathematics"
-- item: "computer-fundamentals"
-  title: "Computer Fundamentals"
-- item: "communication-skills"
-  title: "Communication Skills"
-
-# B.Sc. Artificial Intelligence - Semester 2
-- item: "data-structures"
-  title: "Data Structures"
-- item: "mathematics-ii"
-  title: "Mathematics II"
 - item: "statistics-and-probability"
   title: "Statistics and Probability"
-- item: "database-systems"
-  title: "Database Systems"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# B.Sc. Artificial Intelligence - Semester 3
 - item: "artificial-intelligence-fundamentals"
   title: "Artificial Intelligence Fundamentals"
-- item: "machine-learning-i"
-  title: "Machine Learning I"
-- item: "linear-algebra"
-  title: "Linear Algebra"
-- item: "data-visualization"
-  title: "Data Visualization"
 - item: "ai-lab-iii"
   title: "AI Lab III"
-
-# B.Sc. Artificial Intelligence - Semester 4
-- item: "deep-learning"
-  title: "Deep Learning"
-- item: "natural-language-processing"
-  title: "Natural Language Processing"
 - item: "computer-vision"
   title: "Computer Vision"
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
 - item: "ai-lab-iv"
   title: "AI Lab IV"
-
-# B.Sc. Artificial Intelligence - Semester 5
-- item: "reinforcement-learning"
-  title: "Reinforcement Learning"
 - item: "generative-ai"
   title: "Generative AI"
 - item: "robotics-and-automation"
@@ -945,8 +634,6 @@
   title: "Cloud AI"
 - item: "ai-lab-v"
   title: "AI Lab V"
-
-# B.Sc. Artificial Intelligence - Semester 6
 - item: "ethics-in-ai"
   title: "Ethics in AI"
 - item: "ai-in-healthcare"
@@ -957,180 +644,88 @@
   title: "AI Project Management"
 - item: "ai-project"
   title: "AI Project"
-
----
-
-# B.Sc. Zoology - Semester 1
 - item: "non-chordata-i"
   title: "Non-Chordata I"
-- item: "cell-biology"
-  title: "Cell Biology"
-- item: "biochemistry"
-  title: "Biochemistry"
-- item: "chemistry-i"
-  title: "Chemistry I"
-- item: "physics-i"
-  title: "Physics I"
-
-# B.Sc. Zoology - Semester 2
 - item: "non-chordata-ii"
   title: "Non-Chordata II"
-- item: "genetics"
-  title: "Genetics"
-- item: "ecology"
-  title: "Ecology"
-- item: "chemistry-ii"
-  title: "Chemistry II"
-- item: "physics-ii"
-  title: "Physics II"
-
-# B.Sc. Zoology - Semester 3
 - item: "chordata-i"
   title: "Chordata I"
 - item: "evolutionary-biology"
   title: "Evolutionary Biology"
 - item: "physiology-i"
   title: "Physiology I"
-- item: "biostatistics"
-  title: "Biostatistics"
 - item: "zoology-lab-iii"
   title: "Zoology Lab III"
-
-# B.Sc. Zoology - Semester 4
 - item: "chordata-ii"
   title: "Chordata II"
 - item: "endocrinology"
   title: "Endocrinology"
 - item: "physiology-ii"
   title: "Physiology II"
-- item: "environmental-biology"
-  title: "Environmental Biology"
 - item: "zoology-lab-iv"
   title: "Zoology Lab IV"
-
-# B.Sc. Zoology - Semester 5
 - item: "developmental-biology"
   title: "Developmental Biology"
-- item: "immunology"
-  title: "Immunology"
-- item: "entomology"
-  title: "Entomology"
 - item: "animal-behaviour"
   title: "Animal Behaviour"
 - item: "zoology-lab-v"
   title: "Zoology Lab V"
-
-# B.Sc. Zoology - Semester 6
-- item: "molecular-biology"
-  title: "Molecular Biology"
 - item: "biotechnology"
   title: "Biotechnology"
 - item: "wildlife-biology"
   title: "Wildlife Biology"
-- item: "bioinformatics"
-  title: "Bioinformatics"
 - item: "zoology-project"
   title: "Zoology Project"
-
-# B.Sc. Botany - Semester 1
 - item: "microbiology-and-phycology"
   title: "Microbiology and Phycology"
 - item: "mycology-and-plant-pathology"
   title: "Mycology and Plant Pathology"
 - item: "bryophytes-and-pteridophytes"
   title: "Bryophytes and Pteridophytes"
-- item: "chemistry-i"
-  title: "Chemistry I"
-- item: "physics-i"
-  title: "Physics I"
-
-# B.Sc. Botany - Semester 2
 - item: "gymnosperms-and-paleobotany"
   title: "Gymnosperms and Paleobotany"
 - item: "angiosperms-i"
   title: "Angiosperms I"
 - item: "plant-anatomy"
   title: "Plant Anatomy"
-- item: "chemistry-ii"
-  title: "Chemistry II"
-- item: "physics-ii"
-  title: "Physics II"
-
-# B.Sc. Botany - Semester 3
 - item: "plant-physiology-i"
   title: "Plant Physiology I"
 - item: "plant-ecology"
   title: "Plant Ecology"
-- item: "genetics"
-  title: "Genetics"
-- item: "biochemistry"
-  title: "Biochemistry"
 - item: "botany-lab-iii"
   title: "Botany Lab III"
-
-# B.Sc. Botany - Semester 4
 - item: "plant-physiology-ii"
   title: "Plant Physiology II"
 - item: "angiosperms-ii"
   title: "Angiosperms II"
 - item: "plant-biotechnology"
   title: "Plant Biotechnology"
-- item: "biostatistics"
-  title: "Biostatistics"
 - item: "botany-lab-iv"
   title: "Botany Lab IV"
-
-# B.Sc. Botany - Semester 5
-- item: "molecular-biology"
-  title: "Molecular Biology"
-- item: "plant-breeding"
-  title: "Plant Breeding"
 - item: "economic-botany"
   title: "Economic Botany"
 - item: "plant-taxonomy"
   title: "Plant Taxonomy"
 - item: "botany-lab-v"
   title: "Botany Lab V"
-
-# B.Sc. Botany - Semester 6
 - item: "phytochemistry"
   title: "Phytochemistry"
-- item: "environmental-biotechnology"
-  title: "Environmental Biotechnology"
 - item: "plant-genetic-resources"
   title: "Plant Genetic Resources"
-- item: "bioinformatics"
-  title: "Bioinformatics"
 - item: "botany-project"
   title: "Botany Project"
-
----
-
-# B.Sc. Geology - Semester 1
 - item: "physical-geology"
   title: "Physical Geology"
 - item: "mineralogy-i"
   title: "Mineralogy I"
 - item: "structural-geology"
   title: "Structural Geology"
-- item: "chemistry-i"
-  title: "Chemistry I"
-- item: "physics-i"
-  title: "Physics I"
-
-# B.Sc. Geology - Semester 2
 - item: "mineralogy-ii"
   title: "Mineralogy II"
 - item: "petrology-i"
   title: "Petrology I"
 - item: "paleontology"
   title: "Paleontology"
-- item: "chemistry-ii"
-  title: "Chemistry II"
-- item: "physics-ii"
-  title: "Physics II"
-
-# B.Sc. Geology - Semester 3
 - item: "petrology-ii"
   title: "Petrology II"
 - item: "stratigraphy"
@@ -1141,20 +736,14 @@
   title: "Mathematics"
 - item: "geology-lab-iii"
   title: "Geology Lab III"
-
-# B.Sc. Geology - Semester 4
 - item: "economic-geology"
   title: "Economic Geology"
-- item: "hydrogeology"
-  title: "Hydrogeology"
 - item: "geophysics"
   title: "Geophysics"
 - item: "geochemistry"
   title: "Geochemistry"
 - item: "geology-lab-iv"
   title: "Geology Lab IV"
-
-# B.Sc. Geology - Semester 5
 - item: "engineering-geology"
   title: "Engineering Geology"
 - item: "environmental-geology"
@@ -1165,8 +754,6 @@
   title: "Ore Deposits"
 - item: "geology-lab-v"
   title: "Geology Lab V"
-
-# B.Sc. Geology - Semester 6
 - item: "marine-geology"
   title: "Marine Geology"
 - item: "petroleum-geology"
@@ -1177,96 +764,34 @@
   title: "Natural Hazards"
 - item: "geology-project"
   title: "Geology Project"
-
----
-
-# M.Sc. Physics - Semester 1
-- item: "classical-mechanics"
-  title: "Classical Mechanics"
-- item: "quantum-mechanics-i"
-  title: "Quantum Mechanics I"
 - item: "electrodynamics-i"
   title: "Electrodynamics I"
 - item: "mathematical-physics"
   title: "Mathematical Physics"
 - item: "physics-lab-i"
   title: "Physics Lab I"
-
-# M.Sc. Physics - Semester 2
-- item: "quantum-mechanics-ii"
-  title: "Quantum Mechanics II"
 - item: "electrodynamics-ii"
   title: "Electrodynamics II"
-- item: "statistical-mechanics"
-  title: "Statistical Mechanics"
-- item: "computational-physics"
-  title: "Computational Physics"
 - item: "physics-lab-ii"
   title: "Physics Lab II"
-
-# M.Sc. Physics - Semester 3
-- item: "solid-state-physics"
-  title: "Solid State Physics"
 - item: "nuclear-and-particle-physics"
   title: "Nuclear and Particle Physics"
-- item: "atomic-and-molecular-physics"
-  title: "Atomic and Molecular Physics"
 - item: "electronics-and-instrumentation"
   title: "Electronics and Instrumentation"
 - item: "physics-lab-iii"
   title: "Physics Lab III"
-
-# M.Sc. Physics - Semester 4
 - item: "condensed-matter-physics"
   title: "Condensed Matter Physics"
 - item: "astrophysics-and-cosmology"
   title: "Astrophysics and Cosmology"
 - item: "laser-and-fiber-optics"
   title: "Laser and Fiber Optics"
-- item: "biophysics"
-  title: "Biophysics"
 - item: "physics-thesis"
   title: "Physics Thesis"
-
----
-
-# M.Sc. Chemistry - Semester 1
-- item: "inorganic-chemistry-i"
-  title: "Inorganic Chemistry I"
-- item: "organic-chemistry-i"
-  title: "Organic Chemistry I"
-- item: "physical-chemistry-i"
-  title: "Physical Chemistry I"
-- item: "analytical-chemistry"
-  title: "Analytical Chemistry"
 - item: "chemistry-lab-i"
   title: "Chemistry Lab I"
-
-# M.Sc. Chemistry - Semester 2
-- item: "inorganic-chemistry-ii"
-  title: "Inorganic Chemistry II"
-- item: "organic-chemistry-ii"
-  title: "Organic Chemistry II"
-- item: "physical-chemistry-ii"
-  title: "Physical Chemistry II"
-- item: "spectroscopy"
-  title: "Spectroscopy"
 - item: "chemistry-lab-ii"
   title: "Chemistry Lab II"
-
-# M.Sc. Chemistry - Semester 3
-- item: "inorganic-chemistry-iii"
-  title: "Inorganic Chemistry III"
-- item: "organic-chemistry-iii"
-  title: "Organic Chemistry III"
-- item: "physical-chemistry-iii"
-  title: "Physical Chemistry III"
-- item: "polymer-chemistry"
-  title: "Polymer Chemistry"
-- item: "chemistry-lab-iii"
-  title: "Chemistry Lab III"
-
-# M.Sc. Chemistry - Semester 4
 - item: "advanced-inorganic-chemistry"
   title: "Advanced Inorganic Chemistry"
 - item: "advanced-organic-chemistry"
@@ -1277,310 +802,66 @@
   title: "Nanochemistry and Materials"
 - item: "chemistry-thesis"
   title: "Chemistry Thesis"
-
----
-
-# M.Sc. Mathematics - Semester 1
-- item: "real-analysis-i"
-  title: "Real Analysis I"
-- item: "linear-algebra"
-  title: "Linear Algebra"
 - item: "abstract-algebra-i"
   title: "Abstract Algebra I"
 - item: "ordinary-differential-equations"
   title: "Ordinary Differential Equations"
-- item: "mathematical-methods"
-  title: "Mathematical Methods"
-
-# M.Sc. Mathematics - Semester 2
-- item: "real-analysis-ii"
-  title: "Real Analysis II"
 - item: "abstract-algebra-ii"
   title: "Abstract Algebra II"
-- item: "complex-analysis"
-  title: "Complex Analysis"
 - item: "partial-differential-equations"
   title: "Partial Differential Equations"
-- item: "topology"
-  title: "Topology"
-
-# M.Sc. Mathematics - Semester 3
-- item: "functional-analysis"
-  title: "Functional Analysis"
-- item: "differential-geometry"
-  title: "Differential Geometry"
-- item: "number-theory"
-  title: "Number Theory"
-- item: "graph-theory"
-  title: "Graph Theory"
-- item: "operations-research"
-  title: "Operations Research"
-
-# M.Sc. Mathematics - Semester 4
-- item: "measure-theory"
-  title: "Measure Theory"
 - item: "advanced-functional-analysis"
   title: "Advanced Functional Analysis"
-- item: "mathematical-modeling"
-  title: "Mathematical Modeling"
-- item: "cryptography"
-  title: "Cryptography"
 - item: "mathematics-thesis"
   title: "Mathematics Thesis"
-
----
-
-# M.Sc. Computer Science - Semester 1
 - item: "advanced-data-structures"
   title: "Advanced Data Structures"
-- item: "design-and-analysis-of-algorithms"
-  title: "Design and Analysis of Algorithms"
 - item: "advanced-operating-systems"
   title: "Advanced Operating Systems"
-- item: "discrete-mathematics"
-  title: "Discrete Mathematics"
 - item: "computer-lab-i"
   title: "Computer Lab I"
-
-# M.Sc. Computer Science - Semester 2
-- item: "database-management-systems"
-  title: "Database Management Systems"
-- item: "computer-networks"
-  title: "Computer Networks"
-- item: "software-engineering"
-  title: "Software Engineering"
-- item: "theory-of-computation"
-  title: "Theory of Computation"
 - item: "computer-lab-ii"
   title: "Computer Lab II"
-
-# M.Sc. Computer Science - Semester 3
-- item: "artificial-intelligence"
-  title: "Artificial Intelligence"
-- item: "machine-learning"
-  title: "Machine Learning"
-- item: "cybersecurity"
-  title: "Cybersecurity"
-- item: "cloud-computing"
-  title: "Cloud Computing"
 - item: "computer-lab-iii"
   title: "Computer Lab III"
-
-# M.Sc. Computer Science - Semester 4
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
-- item: "blockchain-technology"
-  title: "Blockchain Technology"
-- item: "internet-of-things"
-  title: "Internet of Things"
-- item: "natural-language-processing"
-  title: "Natural Language Processing"
 - item: "cs-thesis"
   title: "CS Thesis"
-
----
-
-# M.Sc. Statistics - Semester 1
-- item: "probability-theory"
-  title: "Probability Theory"
-- item: "statistical-inference-i"
-  title: "Statistical Inference I"
-- item: "linear-models"
-  title: "Linear Models"
-- item: "multivariate-analysis"
-  title: "Multivariate Analysis"
 - item: "statistics-lab-i"
   title: "Statistics Lab I"
-
-# M.Sc. Statistics - Semester 2
-- item: "statistical-inference-ii"
-  title: "Statistical Inference II"
-- item: "sampling-techniques"
-  title: "Sampling Techniques"
-- item: "time-series-analysis"
-  title: "Time Series Analysis"
-- item: "design-of-experiments"
-  title: "Design of Experiments"
 - item: "statistics-lab-ii"
   title: "Statistics Lab II"
-
-# M.Sc. Statistics - Semester 3
-- item: "econometrics"
-  title: "Econometrics"
-- item: "survival-analysis"
-  title: "Survival Analysis"
-- item: "non-parametric-statistics"
-  title: "Non-Parametric Statistics"
-- item: "data-mining"
-  title: "Data Mining"
 - item: "statistics-lab-iii"
   title: "Statistics Lab III"
-
-# M.Sc. Statistics - Semester 4
 - item: "advanced-statistical-inference"
   title: "Advanced Statistical Inference"
-- item: "machine-learning-for-stats"
-  title: "Machine Learning for Statistics"
-- item: "actuarial-science"
-  title: "Actuarial Science"
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
 - item: "statistics-thesis"
   title: "Statistics Thesis"
-
----
-
-# M.Sc. Biotechnology - Semester 1
-- item: "molecular-biology"
-  title: "Molecular Biology"
-- item: "biochemistry"
-  title: "Biochemistry"
-- item: "cell-biology"
-  title: "Cell Biology"
 - item: "microbiology"
   title: "Microbiology"
 - item: "biotech-lab-i"
   title: "Biotech Lab I"
-
-# M.Sc. Biotechnology - Semester 2
-- item: "genetic-engineering"
-  title: "Genetic Engineering"
-- item: "enzyme-technology"
-  title: "Enzyme Technology"
-- item: "immunology"
-  title: "Immunology"
-- item: "biostatistics"
-  title: "Biostatistics"
 - item: "biotech-lab-ii"
   title: "Biotech Lab II"
-
-# M.Sc. Biotechnology - Semester 3
-- item: "bioprocess-engineering"
-  title: "Bioprocess Engineering"
-- item: "bioinformatics"
-  title: "Bioinformatics"
-- item: "environmental-biotechnology"
-  title: "Environmental Biotechnology"
-- item: "pharmaceutical-biotechnology"
-  title: "Pharmaceutical Biotechnology"
 - item: "biotech-lab-iii"
   title: "Biotech Lab III"
-
-# M.Sc. Biotechnology - Semester 4
-- item: "industrial-biotechnology"
-  title: "Industrial Biotechnology"
-- item: "nanobiotechnology"
-  title: "Nanobiotechnology"
-- item: "agricultural-biotechnology"
-  title: "Agricultural Biotechnology"
-- item: "biosafety-and-bioethics"
-  title: "Biosafety and Bioethics"
 - item: "biotech-thesis"
   title: "Biotech Thesis"
-
----
-
-# M.Sc. Microbiology - Semester 1
-- item: "general-microbiology"
-  title: "General Microbiology"
-- item: "biochemistry"
-  title: "Biochemistry"
-- item: "cell-biology"
-  title: "Cell Biology"
-- item: "molecular-biology"
-  title: "Molecular Biology"
 - item: "microbiology-lab-i"
   title: "Microbiology Lab I"
-
-# M.Sc. Microbiology - Semester 2
-- item: "microbial-physiology"
-  title: "Microbial Physiology"
-- item: "microbial-genetics"
-  title: "Microbial Genetics"
-- item: "immunology"
-  title: "Immunology"
-- item: "biostatistics"
-  title: "Biostatistics"
 - item: "microbiology-lab-ii"
   title: "Microbiology Lab II"
-
-# M.Sc. Microbiology - Semester 3
-- item: "environmental-microbiology"
-  title: "Environmental Microbiology"
-- item: "food-microbiology"
-  title: "Food Microbiology"
-- item: "pharmaceutical-microbiology"
-  title: "Pharmaceutical Microbiology"
-- item: "industrial-microbiology"
-  title: "Industrial Microbiology"
-- item: "microbiology-lab-iii"
-  title: "Microbiology Lab III"
-
-# M.Sc. Microbiology - Semester 4
-- item: "medical-microbiology"
-  title: "Medical Microbiology"
-- item: "agricultural-microbiology"
-  title: "Agricultural Microbiology"
-- item: "fermentation-microbiology"
-  title: "Fermentation Microbiology"
-- item: "bioinformatics"
-  title: "Bioinformatics"
 - item: "microbiology-thesis"
   title: "Microbiology Thesis"
-
----
-
-# M.Sc. Environmental Science - Semester 1
-- item: "environmental-chemistry"
-  title: "Environmental Chemistry"
 - item: "ecology-and-biodiversity"
   title: "Ecology and Biodiversity"
-- item: "atmospheric-science"
-  title: "Atmospheric Science"
-- item: "hydrogeology"
-  title: "Hydrogeology"
 - item: "env-lab-i"
   title: "Env Lab I"
-
-# M.Sc. Environmental Science - Semester 2
-- item: "environmental-pollution"
-  title: "Environmental Pollution"
-- item: "waste-management"
-  title: "Waste Management"
-- item: "environmental-microbiology"
-  title: "Environmental Microbiology"
-- item: "gis-and-remote-sensing"
-  title: "GIS and Remote Sensing"
 - item: "env-lab-ii"
   title: "Env Lab II"
-
-# M.Sc. Environmental Science - Semester 3
-- item: "environmental-impact-assessment"
-  title: "Environmental Impact Assessment"
-- item: "climate-change"
-  title: "Climate Change"
-- item: "natural-resource-management"
-  title: "Natural Resource Management"
-- item: "environmental-toxicology"
-  title: "Environmental Toxicology"
 - item: "env-lab-iii"
   title: "Env Lab III"
-
-# M.Sc. Environmental Science - Semester 4
-- item: "environmental-biotechnology"
-  title: "Environmental Biotechnology"
-- item: "environmental-laws-and-policies"
-  title: "Environmental Laws and Policies"
-- item: "energy-and-environment"
-  title: "Energy and Environment"
-- item: "disaster-management"
-  title: "Disaster Management"
 - item: "env-thesis"
   title: "Env Thesis"
-
----
-
-# M.Sc. Data Science - Semester 1
 - item: "programming-for-data-science"
   title: "Programming for Data Science"
 - item: "mathematics-for-data-science"
@@ -1591,346 +872,88 @@
   title: "Data Structures and Algorithms"
 - item: "ds-lab-i"
   title: "DS Lab I"
-
-# M.Sc. Data Science - Semester 2
-- item: "data-visualization"
-  title: "Data Visualization"
-- item: "database-systems"
-  title: "Database Systems"
-- item: "machine-learning-i"
-  title: "Machine Learning I"
-- item: "big-data-technologies"
-  title: "Big Data Technologies"
 - item: "ds-lab-ii"
   title: "DS Lab II"
-
-# M.Sc. Data Science - Semester 3
-- item: "machine-learning-ii"
-  title: "Machine Learning II"
-- item: "deep-learning"
-  title: "Deep Learning"
-- item: "natural-language-processing"
-  title: "Natural Language Processing"
-- item: "data-mining"
-  title: "Data Mining"
-- item: "ds-lab-iii"
-  title: "DS Lab III"
-
-# M.Sc. Data Science - Semester 4
-- item: "reinforcement-learning"
-  title: "Reinforcement Learning"
-- item: "time-series-forecasting"
-  title: "Time Series Forecasting"
-- item: "business-intelligence"
-  title: "Business Intelligence"
-- item: "data-ethics-and-privacy"
-  title: "Data Ethics and Privacy"
 - item: "ds-thesis"
   title: "DS Thesis"
-
----
-
-# M.Sc. Artificial Intelligence - Semester 1
 - item: "programming-for-ai"
   title: "Programming for AI"
 - item: "mathematics-for-ai"
   title: "Mathematics for AI"
-- item: "statistics-and-probability"
-  title: "Statistics and Probability"
-- item: "data-structures-and-algorithms"
-  title: "Data Structures and Algorithms"
 - item: "ai-lab-i"
   title: "AI Lab I"
-
-# M.Sc. Artificial Intelligence - Semester 2
-- item: "artificial-intelligence-fundamentals"
-  title: "Artificial Intelligence Fundamentals"
-- item: "machine-learning-i"
-  title: "Machine Learning I"
-- item: "database-systems"
-  title: "Database Systems"
-- item: "data-visualization"
-  title: "Data Visualization"
 - item: "ai-lab-ii"
   title: "AI Lab II"
-
-# M.Sc. Artificial Intelligence - Semester 3
-- item: "machine-learning-ii"
-  title: "Machine Learning II"
-- item: "deep-learning"
-  title: "Deep Learning"
-- item: "natural-language-processing"
-  title: "Natural Language Processing"
-- item: "computer-vision"
-  title: "Computer Vision"
-- item: "ai-lab-iii"
-  title: "AI Lab III"
-
-# M.Sc. Artificial Intelligence - Semester 4
-- item: "reinforcement-learning"
-  title: "Reinforcement Learning"
-- item: "generative-ai"
-  title: "Generative AI"
-- item: "robotics-and-automation"
-  title: "Robotics and Automation"
-- item: "ethics-in-ai"
-  title: "Ethics in AI"
 - item: "ai-thesis"
   title: "AI Thesis"
-
----
-
-# M.Sc. Zoology - Semester 1
 - item: "non-chordata"
   title: "Non-Chordata"
-- item: "cell-biology"
-  title: "Cell Biology"
-- item: "biochemistry"
-  title: "Biochemistry"
-- item: "genetics"
-  title: "Genetics"
 - item: "zoology-lab-i"
   title: "Zoology Lab I"
-
-# M.Sc. Zoology - Semester 2
 - item: "chordata"
   title: "Chordata"
 - item: "physiology"
   title: "Physiology"
-- item: "ecology"
-  title: "Ecology"
-- item: "evolutionary-biology"
-  title: "Evolutionary Biology"
 - item: "zoology-lab-ii"
   title: "Zoology Lab II"
-
-# M.Sc. Zoology - Semester 3
-- item: "developmental-biology"
-  title: "Developmental Biology"
-- item: "endocrinology"
-  title: "Endocrinology"
-- item: "immunology"
-  title: "Immunology"
-- item: "entomology"
-  title: "Entomology"
-- item: "zoology-lab-iii"
-  title: "Zoology Lab III"
-
-# M.Sc. Zoology - Semester 4
-- item: "molecular-biology"
-  title: "Molecular Biology"
-- item: "biotechnology"
-  title: "Biotechnology"
-- item: "wildlife-biology"
-  title: "Wildlife Biology"
-- item: "bioinformatics"
-  title: "Bioinformatics"
 - item: "zoology-thesis"
   title: "Zoology Thesis"
-
----
-
-# M.Sc. Botany - Semester 1
-- item: "microbiology-and-phycology"
-  title: "Microbiology and Phycology"
-- item: "mycology-and-plant-pathology"
-  title: "Mycology and Plant Pathology"
-- item: "bryophytes-and-pteridophytes"
-  title: "Bryophytes and Pteridophytes"
 - item: "gymnosperms"
   title: "Gymnosperms"
 - item: "botany-lab-i"
   title: "Botany Lab I"
-
-# M.Sc. Botany - Semester 2
 - item: "angiosperms"
   title: "Angiosperms"
-- item: "plant-anatomy"
-  title: "Plant Anatomy"
-- item: "plant-physiology"
-  title: "Plant Physiology"
-- item: "plant-ecology"
-  title: "Plant Ecology"
 - item: "botany-lab-ii"
   title: "Botany Lab II"
-
-# M.Sc. Botany - Semester 3
-- item: "plant-biotechnology"
-  title: "Plant Biotechnology"
 - item: "genetics-and-plant-breeding"
   title: "Genetics and Plant Breeding"
-- item: "molecular-biology"
-  title: "Molecular Biology"
-- item: "plant-taxonomy"
-  title: "Plant Taxonomy"
-- item: "botany-lab-iii"
-  title: "Botany Lab III"
-
-# M.Sc. Botany - Semester 4
-- item: "phytochemistry"
-  title: "Phytochemistry"
-- item: "environmental-biotechnology"
-  title: "Environmental Biotechnology"
-- item: "economic-botany"
-  title: "Economic Botany"
-- item: "bioinformatics"
-  title: "Bioinformatics"
 - item: "botany-thesis"
   title: "Botany Thesis"
-
----
-
-# M.Sc. Biochemistry - Semester 1
 - item: "biomolecules"
   title: "Biomolecules"
 - item: "enzyme-kinetics"
   title: "Enzyme Kinetics"
-- item: "cell-biology"
-  title: "Cell Biology"
-- item: "molecular-biology"
-  title: "Molecular Biology"
 - item: "biochemistry-lab-i"
   title: "Biochemistry Lab I"
-
-# M.Sc. Biochemistry - Semester 2
 - item: "metabolism-i"
   title: "Metabolism I"
 - item: "metabolism-ii"
   title: "Metabolism II"
-- item: "immunology"
-  title: "Immunology"
-- item: "biostatistics"
-  title: "Biostatistics"
 - item: "biochemistry-lab-ii"
   title: "Biochemistry Lab II"
-
-# M.Sc. Biochemistry - Semester 3
-- item: "genetic-engineering"
-  title: "Genetic Engineering"
 - item: "protein-chemistry"
   title: "Protein Chemistry"
-- item: "bioinformatics"
-  title: "Bioinformatics"
 - item: "clinical-biochemistry"
   title: "Clinical Biochemistry"
 - item: "biochemistry-lab-iii"
   title: "Biochemistry Lab III"
-
-# M.Sc. Biochemistry - Semester 4
 - item: "molecular-diagnostics"
   title: "Molecular Diagnostics"
 - item: "pharmaceutical-biochemistry"
   title: "Pharmaceutical Biochemistry"
 - item: "nutritional-biochemistry"
   title: "Nutritional Biochemistry"
-- item: "biosafety-and-bioethics"
-  title: "Biosafety and Bioethics"
 - item: "biochemistry-thesis"
   title: "Biochemistry Thesis"
-
----
-
-# M.Sc. Geology - Semester 1
 - item: "mineralogy"
   title: "Mineralogy"
 - item: "petrology"
   title: "Petrology"
-- item: "structural-geology"
-  title: "Structural Geology"
-- item: "paleontology"
-  title: "Paleontology"
 - item: "geology-lab-i"
   title: "Geology Lab I"
-
-# M.Sc. Geology - Semester 2
-- item: "stratigraphy"
-  title: "Stratigraphy"
-- item: "geomorphology"
-  title: "Geomorphology"
-- item: "geophysics"
-  title: "Geophysics"
-- item: "geochemistry"
-  title: "Geochemistry"
 - item: "geology-lab-ii"
   title: "Geology Lab II"
-
-# M.Sc. Geology - Semester 3
-- item: "economic-geology"
-  title: "Economic Geology"
-- item: "hydrogeology"
-  title: "Hydrogeology"
-- item: "engineering-geology"
-  title: "Engineering Geology"
-- item: "remote-sensing-and-gis"
-  title: "Remote Sensing and GIS"
-- item: "geology-lab-iii"
-  title: "Geology Lab III"
-
-# M.Sc. Geology - Semester 4
-- item: "marine-geology"
-  title: "Marine Geology"
-- item: "petroleum-geology"
-  title: "Petroleum Geology"
-- item: "environmental-geology"
-  title: "Environmental Geology"
-- item: "geological-mapping"
-  title: "Geological Mapping"
 - item: "geology-thesis"
   title: "Geology Thesis"
-
----
-
-# M.Sc. Food Technology - Semester 1
-- item: "food-chemistry"
-  title: "Food Chemistry"
-- item: "food-microbiology"
-  title: "Food Microbiology"
 - item: "food-processing"
   title: "Food Processing"
-- item: "food-engineering"
-  title: "Food Engineering"
 - item: "food-lab-i"
   title: "Food Lab I"
-
-# M.Sc. Food Technology - Semester 2
-- item: "food-analysis"
-  title: "Food Analysis"
-- item: "food-packaging"
-  title: "Food Packaging"
-- item: "food-quality-assurance"
-  title: "Food Quality Assurance"
-- item: "food-biotechnology"
-  title: "Food Biotechnology"
 - item: "food-lab-ii"
   title: "Food Lab II"
-
-# M.Sc. Food Technology - Semester 3
-- item: "food-preservation"
-  title: "Food Preservation"
-- item: "dairy-technology"
-  title: "Dairy Technology"
-- item: "cereal-technology"
-  title: "Cereal Technology"
-- item: "fruit-and-vegetable-processing"
-  title: "Fruit and Vegetable Processing"
-- item: "food-lab-iii"
-  title: "Food Lab III"
-
-# M.Sc. Food Technology - Semester 4
-- item: "meat-and-poultry-technology"
-  title: "Meat and Poultry Technology"
-- item: "beverage-technology"
-  title: "Beverage Technology"
-- item: "functional-foods"
-  title: "Functional Foods"
-- item: "food-safety-and-standards"
-  title: "Food Safety and Standards"
 - item: "food-thesis"
   title: "Food Thesis"
-
----
-
-# M.Sc. Yogic Science - Semester 1
 - item: "history-and-philosophy-of-yoga"
   title: "History and Philosophy of Yoga"
 - item: "anatomy-and-physiology-i"
@@ -1941,8 +964,6 @@
   title: "Asana and Pranayama I"
 - item: "yoga-practice-i"
   title: "Yoga Practice I"
-
-# M.Sc. Yogic Science - Semester 2
 - item: "yoga-and-mental-health"
   title: "Yoga and Mental Health"
 - item: "anatomy-and-physiology-ii"
@@ -1953,8 +974,6 @@
   title: "Asana and Pranayama II"
 - item: "yoga-practice-ii"
   title: "Yoga Practice II"
-
-# M.Sc. Yogic Science - Semester 3
 - item: "yoga-therapy"
   title: "Yoga Therapy"
 - item: "meditation-and-mindfulness"
@@ -1965,8 +984,6 @@
   title: "Yoga and Sports"
 - item: "yoga-practice-iii"
   title: "Yoga Practice III"
-
-# M.Sc. Yogic Science - Semester 4
 - item: "advanced-yoga-therapy"
   title: "Advanced Yoga Therapy"
 - item: "yoga-research-methodology"
@@ -1977,10 +994,6 @@
   title: "Yoga Teacher Training"
 - item: "yogic-thesis"
   title: "Yogic Thesis"
-
----
-
-# M.Sc. Analytical Techniques in Biochemistry - Semester 1
 - item: "biochemical-analysis-i"
   title: "Biochemical Analysis I"
 - item: "instrumental-methods-i"
@@ -1991,8 +1004,6 @@
   title: "Statistics for Analytical Science"
 - item: "analytical-lab-i"
   title: "Analytical Lab I"
-
-# M.Sc. Analytical Techniques in Biochemistry - Semester 2
 - item: "biochemical-analysis-ii"
   title: "Biochemical Analysis II"
 - item: "instrumental-methods-ii"
@@ -2003,10 +1014,6 @@
   title: "Chromatographic Techniques"
 - item: "analytical-lab-ii"
   title: "Analytical Lab II"
-
-# M.Sc. Analytical Techniques in Biochemistry - Semester 3
-- item: "molecular-diagnostics"
-  title: "Molecular Diagnostics"
 - item: "proteomics"
   title: "Proteomics"
 - item: "metabolomics"
@@ -2015,8 +1022,6 @@
   title: "Quality Control and Assurance"
 - item: "analytical-lab-iii"
   title: "Analytical Lab III"
-
-# M.Sc. Analytical Techniques in Biochemistry - Semester 4
 - item: "advanced-instrumentation"
   title: "Advanced Instrumentation"
 - item: "nanotechnology-in-biochemistry"
@@ -2027,8 +1032,6 @@
   title: "Bioinformatics for Analytical Science"
 - item: "analytical-thesis"
   title: "Analytical Thesis"
-
-# M.Sc. Metamorphic Petrology & Thermodynamics - Semester 1
 - item: "metamorphic-petrology-i"
   title: "Metamorphic Petrology I"
 - item: "thermodynamics-of-rocks"
@@ -2039,8 +1042,6 @@
   title: "Mineral Chemistry"
 - item: "petrology-lab-i"
   title: "Petrology Lab I"
-
-# M.Sc. Metamorphic Petrology & Thermodynamics - Semester 2
 - item: "metamorphic-petrology-ii"
   title: "Metamorphic Petrology II"
 - item: "advanced-thermodynamics"
@@ -2051,8 +1052,6 @@
   title: "Fluid Inclusions"
 - item: "petrology-lab-ii"
   title: "Petrology Lab II"
-
-# M.Sc. Metamorphic Petrology & Thermodynamics - Semester 3
 - item: "regional-metamorphism"
   title: "Regional Metamorphism"
 - item: "experimental-petrology"
@@ -2063,8 +1062,6 @@
   title: "Geochemical Modeling"
 - item: "petrology-lab-iii"
   title: "Petrology Lab III"
-
-# M.Sc. Metamorphic Petrology & Thermodynamics - Semester 4
 - item: "ultra-high-pressure-metamorphism"
   title: "Ultra-High-Pressure Metamorphism"
 - item: "tectonics-and-metamorphism"
@@ -2075,230 +1072,50 @@
   title: "Advanced Geochemical Modeling"
 - item: "petrology-thesis"
   title: "Petrology Thesis"
-
----
-
-# B.Tech Computer Science and Engineering - Semester 1
 - item: "programming-for-problem-solving"
   title: "Programming for Problem Solving"
-- item: "mathematics-i"
-  title: "Mathematics I"
 - item: "engineering-physics"
   title: "Engineering Physics"
 - item: "engineering-chemistry"
   title: "Engineering Chemistry"
 - item: "engineering-mechanics"
   title: "Engineering Mechanics"
-
-# B.Tech Computer Science and Engineering - Semester 2
-- item: "data-structures"
-  title: "Data Structures"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "digital-logic-design"
-  title: "Digital Logic Design"
-- item: "environmental-science"
-  title: "Environmental Science"
-- item: "engineering-drawing"
-  title: "Engineering Drawing"
-
-# B.Tech Computer Science and Engineering - Semester 3
-- item: "object-oriented-programming"
-  title: "Object-Oriented Programming"
-- item: "discrete-mathematics"
-  title: "Discrete Mathematics"
 - item: "computer-architecture"
   title: "Computer Architecture"
-- item: "database-management-systems"
-  title: "Database Management Systems"
-- item: "operating-systems"
-  title: "Operating Systems"
-
-# B.Tech Computer Science and Engineering - Semester 4
-- item: "design-and-analysis-of-algorithms"
-  title: "Design and Analysis of Algorithms"
-- item: "computer-networks"
-  title: "Computer Networks"
-- item: "theory-of-computation"
-  title: "Theory of Computation"
-- item: "software-engineering"
-  title: "Software Engineering"
-- item: "python-programming"
-  title: "Python Programming"
-
-# B.Tech Computer Science and Engineering - Semester 5
-- item: "artificial-intelligence"
-  title: "Artificial Intelligence"
-- item: "machine-learning"
-  title: "Machine Learning"
-- item: "web-technologies"
-  title: "Web Technologies"
-- item: "cybersecurity"
-  title: "Cybersecurity"
-- item: "cloud-computing"
-  title: "Cloud Computing"
-
-# B.Tech Computer Science and Engineering - Semester 6
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
-- item: "blockchain-technology"
-  title: "Blockchain Technology"
-- item: "internet-of-things"
-  title: "Internet of Things"
-- item: "mobile-app-development"
-  title: "Mobile App Development"
-- item: "computer-graphics"
-  title: "Computer Graphics"
-
-# B.Tech Computer Science and Engineering - Semester 7
-- item: "natural-language-processing"
-  title: "Natural Language Processing"
-- item: "deep-learning"
-  title: "Deep Learning"
-- item: "devops"
-  title: "DevOps"
 - item: "project-management"
   title: "Project Management"
 - item: "cse-lab-vii"
   title: "CSE Lab VII"
-
-# B.Tech Computer Science and Engineering - Semester 8
-- item: "reinforcement-learning"
-  title: "Reinforcement Learning"
 - item: "data-science"
   title: "Data Science"
-- item: "robotics"
-  title: "Robotics"
 - item: "professional-ethics"
   title: "Professional Ethics"
 - item: "cse-project"
   title: "CSE Project"
-
----
-
-# B.Tech Electronics and Communication Engineering - Semester 1
-- item: "programming-for-problem-solving"
-  title: "Programming for Problem Solving"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "engineering-physics"
-  title: "Engineering Physics"
-- item: "engineering-chemistry"
-  title: "Engineering Chemistry"
-- item: "basic-electronics"
-  title: "Basic Electronics"
-
-# B.Tech Electronics and Communication Engineering - Semester 2
-- item: "data-structures"
-  title: "Data Structures"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "circuit-theory"
-  title: "Circuit Theory"
-- item: "environmental-science"
-  title: "Environmental Science"
-- item: "engineering-drawing"
-  title: "Engineering Drawing"
-
-# B.Tech Electronics and Communication Engineering - Semester 3
-- item: "analog-electronics"
-  title: "Analog Electronics"
-- item: "digital-electronics"
-  title: "Digital Electronics"
-- item: "signals-and-systems"
-  title: "Signals and Systems"
-- item: "electromagnetic-fields"
-  title: "Electromagnetic Fields"
-- item: "electronic-devices"
-  title: "Electronic Devices"
-
-# B.Tech Electronics and Communication Engineering - Semester 4
-- item: "linear-integrated-circuits"
-  title: "Linear Integrated Circuits"
-- item: "communication-systems"
-  title: "Communication Systems"
-- item: "microprocessors-and-microcontrollers"
-  title: "Microprocessors and Microcontrollers"
-- item: "control-systems"
-  title: "Control Systems"
 - item: "ece-lab-iv"
   title: "ECE Lab IV"
-
-# B.Tech Electronics and Communication Engineering - Semester 5
-- item: "digital-signal-processing"
-  title: "Digital Signal Processing"
-- item: "wireless-communication"
-  title: "Wireless Communication"
-- item: "embedded-systems"
-  title: "Embedded Systems"
-- item: "vlsi-design"
-  title: "VLSI Design"
 - item: "ece-lab-v"
   title: "ECE Lab V"
-
-# B.Tech Electronics and Communication Engineering - Semester 6
-- item: "optical-communication"
-  title: "Optical Communication"
 - item: "antenna-and-wave-propagation"
   title: "Antenna and Wave Propagation"
-- item: "iot-and-sensors"
-  title: "IoT and Sensors"
-- item: "robotics"
-  title: "Robotics"
 - item: "ece-lab-vi"
   title: "ECE Lab VI"
-
-# B.Tech Electronics and Communication Engineering - Semester 7
 - item: "satellite-communication"
   title: "Satellite Communication"
 - item: "radar-systems"
   title: "Radar Systems"
-- item: "machine-learning"
-  title: "Machine Learning"
-- item: "project-management"
-  title: "Project Management"
 - item: "ece-lab-vii"
   title: "ECE Lab VII"
-
-# B.Tech Electronics and Communication Engineering - Semester 8
 - item: "advanced-communication"
   title: "Advanced Communication"
 - item: "biomedical-electronics"
   title: "Biomedical Electronics"
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "ece-project"
   title: "ECE Project"
-
----
-
-# B.Tech Mechanical Engineering - Semester 1
-- item: "programming-for-problem-solving"
-  title: "Programming for Problem Solving"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "engineering-physics"
-  title: "Engineering Physics"
-- item: "engineering-chemistry"
-  title: "Engineering Chemistry"
-- item: "engineering-mechanics"
-  title: "Engineering Mechanics"
-
-# B.Tech Mechanical Engineering - Semester 2
 - item: "workshop-technology"
   title: "Workshop Technology"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "engineering-drawing"
-  title: "Engineering Drawing"
-- item: "environmental-science"
-  title: "Environmental Science"
 - item: "basic-electrical-engineering"
   title: "Basic Electrical Engineering"
-
-# B.Tech Mechanical Engineering - Semester 3
-- item: "thermodynamics"
-  title: "Thermodynamics"
 - item: "strength-of-materials"
   title: "Strength of Materials"
 - item: "fluid-mechanics"
@@ -2307,8 +1124,6 @@
   title: "Manufacturing Processes"
 - item: "mechanical-lab-iii"
   title: "Mechanical Lab III"
-
-# B.Tech Mechanical Engineering - Semester 4
 - item: "applied-thermodynamics"
   title: "Applied Thermodynamics"
 - item: "theory-of-machines"
@@ -2319,8 +1134,6 @@
   title: "Mechanics of Materials"
 - item: "mechanical-lab-iv"
   title: "Mechanical Lab IV"
-
-# B.Tech Mechanical Engineering - Semester 5
 - item: "heat-and-mass-transfer"
   title: "Heat and Mass Transfer"
 - item: "industrial-engineering"
@@ -2331,74 +1144,34 @@
   title: "Automobile Engineering"
 - item: "mechanical-lab-v"
   title: "Mechanical Lab V"
-
-# B.Tech Mechanical Engineering - Semester 6
 - item: "refrigeration-and-air-conditioning"
   title: "Refrigeration and Air Conditioning"
 - item: "power-plant-engineering"
   title: "Power Plant Engineering"
-- item: "robotics"
-  title: "Robotics"
 - item: "finite-element-analysis"
   title: "Finite Element Analysis"
 - item: "mechanical-lab-vi"
   title: "Mechanical Lab VI"
-
-# B.Tech Mechanical Engineering - Semester 7
 - item: "advanced-manufacturing"
   title: "Advanced Manufacturing"
 - item: "renewable-energy"
   title: "Renewable Energy"
-- item: "project-management"
-  title: "Project Management"
 - item: "mechanical-lab-vii"
   title: "Mechanical Lab VII"
-
-# B.Tech Mechanical Engineering - Semester 8
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "mechanical-project"
   title: "Mechanical Project"
-
----
-
-# B.Tech Civil Engineering - Semester 1
-- item: "programming-for-problem-solving"
-  title: "Programming for Problem Solving"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "engineering-physics"
-  title: "Engineering Physics"
-- item: "engineering-chemistry"
-  title: "Engineering Chemistry"
-- item: "engineering-mechanics"
-  title: "Engineering Mechanics"
-
-# B.Tech Civil Engineering - Semester 2
 - item: "basic-civil-engineering"
   title: "Basic Civil Engineering"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "engineering-drawing"
-  title: "Engineering Drawing"
-- item: "environmental-science"
-  title: "Environmental Science"
 - item: "building-materials"
   title: "Building Materials"
-
-# B.Tech Civil Engineering - Semester 3
 - item: "structural-mechanics"
   title: "Structural Mechanics"
-- item: "fluid-mechanics"
-  title: "Fluid Mechanics"
 - item: "surveying"
   title: "Surveying"
 - item: "geotechnical-engineering"
   title: "Geotechnical Engineering"
 - item: "civil-lab-iii"
   title: "Civil Lab III"
-
-# B.Tech Civil Engineering - Semester 4
 - item: "structural-analysis"
   title: "Structural Analysis"
 - item: "concrete-technology"
@@ -2409,8 +1182,6 @@
   title: "Transportation Engineering"
 - item: "civil-lab-iv"
   title: "Civil Lab IV"
-
-# B.Tech Civil Engineering - Semester 5
 - item: "design-of-steel-structures"
   title: "Design of Steel Structures"
 - item: "design-of-reinforced-concrete"
@@ -2421,450 +1192,110 @@
   title: "Hydrology"
 - item: "civil-lab-v"
   title: "Civil Lab V"
-
-# B.Tech Civil Engineering - Semester 6
 - item: "foundation-engineering"
   title: "Foundation Engineering"
 - item: "water-resources-engineering"
   title: "Water Resources Engineering"
 - item: "construction-planning"
   title: "Construction Planning"
-- item: "remote-sensing-and-gis"
-  title: "Remote Sensing and GIS"
 - item: "civil-lab-vi"
   title: "Civil Lab VI"
-
-# B.Tech Civil Engineering - Semester 7
-- item: "project-management"
-  title: "Project Management"
 - item: "earthquake-engineering"
   title: "Earthquake Engineering"
 - item: "civil-lab-vii"
   title: "Civil Lab VII"
-
-# B.Tech Civil Engineering - Semester 8
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "civil-project"
   title: "Civil Project"
-
----
-
-# B.Tech Electrical Engineering - Semester 1
-- item: "programming-for-problem-solving"
-  title: "Programming for Problem Solving"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "engineering-physics"
-  title: "Engineering Physics"
-- item: "engineering-chemistry"
-  title: "Engineering Chemistry"
-- item: "engineering-mechanics"
-  title: "Engineering Mechanics"
-
-# B.Tech Electrical Engineering - Semester 2
-- item: "basic-electrical-engineering"
-  title: "Basic Electrical Engineering"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "engineering-drawing"
-  title: "Engineering Drawing"
-- item: "environmental-science"
-  title: "Environmental Science"
-- item: "circuit-theory"
-  title: "Circuit Theory"
-
-# B.Tech Electrical Engineering - Semester 3
-- item: "analog-electronics"
-  title: "Analog Electronics"
-- item: "digital-electronics"
-  title: "Digital Electronics"
-- item: "electromagnetic-fields"
-  title: "Electromagnetic Fields"
 - item: "network-analysis"
   title: "Network Analysis"
 - item: "electrical-lab-iii"
   title: "Electrical Lab III"
-
-# B.Tech Electrical Engineering - Semester 4
 - item: "electrical-machines-i"
   title: "Electrical Machines I"
 - item: "power-systems"
   title: "Power Systems"
-- item: "control-systems"
-  title: "Control Systems"
-- item: "signals-and-systems"
-  title: "Signals and Systems"
 - item: "electrical-lab-iv"
   title: "Electrical Lab IV"
-
-# B.Tech Electrical Engineering - Semester 5
 - item: "electrical-machines-ii"
   title: "Electrical Machines II"
-- item: "power-electronics"
-  title: "Power Electronics"
 - item: "power-system-analysis"
   title: "Power System Analysis"
-- item: "microprocessors"
-  title: "Microprocessors"
 - item: "electrical-lab-v"
   title: "Electrical Lab V"
-
-# B.Tech Electrical Engineering - Semester 6
 - item: "power-system-protection"
   title: "Power System Protection"
 - item: "high-voltage-engineering"
   title: "High Voltage Engineering"
-- item: "renewable-energy"
-  title: "Renewable Energy"
-- item: "embedded-systems"
-  title: "Embedded Systems"
 - item: "electrical-lab-vi"
   title: "Electrical Lab VI"
-
-# B.Tech Electrical Engineering - Semester 7
 - item: "smart-grid"
   title: "Smart Grid"
-- item: "project-management"
-  title: "Project Management"
 - item: "electrical-lab-vii"
   title: "Electrical Lab VII"
-
-# B.Tech Electrical Engineering - Semester 8
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "electrical-project"
   title: "Electrical Project"
-
----
-
-# B.Tech Information Technology - Semester 1
-- item: "programming-for-problem-solving"
-  title: "Programming for Problem Solving"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "engineering-physics"
-  title: "Engineering Physics"
-- item: "engineering-chemistry"
-  title: "Engineering Chemistry"
-- item: "digital-logic-design"
-  title: "Digital Logic Design"
-
-# B.Tech Information Technology - Semester 2
-- item: "data-structures"
-  title: "Data Structures"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "database-management-systems"
-  title: "Database Management Systems"
-- item: "environmental-science"
-  title: "Environmental Science"
-- item: "computer-organization"
-  title: "Computer Organization"
-
-# B.Tech Information Technology - Semester 3
-- item: "object-oriented-programming"
-  title: "Object-Oriented Programming"
-- item: "discrete-mathematics"
-  title: "Discrete Mathematics"
-- item: "operating-systems"
-  title: "Operating Systems"
-- item: "computer-networks"
-  title: "Computer Networks"
 - item: "it-lab-iii"
   title: "IT Lab III"
-
-# B.Tech Information Technology - Semester 4
-- item: "design-and-analysis-of-algorithms"
-  title: "Design and Analysis of Algorithms"
-- item: "software-engineering"
-  title: "Software Engineering"
-- item: "theory-of-computation"
-  title: "Theory of Computation"
-- item: "web-technologies"
-  title: "Web Technologies"
 - item: "it-lab-iv"
   title: "IT Lab IV"
-
-# B.Tech Information Technology - Semester 5
-- item: "artificial-intelligence"
-  title: "Artificial Intelligence"
-- item: "machine-learning"
-  title: "Machine Learning"
-- item: "cybersecurity"
-  title: "Cybersecurity"
-- item: "cloud-computing"
-  title: "Cloud Computing"
 - item: "it-lab-v"
   title: "IT Lab V"
-
-# B.Tech Information Technology - Semester 6
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
-- item: "blockchain-technology"
-  title: "Blockchain Technology"
-- item: "internet-of-things"
-  title: "Internet of Things"
-- item: "mobile-app-development"
-  title: "Mobile App Development"
 - item: "it-lab-vi"
   title: "IT Lab VI"
-
-# B.Tech Information Technology - Semester 7
-- item: "natural-language-processing"
-  title: "Natural Language Processing"
-- item: "devops"
-  title: "DevOps"
-- item: "project-management"
-  title: "Project Management"
 - item: "it-lab-vii"
   title: "IT Lab VII"
-
-# B.Tech Information Technology - Semester 8
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "it-project"
   title: "IT Project"
-
----
-
-# B.Tech Civil (Construction Management) - Semester 1
-- item: "programming-for-problem-solving"
-  title: "Programming for Problem Solving"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "engineering-physics"
-  title: "Engineering Physics"
-- item: "engineering-chemistry"
-  title: "Engineering Chemistry"
-- item: "engineering-mechanics"
-  title: "Engineering Mechanics"
-
-# B.Tech Civil (Construction Management) - Semester 2
-- item: "basic-civil-engineering"
-  title: "Basic Civil Engineering"
-- item: "mathematics-ii"
-  title: "Mathematics II"
-- item: "engineering-drawing"
-  title: "Engineering Drawing"
-- item: "environmental-science"
-  title: "Environmental Science"
-- item: "building-materials"
-  title: "Building Materials"
-
-# B.Tech Civil (Construction Management) - Semester 3
-- item: "structural-mechanics"
-  title: "Structural Mechanics"
-- item: "fluid-mechanics"
-  title: "Fluid Mechanics"
-- item: "surveying"
-  title: "Surveying"
 - item: "construction-materials"
   title: "Construction Materials"
 - item: "cm-lab-iii"
   title: "CM Lab III"
-
-# B.Tech Civil (Construction Management) - Semester 4
-- item: "structural-analysis"
-  title: "Structural Analysis"
-- item: "concrete-technology"
-  title: "Concrete Technology"
 - item: "construction-equipment"
   title: "Construction Equipment"
 - item: "quantity-surveying"
   title: "Quantity Surveying"
 - item: "cm-lab-iv"
   title: "CM Lab IV"
-
-# B.Tech Civil (Construction Management) - Semester 5
 - item: "project-planning-and-scheduling"
   title: "Project Planning and Scheduling"
 - item: "construction-cost-estimation"
   title: "Construction Cost Estimation"
-- item: "design-of-steel-structures"
-  title: "Design of Steel Structures"
-- item: "design-of-reinforced-concrete"
-  title: "Design of Reinforced Concrete"
 - item: "cm-lab-v"
   title: "CM Lab V"
-
-# B.Tech Civil (Construction Management) - Semester 6
 - item: "construction-safety"
   title: "Construction Safety"
 - item: "construction-contracts"
   title: "Construction Contracts"
-- item: "foundation-engineering"
-  title: "Foundation Engineering"
-- item: "water-resources-engineering"
-  title: "Water Resources Engineering"
 - item: "cm-lab-vi"
   title: "CM Lab VI"
-
-# B.Tech Civil (Construction Management) - Semester 7
-- item: "project-management"
-  title: "Project Management"
 - item: "construction-software"
   title: "Construction Software"
 - item: "cm-lab-vii"
   title: "CM Lab VII"
-
-# B.Tech Civil (Construction Management) - Semester 8
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "cm-project"
   title: "CM Project"
-
----
-
-# Bachelor of Computer Applications (BCA) - Semester 1
-- item: "programming-fundamentals"
-  title: "Programming Fundamentals"
-- item: "digital-logic-design"
-  title: "Digital Logic Design"
-- item: "mathematics-i"
-  title: "Mathematics I"
-- item: "computer-organization"
-  title: "Computer Organization"
-- item: "communication-skills"
-  title: "Communication Skills"
-
-# Bachelor of Computer Applications (BCA) - Semester 2
-- item: "data-structures"
-  title: "Data Structures"
-- item: "object-oriented-programming"
-  title: "Object-Oriented Programming"
-- item: "discrete-mathematics"
-  title: "Discrete Mathematics"
-- item: "operating-systems"
-  title: "Operating Systems"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# Bachelor of Computer Applications (BCA) - Semester 3
-- item: "database-management-systems"
-  title: "Database Management Systems"
-- item: "computer-networks"
-  title: "Computer Networks"
-- item: "design-and-analysis-of-algorithms"
-  title: "Design and Analysis of Algorithms"
-- item: "software-engineering"
-  title: "Software Engineering"
-- item: "python-programming"
-  title: "Python Programming"
-
-# Bachelor of Computer Applications (BCA) - Semester 4
-- item: "web-technologies"
-  title: "Web Technologies"
-- item: "theory-of-computation"
-  title: "Theory of Computation"
-- item: "computer-graphics"
-  title: "Computer Graphics"
 - item: "java-programming"
   title: "Java Programming"
 - item: "bca-lab-iv"
   title: "BCA Lab IV"
-
-# Bachelor of Computer Applications (BCA) - Semester 5
-- item: "artificial-intelligence"
-  title: "Artificial Intelligence"
-- item: "machine-learning"
-  title: "Machine Learning"
-- item: "cybersecurity"
-  title: "Cybersecurity"
-- item: "cloud-computing"
-  title: "Cloud Computing"
-- item: "mobile-app-development"
-  title: "Mobile App Development"
-
-# Bachelor of Computer Applications (BCA) - Semester 6
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
-- item: "internet-of-things"
-  title: "Internet of Things"
-- item: "devops"
-  title: "DevOps"
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "bca-project"
   title: "BCA Project"
-
----
-
-# Master of Computer Applications (MCA) - Semester 1
 - item: "advanced-programming"
   title: "Advanced Programming"
-- item: "advanced-data-structures"
-  title: "Advanced Data Structures"
 - item: "mathematical-foundations"
   title: "Mathematical Foundations"
-- item: "computer-architecture"
-  title: "Computer Architecture"
 - item: "mca-lab-i"
   title: "MCA Lab I"
-
-# Master of Computer Applications (MCA) - Semester 2
-- item: "database-management-systems"
-  title: "Database Management Systems"
-- item: "computer-networks"
-  title: "Computer Networks"
-- item: "operating-systems"
-  title: "Operating Systems"
-- item: "software-engineering"
-  title: "Software Engineering"
 - item: "mca-lab-ii"
   title: "MCA Lab II"
-
-# Master of Computer Applications (MCA) - Semester 3
-- item: "design-and-analysis-of-algorithms"
-  title: "Design and Analysis of Algorithms"
-- item: "web-technologies"
-  title: "Web Technologies"
-- item: "python-programming"
-  title: "Python Programming"
-- item: "theory-of-computation"
-  title: "Theory of Computation"
 - item: "mca-lab-iii"
   title: "MCA Lab III"
-
-# Master of Computer Applications (MCA) - Semester 4
-- item: "artificial-intelligence"
-  title: "Artificial Intelligence"
-- item: "machine-learning"
-  title: "Machine Learning"
-- item: "cybersecurity"
-  title: "Cybersecurity"
-- item: "cloud-computing"
-  title: "Cloud Computing"
 - item: "mca-lab-iv"
   title: "MCA Lab IV"
-
-# Master of Computer Applications (MCA) - Semester 5
-- item: "big-data-analytics"
-  title: "Big Data Analytics"
-- item: "blockchain-technology"
-  title: "Blockchain Technology"
-- item: "internet-of-things"
-  title: "Internet of Things"
-- item: "mobile-app-development"
-  title: "Mobile App Development"
 - item: "mca-lab-v"
   title: "MCA Lab V"
-
-# Master of Computer Applications (MCA) - Semester 6
-- item: "natural-language-processing"
-  title: "Natural Language Processing"
-- item: "deep-learning"
-  title: "Deep Learning"
-- item: "devops"
-  title: "DevOps"
-- item: "professional-ethics"
-  title: "Professional Ethics"
 - item: "mca-project"
   title: "MCA Project"
-
----
-
-# B.Com - Semester 1
 - item: "financial-accounting"
   title: "Financial Accounting"
 - item: "business-organization"
@@ -2875,8 +1306,6 @@
   title: "Business Communication"
 - item: "computer-applications"
   title: "Computer Applications"
-
-# B.Com - Semester 2
 - item: "corporate-accounting"
   title: "Corporate Accounting"
 - item: "business-economics"
@@ -2885,10 +1314,6 @@
   title: "Business Statistics"
 - item: "business-environment"
   title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# B.Com - Semester 3
 - item: "cost-accounting"
   title: "Cost Accounting"
 - item: "management-accounting"
@@ -2899,8 +1324,6 @@
   title: "Banking and Insurance"
 - item: "income-tax"
   title: "Income Tax"
-
-# B.Com - Semester 4
 - item: "advanced-accounting"
   title: "Advanced Accounting"
 - item: "financial-management"
@@ -2911,20 +1334,14 @@
   title: "Marketing Management"
 - item: "human-resource-management"
   title: "Human Resource Management"
-
-# B.Com - Semester 5
 - item: "auditing"
   title: "Auditing"
 - item: "corporate-taxation"
   title: "Corporate Taxation"
 - item: "financial-markets"
   title: "Financial Markets"
-- item: "operations-research"
-  title: "Operations Research"
 - item: "elective-i"
   title: "Elective I"
-
-# B.Com - Semester 6
 - item: "strategic-management"
   title: "Strategic Management"
 - item: "international-business"
@@ -2935,408 +1352,66 @@
   title: "Elective II"
 - item: "bcom-project"
   title: "BCom Project"
-
----
-
-# B.Com (Hons) - Semester 1
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-organization"
-  title: "Business Organization"
-- item: "business-mathematics"
-  title: "Business Mathematics"
-- item: "business-communication"
-  title: "Business Communication"
-- item: "computer-applications"
-  title: "Computer Applications"
-
-# B.Com (Hons) - Semester 2
-- item: "corporate-accounting"
-  title: "Corporate Accounting"
 - item: "microeconomics"
   title: "Microeconomics"
-- item: "business-statistics"
-  title: "Business Statistics"
-- item: "business-environment"
-  title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# B.Com (Hons) - Semester 3
-- item: "cost-accounting"
-  title: "Cost Accounting"
-- item: "management-accounting"
-  title: "Management Accounting"
-- item: "business-law"
-  title: "Business Law"
 - item: "macroeconomics"
   title: "Macroeconomics"
-- item: "income-tax"
-  title: "Income Tax"
-
-# B.Com (Hons) - Semester 4
-- item: "advanced-accounting"
-  title: "Advanced Accounting"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-
-# B.Com (Hons) - Semester 5
-- item: "auditing"
-  title: "Auditing"
-- item: "corporate-taxation"
-  title: "Corporate Taxation"
-- item: "financial-markets"
-  title: "Financial Markets"
-- item: "operations-research"
-  title: "Operations Research"
-- item: "elective-i"
-  title: "Elective I"
-
-# B.Com (Hons) - Semester 6
-- item: "strategic-management"
-  title: "Strategic Management"
-- item: "international-business"
-  title: "International Business"
-- item: "e-commerce"
-  title: "E-Commerce"
-- item: "elective-ii"
-  title: "Elective II"
 - item: "bcom-hons-project"
   title: "BCom Hons Project"
-
----
-
-# Bachelor of Business Administration (BBA) - Semester 1
 - item: "principles-of-management"
   title: "Principles of Management"
-- item: "business-mathematics"
-  title: "Business Mathematics"
-- item: "business-communication"
-  title: "Business Communication"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "computer-applications"
-  title: "Computer Applications"
-
-# Bachelor of Business Administration (BBA) - Semester 2
 - item: "organizational-behavior"
   title: "Organizational Behavior"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "business-statistics"
-  title: "Business Statistics"
-- item: "business-environment"
-  title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# Bachelor of Business Administration (BBA) - Semester 3
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
 - item: "operations-management"
   title: "Operations Management"
-- item: "business-law"
-  title: "Business Law"
-
-# Bachelor of Business Administration (BBA) - Semester 4
-- item: "strategic-management"
-  title: "Strategic Management"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
 - item: "research-methodology"
   title: "Research Methodology"
 - item: "management-information-systems"
   title: "Management Information Systems"
-- item: "elective-i"
-  title: "Elective I"
-
-# Bachelor of Business Administration (BBA) - Semester 5
-- item: "international-business"
-  title: "International Business"
 - item: "supply-chain-management"
   title: "Supply Chain Management"
 - item: "business-analytics"
   title: "Business Analytics"
 - item: "corporate-social-responsibility"
   title: "Corporate Social Responsibility"
-- item: "elective-ii"
-  title: "Elective II"
-
-# Bachelor of Business Administration (BBA) - Semester 6
-- item: "project-management"
-  title: "Project Management"
 - item: "business-ethics"
   title: "Business Ethics"
 - item: "elective-iii"
   title: "Elective III"
 - item: "bba-project"
   title: "BBA Project"
-
----
-
-# BBA (Hons) - Semester 1
-- item: "principles-of-management"
-  title: "Principles of Management"
-- item: "business-mathematics"
-  title: "Business Mathematics"
-- item: "business-communication"
-  title: "Business Communication"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "computer-applications"
-  title: "Computer Applications"
-
-# BBA (Hons) - Semester 2
-- item: "organizational-behavior"
-  title: "Organizational Behavior"
-- item: "microeconomics"
-  title: "Microeconomics"
-- item: "business-statistics"
-  title: "Business Statistics"
-- item: "business-environment"
-  title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# BBA (Hons) - Semester 3
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "operations-management"
-  title: "Operations Management"
-- item: "macroeconomics"
-  title: "Macroeconomics"
-
-# BBA (Hons) - Semester 4
-- item: "strategic-management"
-  title: "Strategic Management"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
-- item: "research-methodology"
-  title: "Research Methodology"
-- item: "management-information-systems"
-  title: "Management Information Systems"
-- item: "business-law"
-  title: "Business Law"
-
-# BBA (Hons) - Semester 5
-- item: "international-business"
-  title: "International Business"
-- item: "supply-chain-management"
-  title: "Supply Chain Management"
-- item: "business-analytics"
-  title: "Business Analytics"
-- item: "corporate-social-responsibility"
-  title: "Corporate Social Responsibility"
-- item: "elective-i"
-  title: "Elective I"
-
-# BBA (Hons) - Semester 6
-- item: "project-management"
-  title: "Project Management"
-- item: "business-ethics"
-  title: "Business Ethics"
-- item: "elective-ii"
-  title: "Elective II"
 - item: "bba-hons-project"
   title: "BBA Hons Project"
-
----
-
-# Bachelor of Management Studies (BMS) - Semester 1
-- item: "principles-of-management"
-  title: "Principles of Management"
-- item: "business-mathematics"
-  title: "Business Mathematics"
-- item: "business-communication"
-  title: "Business Communication"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "computer-applications"
-  title: "Computer Applications"
-
-# Bachelor of Management Studies (BMS) - Semester 2
-- item: "organizational-behavior"
-  title: "Organizational Behavior"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "business-statistics"
-  title: "Business Statistics"
-- item: "business-environment"
-  title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# Bachelor of Management Studies (BMS) - Semester 3
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "operations-management"
-  title: "Operations Management"
-- item: "business-law"
-  title: "Business Law"
-
-# Bachelor of Management Studies (BMS) - Semester 4
-- item: "strategic-management"
-  title: "Strategic Management"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
-- item: "research-methodology"
-  title: "Research Methodology"
-- item: "management-information-systems"
-  title: "Management Information Systems"
-- item: "elective-i"
-  title: "Elective I"
-
-# Bachelor of Management Studies (BMS) - Semester 5
-- item: "international-business"
-  title: "International Business"
-- item: "supply-chain-management"
-  title: "Supply Chain Management"
-- item: "business-analytics"
-  title: "Business Analytics"
-- item: "corporate-social-responsibility"
-  title: "Corporate Social Responsibility"
-- item: "elective-ii"
-  title: "Elective II"
-
-# Bachelor of Management Studies (BMS) - Semester 6
-- item: "project-management"
-  title: "Project Management"
-- item: "business-ethics"
-  title: "Business Ethics"
-- item: "elective-iii"
-  title: "Elective III"
 - item: "bms-project"
   title: "BMS Project"
-
----
-
-# Bachelor of Business Economics (BBE) - Semester 1
 - item: "microeconomics-i"
   title: "Microeconomics I"
 - item: "mathematics-for-economics"
   title: "Mathematics for Economics"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-communication"
-  title: "Business Communication"
-- item: "computer-applications"
-  title: "Computer Applications"
-
-# Bachelor of Business Economics (BBE) - Semester 2
 - item: "microeconomics-ii"
   title: "Microeconomics II"
 - item: "statistics-for-economics"
   title: "Statistics for Economics"
-- item: "corporate-accounting"
-  title: "Corporate Accounting"
-- item: "business-environment"
-  title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# Bachelor of Business Economics (BBE) - Semester 3
 - item: "macroeconomics-i"
   title: "Macroeconomics I"
 - item: "econometrics-i"
   title: "Econometrics I"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "business-law"
-  title: "Business Law"
-
-# Bachelor of Business Economics (BBE) - Semester 4
 - item: "macroeconomics-ii"
   title: "Macroeconomics II"
 - item: "econometrics-ii"
   title: "Econometrics II"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
-- item: "research-methodology"
-  title: "Research Methodology"
-
-# Bachelor of Business Economics (BBE) - Semester 5
 - item: "international-economics"
   title: "International Economics"
 - item: "public-finance"
   title: "Public Finance"
-- item: "operations-research"
-  title: "Operations Research"
-- item: "elective-i"
-  title: "Elective I"
-- item: "elective-ii"
-  title: "Elective II"
-
-# Bachelor of Business Economics (BBE) - Semester 6
 - item: "development-economics"
   title: "Development Economics"
-- item: "strategic-management"
-  title: "Strategic Management"
-- item: "elective-iii"
-  title: "Elective III"
 - item: "bbe-project"
   title: "BBE Project"
-
----
-
-# Bachelor of Financial Markets (BFM) - Semester 1
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-mathematics"
-  title: "Business Mathematics"
-- item: "business-communication"
-  title: "Business Communication"
-- item: "principles-of-management"
-  title: "Principles of Management"
-- item: "computer-applications"
-  title: "Computer Applications"
-
-# Bachelor of Financial Markets (BFM) - Semester 2
-- item: "corporate-accounting"
-  title: "Corporate Accounting"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "business-statistics"
-  title: "Business Statistics"
-- item: "business-environment"
-  title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# Bachelor of Financial Markets (BFM) - Semester 3
-- item: "financial-management"
-  title: "Financial Management"
 - item: "financial-markets-i"
   title: "Financial Markets I"
 - item: "investment-analysis"
   title: "Investment Analysis"
-- item: "business-law"
-  title: "Business Law"
-- item: "income-tax"
-  title: "Income Tax"
-
-# Bachelor of Financial Markets (BFM) - Semester 4
 - item: "financial-markets-ii"
   title: "Financial Markets II"
 - item: "portfolio-management"
@@ -3345,104 +1420,20 @@
   title: "Derivatives Markets"
 - item: "financial-services"
   title: "Financial Services"
-- item: "research-methodology"
-  title: "Research Methodology"
-
-# Bachelor of Financial Markets (BFM) - Semester 5
 - item: "mergers-and-acquisitions"
   title: "Mergers and Acquisitions"
 - item: "risk-management"
   title: "Risk Management"
 - item: "international-finance"
   title: "International Finance"
-- item: "elective-i"
-  title: "Elective I"
-- item: "elective-ii"
-  title: "Elective II"
-
-# Bachelor of Financial Markets (BFM) - Semester 6
 - item: "strategic-financial-management"
   title: "Strategic Financial Management"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
-- item: "elective-iii"
-  title: "Elective III"
 - item: "bfm-project"
   title: "BFM Project"
-
----
-
-# Bachelor of Accounting and Finance (BAF) - Semester 1
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-mathematics"
-  title: "Business Mathematics"
-- item: "business-communication"
-  title: "Business Communication"
-- item: "principles-of-management"
-  title: "Principles of Management"
-- item: "computer-applications"
-  title: "Computer Applications"
-
-# Bachelor of Accounting and Finance (BAF) - Semester 2
-- item: "corporate-accounting"
-  title: "Corporate Accounting"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "business-statistics"
-  title: "Business Statistics"
-- item: "business-environment"
-  title: "Business Environment"
-- item: "environmental-science"
-  title: "Environmental Science"
-
-# Bachelor of Accounting and Finance (BAF) - Semester 3
-- item: "cost-accounting"
-  title: "Cost Accounting"
-- item: "management-accounting"
-  title: "Management Accounting"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "business-law"
-  title: "Business Law"
-- item: "income-tax"
-  title: "Income Tax"
-
-# Bachelor of Accounting and Finance (BAF) - Semester 4
-- item: "advanced-accounting"
-  title: "Advanced Accounting"
-- item: "auditing"
-  title: "Auditing"
-- item: "corporate-taxation"
-  title: "Corporate Taxation"
-- item: "financial-markets"
-  title: "Financial Markets"
-- item: "research-methodology"
-  title: "Research Methodology"
-
-# Bachelor of Accounting and Finance (BAF) - Semester 5
 - item: "financial-reporting"
   title: "Financial Reporting"
-- item: "international-finance"
-  title: "International Finance"
-- item: "elective-i"
-  title: "Elective I"
-- item: "elective-ii"
-  title: "Elective II"
-
-# Bachelor of Accounting and Finance (BAF) - Semester 6
-- item: "strategic-financial-management"
-  title: "Strategic Financial Management"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
-- item: "elective-iii"
-  title: "Elective III"
 - item: "baf-project"
   title: "BAF Project"
-
----
-
-# M.Com - Semester 1
 - item: "advanced-financial-accounting"
   title: "Advanced Financial Accounting"
 - item: "advanced-cost-accounting"
@@ -3453,164 +1444,26 @@
   title: "Business Research Methods"
 - item: "mcom-lab-i"
   title: "MCom Lab I"
-
-# M.Com - Semester 2
 - item: "advanced-corporate-accounting"
   title: "Advanced Corporate Accounting"
 - item: "advanced-management-accounting"
   title: "Advanced Management Accounting"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "business-ethics"
-  title: "Business Ethics"
 - item: "mcom-lab-ii"
   title: "MCom Lab II"
-
-# M.Com - Semester 3
-- item: "auditing"
-  title: "Auditing"
-- item: "corporate-taxation"
-  title: "Corporate Taxation"
 - item: "financial-markets-and-services"
   title: "Financial Markets and Services"
-- item: "elective-i"
-  title: "Elective I"
 - item: "mcom-lab-iii"
   title: "MCom Lab III"
-
-# M.Com - Semester 4
-- item: "strategic-management"
-  title: "Strategic Management"
-- item: "international-business"
-  title: "International Business"
-- item: "elective-ii"
-  title: "Elective II"
 - item: "mcom-project"
   title: "MCom Project"
-
----
-
-# Master of Business Administration (MBA) - Semester 1
 - item: "management-concepts"
   title: "Management Concepts"
-- item: "organizational-behavior"
-  title: "Organizational Behavior"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-statistics"
-  title: "Business Statistics"
-
-# Master of Business Administration (MBA) - Semester 2
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "operations-management"
-  title: "Operations Management"
-- item: "business-communication"
-  title: "Business Communication"
-
-# Master of Business Administration (MBA) - Semester 3
-- item: "strategic-management"
-  title: "Strategic Management"
-- item: "research-methodology"
-  title: "Research Methodology"
-- item: "entrepreneurship"
-  title: "Entrepreneurship"
-- item: "management-information-systems"
-  title: "Management Information Systems"
-- item: "business-law"
-  title: "Business Law"
-
-# Master of Business Administration (MBA) - Semester 4
-- item: "international-business"
-  title: "International Business"
-- item: "business-ethics"
-  title: "Business Ethics"
-- item: "corporate-social-responsibility"
-  title: "Corporate Social Responsibility"
 - item: "mba-project"
   title: "MBA Project"
-
----
-
-# MBA in Finance - Semester 1
-- item: "management-concepts"
-  title: "Management Concepts"
-- item: "organizational-behavior"
-  title: "Organizational Behavior"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-statistics"
-  title: "Business Statistics"
-
-# MBA in Finance - Semester 2
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "operations-management"
-  title: "Operations Management"
-- item: "business-communication"
-  title: "Business Communication"
-
-# MBA in Finance - Semester 3
-- item: "strategic-financial-management"
-  title: "Strategic Financial Management"
-- item: "investment-analysis"
-  title: "Investment Analysis"
 - item: "financial-markets-and-institutions"
   title: "Financial Markets and Institutions"
-- item: "portfolio-management"
-  title: "Portfolio Management"
-- item: "research-methodology"
-  title: "Research Methodology"
-
-# MBA in Finance - Semester 4
-- item: "mergers-and-acquisitions"
-  title: "Mergers and Acquisitions"
-- item: "risk-management"
-  title: "Risk Management"
-- item: "international-finance"
-  title: "International Finance"
 - item: "mba-finance-project"
   title: "MBA Finance Project"
-
----
-
-# MBA in Marketing - Semester 1
-- item: "management-concepts"
-  title: "Management Concepts"
-- item: "organizational-behavior"
-  title: "Organizational Behavior"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-statistics"
-  title: "Business Statistics"
-
-# MBA in Marketing - Semester 2
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "operations-management"
-  title: "Operations Management"
-- item: "business-communication"
-  title: "Business Communication"
-
-# MBA in Marketing - Semester 3
 - item: "consumer-behavior"
   title: "Consumer Behavior"
 - item: "brand-management"
@@ -3619,46 +1472,12 @@
   title: "Sales Management"
 - item: "digital-marketing"
   title: "Digital Marketing"
-- item: "research-methodology"
-  title: "Research Methodology"
-
-# MBA in Marketing - Semester 4
-- item: "supply-chain-management"
-  title: "Supply Chain Management"
 - item: "international-marketing"
   title: "International Marketing"
 - item: "services-marketing"
   title: "Services Marketing"
 - item: "mba-marketing-project"
   title: "MBA Marketing Project"
-
----
-
-# MBA in Human Resource Management - Semester 1
-- item: "management-concepts"
-  title: "Management Concepts"
-- item: "organizational-behavior"
-  title: "Organizational Behavior"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-statistics"
-  title: "Business Statistics"
-
-# MBA in Human Resource Management - Semester 2
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "operations-management"
-  title: "Operations Management"
-- item: "business-communication"
-  title: "Business Communication"
-
-# MBA in Human Resource Management - Semester 3
 - item: "strategic-human-resource-management"
   title: "Strategic Human Resource Management"
 - item: "talent-management"
@@ -3667,10 +1486,6 @@
   title: "Performance Management"
 - item: "organizational-development"
   title: "Organizational Development"
-- item: "research-methodology"
-  title: "Research Methodology"
-
-# MBA in Human Resource Management - Semester 4
 - item: "compensation-and-benefits"
   title: "Compensation and Benefits"
 - item: "employee-relations"
@@ -3679,46 +1494,8 @@
   title: "Training and Development"
 - item: "mba-hr-project"
   title: "MBA HR Project"
-
----
-
-# MBA in Operations - Semester 1
-- item: "management-concepts"
-  title: "Management Concepts"
-- item: "organizational-behavior"
-  title: "Organizational Behavior"
-- item: "business-economics"
-  title: "Business Economics"
-- item: "financial-accounting"
-  title: "Financial Accounting"
-- item: "business-statistics"
-  title: "Business Statistics"
-
-# MBA in Operations - Semester 2
-- item: "marketing-management"
-  title: "Marketing Management"
-- item: "human-resource-management"
-  title: "Human Resource Management"
-- item: "financial-management"
-  title: "Financial Management"
-- item: "operations-management"
-  title: "Operations Management"
-- item: "business-communication"
-  title: "Business Communication"
-
-# MBA in Operations - Semester 3
-- item: "supply-chain-management"
-  title: "Supply Chain Management"
 - item: "quality-management"
   title: "Quality Management"
-- item: "project-management"
-  title: "Project Management"
-- item: "operations-research"
-  title: "Operations Research"
-- item: "research-methodology"
-  title: "Research Methodology"
-
-# MBA in Operations - Semester 4
 - item: "logistics-management"
   title: "Logistics Management"
 - item: "inventory-management"
