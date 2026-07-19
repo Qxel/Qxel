@@ -6,13 +6,5 @@
   "taxonomy_2": {
     "item": "subject",
     "title": "subject/theme"
-  },
-  "taxonomy_3": {
-    "item": "resolution",
-    "title": "resolution/size"
-  },
-  "taxonomy_4": {
-    "item": "format",
-    "title": "file format"
   }
 }
