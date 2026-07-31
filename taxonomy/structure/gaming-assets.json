@@ -10,9 +10,5 @@
   "taxonomy_3": {
     "item": "genre",
     "title": "game genre"
-  },
-  "taxonomy_4": {
-    "item": "format",
-    "title": "file format"
   }
 }
