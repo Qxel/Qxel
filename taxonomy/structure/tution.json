@@ -4,15 +4,7 @@
     "title": "subject/topic"
   },
   "taxonomy_2": {
-    "item": "level",
-    "title": "education level"
-  },
-  "taxonomy_3": {
     "item": "format",
     "title": "tutoring format"
-  },
-  "taxonomy_4": {
-    "item": "duration",
-    "title": "session duration"
   }
 }
