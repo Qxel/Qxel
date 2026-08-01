@@ -1,7 +1,7 @@
 {
   "taxonomy_1": {
-    "item": "category",
-    "title": "template category"
+    "item": "type",
+    "title": "template type"
   },
   "taxonomy_2": {
     "item": "purpose",
