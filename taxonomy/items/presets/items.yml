@@ -1,0 +1,710 @@
+- item: "color"
+  title: "Color"
+
+- item: "gradient"
+  title: "Gradient"
+
+- item: "palette"
+  title: "Palette"
+
+- item: "swatch"
+  title: "Swatch"
+
+- item: "theme"
+  title: "Theme"
+
+- item: "style"
+  title: "Style"
+
+- item: "font"
+  title: "Font"
+
+- item: "typography"
+  title: "Typography"
+
+- item: "text"
+  title: "Text"
+
+- item: "layout"
+  title: "Layout"
+
+- item: "template"
+  title: "Template"
+
+- item: "filter"
+  title: "Filter"
+
+- item: "effect"
+  title: "Effect"
+
+- item: "transition"
+  title: "Transition"
+
+- item: "animation"
+  title: "Animation"
+
+- item: "motion"
+  title: "Motion"
+
+- item: "physics"
+  title: "Physics"
+
+- item: "particle"
+  title: "Particle"
+
+- item: "shader"
+  title: "Shader"
+
+- item: "material"
+  title: "Material"
+
+- item: "texture"
+  title: "Texture"
+
+- item: "brush"
+  title: "Brush"
+
+- item: "stroke"
+  title: "Stroke"
+
+- item: "shape"
+  title: "Shape"
+
+- item: "icon"
+  title: "Icon"
+
+- item: "logo"
+  title: "Logo"
+
+- item: "badge"
+  title: "Badge"
+
+- item: "button"
+  title: "Button"
+
+- item: "ui"
+  title: "UI"
+
+- item: "ux"
+  title: "UX"
+
+- item: "web"
+  title: "Web Design"
+
+- item: "app"
+  title: "App Design"
+
+- item: "dashboard"
+  title: "Dashboard"
+
+- item: "landing"
+  title: "Landing Page"
+
+- item: "ecommerce"
+  title: "E-Commerce"
+
+- item: "social-media"
+  title: "Social Media"
+
+- item: "email"
+  title: "Email"
+
+- item: "newsletter"
+  title: "Newsletter"
+
+- item: "presentation"
+  title: "Presentation"
+
+- item: "poster"
+  title: "Poster"
+
+- item: "flyer"
+  title: "Flyer"
+
+- item: "brochure"
+  title: "Brochure"
+
+- item: "magazine"
+  title: "Magazine"
+
+- item: "book"
+  title: "Book"
+
+- item: "cover"
+  title: "Cover"
+
+- item: "packaging"
+  title: "Packaging"
+
+- item: "label"
+  title: "Label"
+
+- item: "sticker"
+  title: "Sticker"
+
+- item: "merch"
+  title: "Merchandise"
+
+- item: "t-shirt"
+  title: "T-Shirt"
+
+- item: "apparel"
+  title: "Apparel"
+
+- item: "fashion"
+  title: "Fashion"
+
+- item: "jewelry"
+  title: "Jewelry"
+
+- item: "home"
+  title: "Home Decor"
+
+- item: "furniture"
+  title: "Furniture"
+
+- item: "interior"
+  title: "Interior Design"
+
+- item: "exterior"
+  title: "Exterior Design"
+
+- item: "architecture"
+  title: "Architecture"
+
+- item: "landscape"
+  title: "Landscape"
+
+- item: "urban"
+  title: "Urban Design"
+
+- item: "industrial"
+  title: "Industrial Design"
+
+- item: "product"
+  title: "Product Design"
+
+- item: "prototype"
+  title: "Prototype"
+
+- item: "mockup"
+  title: "Mockup"
+
+- item: "wireframe"
+  title: "Wireframe"
+
+- item: "sitemap"
+  title: "Sitemap"
+
+- item: "flowchart"
+  title: "Flowchart"
+
+- item: "diagram"
+  title: "Diagram"
+
+- item: "chart"
+  title: "Chart"
+
+- item: "graph"
+  title: "Graph"
+
+- item: "infographic"
+  title: "Infographic"
+
+- item: "data-viz"
+  title: "Data Visualization"
+
+- item: "map"
+  title: "Map"
+
+- item: "calendar"
+  title: "Calendar"
+
+- item: "planner"
+  title: "Planner"
+
+- item: "journal"
+  title: "Journal"
+
+- item: "notebook"
+  title: "Notebook"
+
+- item: "sketchbook"
+  title: "Sketchbook"
+
+- item: "art"
+  title: "Art"
+
+- item: "illustration"
+  title: "Illustration"
+
+- item: "digital-art"
+  title: "Digital Art"
+
+- item: "pixel-art"
+  title: "Pixel Art"
+
+- item: "vector-art"
+  title: "Vector Art"
+
+- item: "3d-art"
+  title: "3D Art"
+
+- item: "low-poly"
+  title: "Low-Poly"
+
+- item: "voxel"
+  title: "Voxel"
+
+- item: "isometric"
+  title: "Isometric"
+
+- item: "cartoon"
+  title: "Cartoon"
+
+- item: "anime"
+  title: "Anime"
+
+- item: "manga"
+  title: "Manga"
+
+- item: "comic"
+  title: "Comic"
+
+- item: "graffiti"
+  title: "Graffiti"
+
+- item: "street-art"
+  title: "Street Art"
+
+- item: "tattoo"
+  title: "Tattoo"
+
+- item: "portrait"
+  title: "Portrait"
+
+- item: "landscape"
+  title: "Landscape Art"
+
+- item: "nature"
+  title: "Nature"
+
+- item: "wildlife"
+  title: "Wildlife"
+
+- item: "fantasy"
+  title: "Fantasy"
+
+- item: "sci-fi"
+  title: "Sci-Fi"
+
+- item: "cyberpunk"
+  title: "Cyberpunk"
+
+- item: "steampunk"
+  title: "Steampunk"
+
+- item: "gothic"
+  title: "Gothic"
+
+- item: "horror"
+  title: "Horror"
+
+- item: "dark"
+  title: "Dark"
+
+- item: "moody"
+  title: "Moody"
+
+- item: "vintage"
+  title: "Vintage"
+
+- item: "retro"
+  title: "Retro"
+
+- item: "modern"
+  title: "Modern"
+
+- item: "minimal"
+  title: "Minimal"
+
+- item: "maximal"
+  title: "Maximal"
+
+- item: "clean"
+  title: "Clean"
+
+- item: "bold"
+  title: "Bold"
+
+- item: "elegant"
+  title: "Elegant"
+
+- item: "luxury"
+  title: "Luxury"
+
+- item: "premium"
+  title: "Premium"
+
+- item: "sophisticated"
+  title: "Sophisticated"
+
+- item: "playful"
+  title: "Playful"
+
+- item: "whimsical"
+  title: "Whimsical"
+
+- item: "fun"
+  title: "Fun"
+
+- item: "quirky"
+  title: "Quirky"
+
+- item: "edgy"
+  title: "Edgy"
+
+- item: "grunge"
+  title: "Grunge"
+
+- item: "punk"
+  title: "Punk"
+
+- item: "pop"
+  title: "Pop"
+
+- item: "psychedelic"
+  title: "Psychedelic"
+
+- item: "neon"
+  title: "Neon"
+
+- item: "glitch"
+  title: "Glitch"
+
+- item: "holographic"
+  title: "Holographic"
+
+- item: "iridescent"
+  title: "Iridescent"
+
+- item: "gradient"
+  title: "Gradient"
+
+- item: "duotone"
+  title: "Duotone"
+
+- item: "monochrome"
+  title: "Monochrome"
+
+- item: "black-white"
+  title: "Black & White"
+
+- item: "sepia"
+  title: "Sepia"
+
+- item: "pastel"
+  title: "Pastel"
+
+- item: "earth-tone"
+  title: "Earth Tone"
+
+- item: "jewel-tone"
+  title: "Jewel Tone"
+
+- item: "vibrant"
+  title: "Vibrant"
+
+- item: "muted"
+  title: "Muted"
+
+- item: "warm"
+  title: "Warm"
+
+- item: "cool"
+  title: "Cool"
+
+- item: "neutral"
+  title: "Neutral"
+
+- item: "day"
+  title: "Day"
+
+- item: "night"
+  title: "Night"
+
+- item: "sunset"
+  title: "Sunset"
+
+- item: "sunrise"
+  title: "Sunrise"
+
+- item: "golden-hour"
+  title: "Golden Hour"
+
+- item: "blue-hour"
+  title: "Blue Hour"
+
+- item: "overcast"
+  title: "Overcast"
+
+- item: "rainy"
+  title: "Rainy"
+
+- item: "stormy"
+  title: "Stormy"
+
+- item: "snowy"
+  title: "Snowy"
+
+- item: "foggy"
+  title: "Foggy"
+
+- item: "misty"
+  title: "Misty"
+
+- item: "summer"
+  title: "Summer"
+
+- item: "autumn"
+  title: "Autumn"
+
+- item: "winter"
+  title: "Winter"
+
+- item: "spring"
+  title: "Spring"
+
+- item: "holiday"
+  title: "Holiday"
+
+- item: "christmas"
+  title: "Christmas"
+
+- item: "halloween"
+  title: "Halloween"
+
+- item: "diwali"
+  title: "Diwali"
+
+- item: "eid"
+  title: "Eid"
+
+- item: "new-year"
+  title: "New Year"
+
+- item: "valentine"
+  title: "Valentine's Day"
+
+- item: "thanksgiving"
+  title: "Thanksgiving"
+
+- item: "birthday"
+  title: "Birthday"
+
+- item: "anniversary"
+  title: "Anniversary"
+
+- item: "wedding"
+  title: "Wedding"
+
+- item: "party"
+  title: "Party"
+
+- item: "festival"
+  title: "Festival"
+
+- item: "music"
+  title: "Music"
+
+- item: "film"
+  title: "Film"
+
+- item: "cinematic"
+  title: "Cinematic"
+
+- item: "dramatic"
+  title: "Dramatic"
+
+- item: "artistic"
+  title: "Artistic"
+
+- item: "creative"
+  title: "Creative"
+
+- item: "experimental"
+  title: "Experimental"
+
+- item: "abstract"
+  title: "Abstract"
+
+- item: "geometric"
+  title: "Geometric"
+
+- item: "organic"
+  title: "Organic"
+
+- item: "symmetrical"
+  title: "Symmetrical"
+
+- item: "asymmetrical"
+  title: "Asymmetrical"
+
+- item: "balanced"
+  title: "Balanced"
+
+- item: "dynamic"
+  title: "Dynamic"
+
+- item: "static"
+  title: "Static"
+
+- item: "responsive"
+  title: "Responsive"
+
+- item: "adaptive"
+  title: "Adaptive"
+
+- item: "accessible"
+  title: "Accessible"
+
+- item: "inclusive"
+  title: "Inclusive"
+
+- item: "sustainable"
+  title: "Sustainable"
+
+- item: "eco-friendly"
+  title: "Eco-Friendly"
+
+- item: "ethical"
+  title: "Ethical"
+
+- item: "brand"
+  title: "Brand"
+
+- item: "corporate"
+  title: "Corporate"
+
+- item: "startup"
+  title: "Startup"
+
+- item: "tech"
+  title: "Tech"
+
+- item: "health"
+  title: "Health"
+
+- item: "wellness"
+  title: "Wellness"
+
+- item: "fitness"
+  title: "Fitness"
+
+- item: "sports"
+  title: "Sports"
+
+- item: "food"
+  title: "Food"
+
+- item: "beverage"
+  title: "Beverage"
+
+- item: "restaurant"
+  title: "Restaurant"
+
+- item: "cafe"
+  title: "Cafe"
+
+- item: "travel"
+  title: "Travel"
+
+- item: "adventure"
+  title: "Adventure"
+
+- item: "outdoor"
+  title: "Outdoor"
+
+- item: "education"
+  title: "Education"
+
+- item: "learning"
+  title: "Learning"
+
+- item: "training"
+  title: "Training"
+
+- item: "coaching"
+  title: "Coaching"
+
+- item: "mentoring"
+  title: "Mentoring"
+
+- item: "nonprofit"
+  title: "Nonprofit"
+
+- item: "community"
+  title: "Community"
+
+- item: "social-impact"
+  title: "Social Impact"
+
+- item: "government"
+  title: "Government"
+
+- item: "public-sector"
+  title: "Public Sector"
+
+- item: "military"
+  title: "Military"
+
+- item: "law-enforcement"
+  title: "Law Enforcement"
+
+- item: "legal"
+  title: "Legal"
+
+- item: "finance"
+  title: "Finance"
+
+- item: "banking"
+  title: "Banking"
+
+- item: "insurance"
+  title: "Insurance"
+
+- item: "real-estate"
+  title: "Real Estate"
+
+- item: "construction"
+  title: "Construction"
+
+- item: "engineering"
+  title: "Engineering"
+
+- item: "manufacturing"
+  title: "Manufacturing"
+
+- item: "automotive"
+  title: "Automotive"
+
+- item: "aerospace"
+  title: "Aerospace"
+
+- item: "energy"
+  title: "Energy"
+
+- item: "agriculture"
+  title: "Agriculture"
+
+- item: "farming"
+  title: "Farming"
+
+- item: "gardening"
+  title: "Gardening"
+
+- item: "pet"
+  title: "Pet"
+
+- item: "animal"
+  title: "Animal"
