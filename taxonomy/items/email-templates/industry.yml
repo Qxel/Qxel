@@ -1,0 +1,776 @@
+- item: "saas"
+  title: "SaaS"
+
+- item: "ecommerce"
+  title: "E-Commerce"
+
+- item: "retail"
+  title: "Retail"
+
+- item: "fashion"
+  title: "Fashion"
+
+- item: "beauty"
+  title: "Beauty & Cosmetics"
+
+- item: "healthcare"
+  title: "Healthcare"
+
+- item: "medical"
+  title: "Medical"
+
+- item: "dental"
+  title: "Dental"
+
+- item: "pharmaceutical"
+  title: "Pharmaceutical"
+
+- item: "wellness"
+  title: "Wellness"
+
+- item: "fitness"
+  title: "Fitness"
+
+- item: "sports"
+  title: "Sports"
+
+- item: "outdoor"
+  title: "Outdoor"
+
+- item: "travel"
+  title: "Travel"
+
+- item: "tourism"
+  title: "Tourism"
+
+- item: "hospitality"
+  title: "Hospitality"
+
+- item: "hotel"
+  title: "Hotel"
+
+- item: "resort"
+  title: "Resort"
+
+- item: "restaurant"
+  title: "Restaurant"
+
+- item: "cafe"
+  title: "Cafe"
+
+- item: "food-delivery"
+  title: "Food Delivery"
+
+- item: "grocery"
+  title: "Grocery"
+
+- item: "food-beverage"
+  title: "Food & Beverage"
+
+- item: "agriculture"
+  title: "Agriculture"
+
+- item: "farming"
+  title: "Farming"
+
+- item: "organic"
+  title: "Organic"
+
+- item: "technology"
+  title: "Technology"
+
+- item: "software"
+  title: "Software"
+
+- item: "hardware"
+  title: "Hardware"
+
+- item: "it-services"
+  title: "IT Services"
+
+- item: "cybersecurity"
+  title: "Cybersecurity"
+
+- item: "cloud-computing"
+  title: "Cloud Computing"
+
+- item: "ai-ml"
+  title: "AI & Machine Learning"
+
+- item: "blockchain"
+  title: "Blockchain"
+
+- item: "cryptocurrency"
+  title: "Cryptocurrency"
+
+- item: "fintech"
+  title: "Fintech"
+
+- item: "insurtech"
+  title: "Insurtech"
+
+- item: "banking"
+  title: "Banking"
+
+- item: "finance"
+  title: "Finance"
+
+- item: "investment"
+  title: "Investment"
+
+- item: "wealth-management"
+  title: "Wealth Management"
+
+- item: "insurance"
+  title: "Insurance"
+
+- item: "accounting"
+  title: "Accounting"
+
+- item: "audit"
+  title: "Audit"
+
+- item: "consulting"
+  title: "Consulting"
+
+- item: "management-consulting"
+  title: "Management Consulting"
+
+- item: "strategy-consulting"
+  title: "Strategy Consulting"
+
+- item: "real-estate"
+  title: "Real Estate"
+
+- item: "property"
+  title: "Property"
+
+- item: "construction"
+  title: "Construction"
+
+- item: "architecture"
+  title: "Architecture"
+
+- item: "engineering"
+  title: "Engineering"
+
+- item: "manufacturing"
+  title: "Manufacturing"
+
+- item: "automotive"
+  title: "Automotive"
+
+- item: "aerospace"
+  title: "Aerospace"
+
+- item: "defense"
+  title: "Defense"
+
+- item: "energy"
+  title: "Energy"
+
+- item: "renewable-energy"
+  title: "Renewable Energy"
+
+- item: "solar"
+  title: "Solar"
+
+- item: "wind"
+  title: "Wind"
+
+- item: "oil-gas"
+  title: "Oil & Gas"
+
+- item: "mining"
+  title: "Mining"
+
+- item: "utilities"
+  title: "Utilities"
+
+- item: "telecommunications"
+  title: "Telecommunications"
+
+- item: "media"
+  title: "Media"
+
+- item: "entertainment"
+  title: "Entertainment"
+
+- item: "film"
+  title: "Film"
+
+- item: "television"
+  title: "Television"
+
+- item: "streaming"
+  title: "Streaming"
+
+- item: "music"
+  title: "Music"
+
+- item: "podcast"
+  title: "Podcast"
+
+- item: "publishing"
+  title: "Publishing"
+
+- item: "books"
+  title: "Books"
+
+- item: "magazines"
+  title: "Magazines"
+
+- item: "newspaper"
+  title: "Newspaper"
+
+- item: "digital-media"
+  title: "Digital Media"
+
+- item: "advertising"
+  title: "Advertising"
+
+- item: "marketing"
+  title: "Marketing"
+
+- item: "digital-marketing"
+  title: "Digital Marketing"
+
+- item: "content-marketing"
+  title: "Content Marketing"
+
+- item: "social-media"
+  title: "Social Media"
+
+- item: "influencer"
+  title: "Influencer"
+
+- item: "pr"
+  title: "Public Relations"
+
+- item: "events"
+  title: "Events"
+
+- item: "event-management"
+  title: "Event Management"
+
+- item: "conference"
+  title: "Conference"
+
+- item: "exhibition"
+  title: "Exhibition"
+
+- item: "trade-show"
+  title: "Trade Show"
+
+- item: "wedding"
+  title: "Wedding"
+
+- item: "event-planning"
+  title: "Event Planning"
+
+- item: "education"
+  title: "Education"
+
+- item: "edtech"
+  title: "EdTech"
+
+- item: "online-learning"
+  title: "Online Learning"
+
+- item: "elearning"
+  title: "eLearning"
+
+- item: "university"
+  title: "University"
+
+- item: "college"
+  title: "College"
+
+- item: "school"
+  title: "School"
+
+- item: "k-12"
+  title: "K-12 Education"
+
+- item: "higher-education"
+  title: "Higher Education"
+
+- item: "vocational"
+  title: "Vocational Training"
+
+- item: "language-learning"
+  title: "Language Learning"
+
+- item: "test-prep"
+  title: "Test Preparation"
+
+- item: "tutoring"
+  title: "Tutoring"
+
+- item: "training"
+  title: "Training"
+
+- item: "corporate-training"
+  title: "Corporate Training"
+
+- item: "professional-development"
+  title: "Professional Development"
+
+- item: "coaching"
+  title: "Coaching"
+
+- item: "mentoring"
+  title: "Mentoring"
+
+- item: "health"
+  title: "Health"
+
+- item: "mental-health"
+  title: "Mental Health"
+
+- item: "therapy"
+  title: "Therapy"
+
+- item: "counseling"
+  title: "Counseling"
+
+- item: "wellness-coaching"
+  title: "Wellness Coaching"
+
+- item: "nutrition"
+  title: "Nutrition"
+
+- item: "diet"
+  title: "Diet"
+
+- item: "yoga"
+  title: "Yoga"
+
+- item: "meditation"
+  title: "Meditation"
+
+- item: "mindfulness"
+  title: "Mindfulness"
+
+- item: "nonprofit"
+  title: "Nonprofit"
+
+- item: "ngo"
+  title: "NGO"
+
+- item: "charity"
+  title: "Charity"
+
+- item: "foundation"
+  title: "Foundation"
+
+- item: "social-impact"
+  title: "Social Impact"
+
+- item: "environmental"
+  title: "Environmental"
+
+- item: "conservation"
+  title: "Conservation"
+
+- item: "wildlife"
+  title: "Wildlife"
+
+- item: "human-rights"
+  title: "Human Rights"
+
+- item: "public-policy"
+  title: "Public Policy"
+
+- item: "government"
+  title: "Government"
+
+- item: "public-sector"
+  title: "Public Sector"
+
+- item: "municipal"
+  title: "Municipal"
+
+- item: "federal"
+  title: "Federal"
+
+- item: "military"
+  title: "Military"
+
+- item: "law-enforcement"
+  title: "Law Enforcement"
+
+- item: "legal"
+  title: "Legal"
+
+- item: "law-firm"
+  title: "Law Firm"
+
+- item: "legal-services"
+  title: "Legal Services"
+
+- item: "compliance"
+  title: "Compliance"
+
+- item: "regulatory"
+  title: "Regulatory"
+
+- item: "hr"
+  title: "Human Resources"
+
+- item: "recruitment"
+  title: "Recruitment"
+
+- item: "staffing"
+  title: "Staffing"
+
+- item: "headhunting"
+  title: "Headhunting"
+
+- item: "employment"
+  title: "Employment"
+
+- item: "job-search"
+  title: "Job Search"
+
+- item: "career-services"
+  title: "Career Services"
+
+- item: "resume-writing"
+  title: "Resume Writing"
+
+- item: "logistics"
+  title: "Logistics"
+
+- item: "supply-chain"
+  title: "Supply Chain"
+
+- item: "warehousing"
+  title: "Warehousing"
+
+- item: "shipping"
+  title: "Shipping"
+
+- item: "freight"
+  title: "Freight"
+
+- item: "courier"
+  title: "Courier"
+
+- item: "delivery"
+  title: "Delivery"
+
+- item: "transportation"
+  title: "Transportation"
+
+- item: "aviation"
+  title: "Aviation"
+
+- item: "maritime"
+  title: "Maritime"
+
+- item: "railway"
+  title: "Railway"
+
+- item: "government-services"
+  title: "Government Services"
+
+- item: "community"
+  title: "Community"
+
+- item: "religious"
+  title: "Religious"
+
+- item: "spiritual"
+  title: "Spiritual"
+
+- item: "cultural"
+  title: "Cultural"
+
+- item: "arts"
+  title: "Arts"
+
+- item: "museum"
+  title: "Museum"
+
+- item: "gallery"
+  title: "Gallery"
+
+- item: "theater"
+  title: "Theater"
+
+- item: "performing-arts"
+  title: "Performing Arts"
+
+- item: "dance"
+  title: "Dance"
+
+- item: "photography"
+  title: "Photography"
+
+- item: "design"
+  title: "Design"
+
+- item: "graphic-design"
+  title: "Graphic Design"
+
+- item: "ui-ux"
+  title: "UI/UX Design"
+
+- item: "web-design"
+  title: "Web Design"
+
+- item: "interior-design"
+  title: "Interior Design"
+
+- item: "fashion-design"
+  title: "Fashion Design"
+
+- item: "product-design"
+  title: "Product Design"
+
+- item: "game-development"
+  title: "Game Development"
+
+- item: "gaming"
+  title: "Gaming"
+
+- item: "esports"
+  title: "Esports"
+
+- item: "animation"
+  title: "Animation"
+
+- item: "vfx"
+  title: "VFX"
+
+- item: "virtual-reality"
+  title: "Virtual Reality"
+
+- item: "augmented-reality"
+  title: "Augmented Reality"
+
+- item: "web3"
+  title: "Web3"
+
+- item: "nft"
+  title: "NFT"
+
+- item: "metaverse"
+  title: "Metaverse"
+
+- item: "startup"
+  title: "Startup"
+
+- item: "venture-capital"
+  title: "Venture Capital"
+
+- item: "incubator"
+  title: "Incubator"
+
+- item: "accelerator"
+  title: "Accelerator"
+
+- item: "coworking"
+  title: "Coworking"
+
+- item: "small-business"
+  title: "Small Business"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship"
+
+- item: "freelance"
+  title: "Freelance"
+
+- item: "gig-economy"
+  title: "Gig Economy"
+
+- item: "self-employed"
+  title: "Self-Employed"
+
+- item: "home-services"
+  title: "Home Services"
+
+- item: "cleaning"
+  title: "Cleaning"
+
+- item: "landscaping"
+  title: "Landscaping"
+
+- item: "plumbing"
+  title: "Plumbing"
+
+- item: "electrical"
+  title: "Electrical"
+
+- item: "hvac"
+  title: "HVAC"
+
+- item: "automotive-services"
+  title: "Automotive Services"
+
+- item: "repair"
+  title: "Repair"
+
+- item: "maintenance"
+  title: "Maintenance"
+
+- item: "security"
+  title: "Security"
+
+- item: "surveillance"
+  title: "Surveillance"
+
+- item: "investigation"
+  title: "Investigation"
+
+- item: "insurance-services"
+  title: "Insurance Services"
+
+- item: "financial-services"
+  title: "Financial Services"
+
+- item: "wealth-advisory"
+  title: "Wealth Advisory"
+
+- item: "tax-services"
+  title: "Tax Services"
+
+- item: "payroll"
+  title: "Payroll"
+
+- item: "bookkeeping"
+  title: "Bookkeeping"
+
+- item: "credit-counseling"
+  title: "Credit Counseling"
+
+- item: "debt-collection"
+  title: "Debt Collection"
+
+- item: "mortgage"
+  title: "Mortgage"
+
+- item: "lending"
+  title: "Lending"
+
+- item: "microfinance"
+  title: "Microfinance"
+
+- item: "education-services"
+  title: "Education Services"
+
+- item: "library"
+  title: "Library"
+
+- item: "research"
+  title: "Research"
+
+- item: "science"
+  title: "Science"
+
+- item: "laboratory"
+  title: "Laboratory"
+
+- item: "biotech"
+  title: "Biotech"
+
+- item: "genetics"
+  title: "Genetics"
+
+- item: "pharma"
+  title: "Pharma"
+
+- item: "clinical-research"
+  title: "Clinical Research"
+
+- item: "cannabis"
+  title: "Cannabis"
+
+- item: "hemp"
+  title: "Hemp"
+
+- item: "veterinary"
+  title: "Veterinary"
+
+- item: "pet-care"
+  title: "Pet Care"
+
+- item: "pet-supplies"
+  title: "Pet Supplies"
+
+- item: "animal-services"
+  title: "Animal Services"
+
+- item: "sanitation"
+  title: "Sanitation"
+
+- item: "waste-management"
+  title: "Waste Management"
+
+- item: "recycling"
+  title: "Recycling"
+
+- item: "water-treatment"
+  title: "Water Treatment"
+
+- item: "environmental-services"
+  title: "Environmental Services"
+
+- item: "disaster-relief"
+  title: "Disaster Relief"
+
+- item: "emergency-services"
+  title: "Emergency Services"
+
+- item: "fire-department"
+  title: "Fire Department"
+
+- item: "ambulance"
+  title: "Ambulance"
+
+- item: "hospital"
+  title: "Hospital"
+
+- item: "clinic"
+  title: "Clinic"
+
+- item: "pharmacy"
+  title: "Pharmacy"
+
+- item: "laboratory-services"
+  title: "Laboratory Services"
+
+- item: "diagnostic"
+  title: "Diagnostic"
+
+- item: "rehabilitation"
+  title: "Rehabilitation"
+
+- item: "hospice"
+  title: "Hospice"
+
+- item: "home-healthcare"
+  title: "Home Healthcare"
+
+- item: "senior-care"
+  title: "Senior Care"
+
+- item: "childcare"
+  title: "Childcare"
+
+- item: "daycare"
+  title: "Daycare"
+
+- item: "preschool"
+  title: "Preschool"
+
+- item: "after-school"
+  title: "After-School"
+
+- item: "camp"
+  title: "Camp"
+
+- item: "youth-services"
+  title: "Youth Services"
