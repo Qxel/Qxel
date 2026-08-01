@@ -1,0 +1,1724 @@
+- item: "physics"
+  title: "Physics"
+
+- item: "astrophysics"
+  title: "Astrophysics"
+
+- item: "cosmology"
+  title: "Cosmology"
+
+- item: "quantum-physics"
+  title: "Quantum Physics"
+
+- item: "quantum-mechanics"
+  title: "Quantum Mechanics"
+
+- item: "quantum-field-theory"
+  title: "Quantum Field Theory"
+
+- item: "quantum-computing"
+  title: "Quantum Computing"
+
+- item: "quantum-information"
+  title: "Quantum Information"
+
+- item: "quantum-cryptography"
+  title: "Quantum Cryptography"
+
+- item: "particle-physics"
+  title: "Particle Physics"
+
+- item: "nuclear-physics"
+  title: "Nuclear Physics"
+
+- item: "atomic-physics"
+  title: "Atomic Physics"
+
+- item: "molecular-physics"
+  title: "Molecular Physics"
+
+- item: "optical-physics"
+  title: "Optical Physics"
+
+- item: "laser-physics"
+  title: "Laser Physics"
+
+- item: "photonics"
+  title: "Photonics"
+
+- item: "condensed-matter-physics"
+  title: "Condensed Matter Physics"
+
+- item: "solid-state-physics"
+  title: "Solid State Physics"
+
+- item: "material-science"
+  title: "Material Science"
+
+- item: "nanotechnology"
+  title: "Nanotechnology"
+
+- item: "thermodynamics"
+  title: "Thermodynamics"
+
+- item: "statistical-mechanics"
+  title: "Statistical Mechanics"
+
+- item: "fluid-mechanics"
+  title: "Fluid Mechanics"
+
+- item: "aerodynamics"
+  title: "Aerodynamics"
+
+- item: "plasma-physics"
+  title: "Plasma Physics"
+
+- item: "geophysics"
+  title: "Geophysics"
+
+- item: "biophysics"
+  title: "Biophysics"
+
+- item: "chemical-physics"
+  title: "Chemical Physics"
+
+- item: "mathematical-physics"
+  title: "Mathematical Physics"
+
+- item: "computational-physics"
+  title: "Computational Physics"
+
+- item: "theoretical-physics"
+  title: "Theoretical Physics"
+
+- item: "experimental-physics"
+  title: "Experimental Physics"
+
+- item: "applied-physics"
+  title: "Applied Physics"
+
+- item: "engineering-physics"
+  title: "Engineering Physics"
+
+- item: "chemistry"
+  title: "Chemistry"
+
+- item: "organic-chemistry"
+  title: "Organic Chemistry"
+
+- item: "inorganic-chemistry"
+  title: "Inorganic Chemistry"
+
+- item: "physical-chemistry"
+  title: "Physical Chemistry"
+
+- item: "analytical-chemistry"
+  title: "Analytical Chemistry"
+
+- item: "biochemistry"
+  title: "Biochemistry"
+
+- item: "bio-organic-chemistry"
+  title: "Bio-Organic Chemistry"
+
+- item: "medicinal-chemistry"
+  title: "Medicinal Chemistry"
+
+- item: "pharmaceutical-chemistry"
+  title: "Pharmaceutical Chemistry"
+
+- item: "environmental-chemistry"
+  title: "Environmental Chemistry"
+
+- item: "geochemistry"
+  title: "Geochemistry"
+
+- item: "polymer-chemistry"
+  title: "Polymer Chemistry"
+
+- item: "supramolecular-chemistry"
+  title: "Supramolecular Chemistry"
+
+- item: "nanochemistry"
+  title: "Nanochemistry"
+
+- item: "catalysis"
+  title: "Catalysis"
+
+- item: "electrochemistry"
+  title: "Electrochemistry"
+
+- item: "photochemistry"
+  title: "Photochemistry"
+
+- item: "spectroscopy"
+  title: "Spectroscopy"
+
+- item: "chromatography"
+  title: "Chromatography"
+
+- item: "mass-spectrometry"
+  title: "Mass Spectrometry"
+
+- item: "x-ray-crystallography"
+  title: "X-Ray Crystallography"
+
+- item: "computational-chemistry"
+  title: "Computational Chemistry"
+
+- item: "theoretical-chemistry"
+  title: "Theoretical Chemistry"
+
+- item: "quantum-chemistry"
+  title: "Quantum Chemistry"
+
+- item: "biology"
+  title: "Biology"
+
+- item: "molecular-biology"
+  title: "Molecular Biology"
+
+- item: "cell-biology"
+  title: "Cell Biology"
+
+- item: "cellular-biology"
+  title: "Cellular Biology"
+
+- item: "genetics"
+  title: "Genetics"
+
+- item: "genomics"
+  title: "Genomics"
+
+- item: "proteomics"
+  title: "Proteomics"
+
+- item: "metabolomics"
+  title: "Metabolomics"
+
+- item: "transcriptomics"
+  title: "Transcriptomics"
+
+- item: "epigenetics"
+  title: "Epigenetics"
+
+- item: "evolutionary-biology"
+  title: "Evolutionary Biology"
+
+- item: "developmental-biology"
+  title: "Developmental Biology"
+
+- item: "structural-biology"
+  title: "Structural Biology"
+
+- item: "systems-biology"
+  title: "Systems Biology"
+
+- item: "synthetic-biology"
+  title: "Synthetic Biology"
+
+- item: "biotechnology"
+  title: "Biotechnology"
+
+- item: "biomedical-science"
+  title: "Biomedical Science"
+
+- item: "immunology"
+  title: "Immunology"
+
+- item: "neurobiology"
+  title: "Neurobiology"
+
+- item: "neuroscience"
+  title: "Neuroscience"
+
+- item: "cognitive-neuroscience"
+  title: "Cognitive Neuroscience"
+
+- item: "behavioral-neuroscience"
+  title: "Behavioral Neuroscience"
+
+- item: "computational-neuroscience"
+  title: "Computational Neuroscience"
+
+- item: "microbiology"
+  title: "Microbiology"
+
+- item: "bacteriology"
+  title: "Bacteriology"
+
+- item: "virology"
+  title: "Virology"
+
+- item: "mycology"
+  title: "Mycology"
+
+- item: "parasitology"
+  title: "Parasitology"
+
+- item: "biochemistry"
+  title: "Biochemistry"
+
+- item: "bioinformatics"
+  title: "Bioinformatics"
+
+- item: "computational-biology"
+  title: "Computational Biology"
+
+- item: "marine-biology"
+  title: "Marine Biology"
+
+- item: "freshwater-biology"
+  title: "Freshwater Biology"
+
+- item: "zoology"
+  title: "Zoology"
+
+- item: "entomology"
+  title: "Entomology"
+
+- item: "ornithology"
+  title: "Ornithology"
+
+- item: "ichthyology"
+  title: "Ichthyology"
+
+- item: "herpetology"
+  title: "Herpetology"
+
+- item: "mammalogy"
+  title: "Mammalogy"
+
+- item: "primatology"
+  title: "Primatology"
+
+- item: "botany"
+  title: "Botany"
+
+- item: "plant-biology"
+  title: "Plant Biology"
+
+- item: "plant-physiology"
+  title: "Plant Physiology"
+
+- item: "plant-genetics"
+  title: "Plant Genetics"
+
+- item: "plant-pathology"
+  title: "Plant Pathology"
+
+- item: "ecology"
+  title: "Ecology"
+
+- item: "ecosystem-ecology"
+  title: "Ecosystem Ecology"
+
+- item: "population-ecology"
+  title: "Population Ecology"
+
+- item: "community-ecology"
+  title: "Community Ecology"
+
+- item: "behavioral-ecology"
+  title: "Behavioral Ecology"
+
+- item: "evolutionary-ecology"
+  title: "Evolutionary Ecology"
+
+- item: "environmental-science"
+  title: "Environmental Science"
+
+- item: "environmental-engineering"
+  title: "Environmental Engineering"
+
+- item: "conservation-biology"
+  title: "Conservation Biology"
+
+- item: "wildlife-biology"
+  title: "Wildlife Biology"
+
+- item: "forestry"
+  title: "Forestry"
+
+- item: "agriculture"
+  title: "Agriculture"
+
+- item: "agronomy"
+  title: "Agronomy"
+
+- item: "horticulture"
+  title: "Horticulture"
+
+- item: "soil-science"
+  title: "Soil Science"
+
+- item: "food-science"
+  title: "Food Science"
+
+- item: "food-technology"
+  title: "Food Technology"
+
+- item: "nutrition-science"
+  title: "Nutrition Science"
+
+- item: "human-nutrition"
+  title: "Human Nutrition"
+
+- item: "dietetics"
+  title: "Dietetics"
+
+- item: "sports-science"
+  title: "Sports Science"
+
+- item: "exercise-physiology"
+  title: "Exercise Physiology"
+
+- item: "kinesiology"
+  title: "Kinesiology"
+
+- item: "biomechanics"
+  title: "Biomechanics"
+
+- item: "anatomy"
+  title: "Anatomy"
+
+- item: "physiology"
+  title: "Physiology"
+
+- item: "human-physiology"
+  title: "Human Physiology"
+
+- item: "pathophysiology"
+  title: "Pathophysiology"
+
+- item: "pharmacology"
+  title: "Pharmacology"
+
+- item: "toxicology"
+  title: "Toxicology"
+
+- item: "clinical-pharmacology"
+  title: "Clinical Pharmacology"
+
+- item: "pharmacy"
+  title: "Pharmacy"
+
+- item: "clinical-pharmacy"
+  title: "Clinical Pharmacy"
+
+- item: "medicine"
+  title: "Medicine"
+
+- item: "internal-medicine"
+  title: "Internal Medicine"
+
+- item: "pediatrics"
+  title: "Pediatrics"
+
+- item: "cardiology"
+  title: "Cardiology"
+
+- item: "neurology"
+  title: "Neurology"
+
+- item: "oncology"
+  title: "Oncology"
+
+- item: "radiology"
+  title: "Radiology"
+
+- item: "pathology"
+  title: "Pathology"
+
+- item: "dermatology"
+  title: "Dermatology"
+
+- item: "orthopedics"
+  title: "Orthopedics"
+
+- item: "ophthalmology"
+  title: "Ophthalmology"
+
+- item: "otolaryngology"
+  title: "Otolaryngology"
+
+- item: "psychiatry"
+  title: "Psychiatry"
+
+- item: "psychology"
+  title: "Psychology"
+
+- item: "clinical-psychology"
+  title: "Clinical Psychology"
+
+- item: "cognitive-psychology"
+  title: "Cognitive Psychology"
+
+- item: "developmental-psychology"
+  title: "Developmental Psychology"
+
+- item: "social-psychology"
+  title: "Social Psychology"
+
+- item: "organizational-psychology"
+  title: "Organizational Psychology"
+
+- item: "educational-psychology"
+  title: "Educational Psychology"
+
+- item: "school-psychology"
+  title: "School Psychology"
+
+- item: "health-psychology"
+  title: "Health Psychology"
+
+- item: "sports-psychology"
+  title: "Sports Psychology"
+
+- item: "forensic-psychology"
+  title: "Forensic Psychology"
+
+- item: "sociology"
+  title: "Sociology"
+
+- item: "social-theory"
+  title: "Social Theory"
+
+- item: "social-stratification"
+  title: "Social Stratification"
+
+- item: "social-inequality"
+  title: "Social Inequality"
+
+- item: "gender-studies"
+  title: "Gender Studies"
+
+- item: "women-studies"
+  title: "Women's Studies"
+
+- item: "race-studies"
+  title: "Race Studies"
+
+- item: "ethnic-studies"
+  title: "Ethnic Studies"
+
+- item: "urban-sociology"
+  title: "Urban Sociology"
+
+- item: "rural-sociology"
+  title: "Rural Sociology"
+
+- item: "political-science"
+  title: "Political Science"
+
+- item: "political-theory"
+  title: "Political Theory"
+
+- item: "comparative-politics"
+  title: "Comparative Politics"
+
+- item: "international-relations"
+  title: "International Relations"
+
+- item: "geopolitics"
+  title: "Geopolitics"
+
+- item: "public-administration"
+  title: "Public Administration"
+
+- item: "public-policy"
+  title: "Public Policy"
+
+- item: "public-health"
+  title: "Public Health"
+
+- item: "epidemiology"
+  title: "Epidemiology"
+
+- item: "biostatistics"
+  title: "Biostatistics"
+
+- item: "health-policy"
+  title: "Health Policy"
+
+- item: "global-health"
+  title: "Global Health"
+
+- item: "economics"
+  title: "Economics"
+
+- item: "macroeconomics"
+  title: "Macroeconomics"
+
+- item: "microeconomics"
+  title: "Microeconomics"
+
+- item: "econometrics"
+  title: "Econometrics"
+
+- item: "behavioral-economics"
+  title: "Behavioral Economics"
+
+- item: "development-economics"
+  title: "Development Economics"
+
+- item: "international-economics"
+  title: "International Economics"
+
+- item: "financial-economics"
+  title: "Financial Economics"
+
+- item: "public-economics"
+  title: "Public Economics"
+
+- item: "labour-economics"
+  title: "Labour Economics"
+
+- item: "environmental-economics"
+  title: "Environmental Economics"
+
+- item: "agricultural-economics"
+  title: "Agricultural Economics"
+
+- item: "business-economics"
+  title: "Business Economics"
+
+- item: "managerial-economics"
+  title: "Managerial Economics"
+
+- item: "finance"
+  title: "Finance"
+
+- item: "corporate-finance"
+  title: "Corporate Finance"
+
+- item: "investment"
+  title: "Investment"
+
+- item: "portfolio-management"
+  title: "Portfolio Management"
+
+- item: "risk-management"
+  title: "Risk Management"
+
+- item: "financial-markets"
+  title: "Financial Markets"
+
+- item: "banking"
+  title: "Banking"
+
+- item: "accounting"
+  title: "Accounting"
+
+- item: "financial-accounting"
+  title: "Financial Accounting"
+
+- item: "management-accounting"
+  title: "Management Accounting"
+
+- item: "auditing"
+  title: "Auditing"
+
+- item: "taxation"
+  title: "Taxation"
+
+- item: "business-management"
+  title: "Business Management"
+
+- item: "strategic-management"
+  title: "Strategic Management"
+
+- item: "operations-management"
+  title: "Operations Management"
+
+- item: "project-management"
+  title: "Project Management"
+
+- item: "supply-chain-management"
+  title: "Supply Chain Management"
+
+- item: "logistics"
+  title: "Logistics"
+
+- item: "marketing"
+  title: "Marketing"
+
+- item: "digital-marketing"
+  title: "Digital Marketing"
+
+- item: "consumer-behavior"
+  title: "Consumer Behavior"
+
+- item: "brand-management"
+  title: "Brand Management"
+
+- item: "advertising"
+  title: "Advertising"
+
+- item: "public-relations"
+  title: "Public Relations"
+
+- item: "human-resources"
+  title: "Human Resources"
+
+- item: "organizational-behavior"
+  title: "Organizational Behavior"
+
+- item: "leadership"
+  title: "Leadership"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship"
+
+- item: "innovation"
+  title: "Innovation"
+
+- item: "technology-management"
+  title: "Technology Management"
+
+- item: "information-systems"
+  title: "Information Systems"
+
+- item: "computer-science"
+  title: "Computer Science"
+
+- item: "algorithms"
+  title: "Algorithms"
+
+- item: "data-structures"
+  title: "Data Structures"
+
+- item: "programming-languages"
+  title: "Programming Languages"
+
+- item: "software-engineering"
+  title: "Software Engineering"
+
+- item: "software-development"
+  title: "Software Development"
+
+- item: "web-development"
+  title: "Web Development"
+
+- item: "mobile-development"
+  title: "Mobile Development"
+
+- item: "game-development"
+  title: "Game Development"
+
+- item: "database-systems"
+  title: "Database Systems"
+
+- item: "data-warehousing"
+  title: "Data Warehousing"
+
+- item: "big-data"
+  title: "Big Data"
+
+- item: "data-science"
+  title: "Data Science"
+
+- item: "data-analytics"
+  title: "Data Analytics"
+
+- item: "machine-learning"
+  title: "Machine Learning"
+
+- item: "deep-learning"
+  title: "Deep Learning"
+
+- item: "neural-networks"
+  title: "Neural Networks"
+
+- item: "natural-language-processing"
+  title: "Natural Language Processing"
+
+- item: "computer-vision"
+  title: "Computer Vision"
+
+- item: "robotics"
+  title: "Robotics"
+
+- item: "artificial-intelligence"
+  title: "Artificial Intelligence"
+
+- item: "expert-systems"
+  title: "Expert Systems"
+
+- item: "knowledge-representation"
+  title: "Knowledge Representation"
+
+- item: "cognitive-science"
+  title: "Cognitive Science"
+
+- item: "human-computer-interaction"
+  title: "Human-Computer Interaction"
+
+- item: "cybersecurity"
+  title: "Cybersecurity"
+
+- item: "cryptography"
+  title: "Cryptography"
+
+- item: "network-security"
+  title: "Network Security"
+
+- item: "information-security"
+  title: "Information Security"
+
+- item: "digital-forensics"
+  title: "Digital Forensics"
+
+- item: "cloud-computing"
+  title: "Cloud Computing"
+
+- item: "distributed-systems"
+  title: "Distributed Systems"
+
+- item: "parallel-computing"
+  title: "Parallel Computing"
+
+- item: "high-performance-computing"
+  title: "High-Performance Computing"
+
+- item: "computer-networks"
+  title: "Computer Networks"
+
+- item: "wireless-networks"
+  title: "Wireless Networks"
+
+- item: "internet-of-things"
+  title: "Internet of Things"
+
+- item: "embedded-systems"
+  title: "Embedded Systems"
+
+- item: "operating-systems"
+  title: "Operating Systems"
+
+- item: "computer-architecture"
+  title: "Computer Architecture"
+
+- item: "compiler-design"
+  title: "Compiler Design"
+
+- item: "computer-graphics"
+  title: "Computer Graphics"
+
+- item: "visualization"
+  title: "Visualization"
+
+- item: "augmented-reality"
+  title: "Augmented Reality"
+
+- item: "virtual-reality"
+  title: "Virtual Reality"
+
+- item: "mixed-reality"
+  title: "Mixed Reality"
+
+- item: "blockchain"
+  title: "Blockchain"
+
+- item: "smart-contracts"
+  title: "Smart Contracts"
+
+- item: "cryptocurrency"
+  title: "Cryptocurrency"
+
+- item: "decentralized-systems"
+  title: "Decentralized Systems"
+
+- item: "web3"
+  title: "Web3"
+
+- item: "digital-twins"
+  title: "Digital Twins"
+
+- item: "simulation"
+  title: "Simulation"
+
+- item: "modeling"
+  title: "Modeling"
+
+- item: "optimization"
+  title: "Optimization"
+
+- item: "operations-research"
+  title: "Operations Research"
+
+- item: "statistics"
+  title: "Statistics"
+
+- item: "probability"
+  title: "Probability"
+
+- item: "mathematics"
+  title: "Mathematics"
+
+- item: "pure-mathematics"
+  title: "Pure Mathematics"
+
+- item: "applied-mathematics"
+  title: "Applied Mathematics"
+
+- item: "algebra"
+  title: "Algebra"
+
+- item: "calculus"
+  title: "Calculus"
+
+- item: "geometry"
+  title: "Geometry"
+
+- item: "topology"
+  title: "Topology"
+
+- item: "number-theory"
+  title: "Number Theory"
+
+- item: "logic"
+  title: "Logic"
+
+- item: "set-theory"
+  title: "Set Theory"
+
+- item: "category-theory"
+  title: "Category Theory"
+
+- item: "differential-equations"
+  title: "Differential Equations"
+
+- item: "linear-algebra"
+  title: "Linear Algebra"
+
+- item: "mathematical-analysis"
+  title: "Mathematical Analysis"
+
+- item: "numerical-analysis"
+  title: "Numerical Analysis"
+
+- item: "mathematical-modeling"
+  title: "Mathematical Modeling"
+
+- item: "educational-research"
+  title: "Educational Research"
+
+- item: "pedagogy"
+  title: "Pedagogy"
+
+- item: "curriculum-development"
+  title: "Curriculum Development"
+
+- item: "instructional-design"
+  title: "Instructional Design"
+
+- item: "educational-technology"
+  title: "Educational Technology"
+
+- item: "e-learning"
+  title: "E-Learning"
+
+- item: "distance-education"
+  title: "Distance Education"
+
+- item: "higher-education"
+  title: "Higher Education"
+
+- item: "science-education"
+  title: "Science Education"
+
+- item: "mathematics-education"
+  title: "Mathematics Education"
+
+- item: "language-education"
+  title: "Language Education"
+
+- item: "literature"
+  title: "Literature"
+
+- item: "english-literature"
+  title: "English Literature"
+
+- item: "american-literature"
+  title: "American Literature"
+
+- item: "world-literature"
+  title: "World Literature"
+
+- item: "comparative-literature"
+  title: "Comparative Literature"
+
+- item: "postcolonial-literature"
+  title: "Postcolonial Literature"
+
+- item: "medieval-literature"
+  title: "Medieval Literature"
+
+- item: "renaissance-literature"
+  title: "Renaissance Literature"
+
+- item: "victorian-literature"
+  title: "Victorian Literature"
+
+- item: "modernist-literature"
+  title: "Modernist Literature"
+
+- item: "postmodern-literature"
+  title: "Postmodern Literature"
+
+- item: "contemporary-literature"
+  title: "Contemporary Literature"
+
+- item: "poetry"
+  title: "Poetry"
+
+- item: "drama"
+  title: "Drama"
+
+- item: "fiction"
+  title: "Fiction"
+
+- item: "non-fiction"
+  title: "Non-Fiction"
+
+- item: "creative-writing"
+  title: "Creative Writing"
+
+- item: "linguistics"
+  title: "Linguistics"
+
+- item: "phonetics"
+  title: "Phonetics"
+
+- item: "phonology"
+  title: "Phonology"
+
+- item: "morphology"
+  title: "Morphology"
+
+- item: "syntax"
+  title: "Syntax"
+
+- item: "semantics"
+  title: "Semantics"
+
+- item: "pragmatics"
+  title: "Pragmatics"
+
+- item: "sociolinguistics"
+  title: "Sociolinguistics"
+
+- item: "psycholinguistics"
+  title: "Psycholinguistics"
+
+- item: "neurolinguistics"
+  title: "Neurolinguistics"
+
+- item: "historical-linguistics"
+  title: "Historical Linguistics"
+
+- item: "applied-linguistics"
+  title: "Applied Linguistics"
+
+- item: "second-language-acquisition"
+  title: "Second Language Acquisition"
+
+- item: "translation-studies"
+  title: "Translation Studies"
+
+- item: "history"
+  title: "History"
+
+- item: "ancient-history"
+  title: "Ancient History"
+
+- item: "medieval-history"
+  title: "Medieval History"
+
+- item: "modern-history"
+  title: "Modern History"
+
+- item: "contemporary-history"
+  title: "Contemporary History"
+
+- item: "world-history"
+  title: "World History"
+
+- item: "european-history"
+  title: "European History"
+
+- item: "american-history"
+  title: "American History"
+
+- item: "asian-history"
+  title: "Asian History"
+
+- item: "african-history"
+  title: "African History"
+
+- item: "middle-eastern-history"
+  title: "Middle Eastern History"
+
+- item: "south-asian-history"
+  title: "South Asian History"
+
+- item: "east-asian-history"
+  title: "East Asian History"
+
+- item: "military-history"
+  title: "Military History"
+
+- item: "political-history"
+  title: "Political History"
+
+- item: "economic-history"
+  title: "Economic History"
+
+- item: "social-history"
+  title: "Social History"
+
+- item: "cultural-history"
+  title: "Cultural History"
+
+- item: "intellectual-history"
+  title: "Intellectual History"
+
+- item: "history-of-science"
+  title: "History of Science"
+
+- item: "history-of-technology"
+  title: "History of Technology"
+
+- item: "history-of-medicine"
+  title: "History of Medicine"
+
+- item: "history-of-art"
+  title: "History of Art"
+
+- item: "art-history"
+  title: "Art History"
+
+- item: "art-theory"
+  title: "Art Theory"
+
+- item: "visual-arts"
+  title: "Visual Arts"
+
+- item: "performing-arts"
+  title: "Performing Arts"
+
+- item: "musicology"
+  title: "Musicology"
+
+- item: "ethnomusicology"
+  title: "Ethnomusicology"
+
+- item: "music-theory"
+  title: "Music Theory"
+
+- item: "film-studies"
+  title: "Film Studies"
+
+- item: "media-studies"
+  title: "Media Studies"
+
+- item: "communication-studies"
+  title: "Communication Studies"
+
+- item: "journalism"
+  title: "Journalism"
+
+- item: "mass-communication"
+  title: "Mass Communication"
+
+- item: "digital-media"
+  title: "Digital Media"
+
+- item: "new-media"
+  title: "New Media"
+
+- item: "social-media-studies"
+  title: "Social Media Studies"
+
+- item: "cultural-studies"
+  title: "Cultural Studies"
+
+- item: "postcolonial-studies"
+  title: "Postcolonial Studies"
+
+- item: "diaspora-studies"
+  title: "Diaspora Studies"
+
+- item: "migration-studies"
+  title: "Migration Studies"
+
+- item: "refugee-studies"
+  title: "Refugee Studies"
+
+- item: "peace-studies"
+  title: "Peace Studies"
+
+- item: "conflict-studies"
+  title: "Conflict Studies"
+
+- item: "security-studies"
+  title: "Security Studies"
+
+- item: "strategic-studies"
+  title: "Strategic Studies"
+
+- item: "defense-studies"
+  title: "Defense Studies"
+
+- item: "intelligence-studies"
+  title: "Intelligence Studies"
+
+- item: "counter-terrorism"
+  title: "Counter-Terrorism"
+
+- item: "humanitarian-studies"
+  title: "Humanitarian Studies"
+
+- item: "development-studies"
+  title: "Development Studies"
+
+- item: "sustainable-development"
+  title: "Sustainable Development"
+
+- item: "urban-studies"
+  title: "Urban Studies"
+
+- item: "rural-studies"
+  title: "Rural Studies"
+
+- item: "regional-studies"
+  title: "Regional Studies"
+
+- item: "area-studies"
+  title: "Area Studies"
+
+- item: "european-studies"
+  title: "European Studies"
+
+- item: "american-studies"
+  title: "American Studies"
+
+- item: "asian-studies"
+  title: "Asian Studies"
+
+- item: "african-studies"
+  title: "African Studies"
+
+- item: "latin-american-studies"
+  title: "Latin American Studies"
+
+- item: "middle-eastern-studies"
+  title: "Middle Eastern Studies"
+
+- item: "south-asian-studies"
+  title: "South Asian Studies"
+
+- item: "east-asian-studies"
+  title: "East Asian Studies"
+
+- item: "southeast-asian-studies"
+  title: "Southeast Asian Studies"
+
+- item: "indigenous-studies"
+  title: "Indigenous Studies"
+
+- item: "native-american-studies"
+  title: "Native American Studies"
+
+- item: "aboriginal-studies"
+  title: "Aboriginal Studies"
+
+- item: "religious-studies"
+  title: "Religious Studies"
+
+- item: "theology"
+  title: "Theology"
+
+- item: "biblical-studies"
+  title: "Biblical Studies"
+
+- item: "vedic-studies"
+  title: "Vedic Studies"
+
+- item: "hindu-studies"
+  title: "Hindu Studies"
+
+- item: "buddhist-studies"
+  title: "Buddhist Studies"
+
+- item: "jain-studies"
+  title: "Jain Studies"
+
+- item: "islamic-studies"
+  title: "Islamic Studies"
+
+- item: "christian-studies"
+  title: "Christian Studies"
+
+- item: "jewish-studies"
+  title: "Jewish Studies"
+
+- item: "sikh-studies"
+  title: "Sikh Studies"
+
+- item: "philosophy"
+  title: "Philosophy"
+
+- item: "western-philosophy"
+  title: "Western Philosophy"
+
+- item: "eastern-philosophy"
+  title: "Eastern Philosophy"
+
+- item: "ethics"
+  title: "Ethics"
+
+- item: "meta-ethics"
+  title: "Meta-Ethics"
+
+- item: "applied-ethics"
+  title: "Applied Ethics"
+
+- item: "bioethics"
+  title: "Bioethics"
+
+- item: "environmental-ethics"
+  title: "Environmental Ethics"
+
+- item: "business-ethics"
+  title: "Business Ethics"
+
+- item: "medical-ethics"
+  title: "Medical Ethics"
+
+- item: "legal-ethics"
+  title: "Legal Ethics"
+
+- item: "professional-ethics"
+  title: "Professional Ethics"
+
+- item: "research-ethics"
+  title: "Research Ethics"
+
+- item: "epistemology"
+  title: "Epistemology"
+
+- item: "ontology"
+  title: "Ontology"
+
+- item: "metaphysics"
+  title: "Metaphysics"
+
+- item: "aesthetics"
+  title: "Aesthetics"
+
+- item: "logic-philosophy"
+  title: "Logic"
+
+- item: "philosophy-of-science"
+  title: "Philosophy of Science"
+
+- item: "philosophy-of-technology"
+  title: "Philosophy of Technology"
+
+- item: "philosophy-of-mind"
+  title: "Philosophy of Mind"
+
+- item: "philosophy-of-language"
+  title: "Philosophy of Language"
+
+- item: "political-philosophy"
+  title: "Political Philosophy"
+
+- item: "social-philosophy"
+  title: "Social Philosophy"
+
+- item: "law"
+  title: "Law"
+
+- item: "constitutional-law"
+  title: "Constitutional Law"
+
+- item: "criminal-law"
+  title: "Criminal Law"
+
+- item: "civil-law"
+  title: "Civil Law"
+
+- item: "corporate-law"
+  title: "Corporate Law"
+
+- item: "international-law"
+  title: "International Law"
+
+- item: "human-rights-law"
+  title: "Human Rights Law"
+
+- item: "environmental-law"
+  title: "Environmental Law"
+
+- item: "cyber-law"
+  title: "Cyber Law"
+
+- item: "intellectual-property"
+  title: "Intellectual Property"
+
+- item: "patent-law"
+  title: "Patent Law"
+
+- item: "copyright-law"
+  title: "Copyright Law"
+
+- item: "trademark-law"
+  title: "Trademark Law"
+
+- item: "family-law"
+  title: "Family Law"
+
+- item: "labor-law"
+  title: "Labor Law"
+
+- item: "tax-law"
+  title: "Tax Law"
+
+- item: "jurisprudence"
+  title: "Jurisprudence"
+
+- item: "comparative-law"
+  title: "Comparative Law"
+
+- item: "archaeology"
+  title: "Archaeology"
+
+- item: "anthropology"
+  title: "Anthropology"
+
+- item: "physical-anthropology"
+  title: "Physical Anthropology"
+
+- item: "cultural-anthropology"
+  title: "Cultural Anthropology"
+
+- item: "social-anthropology"
+  title: "Social Anthropology"
+
+- item: "linguistic-anthropology"
+  title: "Linguistic Anthropology"
+
+- item: "archaeological-anthropology"
+  title: "Archaeological Anthropology"
+
+- item: "geography"
+  title: "Geography"
+
+- item: "physical-geography"
+  title: "Physical Geography"
+
+- item: "human-geography"
+  title: "Human Geography"
+
+- item: "urban-geography"
+  title: "Urban Geography"
+
+- item: "rural-geography"
+  title: "Rural Geography"
+
+- item: "economic-geography"
+  title: "Economic Geography"
+
+- item: "political-geography"
+  title: "Political Geography"
+
+- item: "cultural-geography"
+  title: "Cultural Geography"
+
+- item: "cartography"
+  title: "Cartography"
+
+- item: "gis"
+  title: "Geographic Information Systems (GIS)"
+
+- item: "remote-sensing"
+  title: "Remote Sensing"
+
+- item: "geomatics"
+  title: "Geomatics"
+
+- item: "geology"
+  title: "Geology"
+
+- item: "mineralogy"
+  title: "Mineralogy"
+
+- item: "petrology"
+  title: "Petrology"
+
+- item: "sedimentology"
+  title: "Sedimentology"
+
+- item: "stratigraphy"
+  title: "Stratigraphy"
+
+- item: "paleontology"
+  title: "Paleontology"
+
+- item: "geomorphology"
+  title: "Geomorphology"
+
+- item: "hydrology"
+  title: "Hydrology"
+
+- item: "oceanography"
+  title: "Oceanography"
+
+- item: "atmospheric-science"
+  title: "Atmospheric Science"
+
+- item: "meteorology"
+  title: "Meteorology"
+
+- item: "climatology"
+  title: "Climatology"
+
+- item: "seismology"
+  title: "Seismology"
+
+- item: "volcanology"
+  title: "Volcanology"
+
+- item: "astronomy"
+  title: "Astronomy"
+
+- item: "solar-astronomy"
+  title: "Solar Astronomy"
+
+- item: "stellar-astronomy"
+  title: "Stellar Astronomy"
+
+- item: "galactic-astronomy"
+  title: "Galactic Astronomy"
+
+- item: "extragalactic-astronomy"
+  title: "Extragalactic Astronomy"
+
+- item: "planetary-science"
+  title: "Planetary Science"
+
+- item: "exoplanet-studies"
+  title: "Exoplanet Studies"
+
+- item: "astrobiology"
+  title: "Astrobiology"
+
+- item: "space-exploration"
+  title: "Space Exploration"
+
+- item: "aerospace-engineering"
+  title: "Aerospace Engineering"
+
+- item: "mechanical-engineering"
+  title: "Mechanical Engineering"
+
+- item: "civil-engineering"
+  title: "Civil Engineering"
+
+- item: "structural-engineering"
+  title: "Structural Engineering"
+
+- item: "geotechnical-engineering"
+  title: "Geotechnical Engineering"
+
+- item: "environmental-engineering"
+  title: "Environmental Engineering"
+
+- item: "transportation-engineering"
+  title: "Transportation Engineering"
+
+- item: "water-resources-engineering"
+  title: "Water Resources Engineering"
+
+- item: "electrical-engineering"
+  title: "Electrical Engineering"
+
+- item: "electronics-engineering"
+  title: "Electronics Engineering"
+
+- item: "telecommunication-engineering"
+  title: "Telecommunication Engineering"
+
+- item: "power-engineering"
+  title: "Power Engineering"
+
+- item: "control-engineering"
+  title: "Control Engineering"
+
+- item: "instrumentation-engineering"
+  title: "Instrumentation Engineering"
+
+- item: "chemical-engineering"
+  title: "Chemical Engineering"
+
+- item: "biochemical-engineering"
+  title: "Biochemical Engineering"
+
+- item: "petroleum-engineering"
+  title: "Petroleum Engineering"
+
+- item: "mining-engineering"
+  title: "Mining Engineering"
+
+- item: "metallurgical-engineering"
+  title: "Metallurgical Engineering"
+
+- item: "industrial-engineering"
+  title: "Industrial Engineering"
+
+- item: "manufacturing-engineering"
+  title: "Manufacturing Engineering"
+
+- item: "production-engineering"
+  title: "Production Engineering"
+
+- item: "quality-engineering"
+  title: "Quality Engineering"
+
+- item: "safety-engineering"
+  title: "Safety Engineering"
+
+- item: "bioengineering"
+  title: "Bioengineering"
+
+- item: "genetic-engineering"
+  title: "Genetic Engineering"
+
+- item: "tissue-engineering"
+  title: "Tissue Engineering"
+
+- item: "biomedical-engineering"
+  title: "Biomedical Engineering"
+
+- item: "renewable-energy"
+  title: "Renewable Energy"
+
+- item: "solar-energy"
+  title: "Solar Energy"
+
+- item: "wind-energy"
+  title: "Wind Energy"
+
+- item: "hydro-energy"
+  title: "Hydro Energy"
+
+- item: "geothermal-energy"
+  title: "Geothermal Energy"
+
+- item: "bio-energy"
+  title: "Bio-Energy"
+
+- item: "nuclear-energy"
+  title: "Nuclear Energy"
+
+- item: "energy-efficiency"
+  title: "Energy Efficiency"
+
+- item: "smart-grid"
+  title: "Smart Grid"
+
+- item: "energy-storage"
+  title: "Energy Storage"
+
+- item: "battery-technology"
+  title: "Battery Technology"
+
+- item: "fuel-cells"
+  title: "Fuel Cells"
+
+- item: "hydrogen-energy"
+  title: "Hydrogen Energy"
+
+- item: "sustainable-agriculture"
+  title: "Sustainable Agriculture"
+
+- item: "organic-farming"
+  title: "Organic Farming"
+
+- item: "precision-agriculture"
+  title: "Precision Agriculture"
+
+- item: "vertical-farming"
+  title: "Vertical Farming"
+
+- item: "hydroponics"
+  title: "Hydroponics"
+
+- item: "aquaponics"
+  title: "Aquaponics"
+
+- item: "aeroponics"
+  title: "Aeroponics"
+
+- item: "urban-farming"
+  title: "Urban Farming"
+
+- item: "community-gardening"
+  title: "Community Gardening"
+
+- item: "permaculture"
+  title: "Permaculture"
+
+- item: "agroforestry"
+  title: "Agroforestry"
+
+- item: "agroecology"
+  title: "Agroecology"
+
+- item: "climate-change"
+  title: "Climate Change"
+
+- item: "global-warming"
+  title: "Global Warming"
+
+- item: "carbon-footprint"
+  title: "Carbon Footprint"
+
+- item: "carbon-neutrality"
+  title: "Carbon Neutrality"
+
+- item: "net-zero"
+  title: "Net Zero"
+
+- item: "sustainability"
+  title: "Sustainability"
+
+- item: "circular-economy"
+  title: "Circular Economy"
+
+- item: "green-economy"
+  title: "Green Economy"
+
+- item: "blue-economy"
+  title: "Blue Economy"
+
+- item: "social-enterprise"
+  title: "Social Enterprise"
+
+- item: "corporate-social-responsibility"
+  title: "Corporate Social Responsibility"
+
+- item: "esg"
+  title: "ESG (Environmental, Social, Governance)"
+
+- item: "impact-investing"
+  title: "Impact Investing"
+
+- item: "social-innovation"
+  title: "Social Innovation"
+
+- item: "social-entrepreneurship"
+  title: "Social Entrepreneurship"
