@@ -1,0 +1,764 @@
+- item: "document"
+  title: "Document Templates"
+
+- item: "presentation"
+  title: "Presentation Templates"
+
+- item: "spreadsheet"
+  title: "Spreadsheet Templates"
+
+- item: "design"
+  title: "Design Templates"
+
+- item: "web"
+  title: "Web Templates"
+
+- item: "app"
+  title: "App Templates"
+
+- item: "email"
+  title: "Email Templates"
+
+- item: "social-media"
+  title: "Social Media Templates"
+
+- item: "marketing"
+  title: "Marketing Templates"
+
+- item: "business"
+  title: "Business Templates"
+
+- item: "finance"
+  title: "Finance Templates"
+
+- item: "education"
+  title: "Education Templates"
+
+- item: "healthcare"
+  title: "Healthcare Templates"
+
+- item: "legal"
+  title: "Legal Templates"
+
+- item: "real-estate"
+  title: "Real Estate Templates"
+
+- item: "event"
+  title: "Event Templates"
+
+- item: "wedding"
+  title: "Wedding Templates"
+
+- item: "invitation"
+  title: "Invitation Templates"
+
+- item: "resume"
+  title: "Resume Templates"
+
+- item: "cover-letter"
+  title: "Cover Letter Templates"
+
+- item: "portfolio"
+  title: "Portfolio Templates"
+
+- item: "print"
+  title: "Print Templates"
+
+- item: "packaging"
+  title: "Packaging Templates"
+
+- item: "product"
+  title: "Product Templates"
+
+- item: "report"
+  title: "Report Templates"
+
+- item: "proposal"
+  title: "Proposal Templates"
+
+- item: "contract"
+  title: "Contract Templates"
+
+- item: "agreement"
+  title: "Agreement Templates"
+
+- item: "form"
+  title: "Form Templates"
+
+- item: "certificate"
+  title: "Certificate Templates"
+
+- item: "award"
+  title: "Award Templates"
+
+- item: "flyer"
+  title: "Flyer Templates"
+
+- item: "poster"
+  title: "Poster Templates"
+
+- item: "brochure"
+  title: "Brochure Templates"
+
+- item: "catalog"
+  title: "Catalog Templates"
+
+- item: "menu"
+  title: "Menu Templates"
+
+- item: "newsletter"
+  title: "Newsletter Templates"
+
+- item: "magazine"
+  title: "Magazine Templates"
+
+- item: "book"
+  title: "Book Templates"
+
+- item: "ebook"
+  title: "Ebook Templates"
+
+- item: "manual"
+  title: "Manual Templates"
+
+- item: "guide"
+  title: "Guide Templates"
+
+- item: "checklist"
+  title: "Checklist Templates"
+
+- item: "planner"
+  title: "Planner Templates"
+
+- item: "calendar"
+  title: "Calendar Templates"
+
+- item: "journal"
+  title: "Journal Templates"
+
+- item: "diary"
+  title: "Diary Templates"
+
+- item: "notebook"
+  title: "Notebook Templates"
+
+- item: "worksheet"
+  title: "Worksheet Templates"
+
+- item: "lesson-plan"
+  title: "Lesson Plan Templates"
+
+- item: "syllabus"
+  title: "Syllabus Templates"
+
+- item: "curriculum"
+  title: "Curriculum Templates"
+
+- item: "survey"
+  title: "Survey Templates"
+
+- item: "questionnaire"
+  title: "Questionnaire Templates"
+
+- item: "quiz"
+  title: "Quiz Templates"
+
+- item: "test"
+  title: "Test Templates"
+
+- item: "exam"
+  title: "Exam Templates"
+
+- item: "study-guide"
+  title: "Study Guide Templates"
+
+- item: "flashcard"
+  title: "Flashcard Templates"
+
+- item: "mind-map"
+  title: "Mind Map Templates"
+
+- item: "brainstorm"
+  title: "Brainstorm Templates"
+
+- item: "project-plan"
+  title: "Project Plan Templates"
+
+- item: "task-list"
+  title: "Task List Templates"
+
+- item: "to-do-list"
+  title: "To-Do List Templates"
+
+- item: "schedule"
+  title: "Schedule Templates"
+
+- item: "timeline"
+  title: "Timeline Templates"
+
+- item: "gantt-chart"
+  title: "Gantt Chart Templates"
+
+- item: "flowchart"
+  title: "Flowchart Templates"
+
+- item: "diagram"
+  title: "Diagram Templates"
+
+- item: "chart"
+  title: "Chart Templates"
+
+- item: "graph"
+  title: "Graph Templates"
+
+- item: "infographic"
+  title: "Infographic Templates"
+
+- item: "dashboard"
+  title: "Dashboard Templates"
+
+- item: "landing-page"
+  title: "Landing Page Templates"
+
+- item: "website"
+  title: "Website Templates"
+
+- item: "blog"
+  title: "Blog Templates"
+
+- item: "portfolio-website"
+  title: "Portfolio Website Templates"
+
+- item: "ecommerce-website"
+  title: "Ecommerce Website Templates"
+
+- item: "mobile-app"
+  title: "Mobile App Templates"
+
+- item: "ui-kit"
+  title: "UI Kit Templates"
+
+- item: "wireframe"
+  title: "Wireframe Templates"
+
+- item: "mockup"
+  title: "Mockup Templates"
+
+- item: "prototype"
+  title: "Prototype Templates"
+
+- item: "logo"
+  title: "Logo Templates"
+
+- item: "brand-identity"
+  title: "Brand Identity Templates"
+
+- item: "style-guide"
+  title: "Style Guide Templates"
+
+- item: "business-plan"
+  title: "Business Plan Templates"
+
+- item: "business-model"
+  title: "Business Model Templates"
+
+- item: "strategy"
+  title: "Strategy Templates"
+
+- item: "roadmap"
+  title: "Roadmap Templates"
+
+- item: "swot-analysis"
+  title: "SWOT Analysis Templates"
+
+- item: "competitive-analysis"
+  title: "Competitive Analysis Templates"
+
+- item: "market-research"
+  title: "Market Research Templates"
+
+- item: "customer-persona"
+  title: "Customer Persona Templates"
+
+- item: "user-journey"
+  title: "User Journey Templates"
+
+- item: "storyboard"
+  title: "Storyboard Templates"
+
+- item: "script"
+  title: "Script Templates"
+
+- item: "screenplay"
+  title: "Screenplay Templates"
+
+- item: "treatment"
+  title: "Treatment Templates"
+
+- item: "press-release"
+  title: "Press Release Templates"
+
+- item: "media-kit"
+  title: "Media Kit Templates"
+
+- item: "advertisement"
+  title: "Advertisement Templates"
+
+- item: "banner-ad"
+  title: "Banner Ad Templates"
+
+- item: "social-media-ad"
+  title: "Social Media Ad Templates"
+
+- item: "video-ad"
+  title: "Video Ad Templates"
+
+- item: "promo-video"
+  title: "Promo Video Templates"
+
+- item: "explainer-video"
+  title: "Explainer Video Templates"
+
+- item: "animation"
+  title: "Animation Templates"
+
+- item: "motion-graphics"
+  title: "Motion Graphics Templates"
+
+- item: "lower-third"
+  title: "Lower Third Templates"
+
+- item: "intro-video"
+  title: "Intro Video Templates"
+
+- item: "outro-video"
+  title: "Outro Video Templates"
+
+- item: "youtube-thumbnail"
+  title: "YouTube Thumbnail Templates"
+
+- item: "youtube-end-screen"
+  title: "YouTube End Screen Templates"
+
+- item: "social-media-post"
+  title: "Social Media Post Templates"
+
+- item: "social-media-story"
+  title: "Social Media Story Templates"
+
+- item: "instagram-post"
+  title: "Instagram Post Templates"
+
+- item: "instagram-story"
+  title: "Instagram Story Templates"
+
+- item: "instagram-reel"
+  title: "Instagram Reel Templates"
+
+- item: "facebook-post"
+  title: "Facebook Post Templates"
+
+- item: "linkedin-post"
+  title: "LinkedIn Post Templates"
+
+- item: "twitter-post"
+  title: "Twitter Post Templates"
+
+- item: "pinterest-pin"
+  title: "Pinterest Pin Templates"
+
+- item: "tiktok-video"
+  title: "TikTok Video Templates"
+
+- item: "youtube-video"
+  title: "YouTube Video Templates"
+
+- item: "podcast-cover"
+  title: "Podcast Cover Templates"
+
+- item: "podcast-episode"
+  title: "Podcast Episode Templates"
+
+- item: "video-background"
+  title: "Video Background Templates"
+
+- item: "zoom-background"
+  title: "Zoom Background Templates"
+
+- item: "virtual-background"
+  title: "Virtual Background Templates"
+
+- item: "signature"
+  title: "Email Signature Templates"
+
+- item: "letterhead"
+  title: "Letterhead Templates"
+
+- item: "envelope"
+  title: "Envelope Templates"
+
+- item: "business-card"
+  title: "Business Card Templates"
+
+- item: "id-card"
+  title: "ID Card Templates"
+
+- item: "membership-card"
+  title: "Membership Card Templates"
+
+- item: "loyalty-card"
+  title: "Loyalty Card Templates"
+
+- item: "gift-card"
+  title: "Gift Card Templates"
+
+- item: "voucher"
+  title: "Voucher Templates"
+
+- item: "coupon"
+  title: "Coupon Templates"
+
+- item: "ticket"
+  title: "Ticket Templates"
+
+- item: "boarding-pass"
+  title: "Boarding Pass Templates"
+
+- item: "name-badge"
+  title: "Name Badge Templates"
+
+- item: "table-tent"
+  title: "Table Tent Templates"
+
+- item: "place-card"
+  title: "Place Card Templates"
+
+- item: "signage"
+  title: "Signage Templates"
+
+- item: "banner-stand"
+  title: "Banner Stand Templates"
+
+- item: "roll-up-banner"
+  title: "Roll-Up Banner Templates"
+
+- item: "backdrop"
+  title: "Backdrop Templates"
+
+- item: "stage-design"
+  title: "Stage Design Templates"
+
+- item: "exhibition-booth"
+  title: "Exhibition Booth Templates"
+
+- item: "trade-show-booth"
+  title: "Trade Show Booth Templates"
+
+- item: "office-template"
+  title: "Office Templates"
+
+- item: "memo"
+  title: "Memo Templates"
+
+- item: "agenda"
+  title: "Agenda Templates"
+
+- item: "minutes"
+  title: "Meeting Minutes Templates"
+
+- item: "action-plan"
+  title: "Action Plan Templates"
+
+- item: "scorecard"
+  title: "Scorecard Templates"
+
+- item: "performance-review"
+  title: "Performance Review Templates"
+
+- item: "kpI-template"
+  title: "KPI Templates"
+
+- item: "timesheet"
+  title: "Timesheet Templates"
+
+- item: "invoice"
+  title: "Invoice Templates"
+
+- item: "receipt"
+  title: "Receipt Templates"
+
+- item: "estimate"
+  title: "Estimate Templates"
+
+- item: "quote"
+  title: "Quote Templates"
+
+- item: "purchase-order"
+  title: "Purchase Order Templates"
+
+- item: "work-order"
+  title: "Work Order Templates"
+
+- item: "shipping-label"
+  title: "Shipping Label Templates"
+
+- item: "packing-slip"
+  title: "Packing Slip Templates"
+
+- item: "return-form"
+  title: "Return Form Templates"
+
+- item: "warranty"
+  title: "Warranty Templates"
+
+- item: "registration-form"
+  title: "Registration Form Templates"
+
+- item: "application-form"
+  title: "Application Form Templates"
+
+- item: "intake-form"
+  title: "Intake Form Templates"
+
+- item: "consent-form"
+  title: "Consent Form Templates"
+
+- item: "waiver-form"
+  title: "Waiver Form Templates"
+
+- item: "release-form"
+  title: "Release Form Templates"
+
+- item: "permission-slip"
+  title: "Permission Slip Templates"
+
+- item: "attendance-sheet"
+  title: "Attendance Sheet Templates"
+
+- item: "sign-in-sheet"
+  title: "Sign-In Sheet Templates"
+
+- item: "sign-out-sheet"
+  title: "Sign-Out Sheet Templates"
+
+- item: "log-sheet"
+  title: "Log Sheet Templates"
+
+- item: "record-sheet"
+  title: "Record Sheet Templates"
+
+- item: "score-sheet"
+  title: "Score Sheet Templates"
+
+- item: "evaluation-form"
+  title: "Evaluation Form Templates"
+
+- item: "feedback-form"
+  title: "Feedback Form Templates"
+
+- item: "review-form"
+  title: "Review Form Templates"
+
+- item: "testimonial-form"
+  title: "Testimonial Form Templates"
+
+- item: "case-study"
+  title: "Case Study Templates"
+
+- item: "white-paper"
+  title: "White Paper Templates"
+
+- item: "research-paper"
+  title: "Research Paper Templates"
+
+- item: "thesis"
+  title: "Thesis Templates"
+
+- item: "dissertation"
+  title: "Dissertation Templates"
+
+- item: "academic-paper"
+  title: "Academic Paper Templates"
+
+- item: "lab-report"
+  title: "Lab Report Templates"
+
+- item: "scientific-poster"
+  title: "Scientific Poster Templates"
+
+- item: "conference-poster"
+  title: "Conference Poster Templates"
+
+- item: "project-proposal"
+  title: "Project Proposal Templates"
+
+- item: "grant-proposal"
+  title: "Grant Proposal Templates"
+
+- item: "fundraising-letter"
+  title: "Fundraising Letter Templates"
+
+- item: "donation-form"
+  title: "Donation Form Templates"
+
+- item: "sponsorship-proposal"
+  title: "Sponsorship Proposal Templates"
+
+- item: "partnership-proposal"
+  title: "Partnership Proposal Templates"
+
+- item: "collaboration-proposal"
+  title: "Collaboration Proposal Templates"
+
+- item: "joint-venture"
+  title: "Joint Venture Templates"
+
+- item: "mou"
+  title: "Memorandum of Understanding Templates"
+
+- item: "loi"
+  title: "Letter of Intent Templates"
+
+- item: "nda"
+  title: "Non-Disclosure Agreement Templates"
+
+- item: "employment-contract"
+  title: "Employment Contract Templates"
+
+- item: "freelance-contract"
+  title: "Freelance Contract Templates"
+
+- item: "service-agreement"
+  title: "Service Agreement Templates"
+
+- item: "sales-agreement"
+  title: "Sales Agreement Templates"
+
+- item: "lease-agreement"
+  title: "Lease Agreement Templates"
+
+- item: "rental-agreement"
+  title: "Rental Agreement Templates"
+
+- item: "purchase-agreement"
+  title: "Purchase Agreement Templates"
+
+- item: "supply-agreement"
+  title: "Supply Agreement Templates"
+
+- item: "distribution-agreement"
+  title: "Distribution Agreement Templates"
+
+- item: "licensing-agreement"
+  title: "Licensing Agreement Templates"
+
+- item: "franchise-agreement"
+  title: "Franchise Agreement Templates"
+
+- item: "partnership-agreement"
+  title: "Partnership Agreement Templates"
+
+- item: "shareholders-agreement"
+  title: "Shareholders Agreement Templates"
+
+- item: "operating-agreement"
+  title: "Operating Agreement Templates"
+
+- item: "bylaws"
+  title: "Bylaws Templates"
+
+- item: "company-policy"
+  title: "Company Policy Templates"
+
+- item: "handbook"
+  title: "Handbook Templates"
+
+- item: "employee-handbook"
+  title: "Employee Handbook Templates"
+
+- item: "safety-manual"
+  title: "Safety Manual Templates"
+
+- item: "training-manual"
+  title: "Training Manual Templates"
+
+- item: "sop"
+  title: "Standard Operating Procedure Templates"
+
+- item: "work-instruction"
+  title: "Work Instruction Templates"
+
+- item: "checklist"
+  title: "Checklist Templates"
+
+- item: "audit-checklist"
+  title: "Audit Checklist Templates"
+
+- item: "inspection-checklist"
+  title: "Inspection Checklist Templates"
+
+- item: "maintenance-checklist"
+  title: "Maintenance Checklist Templates"
+
+- item: "cleaning-checklist"
+  title: "Cleaning Checklist Templates"
+
+- item: "onboarding-checklist"
+  title: "Onboarding Checklist Templates"
+
+- item: "offboarding-checklist"
+  title: "Offboarding Checklist Templates"
+
+- item: "event-checklist"
+  title: "Event Checklist Templates"
+
+- item: "travel-checklist"
+  title: "Travel Checklist Templates"
+
+- item: "packing-checklist"
+  title: "Packing Checklist Templates"
+
+- item: "shopping-checklist"
+  title: "Shopping Checklist Templates"
+
+- item: "gift-checklist"
+  title: "Gift Checklist Templates"
+
+- item: "budget-template"
+  title: "Budget Templates"
+
+- item: "expense-tracker"
+  title: "Expense Tracker Templates"
+
+- item: "income-tracker"
+  title: "Income Tracker Templates"
+
+- item: "cash-flow"
+  title: "Cash Flow Templates"
+
+- item: "profit-loss"
+  title: "Profit & Loss Templates"
+
+- item: "balance-sheet"
+  title: "Balance Sheet Templates"
+
+- item: "financial-statement"
+  title: "Financial Statement Templates"
+
+- item: "tax-return"
+  title: "Tax Return Templates"
+
+- item: "payroll-template"
+  title: "Payroll Templates"
+
+- item: "stock-inventory"
+  title: "Stock Inventory Templates"
+
+- item: "order-template"
+  title: "Order Templates"
+
+- item: "delivery-template"
+  title: "Delivery Templates"
+
+- item: "shipping-template"
+  title: "Shipping Templates"
