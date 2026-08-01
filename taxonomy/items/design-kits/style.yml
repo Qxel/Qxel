@@ -1,0 +1,899 @@
+- item: "minimalist"
+  title: "Minimalist"
+
+- item: "maximalist"
+  title: "Maximalist"
+
+- item: "modern"
+  title: "Modern"
+
+- item: "contemporary"
+  title: "Contemporary"
+
+- item: "classic"
+  title: "Classic"
+
+- item: "vintage"
+  title: "Vintage"
+
+- item: "retro"
+  title: "Retro"
+
+- item: "mid-century"
+  title: "Mid-Century Modern"
+
+- item: "bauhaus"
+  title: "Bauhaus"
+
+- item: "swiss"
+  title: "Swiss (International Style)"
+
+- item: "art-deco"
+  title: "Art Deco"
+
+- item: "art-nouveau"
+  title: "Art Nouveau"
+
+- item: "victorian"
+  title: "Victorian"
+
+- item: "baroque"
+  title: "Baroque"
+
+- item: "rococo"
+  title: "Rococo"
+
+- item: "gothic"
+  title: "Gothic"
+
+- item: "renaissance"
+  title: "Renaissance"
+
+- item: "neoclassical"
+  title: "Neoclassical"
+
+- item: "brutalist"
+  title: "Brutalist"
+
+- item: "deconstructivist"
+  title: "Deconstructivist"
+
+- item: "constructivist"
+  title: "Constructivist"
+
+- item: "futuristic"
+  title: "Futuristic"
+
+- item: "cyberpunk"
+  title: "Cyberpunk"
+
+- item: "steampunk"
+  title: "Steampunk"
+
+- item: "dieselpunk"
+  title: "Dieselpunk"
+
+- item: "solarpunk"
+  title: "Solarpunk"
+
+- item: "vaporwave"
+  title: "Vaporwave"
+
+- item: "synthwave"
+  title: "Synthwave"
+
+- item: "neon"
+  title: "Neon"
+
+- item: "glitch"
+  title: "Glitch"
+
+- item: "flat"
+  title: "Flat Design"
+
+- item: "skeuomorphic"
+  title: "Skeuomorphic"
+
+- item: "neumorphic"
+  title: "Neumorphic"
+
+- item: "glassmorphic"
+  title: "Glassmorphic"
+
+- item: "claymorphic"
+  title: "Claymorphic"
+
+- item: "material"
+  title: "Material Design"
+
+- item: "fluent"
+  title: "Fluent Design"
+
+- item: "human-interface"
+  title: "Human Interface Guidelines"
+
+- item: "aesthetic"
+  title: "Aesthetic"
+
+- item: "dark"
+  title: "Dark Theme"
+
+- item: "light"
+  title: "Light Theme"
+
+- item: "monochromatic"
+  title: "Monochromatic"
+
+- item: "pastel"
+  title: "Pastel"
+
+- item: "neon-pastel"
+  title: "Neon Pastel"
+
+- item: "earth-tones"
+  title: "Earth Tones"
+
+- item: "jewel-tones"
+  title: "Jewel Tones"
+
+- item: "muted"
+  title: "Muted"
+
+- item: "bold"
+  title: "Bold & Vibrant"
+
+- item: "gradient"
+  title: "Gradient"
+
+- item: "duotone"
+  title: "Duotone"
+
+- item: "monochrome"
+  title: "Monochrome"
+
+- item: "sepia"
+  title: "Sepia"
+
+- item: "black-white"
+  title: "Black & White"
+
+- item: "colorful"
+  title: "Colorful"
+
+- item: "pastel-gothic"
+  title: "Pastel Gothic"
+
+- item: "dark-fantasy"
+  title: "Dark Fantasy"
+
+- item: "light-fantasy"
+  title: "Light Fantasy"
+
+- item: "surreal"
+  title: "Surreal"
+
+- item: "abstract"
+  title: "Abstract"
+
+- item: "geometric"
+  title: "Geometric"
+
+- item: "organic"
+  title: "Organic"
+
+- item: "biophilic"
+  title: "Biophilic"
+
+- item: "nature-inspired"
+  title: "Nature-Inspired"
+
+- item: "tribal"
+  title: "Tribal"
+
+- item: "ethnic"
+  title: "Ethnic"
+
+- item: "folk"
+  title: "Folk"
+
+- item: "bohemian"
+  title: "Bohemian"
+
+- item: "scandinavian"
+  title: "Scandinavian"
+
+- item: "japandi"
+  title: "Japandi"
+
+- item: "wabi-sabi"
+  title: "Wabi-Sabi"
+
+- item: "zen"
+  title: "Zen"
+
+- item: "kawaii"
+  title: "Kawaii"
+
+- item: "kitsch"
+  title: "Kitsch"
+
+- item: "camp"
+  title: "Camp"
+
+- item: "pop-art"
+  title: "Pop Art"
+
+- item: "op-art"
+  title: "Op Art"
+
+- item: "psychedelic"
+  title: "Psychedelic"
+
+- item: "grunge"
+  title: "Grunge"
+
+- item: "punk"
+  title: "Punk"
+
+- item: "street-art"
+  title: "Street Art"
+
+- item: "graffiti"
+  title: "Graffiti"
+
+- item: "stencil"
+  title: "Stencil"
+
+- item: "collage"
+  title: "Collage"
+
+- item: "mixed-media"
+  title: "Mixed Media"
+
+- item: "hand-drawn"
+  title: "Hand-Drawn"
+
+- item: "watercolor"
+  title: "Watercolor"
+
+- item: "oil-painting"
+  title: "Oil Painting"
+
+- item: "acrylic"
+  title: "Acrylic"
+
+- item: "charcoal"
+  title: "Charcoal"
+
+- item: "sketch"
+  title: "Sketch"
+
+- item: "doodle"
+  title: "Doodle"
+
+- item: "line-art"
+  title: "Line Art"
+
+- item: "minimal-line"
+  title: "Minimal Line"
+
+- item: "stippling"
+  title: "Stippling"
+
+- item: "crosshatch"
+  title: "Crosshatch"
+
+- item: "woodcut"
+  title: "Woodcut"
+
+- item: "linocut"
+  title: "Linocut"
+
+- item: "screenprint"
+  title: "Screenprint"
+
+- item: "risograph"
+  title: "Risograph"
+
+- item: "zine"
+  title: "Zine Style"
+
+- item: "punk-zine"
+  title: "Punk Zine"
+
+- item: "memphis"
+  title: "Memphis Design"
+
+- item: "hollywood-regency"
+  title: "Hollywood Regency"
+
+- item: "art-deco-revival"
+  title: "Art Deco Revival"
+
+- item: "dada"
+  title: "Dada"
+
+- item: "fluxus"
+  title: "Fluxus"
+
+- item: "situationist"
+  title: "Situationist"
+
+- item: "lettrist"
+  title: "Lettrist"
+
+- item: "concrete-poetry"
+  title: "Concrete Poetry"
+
+- item: "visual-poetry"
+  title: "Visual Poetry"
+
+- item: "asemic"
+  title: "Asemic"
+
+- item: "experimental"
+  title: "Experimental"
+
+- item: "avant-garde"
+  title: "Avant-Garde"
+
+- item: "post-modern"
+  title: "Post-Modern"
+
+- item: "meta-modern"
+  title: "Meta-Modern"
+
+- item: "new-aesthetic"
+  title: "New Aesthetic"
+
+- item: "tropical"
+  title: "Tropical"
+
+- item: "desert"
+  title: "Desert"
+
+- item: "coastal"
+  title: "Coastal"
+
+- item: "mountain"
+  title: "Mountain"
+
+- item: "forest"
+  title: "Forest"
+
+- item: "urban"
+  title: "Urban"
+
+- item: "industrial"
+  title: "Industrial"
+
+- item: "rustic"
+  title: "Rustic"
+
+- item: "shabby-chic"
+  title: "Shabby Chic"
+
+- item: "farmhouse"
+  title: "Farmhouse"
+
+- item: "cottage-core"
+  title: "Cottagecore"
+
+- item: "goblincore"
+  title: "Goblincore"
+
+- item: "fairycore"
+  title: "Fairycore"
+
+- item: "kidcore"
+  title: "Kidcore"
+
+- item: "normcore"
+  title: "Normcore"
+
+- item: "scandi-minimal"
+  title: "Scandi Minimal"
+
+- item: "japanese-minimal"
+  title: "Japanese Minimal"
+
+- item: "korean-aesthetic"
+  title: "Korean Aesthetic"
+
+- item: "chinese-traditional"
+  title: "Chinese Traditional"
+
+- item: "indian-traditional"
+  title: "Indian Traditional"
+
+- item: "moroccan"
+  title: "Moroccan"
+
+- item: "mediterranean"
+  title: "Mediterranean"
+
+- item: "balinese"
+  title: "Balinese"
+
+- item: "african-prints"
+  title: "African Prints"
+
+- item: "aztec"
+  title: "Aztec"
+
+- item: "mayan"
+  title: "Mayan"
+
+- item: "aboriginal"
+  title: "Aboriginal"
+
+- item: "maori"
+  title: "Maori"
+
+- item: "celtic"
+  title: "Celtic"
+
+- item: "viking"
+  title: "Viking"
+
+- item: "holographic"
+  title: "Holographic"
+
+- item: "iridescent"
+  title: "Iridescent"
+
+- item: "chromatic"
+  title: "Chromatic"
+
+- item: "metallic"
+  title: "Metallic"
+
+- item: "foil"
+  title: "Foil"
+
+- item: "embossed"
+  title: "Embossed"
+
+- item: "letterpress"
+  title: "Letterpress"
+
+- item: "thermal-chromic"
+  title: "Thermochromic"
+
+- item: "phosphorescent"
+  title: "Phosphorescent"
+
+- item: "translucent"
+  title: "Translucent"
+
+- item: "transparent"
+  title: "Transparent"
+
+- item: "opaque"
+  title: "Opaque"
+
+- item: "textured"
+  title: "Textured"
+
+- item: "smooth"
+  title: "Smooth"
+
+- item: "glossy"
+  title: "Glossy"
+
+- item: "matte"
+  title: "Matte"
+
+- item: "satin"
+  title: "Satin"
+
+- item: "velvet"
+  title: "Velvet"
+
+- item: "leather"
+  title: "Leather"
+
+- item: "denim"
+  title: "Denim"
+
+- item: "canvas"
+  title: "Canvas"
+
+- item: "paper-texture"
+  title: "Paper Texture"
+
+- item: "wood-grain"
+  title: "Wood Grain"
+
+- item: "stone"
+  title: "Stone"
+
+- item: "marble"
+  title: "Marble"
+
+- item: "terrazzo"
+  title: "Terrazzo"
+
+- item: "concrete"
+  title: "Concrete"
+
+- item: "brick"
+  title: "Brick"
+
+- item: "corrugated"
+  title: "Corrugated"
+
+- item: "linen"
+  title: "Linen"
+
+- item: "woven"
+  title: "Woven"
+
+- item: "knitted"
+  title: "Knitted"
+
+- item: "crochet"
+  title: "Crochet"
+
+- item: "embroidery"
+  title: "Embroidery"
+
+- item: "beadwork"
+  title: "Beadwork"
+
+- item: "macrame"
+  title: "Macrame"
+
+- item: "quilting"
+  title: "Quilting"
+
+- item: "patchwork"
+  title: "Patchwork"
+
+- item: "tie-dye"
+  title: "Tie-Dye"
+
+- item: "batik"
+  title: "Batik"
+
+- item: "ikat"
+  title: "Ikat"
+
+- item: "shibori"
+  title: "Shibori"
+
+- item: "marbling"
+  title: "Marbling"
+
+- item: "suminagashi"
+  title: "Suminagashi"
+
+- item: "e-bru"
+  title: "Ebru"
+
+- item: "chinoiserie"
+  title: "Chinoiserie"
+
+- item: "japonism"
+  title: "Japonism"
+
+- item: "oriental"
+  title: "Oriental"
+
+- item: "islamic-pattern"
+  title: "Islamic Pattern"
+
+- item: "mosaic"
+  title: "Mosaic"
+
+- item: "stained-glass"
+  title: "Stained Glass"
+
+- item: "mandala"
+  title: "Mandala"
+
+- item: "mehndi"
+  title: "Mehndi"
+
+- item: "rangoli"
+  title: "Rangoli"
+
+- item: "kolam"
+  title: "Kolam"
+
+- item: "tattoo-design"
+  title: "Tattoo Design"
+
+- item: "tribal-tattoo"
+  title: "Tribal Tattoo"
+
+- item: "dot-work"
+  title: "Dot Work"
+
+- item: "geometric-tattoo"
+  title: "Geometric Tattoo"
+
+- item: "blackwork"
+  title: "Blackwork"
+
+- item: "fine-line"
+  title: "Fine Line"
+
+- item: "cybersigilism"
+  title: "Cybersigilism"
+
+- item: "digi-gothic"
+  title: "Digi-Gothic"
+
+- item: "techwear"
+  title: "Techwear"
+
+- item: "gorpcore"
+  title: "Gorpcore"
+
+- item: "dark-academia"
+  title: "Dark Academia"
+
+- item: "light-academia"
+  title: "Light Academia"
+
+- item: "chaos-core"
+  title: "Chaos Core"
+
+- item: "clean-girl"
+  title: "Clean Girl"
+
+- item: "blokecore"
+  title: "Blokecore"
+
+- item: "barbie-core"
+  title: "Barbiecore"
+
+- item: "ballet-core"
+  title: "Balletcore"
+
+- item: "grandma-core"
+  title: "Grandmacore"
+
+- item: "aero-core"
+  title: "Aerocore"
+
+- item: "space-core"
+  title: "Spacecore"
+
+- item: "steel-core"
+  title: "Steelcore"
+
+- item: "premium"
+  title: "Premium"
+
+- item: "luxury"
+  title: "Luxury"
+
+- item: "avant-premium"
+  title: "Avant-Premium"
+
+- item: "accessible-luxury"
+  title: "Accessible Luxury"
+
+- item: "quiet-luxury"
+  title: "Quiet Luxury"
+
+- item: "stealth-wealth"
+  title: "Stealth Wealth"
+
+- item: "old-money"
+  title: "Old Money"
+
+- item: "new-money"
+  title: "New Money"
+
+- item: "corporate-minimal"
+  title: "Corporate Minimal"
+
+- item: "corporate-memphis"
+  title: "Corporate Memphis"
+
+- item: "saas-aesthetic"
+  title: "SaaS Aesthetic"
+
+- item: "no-code-aesthetic"
+  title: "No-Code Aesthetic"
+
+- item: "ai-generated"
+  title: "AI-Generated"
+
+- item: "generative-art"
+  title: "Generative Art"
+
+- item: "parametric"
+  title: "Parametric"
+
+- item: "algorithmic"
+  title: "Algorithmic"
+
+- item: "computational"
+  title: "Computational"
+
+- item: "glitch-art"
+  title: "Glitch Art"
+
+- item: "databend"
+  title: "Databend"
+
+- item: "bio-art"
+  title: "Bio-Art"
+
+- item: "eco-art"
+  title: "Eco-Art"
+
+- item: "art-science"
+  title: "Art-Science"
+
+- item: "data-art"
+  title: "Data Art"
+
+- item: "sonic-design"
+  title: "Sonic Design"
+
+- item: "haptic-design"
+  title: "Haptic Design"
+
+- item: "immersive"
+  title: "Immersive"
+
+- item: "interactive"
+  title: "Interactive"
+
+- item: "participatory"
+  title: "Participatory"
+
+- item: "sensory"
+  title: "Sensory Design"
+
+- item: "neuro-aesthetic"
+  title: "Neuro-Aesthetic"
+
+- item: "emotional"
+  title: "Emotional Design"
+
+- item: "storytelling"
+  title: "Storytelling"
+
+- item: "narrative"
+  title: "Narrative"
+
+- item: "cinematic"
+  title: "Cinematic"
+
+- item: "theatrical"
+  title: "Theatrical"
+
+- item: "dramatic"
+  title: "Dramatic"
+
+- item: "whimsical"
+  title: "Whimsical"
+
+- item: "playful"
+  title: "Playful"
+
+- item: "serious"
+  title: "Serious"
+
+- item: "professional"
+  title: "Professional"
+
+- item: "academic"
+  title: "Academic"
+
+- item: "editorial"
+  title: "Editorial"
+
+- item: "newspaper"
+  title: "Newspaper"
+
+- item: "magazine"
+  title: "Magazine"
+
+- item: "comic"
+  title: "Comic"
+
+- item: "manga"
+  title: "Manga"
+
+- item: "anime"
+  title: "Anime"
+
+- item: "cartoon"
+  title: "Cartoon"
+
+- item: "pixel-art"
+  title: "Pixel Art"
+
+- item: "8-bit"
+  title: "8-Bit"
+
+- item: "16-bit"
+  title: "16-Bit"
+
+- item: "low-poly"
+  title: "Low-Poly"
+
+- item: "high-poly"
+  title: "High-Poly"
+
+- item: "vector"
+  title: "Vector"
+
+- item: "raster"
+  title: "Raster"
+
+- item: "bitmap"
+  title: "Bitmap"
+
+- item: "halftone"
+  title: "Halftone"
+
+- item: "dithering"
+  title: "Dithering"
+
+- item: "pointillism"
+  title: "Pointillism"
+
+- item: "impressionist"
+  title: "Impressionist"
+
+- item: "expressionist"
+  title: "Expressionist"
+
+- item: "cubist"
+  title: "Cubist"
+
+- item: "fauvist"
+  title: "Fauvist"
+
+- item: "surrealist"
+  title: "Surrealist"
+
+- item: "dadaist"
+  title: "Dadaist"
+
+- item: "futurist"
+  title: "Futurist"
+
+- item: "vorticist"
+  title: "Vorticist"
+
+- item: "pre-raphaelite"
+  title: "Pre-Raphaelite"
+
+- item: "orientalist"
+  title: "Orientalist"
+
+- item: "academic-art"
+  title: "Academic Art"
+
+- item: "kitsch-art"
+  title: "Kitsch Art"
+
+- item: "naive-art"
+  title: "Naive Art"
+
+- item: "outsider-art"
+  title: "Outsider Art"
+
+- item: "folk-art"
+  title: "Folk Art"
+
+- item: "vernacular"
+  title: "Vernacular"
+
+- item: "digital-native"
+  title: "Digital Native"
+
+- item: "post-digital"
+  title: "Post-Digital"
+
+- item: "meta-aesthetic"
+  title: "Meta-Aesthetic"
