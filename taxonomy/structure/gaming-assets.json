@@ -4,10 +4,6 @@
     "title": "asset type"
   },
   "taxonomy_2": {
-    "item": "game-engine",
-    "title": "game engine"
-  },
-  "taxonomy_3": {
     "item": "genre",
     "title": "game genre"
   }
