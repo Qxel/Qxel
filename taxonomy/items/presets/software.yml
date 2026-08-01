@@ -1,0 +1,587 @@
+- item: "adobe-photoshop"
+  title: "Adobe Photoshop"
+
+- item: "adobe-illustrator"
+  title: "Adobe Illustrator"
+
+- item: "adobe-indesign"
+  title: "Adobe InDesign"
+
+- item: "adobe-lightroom"
+  title: "Adobe Lightroom"
+
+- item: "adobe-premiere-pro"
+  title: "Adobe Premiere Pro"
+
+- item: "adobe-after-effects"
+  title: "Adobe After Effects"
+
+- item: "adobe-xd"
+  title: "Adobe XD"
+
+- item: "adobe-animate"
+  title: "Adobe Animate"
+
+- item: "adobe-audition"
+  title: "Adobe Audition"
+
+- item: "adobe-dreamweaver"
+  title: "Adobe Dreamweaver"
+
+- item: "adobe-firefly"
+  title: "Adobe Firefly"
+
+- item: "figma"
+  title: "Figma"
+
+- item: "sketch"
+  title: "Sketch"
+
+- item: "invision"
+  title: "InVision"
+
+- item: "zeplin"
+  title: "Zeplin"
+
+- item: "affinity-designer"
+  title: "Affinity Designer"
+
+- item: "affinity-photo"
+  title: "Affinity Photo"
+
+- item: "affinity-publisher"
+  title: "Affinity Publisher"
+
+- item: "coreldraw"
+  title: "CorelDRAW"
+
+- item: "corel-painter"
+  title: "Corel Painter"
+
+- item: "clip-studio-paint"
+  title: "Clip Studio Paint"
+
+- item: "procreate"
+  title: "Procreate"
+
+- item: "medibang-paint"
+  title: "MediBang Paint"
+
+- item: "krita"
+  title: "Krita"
+
+- item: "gimp"
+  title: "GIMP"
+
+- item: "inkscape"
+  title: "Inkscape"
+
+- item: "gravit-designer"
+  title: "Gravit Designer"
+
+- item: "canva"
+  title: "Canva"
+
+- item: "camtasia"
+  title: "Camtasia"
+
+- item: "final-cut-pro"
+  title: "Final Cut Pro"
+
+- item: "davinci-resolve"
+  title: "DaVinci Resolve"
+
+- item: "premiere-elements"
+  title: "Premiere Elements"
+
+- item: "filmora"
+  title: "Filmora"
+
+- item: "vegas-pro"
+  title: "Vegas Pro"
+
+- item: "hitfilm-express"
+  title: "HitFilm Express"
+
+- item: "blender"
+  title: "Blender"
+
+- item: "autodesk-maya"
+  title: "Autodesk Maya"
+
+- item: "autodesk-3ds-max"
+  title: "Autodesk 3ds Max"
+
+- item: "cinema-4d"
+  title: "Cinema 4D"
+
+- item: "zbrush"
+  title: "ZBrush"
+
+- item: "substance-painter"
+  title: "Substance Painter"
+
+- item: "substance-designer"
+  title: "Substance Designer"
+
+- item: "substance-sampler"
+  title: "Substance Sampler"
+
+- item: "marmoset-toolbag"
+  title: "Marmoset Toolbag"
+
+- item: "keyshot"
+  title: "KeyShot"
+
+- item: "v-ray"
+  title: "V-Ray"
+
+- item: "octane-render"
+  title: "Octane Render"
+
+- item: "arnold-render"
+  title: "Arnold Render"
+
+- item: "redshift"
+  title: "Redshift"
+
+- item: "unreal-engine"
+  title: "Unreal Engine"
+
+- item: "unity"
+  title: "Unity"
+
+- item: "godot"
+  title: "Godot"
+
+- item: "cryengine"
+  title: "CryEngine"
+
+- item: "lumberyard"
+  title: "Lumberyard"
+
+- item: "source-2"
+  title: "Source 2"
+
+- item: "substance-3d"
+  title: "Substance 3D"
+
+- item: "sketchup"
+  title: "SketchUp"
+
+- item: "revit"
+  title: "Revit"
+
+- item: "auto-cad"
+  title: "AutoCAD"
+
+- item: "solidworks"
+  title: "SolidWorks"
+
+- item: "fusion-360"
+  title: "Fusion 360"
+
+- item: "rhino-3d"
+  title: "Rhino 3D"
+
+- item: "catia"
+  title: "CATIA"
+
+- item: "pro-engineer"
+  title: "Pro/Engineer (Creo)"
+
+- item: "ansys"
+  title: "Ansys"
+
+- item: "matlab"
+  title: "MATLAB"
+
+- item: "python"
+  title: "Python"
+
+- item: "javascript"
+  title: "JavaScript"
+
+- item: "typescript"
+  title: "TypeScript"
+
+- item: "c-sharp"
+  title: "C#"
+
+- item: "cpp"
+  title: "C++"
+
+- item: "java"
+  title: "Java"
+
+- item: "swift"
+  title: "Swift"
+
+- item: "kotlin"
+  title: "Kotlin"
+
+- item: "react"
+  title: "React"
+
+- item: "vue-js"
+  title: "Vue.js"
+
+- item: "angular"
+  title: "Angular"
+
+- item: "next-js"
+  title: "Next.js"
+
+- item: "nuxt-js"
+  title: "Nuxt.js"
+
+- item: "svelte"
+  title: "Svelte"
+
+- item: "django"
+  title: "Django"
+
+- item: "flask"
+  title: "Flask"
+
+- item: "node-js"
+  title: "Node.js"
+
+- item: "express-js"
+  title: "Express.js"
+
+- item: "spring-boot"
+  title: "Spring Boot"
+
+- item: "laravel"
+  title: "Laravel"
+
+- item: "ruby-on-rails"
+  title: "Ruby on Rails"
+
+- item: "asp-net-core"
+  title: "ASP.NET Core"
+
+- item: "postgresql"
+  title: "PostgreSQL"
+
+- item: "mysql"
+  title: "MySQL"
+
+- item: "mongodb"
+  title: "MongoDB"
+
+- item: "redis"
+  title: "Redis"
+
+- item: "firebase"
+  title: "Firebase"
+
+- item: "aws"
+  title: "AWS"
+
+- item: "azure"
+  title: "Azure"
+
+- item: "google-cloud"
+  title: "Google Cloud"
+
+- item: "docker"
+  title: "Docker"
+
+- item: "kubernetes"
+  title: "Kubernetes"
+
+- item: "github"
+  title: "GitHub"
+
+- item: "gitlab"
+  title: "GitLab"
+
+- item: "bitbucket"
+  title: "Bitbucket"
+
+- item: "jenkins"
+  title: "Jenkins"
+
+- item: "vs-code"
+  title: "VS Code"
+
+- item: "visual-studio"
+  title: "Visual Studio"
+
+- item: "intellij-idea"
+  title: "IntelliJ IDEA"
+
+- item: "pycharm"
+  title: "PyCharm"
+
+- item: "webstorm"
+  title: "WebStorm"
+
+- item: "xcode"
+  title: "Xcode"
+
+- item: "android-studio"
+  title: "Android Studio"
+
+- item: "eclipse"
+  title: "Eclipse"
+
+- item: "sublime-text"
+  title: "Sublime Text"
+
+- item: "atom"
+  title: "Atom"
+
+- item: "notepad-plus-plus"
+  title: "Notepad++"
+
+- item: "vim"
+  title: "Vim"
+
+- item: "emacs"
+  title: "Emacs"
+
+- item: "nuendo"
+  title: "Nuendo"
+
+- item: "cubase"
+  title: "Cubase"
+
+- item: "logic-pro"
+  title: "Logic Pro"
+
+- item: "ableton-live"
+  title: "Ableton Live"
+
+- item: "fl-studio"
+  title: "FL Studio"
+
+- item: "pro-tools"
+  title: "Pro Tools"
+
+- item: "reason"
+  title: "Reason"
+
+- item: "studio-one"
+  title: "Studio One"
+
+- item: "reaper"
+  title: "REAPER"
+
+- item: "audacity"
+  title: "Audacity"
+
+- item: "garageband"
+  title: "GarageBand"
+
+- item: "native-instruments"
+  title: "Native Instruments"
+
+- item: "spitfire-audio"
+  title: "Spitfire Audio"
+
+- item: "serum"
+  title: "Serum"
+
+- item: "massive"
+  title: "Massive"
+
+- item: "omnisphere"
+  title: "Omnisphere"
+
+- item: "kontakt"
+  title: "Kontakt"
+
+- item: "zotero"
+  title: "Zotero"
+
+- item: "mendeley"
+  title: "Mendeley"
+
+- item: "endnote"
+  title: "EndNote"
+
+- item: "latex"
+  title: "LaTeX"
+
+- item: "overleaf"
+  title: "Overleaf"
+
+- item: "notion"
+  title: "Notion"
+
+- item: "obsidian"
+  title: "Obsidian"
+
+- item: "roam-research"
+  title: "Roam Research"
+
+- item: "evernote"
+  title: "Evernote"
+
+- item: "one-note"
+  title: "OneNote"
+
+- item: "google-docs"
+  title: "Google Docs"
+
+- item: "google-sheets"
+  title: "Google Sheets"
+
+- item: "google-slides"
+  title: "Google Slides"
+
+- item: "microsoft-word"
+  title: "Microsoft Word"
+
+- item: "microsoft-excel"
+  title: "Microsoft Excel"
+
+- item: "microsoft-powerpoint"
+  title: "Microsoft PowerPoint"
+
+- item: "microsoft-outlook"
+  title: "Microsoft Outlook"
+
+- item: "microsoft-teams"
+  title: "Microsoft Teams"
+
+- item: "slack"
+  title: "Slack"
+
+- item: "discord"
+  title: "Discord"
+
+- item: "zoom"
+  title: "Zoom"
+
+- item: "google-meet"
+  title: "Google Meet"
+
+- item: "trello"
+  title: "Trello"
+
+- item: "jira"
+  title: "Jira"
+
+- item: "asana"
+  title: "Asana"
+
+- item: "monday-com"
+  title: "Monday.com"
+
+- item: "clickup"
+  title: "ClickUp"
+
+- item: "basecamp"
+  title: "Basecamp"
+
+- item: "slite"
+  title: "Slite"
+
+- item: "milanote"
+  title: "Milanote"
+
+- item: "mural"
+  title: "Mural"
+
+- item: "miro"
+  title: "Miro"
+
+- item: "figjam"
+  title: "FigJam"
+
+- item: "whimsical"
+  title: "Whimsical"
+
+- item: "conceptboard"
+  title: "Conceptboard"
+
+- item: "balsamiq"
+  title: "Balsamiq"
+
+- item: "axure-rp"
+  title: "Axure RP"
+
+- item: "ux-pin"
+  title: "UXPin"
+
+- item: "framer"
+  title: "Framer"
+
+- item: "webflow"
+  title: "Webflow"
+
+- item: "squarespace"
+  title: "Squarespace"
+
+- item: "wix"
+  title: "Wix"
+
+- item: "wordpress"
+  title: "WordPress"
+
+- item: "shopify"
+  title: "Shopify"
+
+- item: "magento"
+  title: "Magento"
+
+- item: "prestashop"
+  title: "PrestaShop"
+
+- item: "woocommerce"
+  title: "WooCommerce"
+
+- item: "bigcommerce"
+  title: "BigCommerce"
+
+- item: "three-js"
+  title: "Three.js"
+
+- item: "webgl"
+  title: "WebGL"
+
+- item: "opengl"
+  title: "OpenGL"
+
+- item: "vulkan"
+  title: "Vulkan"
+
+- item: "directx"
+  title: "DirectX"
+
+- item: "metal"
+  title: "Metal"
+
+- item: "havok"
+  title: "Havok"
+
+- item: "physx"
+  title: "PhysX"
+
+- item: "bullet-physics"
+  title: "Bullet Physics"
+
+- item: "nvidia-omniverse"
+  title: "NVIDIA Omniverse"
+
+- item: "twinmotion"
+  title: "Twinmotion"
+
+- item: "enscape"
+  title: "Enscape"
+
+- item: "lumion"
+  title: "Lumion"
+
+- item: "d5-render"
+  title: "D5 Render"
+
+- item: "unreal-editor"
+  title: "Unreal Editor"
+
+- item: "unity-editor"
+  title: "Unity Editor"
