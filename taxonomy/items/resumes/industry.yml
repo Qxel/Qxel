@@ -1,0 +1,827 @@
+- item: "technology"
+  title: "Technology"
+
+- item: "software-development"
+  title: "Software Development"
+
+- item: "web-development"
+  title: "Web Development"
+
+- item: "mobile-development"
+  title: "Mobile Development"
+
+- item: "game-development"
+  title: "Game Development"
+
+- item: "data-science"
+  title: "Data Science"
+
+- item: "machine-learning"
+  title: "Machine Learning"
+
+- item: "artificial-intelligence"
+  title: "Artificial Intelligence"
+
+- item: "cybersecurity"
+  title: "Cybersecurity"
+
+- item: "cloud-computing"
+  title: "Cloud Computing"
+
+- item: "devops"
+  title: "DevOps"
+
+- item: "it-services"
+  title: "IT Services"
+
+- item: "it-consulting"
+  title: "IT Consulting"
+
+- item: "systems-administration"
+  title: "Systems Administration"
+
+- item: "network-administration"
+  title: "Network Administration"
+
+- item: "database-administration"
+  title: "Database Administration"
+
+- item: "tech-support"
+  title: "Tech Support"
+
+- item: "hardware-engineering"
+  title: "Hardware Engineering"
+
+- item: "semiconductor"
+  title: "Semiconductor"
+
+- item: "electronics"
+  title: "Electronics"
+
+- item: "telecommunications"
+  title: "Telecommunications"
+
+- item: "design"
+  title: "Design"
+
+- item: "graphic-design"
+  title: "Graphic Design"
+
+- item: "ui-ux-design"
+  title: "UI/UX Design"
+
+- item: "product-design"
+  title: "Product Design"
+
+- item: "industrial-design"
+  title: "Industrial Design"
+
+- item: "interior-design"
+  title: "Interior Design"
+
+- item: "fashion-design"
+  title: "Fashion Design"
+
+- item: "fashion"
+  title: "Fashion"
+
+- item: "apparel"
+  title: "Apparel"
+
+- item: "textile"
+  title: "Textile"
+
+- item: "luxury-goods"
+  title: "Luxury Goods"
+
+- item: "footwear"
+  title: "Footwear"
+
+- item: "accessories"
+  title: "Accessories"
+
+- item: "jewelry"
+  title: "Jewelry"
+
+- item: "marketing"
+  title: "Marketing"
+
+- item: "digital-marketing"
+  title: "Digital Marketing"
+
+- item: "content-marketing"
+  title: "Content Marketing"
+
+- item: "social-media-marketing"
+  title: "Social Media Marketing"
+
+- item: "email-marketing"
+  title: "Email Marketing"
+
+- item: "seo"
+  title: "SEO"
+
+- item: "sem"
+  title: "SEM"
+
+- item: "ppc"
+  title: "PPC"
+
+- item: "brand-management"
+  title: "Brand Management"
+
+- item: "product-marketing"
+  title: "Product Marketing"
+
+- item: "market-research"
+  title: "Market Research"
+
+- item: "advertising"
+  title: "Advertising"
+
+- item: "public-relations"
+  title: "Public Relations"
+
+- item: "media"
+  title: "Media"
+
+- item: "journalism"
+  title: "Journalism"
+
+- item: "broadcasting"
+  title: "Broadcasting"
+
+- item: "publishing"
+  title: "Publishing"
+
+- item: "print-media"
+  title: "Print Media"
+
+- item: "digital-media"
+  title: "Digital Media"
+
+- item: "entertainment"
+  title: "Entertainment"
+
+- item: "film"
+  title: "Film"
+
+- item: "television"
+  title: "Television"
+
+- item: "music"
+  title: "Music"
+
+- item: "streaming"
+  title: "Streaming"
+
+- item: "events"
+  title: "Events"
+
+- item: "event-management"
+  title: "Event Management"
+
+- item: "conference"
+  title: "Conference"
+
+- item: "exhibition"
+  title: "Exhibition"
+
+- item: "trade-show"
+  title: "Trade Show"
+
+- item: "wedding-planning"
+  title: "Wedding Planning"
+
+- item: "finance"
+  title: "Finance"
+
+- item: "banking"
+  title: "Banking"
+
+- item: "investment-banking"
+  title: "Investment Banking"
+
+- item: "corporate-banking"
+  title: "Corporate Banking"
+
+- item: "retail-banking"
+  title: "Retail Banking"
+
+- item: "wealth-management"
+  title: "Wealth Management"
+
+- item: "asset-management"
+  title: "Asset Management"
+
+- item: "portfolio-management"
+  title: "Portfolio Management"
+
+- item: "risk-management"
+  title: "Risk Management"
+
+- item: "insurance"
+  title: "Insurance"
+
+- item: "actuarial"
+  title: "Actuarial"
+
+- item: "accounting"
+  title: "Accounting"
+
+- item: "auditing"
+  title: "Auditing"
+
+- item: "taxation"
+  title: "Taxation"
+
+- item: "bookkeeping"
+  title: "Bookkeeping"
+
+- item: "financial-analysis"
+  title: "Financial Analysis"
+
+- item: "financial-planning"
+  title: "Financial Planning"
+
+- item: "corporate-finance"
+  title: "Corporate Finance"
+
+- item: "fintech"
+  title: "Fintech"
+
+- item: "cryptocurrency"
+  title: "Cryptocurrency"
+
+- item: "blockchain"
+  title: "Blockchain"
+
+- item: "consulting"
+  title: "Consulting"
+
+- item: "management-consulting"
+  title: "Management Consulting"
+
+- item: "strategy-consulting"
+  title: "Strategy Consulting"
+
+- item: "it-consulting"
+  title: "IT Consulting"
+
+- item: "hr-consulting"
+  title: "HR Consulting"
+
+- item: "business-consulting"
+  title: "Business Consulting"
+
+- item: "financial-consulting"
+  title: "Financial Consulting"
+
+- item: "legal-consulting"
+  title: "Legal Consulting"
+
+- item: "human-resources"
+  title: "Human Resources"
+
+- item: "recruitment"
+  title: "Recruitment"
+
+- item: "staffing"
+  title: "Staffing"
+
+- item: "talent-acquisition"
+  title: "Talent Acquisition"
+
+- item: "hr-management"
+  title: "HR Management"
+
+- item: "hr-business-partner"
+  title: "HR Business Partner"
+
+- item: "employee-relations"
+  title: "Employee Relations"
+
+- item: "compensation-benefits"
+  title: "Compensation & Benefits"
+
+- item: "learning-development"
+  title: "Learning & Development"
+
+- item: "organizational-development"
+  title: "Organizational Development"
+
+- item: "leadership-development"
+  title: "Leadership Development"
+
+- item: "training"
+  title: "Training"
+
+- item: "education"
+  title: "Education"
+
+- item: "teaching"
+  title: "Teaching"
+
+- item: "higher-education"
+  title: "Higher Education"
+
+- item: "k-12-education"
+  title: "K-12 Education"
+
+- item: "edtech"
+  title: "EdTech"
+
+- item: "e-learning"
+  title: "E-Learning"
+
+- item: "curriculum-development"
+  title: "Curriculum Development"
+
+- item: "instructional-design"
+  title: "Instructional Design"
+
+- item: "academic-administration"
+  title: "Academic Administration"
+
+- item: "academic-research"
+  title: "Academic Research"
+
+- item: "science-research"
+  title: "Science Research"
+
+- item: "laboratory"
+  title: "Laboratory"
+
+- item: "biotech"
+  title: "Biotech"
+
+- item: "pharmaceutical"
+  title: "Pharmaceutical"
+
+- item: "healthcare"
+  title: "Healthcare"
+
+- item: "medical"
+  title: "Medical"
+
+- item: "nursing"
+  title: "Nursing"
+
+- item: "medicine"
+  title: "Medicine"
+
+- item: "dentistry"
+  title: "Dentistry"
+
+- item: "pharmacy"
+  title: "Pharmacy"
+
+- item: "veterinary"
+  title: "Veterinary"
+
+- item: "public-health"
+  title: "Public Health"
+
+- item: "mental-health"
+  title: "Mental Health"
+
+- item: "psychology"
+  title: "Psychology"
+
+- item: "therapy"
+  title: "Therapy"
+
+- item: "counseling"
+  title: "Counseling"
+
+- item: "social-work"
+  title: "Social Work"
+
+- item: "nonprofit"
+  title: "Nonprofit"
+
+- item: "ngo"
+  title: "NGO"
+
+- item: "charity"
+  title: "Charity"
+
+- item: "foundation"
+  title: "Foundation"
+
+- item: "social-impact"
+  title: "Social Impact"
+
+- item: "community-development"
+  title: "Community Development"
+
+- item: "community-outreach"
+  title: "Community Outreach"
+
+- item: "volunteer-management"
+  title: "Volunteer Management"
+
+- item: "human-rights"
+  title: "Human Rights"
+
+- item: "social-justice"
+  title: "Social Justice"
+
+- item: "public-policy"
+  title: "Public Policy"
+
+- item: "government"
+  title: "Government"
+
+- item: "public-sector"
+  title: "Public Sector"
+
+- item: "civil-service"
+  title: "Civil Service"
+
+- item: "diplomacy"
+  title: "Diplomacy"
+
+- item: "foreign-service"
+  title: "Foreign Service"
+
+- item: "military"
+  title: "Military"
+
+- item: "defense"
+  title: "Defense"
+
+- item: "law-enforcement"
+  title: "Law Enforcement"
+
+- item: "legal"
+  title: "Legal"
+
+- item: "law"
+  title: "Law"
+
+- item: "law-firm"
+  title: "Law Firm"
+
+- item: "corporate-law"
+  title: "Corporate Law"
+
+- item: "criminal-law"
+  title: "Criminal Law"
+
+- item: "family-law"
+  title: "Family Law"
+
+- item: "real-estate-law"
+  title: "Real Estate Law"
+
+- item: "intellectual-property"
+  title: "Intellectual Property"
+
+- item: "legal-services"
+  title: "Legal Services"
+
+- item: "paralegal"
+  title: "Paralegal"
+
+- item: "compliance"
+  title: "Compliance"
+
+- item: "regulatory"
+  title: "Regulatory"
+
+- item: "real-estate"
+  title: "Real Estate"
+
+- item: "property-management"
+  title: "Property Management"
+
+- item: "real-estate-development"
+  title: "Real Estate Development"
+
+- item: "commercial-real-estate"
+  title: "Commercial Real Estate"
+
+- item: "residential-real-estate"
+  title: "Residential Real Estate"
+
+- item: "appraisal"
+  title: "Appraisal"
+
+- item: "construction"
+  title: "Construction"
+
+- item: "architecture"
+  title: "Architecture"
+
+- item: "engineering"
+  title: "Engineering"
+
+- item: "mechanical-engineering"
+  title: "Mechanical Engineering"
+
+- item: "civil-engineering"
+  title: "Civil Engineering"
+
+- item: "electrical-engineering"
+  title: "Electrical Engineering"
+
+- item: "chemical-engineering"
+  title: "Chemical Engineering"
+
+- item: "software-engineering"
+  title: "Software Engineering"
+
+- item: "structural-engineering"
+  title: "Structural Engineering"
+
+- item: "environmental-engineering"
+  title: "Environmental Engineering"
+
+- item: "manufacturing"
+  title: "Manufacturing"
+
+- item: "production"
+  title: "Production"
+
+- item: "quality-assurance"
+  title: "Quality Assurance"
+
+- item: "quality-control"
+  title: "Quality Control"
+
+- item: "operations"
+  title: "Operations"
+
+- item: "operations-management"
+  title: "Operations Management"
+
+- item: "supply-chain"
+  title: "Supply Chain"
+
+- item: "logistics"
+  title: "Logistics"
+
+- item: "warehousing"
+  title: "Warehousing"
+
+- item: "distribution"
+  title: "Distribution"
+
+- item: "transportation"
+  title: "Transportation"
+
+- item: "procurement"
+  title: "Procurement"
+
+- item: "purchasing"
+  title: "Purchasing"
+
+- item: "inventory-management"
+  title: "Inventory Management"
+
+- item: "facilities-management"
+  title: "Facilities Management"
+
+- item: "maintenance"
+  title: "Maintenance"
+
+- item: "automotive"
+  title: "Automotive"
+
+- item: "aerospace"
+  title: "Aerospace"
+
+- item: "aviation"
+  title: "Aviation"
+
+- item: "maritime"
+  title: "Maritime"
+
+- item: "railway"
+  title: "Railway"
+
+- item: "energy"
+  title: "Energy"
+
+- item: "oil-gas"
+  title: "Oil & Gas"
+
+- item: "renewable-energy"
+  title: "Renewable Energy"
+
+- item: "solar-energy"
+  title: "Solar Energy"
+
+- item: "wind-energy"
+  title: "Wind Energy"
+
+- item: "hydro-energy"
+  title: "Hydro Energy"
+
+- item: "nuclear-energy"
+  title: "Nuclear Energy"
+
+- item: "utilities"
+  title: "Utilities"
+
+- item: "mining"
+  title: "Mining"
+
+- item: "agriculture"
+  title: "Agriculture"
+
+- item: "farming"
+  title: "Farming"
+
+- item: "horticulture"
+  title: "Horticulture"
+
+- item: "forestry"
+  title: "Forestry"
+
+- item: "food-beverage"
+  title: "Food & Beverage"
+
+- item: "restaurant"
+  title: "Restaurant"
+
+- item: "hospitality"
+  title: "Hospitality"
+
+- item: "hotel"
+  title: "Hotel"
+
+- item: "resort"
+  title: "Resort"
+
+- item: "travel-tourism"
+  title: "Travel & Tourism"
+
+- item: "retail"
+  title: "Retail"
+
+- item: "ecommerce"
+  title: "E-Commerce"
+
+- item: "wholesale"
+  title: "Wholesale"
+
+- item: "consumer-goods"
+  title: "Consumer Goods"
+
+- item: "fast-moving-consumer-goods"
+  title: "Fast-Moving Consumer Goods (FMCG)"
+
+- item: "sports"
+  title: "Sports"
+
+- item: "fitness"
+  title: "Fitness"
+
+- item: "wellness"
+  title: "Wellness"
+
+- item: "nutrition"
+  title: "Nutrition"
+
+- item: "research-development"
+  title: "Research & Development"
+
+- item: "innovation"
+  title: "Innovation"
+
+- item: "project-management"
+  title: "Project Management"
+
+- item: "program-management"
+  title: "Program Management"
+
+- item: "product-management"
+  title: "Product Management"
+
+- item: "business-development"
+  title: "Business Development"
+
+- item: "sales"
+  title: "Sales"
+
+- item: "account-management"
+  title: "Account Management"
+
+- item: "customer-service"
+  title: "Customer Service"
+
+- item: "customer-success"
+  title: "Customer Success"
+
+- item: "technical-support"
+  title: "Technical Support"
+
+- item: "administration"
+  title: "Administration"
+
+- item: "executive-assistant"
+  title: "Executive Assistant"
+
+- item: "office-management"
+  title: "Office Management"
+
+- item: "receptionist"
+  title: "Receptionist"
+
+- item: "data-entry"
+  title: "Data Entry"
+
+- item: "freelance"
+  title: "Freelance"
+
+- item: "gig-economy"
+  title: "Gig Economy"
+
+- item: "remote-work"
+  title: "Remote Work"
+
+- item: "startup"
+  title: "Startup"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship"
+
+- item: "small-business"
+  title: "Small Business"
+
+- item: "corporate"
+  title: "Corporate"
+
+- item: "multinational"
+  title: "Multinational"
+
+- item: "entry-level"
+  title: "Entry Level"
+
+- item: "mid-level"
+  title: "Mid-Level"
+
+- item: "senior-level"
+  title: "Senior Level"
+
+- item: "executive"
+  title: "Executive"
+
+- item: "management"
+  title: "Management"
+
+- item: "leadership"
+  title: "Leadership"
+
+- item: "director"
+  title: "Director"
+
+- item: "vp"
+  title: "Vice President"
+
+- item: "c-suite"
+  title: "C-Suite"
+
+- item: "ceo"
+  title: "CEO"
+
+- item: "cfo"
+  title: "CFO"
+
+- item: "cto"
+  title: "CTO"
+
+- item: "cio"
+  title: "CIO"
+
+- item: "cmo"
+  title: "CMO"
+
+- item: "coo"
+  title: "COO"
+
+- item: "cho"
+  title: "CHO"
+
+- item: "cso"
+  title: "CSO"
+
+- item: "internship"
+  title: "Internship"
+
+- item: "apprenticeship"
+  title: "Apprenticeship"
+
+- item: "fresher"
+  title: "Fresher"
+
+- item: "experienced"
+  title: "Experienced"
+
+- item: "career-change"
+  title: "Career Change"
+
+- item: "return-to-work"
+  title: "Return to Work"
