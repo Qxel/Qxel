@@ -1,0 +1,533 @@
+- item: "wordpress"
+  title: "WordPress"
+
+- item: "shopify"
+  title: "Shopify"
+
+- item: "wix"
+  title: "Wix"
+
+- item: "squarespace"
+  title: "Squarespace"
+
+- item: "webflow"
+  title: "Webflow"
+
+- item: "ghost"
+  title: "Ghost"
+
+- item: "blogger"
+  title: "Blogger"
+
+- item: "tumblr"
+  title: "Tumblr"
+
+- item: "joomla"
+  title: "Joomla"
+
+- item: "drupal"
+  title: "Drupal"
+
+- item: "magento"
+  title: "Magento"
+
+- item: "prestashop"
+  title: "PrestaShop"
+
+- item: "opencart"
+  title: "OpenCart"
+
+- item: "woocommerce"
+  title: "WooCommerce"
+
+- item: "bigcommerce"
+  title: "BigCommerce"
+
+- item: "salesforce-commerce"
+  title: "Salesforce Commerce Cloud"
+
+- item: "oracle-commerce"
+  title: "Oracle Commerce"
+
+- item: "sap-commerce"
+  title: "SAP Commerce Cloud"
+
+- item: "vue-storefront"
+  title: "Vue Storefront"
+
+- item: "nextjs-commerce"
+  title: "Next.js Commerce"
+
+- item: "medusa"
+  title: "Medusa"
+
+- item: "saleor"
+  title: "Saleor"
+
+- item: "spree-commerce"
+  title: "Spree Commerce"
+
+- item: "solidus"
+  title: "Solidus"
+
+- item: "react"
+  title: "React"
+
+- item: "nextjs"
+  title: "Next.js"
+
+- item: "gatsby"
+  title: "Gatsby"
+
+- item: "vuejs"
+  title: "Vue.js"
+
+- item: "nuxtjs"
+  title: "Nuxt.js"
+
+- item: "angular"
+  title: "Angular"
+
+- item: "svelte"
+  title: "Svelte"
+
+- item: "astro"
+  title: "Astro"
+
+- item: "remix"
+  title: "Remix"
+
+- item: "eleventy"
+  title: "Eleventy"
+
+- item: "hugo"
+  title: "Hugo"
+
+- item: "jekyll"
+  title: "Jekyll"
+
+- item: "hexo"
+  title: "Hexo"
+
+- item: "pelican"
+  title: "Pelican"
+
+- item: "python-django"
+  title: "Django"
+
+- item: "flask"
+  title: "Flask"
+
+- item: "ruby-on-rails"
+  title: "Ruby on Rails"
+
+- item: "laravel"
+  title: "Laravel"
+
+- item: "php"
+  title: "PHP"
+
+- item: "aspnet-core"
+  title: "ASP.NET Core"
+
+- item: "spring-boot"
+  title: "Spring Boot"
+
+- item: "nodejs"
+  title: "Node.js"
+
+- item: "expressjs"
+  title: "Express.js"
+
+- item: "keystonejs"
+  title: "KeystoneJS"
+
+- item: "strapi"
+  title: "Strapi"
+
+- item: "directus"
+  title: "Directus"
+
+- item: "sanity"
+  title: "Sanity"
+
+- item: "contentful"
+  title: "Contentful"
+
+- item: "prismic"
+  title: "Prismic"
+
+- item: "storyblok"
+  title: "Storyblok"
+
+- item: "wordpress-cms"
+  title: "WordPress CMS"
+
+- item: "ghost-cms"
+  title: "Ghost CMS"
+
+- item: "headless-wordpress"
+  title: "Headless WordPress"
+
+- item: "headless-shopify"
+  title: "Headless Shopify"
+
+- item: "headless-cms"
+  title: "Headless CMS"
+
+- item: "static-site-generator"
+  title: "Static Site Generator"
+
+- item: "dynamic-site"
+  title: "Dynamic Site"
+
+- item: "single-page-application"
+  title: "Single Page Application (SPA)"
+
+- item: "progressive-web-app"
+  title: "Progressive Web App (PWA)"
+
+- item: "multi-page-application"
+  title: "Multi-Page Application (MPA)"
+
+- item: "ecommerce-platform"
+  title: "E-Commerce Platform"
+
+- item: "blog-platform"
+  title: "Blog Platform"
+
+- item: "portfolio-platform"
+  title: "Portfolio Platform"
+
+- item: "business-platform"
+  title: "Business Platform"
+
+- item: "news-platform"
+  title: "News Platform"
+
+- item: "magazine-platform"
+  title: "Magazine Platform"
+
+- item: "educational-platform"
+  title: "Educational Platform"
+
+- item: "membership-platform"
+  title: "Membership Platform"
+
+- item: "community-platform"
+  title: "Community Platform"
+
+- item: "forum-platform"
+  title: "Forum Platform"
+
+- item: "wiki-platform"
+  title: "Wiki Platform"
+
+- item: "documentation-platform"
+  title: "Documentation Platform"
+
+- item: "saas-platform"
+  title: "SaaS Platform"
+
+- item: "marketplace-platform"
+  title: "Marketplace Platform"
+
+- item: "agency-platform"
+  title: "Agency Platform"
+
+- item: "landing-page-platform"
+  title: "Landing Page Platform"
+
+- item: "event-platform"
+  title: "Event Platform"
+
+- item: "booking-platform"
+  title: "Booking Platform"
+
+- item: "portfolio-builder"
+  title: "Portfolio Builder"
+
+- item: "resume-builder"
+  title: "Resume Builder"
+
+- item: "store-builder"
+  title: "Store Builder"
+
+- item: "course-builder"
+  title: "Course Builder"
+
+- item: "membership-builder"
+  title: "Membership Builder"
+
+- item: "app-builder"
+  title: "App Builder"
+
+- item: "microsite-platform"
+  title: "Microsite Platform"
+
+- item: "one-page-site"
+  title: "One-Page Site"
+
+- item: "landing-page-builder"
+  title: "Landing Page Builder"
+
+- item: "clickfunnels"
+  title: "ClickFunnels"
+
+- item: "kajabi"
+  title: "Kajabi"
+
+- item: "teachable"
+  title: "Teachable"
+
+- item: "thinkific"
+  title: "Thinkific"
+
+- item: "podia"
+  title: "Podia"
+
+- item: "gumroad"
+  title: "Gumroad"
+
+- item: "payhip"
+  title: "Payhip"
+
+- item: "substack"
+  title: "Substack"
+
+- item: "medium"
+  title: "Medium"
+
+- item: "hashnode"
+  title: "Hashnode"
+
+- item: "devto"
+  title: "Dev.to"
+
+- item: "carrd"
+  title: "Carrd"
+
+- item: "linktree"
+  title: "Linktree"
+
+- item: "beacons"
+  title: "Beacons"
+
+- item: "milkshake"
+  title: "Milkshake"
+
+- item: "stan-store"
+  title: "Stan Store"
+
+- item: "bento"
+  title: "Bento"
+
+- item: "tap-bio"
+  title: "Tap Bio"
+
+- item: "dub"
+  title: "Dub"
+
+- item: "welcome-homepage"
+  title: "Welcome Homepage"
+
+- item: "startup-website"
+  title: "Startup Website"
+
+- item: "saas-website"
+  title: "SaaS Website"
+
+- item: "ecommerce-website"
+  title: "E-Commerce Website"
+
+- item: "blog-website"
+  title: "Blog Website"
+
+- item: "news-website"
+  title: "News Website"
+
+- item: "magazine-website"
+  title: "Magazine Website"
+
+- item: "portfolio-website"
+  title: "Portfolio Website"
+
+- item: "agency-website"
+  title: "Agency Website"
+
+- item: "corporate-website"
+  title: "Corporate Website"
+
+- item: "nonprofit-website"
+  title: "Nonprofit Website"
+
+- item: "educational-website"
+  title: "Educational Website"
+
+- item: "event-website"
+  title: "Event Website"
+
+- item: "conference-website"
+  title: "Conference Website"
+
+- item: "wedding-website"
+  title: "Wedding Website"
+
+- item: "personal-website"
+  title: "Personal Website"
+
+- item: "professional-website"
+  title: "Professional Website"
+
+- item: "creative-website"
+  title: "Creative Website"
+
+- item: "artist-website"
+  title: "Artist Website"
+
+- item: "photographer-website"
+  title: "Photographer Website"
+
+- item: "videographer-website"
+  title: "Videographer Website"
+
+- item: "musician-website"
+  title: "Musician Website"
+
+- item: "designer-website"
+  title: "Designer Website"
+
+- item: "developer-website"
+  title: "Developer Website"
+
+- item: "writer-website"
+  title: "Writer Website"
+
+- item: "author-website"
+  title: "Author Website"
+
+- item: "podcast-website"
+  title: "Podcast Website"
+
+- item: "youtube-website"
+  title: "YouTube Channel Website"
+
+- item: "influencer-website"
+  title: "Influencer Website"
+
+- item: "restaurant-website"
+  title: "Restaurant Website"
+
+- item: "cafe-website"
+  title: "Cafe Website"
+
+- item: "hotel-website"
+  title: "Hotel Website"
+
+- item: "travel-website"
+  title: "Travel Website"
+
+- item: "tour-website"
+  title: "Tour Website"
+
+- item: "real-estate-website"
+  title: "Real Estate Website"
+
+- item: "property-website"
+  title: "Property Website"
+
+- item: "construction-website"
+  title: "Construction Website"
+
+- item: "architect-website"
+  title: "Architect Website"
+
+- item: "interior-design-website"
+  title: "Interior Design Website"
+
+- item: "healthcare-website"
+  title: "Healthcare Website"
+
+- item: "medical-website"
+  title: "Medical Website"
+
+- item: "dental-website"
+  title: "Dental Website"
+
+- item: "wellness-website"
+  title: "Wellness Website"
+
+- item: "fitness-website"
+  title: "Fitness Website"
+
+- item: "gym-website"
+  title: "Gym Website"
+
+- item: "yoga-website"
+  title: "Yoga Website"
+
+- item: "beauty-website"
+  title: "Beauty Website"
+
+- item: "salon-website"
+  title: "Salon Website"
+
+- item: "spa-website"
+  title: "Spa Website"
+
+- item: "consulting-website"
+  title: "Consulting Website"
+
+- item: "legal-website"
+  title: "Legal Website"
+
+- item: "law-firm-website"
+  title: "Law Firm Website"
+
+- item: "accounting-website"
+  title: "Accounting Website"
+
+- item: "financial-website"
+  title: "Financial Website"
+
+- item: "banking-website"
+  title: "Banking Website"
+
+- item: "insurance-website"
+  title: "Insurance Website"
+
+- item: "investment-website"
+  title: "Investment Website"
+
+- item: "technology-website"
+  title: "Technology Website"
+
+- item: "software-website"
+  title: "Software Website"
+
+- item: "app-website"
+  title: "App Website"
+
+- item: "game-website"
+  title: "Game Website"
+
+- item: "digital-product-website"
+  title: "Digital Product Website"
+
+- item: "physical-product-website"
+  title: "Physical Product Website"
+
+- item: "service-website"
+  title: "Service Website"
+
+- item: "local-business-website"
+  title: "Local Business Website"
+
+- item: "small-business-website"
+  title: "Small Business Website"
+
+- item: "startup-website"
+  title: "Startup Website"
+
+- item: "saas-website"
+  title: "SaaS Website"
