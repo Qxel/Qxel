@@ -1,0 +1,497 @@
+- item: "personal"
+  title: "Personal Use"
+
+- item: "professional"
+  title: "Professional Use"
+
+- item: "business"
+  title: "Business Use"
+
+- item: "commercial"
+  title: "Commercial Use"
+
+- item: "educational"
+  title: "Educational Use"
+
+- item: "academic"
+  title: "Academic Use"
+
+- item: "creative"
+  title: "Creative Use"
+
+- item: "artistic"
+  title: "Artistic Use"
+
+- item: "marketing"
+  title: "Marketing Use"
+
+- item: "advertising"
+  title: "Advertising Use"
+
+- item: "promotional"
+  title: "Promotional Use"
+
+- item: "branding"
+  title: "Branding Use"
+
+- item: "corporate"
+  title: "Corporate Use"
+
+- item: "government"
+  title: "Government Use"
+
+- item: "nonprofit"
+  title: "Nonprofit Use"
+
+- item: "social-impact"
+  title: "Social Impact Use"
+
+- item: "community"
+  title: "Community Use"
+
+- item: "event"
+  title: "Event Use"
+
+- item: "celebration"
+  title: "Celebration Use"
+
+- item: "invitation"
+  title: "Invitation Use"
+
+- item: "announcement"
+  title: "Announcement Use"
+
+- item: "information"
+  title: "Information Use"
+
+- item: "communication"
+  title: "Communication Use"
+
+- item: "collaboration"
+  title: "Collaboration Use"
+
+- item: "planning"
+  title: "Planning Use"
+
+- item: "organization"
+  title: "Organization Use"
+
+- item: "management"
+  title: "Management Use"
+
+- item: "administration"
+  title: "Administration Use"
+
+- item: "documentation"
+  title: "Documentation Use"
+
+- item: "reporting"
+  title: "Reporting Use"
+
+- item: "analysis"
+  title: "Analysis Use"
+
+- item: "research"
+  title: "Research Use"
+
+- item: "presentation"
+  title: "Presentation Use"
+
+- item: "public-speaking"
+  title: "Public Speaking Use"
+
+- item: "teaching"
+  title: "Teaching Use"
+
+- item: "training"
+  title: "Training Use"
+
+- item: "learning"
+  title: "Learning Use"
+
+- item: "study"
+  title: "Study Use"
+
+- item: "testing"
+  title: "Testing Use"
+
+- item: "assessment"
+  title: "Assessment Use"
+
+- item: "evaluation"
+  title: "Evaluation Use"
+
+- item: "feedback"
+  title: "Feedback Use"
+
+- item: "review"
+  title: "Review Use"
+
+- item: "approval"
+  title: "Approval Use"
+
+- item: "compliance"
+  title: "Compliance Use"
+
+- item: "regulatory"
+  title: "Regulatory Use"
+
+- item: "legal"
+  title: "Legal Use"
+
+- item: "contractual"
+  title: "Contractual Use"
+
+- item: "financial"
+  title: "Financial Use"
+
+- item: "accounting"
+  title: "Accounting Use"
+
+- item: "audit"
+  title: "Audit Use"
+
+- item: "tax"
+  title: "Tax Use"
+
+- item: "insurance"
+  title: "Insurance Use"
+
+- item: "healthcare"
+  title: "Healthcare Use"
+
+- item: "medical"
+  title: "Medical Use"
+
+- item: "patient-care"
+  title: "Patient Care Use"
+
+- item: "wellness"
+  title: "Wellness Use"
+
+- item: "fitness"
+  title: "Fitness Use"
+
+- item: "sports"
+  title: "Sports Use"
+
+- item: "recreation"
+  title: "Recreation Use"
+
+- item: "entertainment"
+  title: "Entertainment Use"
+
+- item: "gaming"
+  title: "Gaming Use"
+
+- item: "social-media"
+  title: "Social Media Use"
+
+- item: "content-creation"
+  title: "Content Creation Use"
+
+- item: "content-marketing"
+  title: "Content Marketing Use"
+
+- item: "influencer"
+  title: "Influencer Use"
+
+- item: "blogging"
+  title: "Blogging Use"
+
+- item: "vlogging"
+  title: "Vlogging Use"
+
+- item: "podcasting"
+  title: "Podcasting Use"
+
+- item: "streaming"
+  title: "Streaming Use"
+
+- item: "video-production"
+  title: "Video Production Use"
+
+- item: "film-production"
+  title: "Film Production Use"
+
+- item: "music-production"
+  title: "Music Production Use"
+
+- item: "audio-production"
+  title: "Audio Production Use"
+
+- item: "photography"
+  title: "Photography Use"
+
+- item: "videography"
+  title: "Videography Use"
+
+- item: "art"
+  title: "Art Use"
+
+- item: "design"
+  title: "Design Use"
+
+- item: "illustration"
+  title: "Illustration Use"
+
+- item: "animation"
+  title: "Animation Use"
+
+- item: "graphic-design"
+  title: "Graphic Design Use"
+
+- item: "web-design"
+  title: "Web Design Use"
+
+- item: "app-design"
+  title: "App Design Use"
+
+- item: "product-design"
+  title: "Product Design Use"
+
+- item: "industrial-design"
+  title: "Industrial Design Use"
+
+- item: "architectural"
+  title: "Architectural Use"
+
+- item: "interior-design"
+  title: "Interior Design Use"
+
+- item: "landscape-design"
+  title: "Landscape Design Use"
+
+- item: "urban-design"
+  title: "Urban Design Use"
+
+- item: "construction"
+  title: "Construction Use"
+
+- item: "engineering"
+  title: "Engineering Use"
+
+- item: "manufacturing"
+  title: "Manufacturing Use"
+
+- item: "production"
+  title: "Production Use"
+
+- item: "operations"
+  title: "Operations Use"
+
+- item: "supply-chain"
+  title: "Supply Chain Use"
+
+- item: "logistics"
+  title: "Logistics Use"
+
+- item: "warehousing"
+  title: "Warehousing Use"
+
+- item: "retail"
+  title: "Retail Use"
+
+- item: "ecommerce"
+  title: "Ecommerce Use"
+
+- item: "sales"
+  title: "Sales Use"
+
+- item: "customer-service"
+  title: "Customer Service Use"
+
+- item: "customer-success"
+  title: "Customer Success Use"
+
+- item: "client-relations"
+  title: "Client Relations Use"
+
+- item: "vendor-relations"
+  title: "Vendor Relations Use"
+
+- item: "partner-relations"
+  title: "Partner Relations Use"
+
+- item: "employee-relations"
+  title: "Employee Relations Use"
+
+- item: "hr"
+  title: "Human Resources Use"
+
+- item: "recruitment"
+  title: "Recruitment Use"
+
+- item: "onboarding"
+  title: "Onboarding Use"
+
+- item: "offboarding"
+  title: "Offboarding Use"
+
+- item: "performance-management"
+  title: "Performance Management Use"
+
+- item: "talent-development"
+  title: "Talent Development Use"
+
+- item: "career-development"
+  title: "Career Development Use"
+
+- item: "professional-development"
+  title: "Professional Development Use"
+
+- item: "networking"
+  title: "Networking Use"
+
+- item: "job-seeking"
+  title: "Job Seeking Use"
+
+- item: "resume"
+  title: "Resume Use"
+
+- item: "portfolio"
+  title: "Portfolio Use"
+
+- item: "interview"
+  title: "Interview Use"
+
+- item: "freelancing"
+  title: "Freelancing Use"
+
+- item: "remote-work"
+  title: "Remote Work Use"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship Use"
+
+- item: "startup"
+  title: "Startup Use"
+
+- item: "small-business"
+  title: "Small Business Use"
+
+- item: "fundraising"
+  title: "Fundraising Use"
+
+- item: "investment"
+  title: "Investment Use"
+
+- item: "grant-writing"
+  title: "Grant Writing Use"
+
+- item: "proposal-writing"
+  title: "Proposal Writing Use"
+
+- item: "report-writing"
+  title: "Report Writing Use"
+
+- item: "technical-writing"
+  title: "Technical Writing Use"
+
+- item: "creative-writing"
+  title: "Creative Writing Use"
+
+- item: "copywriting"
+  title: "Copywriting Use"
+
+- item: "editing"
+  title: "Editing Use"
+
+- item: "proofreading"
+  title: "Proofreading Use"
+
+- item: "translation"
+  title: "Translation Use"
+
+- item: "localization"
+  title: "Localization Use"
+
+- item: "accessibility"
+  title: "Accessibility Use"
+
+- item: "inclusive-design"
+  title: "Inclusive Design Use"
+
+- item: "sustainability"
+  title: "Sustainability Use"
+
+- item: "eco-friendly"
+  title: "Eco-Friendly Use"
+
+- item: "ethical"
+  title: "Ethical Use"
+
+- item: "non-commercial"
+  title: "Non-Commercial Use"
+
+- item: "personal-project"
+  title: "Personal Project Use"
+
+- item: "hobby"
+  title: "Hobby Use"
+
+- item: "volunteer"
+  title: "Volunteer Use"
+
+- item: "charity"
+  title: "Charity Use"
+
+- item: "public-service"
+  title: "Public Service Use"
+
+- item: "emergency"
+  title: "Emergency Use"
+
+- item: "crisis-response"
+  title: "Crisis Response Use"
+
+- item: "disaster-relief"
+  title: "Disaster Relief Use"
+
+- item: "humanitarian"
+  title: "Humanitarian Use"
+
+- item: "environmental"
+  title: "Environmental Use"
+
+- item: "conservation"
+  title: "Conservation Use"
+
+- item: "activism"
+  title: "Activism Use"
+
+- item: "advocacy"
+  title: "Advocacy Use"
+
+- item: "awareness"
+  title: "Awareness Use"
+
+- item: "education"
+  title: "Education Use"
+
+- item: "outreach"
+  title: "Outreach Use"
+
+- item: "engagement"
+  title: "Engagement Use"
+
+- item: "participation"
+  title: "Participation Use"
+
+- item: "collaboration"
+  title: "Collaboration Use"
+
+- item: "co-creation"
+  title: "Co-Creation Use"
+
+- item: "crowdsourcing"
+  title: "Crowdsourcing Use"
+
+- item: "open-source"
+  title: "Open Source Use"
+
+- item: "creative-commons"
+  title: "Creative Commons Use"
+
+- item: "public-domain"
+  title: "Public Domain Use"
