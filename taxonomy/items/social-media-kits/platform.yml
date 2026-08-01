@@ -1,0 +1,536 @@
+- item: "instagram"
+  title: "Instagram"
+
+- item: "facebook"
+  title: "Facebook"
+
+- item: "twitter-x"
+  title: "Twitter/X"
+
+- item: "linkedin"
+  title: "LinkedIn"
+
+- item: "youtube"
+  title: "YouTube"
+
+- item: "tiktok"
+  title: "TikTok"
+
+- item: "pinterest"
+  title: "Pinterest"
+
+- item: "snapchat"
+  title: "Snapchat"
+
+- item: "reddit"
+  title: "Reddit"
+
+- item: "tumblr"
+  title: "Tumblr"
+
+- item: "whatsapp"
+  title: "WhatsApp"
+
+- item: "telegram"
+  title: "Telegram"
+
+- item: "signal"
+  title: "Signal"
+
+- item: "discord"
+  title: "Discord"
+
+- item: "twitch"
+  title: "Twitch"
+
+- item: "kick"
+  title: "Kick"
+
+- item: "periscope"
+  title: "Periscope"
+
+- item: "vimeo"
+  title: "Vimeo"
+
+- item: "dailymotion"
+  title: "Dailymotion"
+
+- item: "flickr"
+  title: "Flickr"
+
+- item: "imgur"
+  title: "Imgur"
+
+- item: "giphy"
+  title: "GIPHY"
+
+- item: "tenor"
+  title: "Tenor"
+
+- item: "behance"
+  title: "Behance"
+
+- item: "dribbble"
+  title: "Dribbble"
+
+- item: "deviantart"
+  title: "DeviantArt"
+
+- item: "artstation"
+  title: "ArtStation"
+
+- item: "cara"
+  title: "Cara"
+
+- item: "pixiv"
+  title: "Pixiv"
+
+- item: "patreon"
+  title: "Patreon"
+
+- item: "ko-fi"
+  title: "Ko-Fi"
+
+- item: "buymeacoffee"
+  title: "Buy Me a Coffee"
+
+- item: "substack"
+  title: "Substack"
+
+- item: "medium"
+  title: "Medium"
+
+- item: "wordpress"
+  title: "WordPress"
+
+- item: "blogger"
+  title: "Blogger"
+
+- item: "ghost"
+  title: "Ghost"
+
+- item: "hashnode"
+  title: "Hashnode"
+
+- item: "devto"
+  title: "Dev.to"
+
+- item: "hackernews"
+  title: "Hacker News"
+
+- item: "producthunt"
+  title: "Product Hunt"
+
+- item: "github"
+  title: "GitHub"
+
+- item: "gitlab"
+  title: "GitLab"
+
+- item: "stackoverflow"
+  title: "Stack Overflow"
+
+- item: "quora"
+  title: "Quora"
+
+- item: "askfm"
+  title: "Ask.fm"
+
+- item: "threads"
+  title: "Threads"
+
+- item: "bluesky"
+  title: "Bluesky"
+
+- item: "mastodon"
+  title: "Mastodon"
+
+- item: "truth-social"
+  title: "Truth Social"
+
+- item: "parler"
+  title: "Parler"
+
+- item: "gettr"
+  title: "GETTR"
+
+- item: "rumbles"
+  title: "Rumble"
+
+- item: "odysee"
+  title: "Odysee"
+
+- item: "peertube"
+  title: "PeerTube"
+
+- item: "flickr"
+  title: "Flickr"
+
+- item: "vsco"
+  title: "VSCO"
+
+- item: "dispo"
+  title: "Dispo"
+
+- item: "strava"
+  title: "Strava"
+
+- item: "untapped"
+  title: "Untappd"
+
+- item: "letterboxd"
+  title: "Letterboxd"
+
+- item: "goodreads"
+  title: "Goodreads"
+
+- item: "storygraph"
+  title: "StoryGraph"
+
+- item: "lastfm"
+  title: "Last.fm"
+
+- item: "spotify"
+  title: "Spotify"
+
+- item: "soundcloud"
+  title: "SoundCloud"
+
+- item: "audiomack"
+  title: "Audiomack"
+
+- item: "mixcloud"
+  title: "Mixcloud"
+
+- item: "bandcamp"
+  title: "Bandcamp"
+
+- item: "apple-music"
+  title: "Apple Music"
+
+- item: "amazon-music"
+  title: "Amazon Music"
+
+- item: "anghami"
+  title: "Anghami"
+
+- item: "gaana"
+  title: "Gaana"
+
+- item: "jiosaavn"
+  title: "JioSaavn"
+
+- item: "wynk"
+  title: "Wynk"
+
+- item: "hungama"
+  title: "Hungama"
+
+- item: "clubhouse"
+  title: "Clubhouse"
+
+- item: "twitter-spaces"
+  title: "Twitter Spaces"
+
+- item: "linkedin-live"
+  title: "LinkedIn Live"
+
+- item: "youtube-shorts"
+  title: "YouTube Shorts"
+
+- item: "instagram-reels"
+  title: "Instagram Reels"
+
+- item: "facebook-reels"
+  title: "Facebook Reels"
+
+- item: "tiktok-stories"
+  title: "TikTok Stories"
+
+- item: "whatsapp-status"
+  title: "WhatsApp Status"
+
+- item: "signal-stories"
+  title: "Signal Stories"
+
+- item: "telegram-channels"
+  title: "Telegram Channels"
+
+- item: "discord-servers"
+  title: "Discord Servers"
+
+- item: "slack-community"
+  title: "Slack Community"
+
+- item: "microsoft-teams"
+  title: "Microsoft Teams"
+
+- item: "meta-business-suite"
+  title: "Meta Business Suite"
+
+- item: "meta-ads-manager"
+  title: "Meta Ads Manager"
+
+- item: "google-ads"
+  title: "Google Ads"
+
+- item: "linkedin-ads"
+  title: "LinkedIn Ads"
+
+- item: "tiktok-ads"
+  title: "TikTok Ads"
+
+- item: "snapchat-ads"
+  title: "Snapchat Ads"
+
+- item: "twitter-ads"
+  title: "Twitter Ads"
+
+- item: "pinterest-ads"
+  title: "Pinterest Ads"
+
+- item: "reddit-ads"
+  title: "Reddit Ads"
+
+- item: "amazon-ads"
+  title: "Amazon Ads"
+
+- item: "bing-ads"
+  title: "Bing Ads"
+
+- item: "youtube-ads"
+  title: "YouTube Ads"
+
+- item: "instagram-ads"
+  title: "Instagram Ads"
+
+- item: "facebook-ads"
+  title: "Facebook Ads"
+
+- item: "tiktok-shop"
+  title: "TikTok Shop"
+
+- item: "instagram-shop"
+  title: "Instagram Shop"
+
+- item: "facebook-shop"
+  title: "Facebook Shop"
+
+- item: "pinterest-shop"
+  title: "Pinterest Shop"
+
+- item: "whatsapp-business"
+  title: "WhatsApp Business"
+
+- item: "messenger"
+  title: "Messenger"
+
+- item: "apple-business-chat"
+  title: "Apple Business Chat"
+
+- item: "google-business-profile"
+  title: "Google Business Profile"
+
+- item: "bing-places"
+  title: "Bing Places"
+
+- item: "yelp"
+  title: "Yelp"
+
+- item: "tripadvisor"
+  title: "TripAdvisor"
+
+- item: "yellowpages"
+  title: "Yellow Pages"
+
+- item: "google-my-business"
+  title: "Google My Business"
+
+- item: "apple-maps"
+  title: "Apple Maps"
+
+- item: "waze"
+  title: "Waze"
+
+- item: "foursquare"
+  title: "Foursquare"
+
+- item: "swarm"
+  title: "Swarm"
+
+- item: "nextdoor"
+  title: "Nextdoor"
+
+- item: "neighborhood"
+  title: "Neighborhood"
+
+- item: "care"
+  title: "CARE"
+
+- item: "linkedin-company-page"
+  title: "LinkedIn Company Page"
+
+- item: "linkedin-groups"
+  title: "LinkedIn Groups"
+
+- item: "linkedin-newsletters"
+  title: "LinkedIn Newsletters"
+
+- item: "linkedin-events"
+  title: "LinkedIn Events"
+
+- item: "linkedin-pages"
+  title: "LinkedIn Pages"
+
+- item: "facebook-groups"
+  title: "Facebook Groups"
+
+- item: "facebook-events"
+  title: "Facebook Events"
+
+- item: "facebook-pages"
+  title: "Facebook Pages"
+
+- item: "facebook-messenger"
+  title: "Facebook Messenger"
+
+- item: "instagram-messages"
+  title: "Instagram Messages"
+
+- item: "instagram-guides"
+  title: "Instagram Guides"
+
+- item: "instagram-stories"
+  title: "Instagram Stories"
+
+- item: "instagram-highlights"
+  title: "Instagram Highlights"
+
+- item: "instagram-igtv"
+  title: "Instagram IGTV"
+
+- item: "instagram-live"
+  title: "Instagram Live"
+
+- item: "youtube-community"
+  title: "YouTube Community"
+
+- item: "youtube-live"
+  title: "YouTube Live"
+
+- item: "youtube-premiere"
+  title: "YouTube Premiere"
+
+- item: "youtube-shorts"
+  title: "YouTube Shorts"
+
+- item: "youtube-stories"
+  title: "YouTube Stories"
+
+- item: "tiktok-live"
+  title: "TikTok Live"
+
+- item: "twitch-live"
+  title: "Twitch Live"
+
+- item: "twitch-clips"
+  title: "Twitch Clips"
+
+- item: "twitch-highlights"
+  title: "Twitch Highlights"
+
+- item: "twitch-vods"
+  title: "Twitch VODs"
+
+- item: "twitch-schedule"
+  title: "Twitch Schedule"
+
+- item: "twitter-communities"
+  title: "Twitter Communities"
+
+- item: "twitter-lists"
+  title: "Twitter Lists"
+
+- item: "twitter-topics"
+  title: "Twitter Topics"
+
+- item: "twitter-trends"
+  title: "Twitter Trends"
+
+- item: "reddit-communities"
+  title: "Reddit Communities (Subreddits)"
+
+- item: "reddit-ama"
+  title: "Reddit AMA"
+
+- item: "reddit-posts"
+  title: "Reddit Posts"
+
+- item: "reddit-comments"
+  title: "Reddit Comments"
+
+- item: "pinterest-boards"
+  title: "Pinterest Boards"
+
+- item: "pinterest-pins"
+  title: "Pinterest Pins"
+
+- item: "pinterest-ideas"
+  title: "Pinterest Ideas"
+
+- item: "pinterest-try-on"
+  title: "Pinterest Try-On"
+
+- item: "snapchat-spotlight"
+  title: "Snapchat Spotlight"
+
+- item: "snapchat-maps"
+  title: "Snapchat Maps"
+
+- item: "snapchat-memories"
+  title: "Snapchat Memories"
+
+- item: "snapchat-ads"
+  title: "Snapchat Ads"
+
+- item: "discord-announcements"
+  title: "Discord Announcements"
+
+- item: "discord-channels"
+  title: "Discord Channels"
+
+- item: "discord-events"
+  title: "Discord Events"
+
+- item: "discord-forum"
+  title: "Discord Forum"
+
+- item: "discord-stages"
+  title: "Discord Stages"
+
+- item: "telegram-bots"
+  title: "Telegram Bots"
+
+- item: "telegram-groups"
+  title: "Telegram Groups"
+
+- item: "telegram-channels"
+  title: "Telegram Channels"
+
+- item: "telegram-stories"
+  title: "Telegram Stories"
+
+- item: "whatsapp-channels"
+  title: "WhatsApp Channels"
+
+- item: "whatsapp-communities"
+  title: "WhatsApp Communities"
+
+- item: "whatsapp-groups"
+  title: "WhatsApp Groups"
+
+- item: "signal-groups"
+  title: "Signal Groups"
+
+- item: "signal-channels"
+  title: "Signal Channels"
