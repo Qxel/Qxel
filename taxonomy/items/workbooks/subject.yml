@@ -1,0 +1,923 @@
+- item: "mathematics"
+  title: "Mathematics"
+
+- item: "algebra"
+  title: "Algebra"
+
+- item: "pre-algebra"
+  title: "Pre-Algebra"
+
+- item: "geometry"
+  title: "Geometry"
+
+- item: "trigonometry"
+  title: "Trigonometry"
+
+- item: "calculus"
+  title: "Calculus"
+
+- item: "statistics"
+  title: "Statistics"
+
+- item: "probability"
+  title: "Probability"
+
+- item: "arithmetic"
+  title: "Arithmetic"
+
+- item: "number-theory"
+  title: "Number Theory"
+
+- item: "linear-algebra"
+  title: "Linear Algebra"
+
+- item: "differential-equations"
+  title: "Differential Equations"
+
+- item: "physics"
+  title: "Physics"
+
+- item: "mechanics"
+  title: "Mechanics"
+
+- item: "thermodynamics"
+  title: "Thermodynamics"
+
+- item: "electromagnetism"
+  title: "Electromagnetism"
+
+- item: "optics"
+  title: "Optics"
+
+- item: "acoustics"
+  title: "Acoustics"
+
+- item: "quantum-physics"
+  title: "Quantum Physics"
+
+- item: "nuclear-physics"
+  title: "Nuclear Physics"
+
+- item: "astrophysics"
+  title: "Astrophysics"
+
+- item: "chemistry"
+  title: "Chemistry"
+
+- item: "organic-chemistry"
+  title: "Organic Chemistry"
+
+- item: "inorganic-chemistry"
+  title: "Inorganic Chemistry"
+
+- item: "physical-chemistry"
+  title: "Physical Chemistry"
+
+- item: "analytical-chemistry"
+  title: "Analytical Chemistry"
+
+- item: "biochemistry"
+  title: "Biochemistry"
+
+- item: "environmental-chemistry"
+  title: "Environmental Chemistry"
+
+- item: "biology"
+  title: "Biology"
+
+- item: "botany"
+  title: "Botany"
+
+- item: "zoology"
+  title: "Zoology"
+
+- item: "microbiology"
+  title: "Microbiology"
+
+- item: "genetics"
+  title: "Genetics"
+
+- item: "ecology"
+  title: "Ecology"
+
+- item: "evolution"
+  title: "Evolution"
+
+- item: "human-biology"
+  title: "Human Biology"
+
+- item: "cell-biology"
+  title: "Cell Biology"
+
+- item: "molecular-biology"
+  title: "Molecular Biology"
+
+- item: "biotechnology"
+  title: "Biotechnology"
+
+- item: "anatomy"
+  title: "Anatomy"
+
+- item: "physiology"
+  title: "Physiology"
+
+- item: "environmental-science"
+  title: "Environmental Science"
+
+- item: "earth-science"
+  title: "Earth Science"
+
+- item: "geology"
+  title: "Geology"
+
+- item: "astronomy"
+  title: "Astronomy"
+
+- item: "english"
+  title: "English"
+
+- item: "english-grammar"
+  title: "English Grammar"
+
+- item: "english-literature"
+  title: "English Literature"
+
+- item: "creative-writing"
+  title: "Creative Writing"
+
+- item: "essay-writing"
+  title: "Essay Writing"
+
+- item: "academic-writing"
+  title: "Academic Writing"
+
+- item: "business-writing"
+  title: "Business Writing"
+
+- item: "report-writing"
+  title: "Report Writing"
+
+- item: "technical-writing"
+  title: "Technical Writing"
+
+- item: "vocabulary"
+  title: "Vocabulary"
+
+- item: "spelling"
+  title: "Spelling"
+
+- item: "reading-comprehension"
+  title: "Reading Comprehension"
+
+- item: "phonics"
+  title: "Phonics"
+
+- item: "literature"
+  title: "Literature"
+
+- item: "world-literature"
+  title: "World Literature"
+
+- item: "american-literature"
+  title: "American Literature"
+
+- item: "british-literature"
+  title: "British Literature"
+
+- item: "indian-literature"
+  title: "Indian Literature"
+
+- item: "postcolonial-literature"
+  title: "Postcolonial Literature"
+
+- item: "poetry"
+  title: "Poetry"
+
+- item: "drama"
+  title: "Drama"
+
+- item: "fiction"
+  title: "Fiction"
+
+- item: "non-fiction"
+  title: "Non-Fiction"
+
+- item: "history"
+  title: "History"
+
+- item: "ancient-history"
+  title: "Ancient History"
+
+- item: "medieval-history"
+  title: "Medieval History"
+
+- item: "modern-history"
+  title: "Modern History"
+
+- item: "contemporary-history"
+  title: "Contemporary History"
+
+- item: "world-history"
+  title: "World History"
+
+- item: "indian-history"
+  title: "Indian History"
+
+- item: "european-history"
+  title: "European History"
+
+- item: "american-history"
+  title: "American History"
+
+- item: "asian-history"
+  title: "Asian History"
+
+- item: "african-history"
+  title: "African History"
+
+- item: "political-science"
+  title: "Political Science"
+
+- item: "political-theory"
+  title: "Political Theory"
+
+- item: "comparative-politics"
+  title: "Comparative Politics"
+
+- item: "international-relations"
+  title: "International Relations"
+
+- item: "public-administration"
+  title: "Public Administration"
+
+- item: "governance"
+  title: "Governance"
+
+- item: "geography"
+  title: "Geography"
+
+- item: "physical-geography"
+  title: "Physical Geography"
+
+- item: "human-geography"
+  title: "Human Geography"
+
+- item: "economic-geography"
+  title: "Economic Geography"
+
+- item: "cartography"
+  title: "Cartography"
+
+- item: "gis"
+  title: "GIS"
+
+- item: "economics"
+  title: "Economics"
+
+- item: "microeconomics"
+  title: "Microeconomics"
+
+- item: "macroeconomics"
+  title: "Macroeconomics"
+
+- item: "econometrics"
+  title: "Econometrics"
+
+- item: "development-economics"
+  title: "Development Economics"
+
+- item: "international-economics"
+  title: "International Economics"
+
+- item: "business-economics"
+  title: "Business Economics"
+
+- item: "sociology"
+  title: "Sociology"
+
+- item: "social-theory"
+  title: "Social Theory"
+
+- item: "social-stratification"
+  title: "Social Stratification"
+
+- item: "urban-sociology"
+  title: "Urban Sociology"
+
+- item: "rural-sociology"
+  title: "Rural Sociology"
+
+- item: "psychology"
+  title: "Psychology"
+
+- item: "cognitive-psychology"
+  title: "Cognitive Psychology"
+
+- item: "developmental-psychology"
+  title: "Developmental Psychology"
+
+- item: "social-psychology"
+  title: "Social Psychology"
+
+- item: "clinical-psychology"
+  title: "Clinical Psychology"
+
+- item: "abnormal-psychology"
+  title: "Abnormal Psychology"
+
+- item: "educational-psychology"
+  title: "Educational Psychology"
+
+- item: "philosophy"
+  title: "Philosophy"
+
+- item: "ethics"
+  title: "Ethics"
+
+- item: "logic"
+  title: "Logic"
+
+- item: "epistemology"
+  title: "Epistemology"
+
+- item: "metaphysics"
+  title: "Metaphysics"
+
+- item: "philosophy-of-science"
+  title: "Philosophy of Science"
+
+- item: "political-philosophy"
+  title: "Political Philosophy"
+
+- item: "indian-philosophy"
+  title: "Indian Philosophy"
+
+- item: "western-philosophy"
+  title: "Western Philosophy"
+
+- item: "sanskrit"
+  title: "Sanskrit"
+
+- item: "sanskrit-grammar"
+  title: "Sanskrit Grammar"
+
+- item: "sanskrit-literature"
+  title: "Sanskrit Literature"
+
+- item: "vedic-studies"
+  title: "Vedic Studies"
+
+- item: "hindi"
+  title: "Hindi"
+
+- item: "hindi-grammar"
+  title: "Hindi Grammar"
+
+- item: "hindi-literature"
+  title: "Hindi Literature"
+
+- item: "foreign-languages"
+  title: "Foreign Languages"
+
+- item: "french"
+  title: "French"
+
+- item: "german"
+  title: "German"
+
+- item: "spanish"
+  title: "Spanish"
+
+- item: "italian"
+  title: "Italian"
+
+- item: "chinese"
+  title: "Chinese"
+
+- item: "japanese"
+  title: "Japanese"
+
+- item: "korean"
+  title: "Korean"
+
+- item: "russian"
+  title: "Russian"
+
+- item: "arabic"
+  title: "Arabic"
+
+- item: "persian"
+  title: "Persian"
+
+- item: "urdu"
+  title: "Urdu"
+
+- item: "bengali"
+  title: "Bengali"
+
+- item: "tamil"
+  title: "Tamil"
+
+- item: "telugu"
+  title: "Telugu"
+
+- item: "marathi"
+  title: "Marathi"
+
+- item: "gujarati"
+  title: "Gujarati"
+
+- item: "kannada"
+  title: "Kannada"
+
+- item: "malayalam"
+  title: "Malayalam"
+
+- item: "punjabi"
+  title: "Punjabi"
+
+- item: "odia"
+  title: "Odia"
+
+- item: "assamese"
+  title: "Assamese"
+
+- item: "computer-science"
+  title: "Computer Science"
+
+- item: "programming"
+  title: "Programming"
+
+- item: "python"
+  title: "Python"
+
+- item: "java"
+  title: "Java"
+
+- item: "cprogramming"
+  title: "C Programming"
+
+- item: "cpp"
+  title: "C++"
+
+- item: "csharp"
+  title: "C#"
+
+- item: "javascript"
+  title: "JavaScript"
+
+- item: "typescript"
+  title: "TypeScript"
+
+- item: "react"
+  title: "React"
+
+- item: "angular"
+  title: "Angular"
+
+- item: "vuejs"
+  title: "Vue.js"
+
+- item: "nodejs"
+  title: "Node.js"
+
+- item: "php"
+  title: "PHP"
+
+- item: "ruby"
+  title: "Ruby"
+
+- item: "swift"
+  title: "Swift"
+
+- item: "kotlin"
+  title: "Kotlin"
+
+- item: "web-development"
+  title: "Web Development"
+
+- item: "frontend-development"
+  title: "Frontend Development"
+
+- item: "backend-development"
+  title: "Backend Development"
+
+- item: "fullstack-development"
+  title: "Full Stack Development"
+
+- item: "mobile-development"
+  title: "Mobile Development"
+
+- item: "ios-development"
+  title: "iOS Development"
+
+- item: "android-development"
+  title: "Android Development"
+
+- item: "database"
+  title: "Database"
+
+- item: "sql"
+  title: "SQL"
+
+- item: "mysql"
+  title: "MySQL"
+
+- item: "postgresql"
+  title: "PostgreSQL"
+
+- item: "mongodb"
+  title: "MongoDB"
+
+- item: "data-structures"
+  title: "Data Structures"
+
+- item: "algorithms"
+  title: "Algorithms"
+
+- item: "machine-learning"
+  title: "Machine Learning"
+
+- item: "data-science"
+  title: "Data Science"
+
+- item: "artificial-intelligence"
+  title: "Artificial Intelligence"
+
+- item: "cybersecurity"
+  title: "Cybersecurity"
+
+- item: "networking"
+  title: "Networking"
+
+- item: "operating-systems"
+  title: "Operating Systems"
+
+- item: "software-engineering"
+  title: "Software Engineering"
+
+- item: "game-development"
+  title: "Game Development"
+
+- item: "commerce"
+  title: "Commerce"
+
+- item: "accounting"
+  title: "Accounting"
+
+- item: "financial-accounting"
+  title: "Financial Accounting"
+
+- item: "management-accounting"
+  title: "Management Accounting"
+
+- item: "cost-accounting"
+  title: "Cost Accounting"
+
+- item: "business-studies"
+  title: "Business Studies"
+
+- item: "business-management"
+  title: "Business Management"
+
+- item: "marketing"
+  title: "Marketing"
+
+- item: "finance"
+  title: "Finance"
+
+- item: "corporate-finance"
+  title: "Corporate Finance"
+
+- item: "investment"
+  title: "Investment"
+
+- item: "banking"
+  title: "Banking"
+
+- item: "insurance"
+  title: "Insurance"
+
+- item: "taxation"
+  title: "Taxation"
+
+- item: "auditing"
+  title: "Auditing"
+
+- item: "business-law"
+  title: "Business Law"
+
+- item: "company-law"
+  title: "Company Law"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship"
+
+- item: "law"
+  title: "Law"
+
+- item: "constitutional-law"
+  title: "Constitutional Law"
+
+- item: "criminal-law"
+  title: "Criminal Law"
+
+- item: "civil-law"
+  title: "Civil Law"
+
+- item: "corporate-law"
+  title: "Corporate Law"
+
+- item: "family-law"
+  title: "Family Law"
+
+- item: "property-law"
+  title: "Property Law"
+
+- item: "international-law"
+  title: "International Law"
+
+- item: "jurisprudence"
+  title: "Jurisprudence"
+
+- item: "legal-research"
+  title: "Legal Research"
+
+- item: "education"
+  title: "Education"
+
+- item: "pedagogy"
+  title: "Pedagogy"
+
+- item: "curriculum-development"
+  title: "Curriculum Development"
+
+- item: "educational-technology"
+  title: "Educational Technology"
+
+- item: "teacher-training"
+  title: "Teacher Training"
+
+- item: "special-education"
+  title: "Special Education"
+
+- item: "early-childhood-education"
+  title: "Early Childhood Education"
+
+- item: "primary-education"
+  title: "Primary Education"
+
+- item: "secondary-education"
+  title: "Secondary Education"
+
+- item: "higher-education"
+  title: "Higher Education"
+
+- item: "music"
+  title: "Music"
+
+- item: "music-theory"
+  title: "Music Theory"
+
+- item: "vocal-music"
+  title: "Vocal Music"
+
+- item: "instrumental-music"
+  title: "Instrumental Music"
+
+- item: "piano"
+  title: "Piano"
+
+- item: "guitar"
+  title: "Guitar"
+
+- item: "violin"
+  title: "Violin"
+
+- item: "drums"
+  title: "Drums"
+
+- item: "flute"
+  title: "Flute"
+
+- item: "sitar"
+  title: "Sitar"
+
+- item: "tabla"
+  title: "Tabla"
+
+- item: "harmonium"
+  title: "Harmonium"
+
+- item: "art"
+  title: "Art"
+
+- item: "drawing"
+  title: "Drawing"
+
+- item: "painting"
+  title: "Painting"
+
+- item: "sketching"
+  title: "Sketching"
+
+- item: "watercolor"
+  title: "Watercolor"
+
+- item: "acrylic"
+  title: "Acrylic"
+
+- item: "oil-painting"
+  title: "Oil Painting"
+
+- item: "charcoal"
+  title: "Charcoal"
+
+- item: "pastel"
+  title: "Pastel"
+
+- item: "calligraphy"
+  title: "Calligraphy"
+
+- item: "digital-art"
+  title: "Digital Art"
+
+- item: "crafts"
+  title: "Crafts"
+
+- item: "yoga"
+  title: "Yoga"
+
+- item: "meditation"
+  title: "Meditation"
+
+- item: "fitness"
+  title: "Fitness"
+
+- item: "sports"
+  title: "Sports"
+
+- item: "cricket"
+  title: "Cricket"
+
+- item: "football"
+  title: "Football"
+
+- item: "basketball"
+  title: "Basketball"
+
+- item: "badminton"
+  title: "Badminton"
+
+- item: "tennis"
+  title: "Tennis"
+
+- item: "chess"
+  title: "Chess"
+
+- item: "cooking"
+  title: "Cooking"
+
+- item: "baking"
+  title: "Baking"
+
+- item: "nutrition"
+  title: "Nutrition"
+
+- item: "dance"
+  title: "Dance"
+
+- item: "bharatanatyam"
+  title: "Bharatanatyam"
+
+- item: "kathak"
+  title: "Kathak"
+
+- item: "kuchipudi"
+  title: "Kuchipudi"
+
+- item: "odissi"
+  title: "Odissi"
+
+- item: "manipuri"
+  title: "Manipuri"
+
+- item: "mohiniyattam"
+  title: "Mohiniyattam"
+
+- item: "sattriya"
+  title: "Sattriya"
+
+- item: "kathakali"
+  title: "Kathakali"
+
+- item: "ballroom"
+  title: "Ballroom"
+
+- item: "ballet"
+  title: "Ballet"
+
+- item: "hip-hop-dance"
+  title: "Hip-Hop Dance"
+
+- item: "contemporary-dance"
+  title: "Contemporary Dance"
+
+- item: "salsa"
+  title: "Salsa"
+
+- item: "zumba"
+  title: "Zumba"
+
+- item: "public-speaking"
+  title: "Public Speaking"
+
+- item: "communication-skills"
+  title: "Communication Skills"
+
+- item: "soft-skills"
+  title: "Soft Skills"
+
+- item: "personality-development"
+  title: "Personality Development"
+
+- item: "interview-preparation"
+  title: "Interview Preparation"
+
+- item: "career-counseling"
+  title: "Career Counseling"
+
+- item: "study-skills"
+  title: "Study Skills"
+
+- item: "time-management"
+  title: "Time Management"
+
+- item: "test-preparation"
+  title: "Test Preparation"
+
+- item: "competitive-exams"
+  title: "Competitive Exams"
+
+- item: "civil-services"
+  title: "Civil Services"
+
+- item: "banking-exams"
+  title: "Banking Exams"
+
+- item: "engineering-entrance"
+  title: "Engineering Entrance"
+
+- item: "medical-entrance"
+  title: "Medical Entrance"
+
+- item: "law-entrance"
+  title: "Law Entrance"
+
+- item: "mba-entrance"
+  title: "MBA Entrance"
+
+- item: "sat"
+  title: "SAT"
+
+- item: "gre"
+  title: "GRE"
+
+- item: "gmat"
+  title: "GMAT"
+
+- item: "ielts"
+  title: "IELTS"
+
+- item: "toefl"
+  title: "TOEFL"
+
+- item: "pte"
+  title: "PTE"
+
+- item: "duolingo"
+  title: "Duolingo English Test"
+
+- item: "upsc"
+  title: "UPSC"
+
+- item: "ssc"
+  title: "SSC"
+
+- item: "cat"
+  title: "CAT"
+
+- item: "gate"
+  title: "GATE"
+
+- item: "jee"
+  title: "JEE"
+
+- item: "neet"
+  title: "NEET"
+
+- item: "clat"
+  title: "CLAT"
+
+- item: "cet"
+  title: "CET"
