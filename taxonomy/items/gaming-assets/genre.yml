@@ -1,0 +1,821 @@
+- item: "action"
+  title: "Action"
+
+- item: "adventure"
+  title: "Adventure"
+
+- item: "rpg"
+  title: "Role-Playing Game (RPG)"
+
+- item: "fps"
+  title: "First-Person Shooter (FPS)"
+
+- item: "tps"
+  title: "Third-Person Shooter (TPS)"
+
+- item: "strategy"
+  title: "Strategy"
+
+- item: "rts"
+  title: "Real-Time Strategy (RTS)"
+
+- item: "tbs"
+  title: "Turn-Based Strategy (TBS)"
+
+- item: "simulation"
+  title: "Simulation"
+
+- item: "sports"
+  title: "Sports"
+
+- item: "racing"
+  title: "Racing"
+
+- item: "platformer"
+  title: "Platformer"
+
+- item: "puzzle"
+  title: "Puzzle"
+
+- item: "horror"
+  title: "Horror"
+
+- item: "survival"
+  title: "Survival"
+
+- item: "survival-horror"
+  title: "Survival Horror"
+
+- item: "stealth"
+  title: "Stealth"
+
+- item: "open-world"
+  title: "Open World"
+
+- item: "sandbox"
+  title: "Sandbox"
+
+- item: "mmo"
+  title: "Massively Multiplayer Online (MMO)"
+
+- item: "mmorpg"
+  title: "MMORPG"
+
+- item: "moba"
+  title: "MOBA"
+
+- item: "battle-royale"
+  title: "Battle Royale"
+
+- item: "hero-shooter"
+  title: "Hero Shooter"
+
+- item: "arena-shooter"
+  title: "Arena Shooter"
+
+- item: "tactical-shooter"
+  title: "Tactical Shooter"
+
+- item: "shooter"
+  title: "Shooter"
+
+- item: "arcade"
+  title: "Arcade"
+
+- item: "casual"
+  title: "Casual"
+
+- item: "party"
+  title: "Party"
+
+- item: "co-op"
+  title: "Cooperative"
+
+- item: "single-player"
+  title: "Single-Player"
+
+- item: "multiplayer"
+  title: "Multiplayer"
+
+- item: "pvp"
+  title: "Player vs Player (PvP)"
+
+- item: "pve"
+  title: "Player vs Environment (PvE)"
+
+- item: "competitive"
+  title: "Competitive"
+
+- item: "esports"
+  title: "Esports"
+
+- item: "indie"
+  title: "Indie"
+
+- item: "aaa"
+  title: "AAA"
+
+- item: "retro"
+  title: "Retro"
+
+- item: "pixel-art-style"
+  title: "Pixel Art Style"
+
+- item: "2d"
+  title: "2D"
+
+- item: "3d"
+  title: "3D"
+
+- item: "2.5d"
+  title: "2.5D"
+
+- item: "side-scroller"
+  title: "Side-Scroller"
+
+- item: "top-down"
+  title: "Top-Down"
+
+- item: "isometric"
+  title: "Isometric"
+
+- item: "first-person"
+  title: "First-Person"
+
+- item: "third-person"
+  title: "Third-Person"
+
+- item: "point-and-click"
+  title: "Point-and-Click"
+
+- item: "visual-novel"
+  title: "Visual Novel"
+
+- item: "interactive-fiction"
+  title: "Interactive Fiction"
+
+- item: "text-based"
+  title: "Text-Based"
+
+- item: "roguelike"
+  title: "Roguelike"
+
+- item: "roguelite"
+  title: "Roguelite"
+
+- item: "metroidvania"
+  title: "Metroidvania"
+
+- item: "soulslike"
+  title: "Soulslike"
+
+- item: "dungeon-crawler"
+  title: "Dungeon Crawler"
+
+- item: "hack-and-slash"
+  title: "Hack and Slash"
+
+- item: "beat-em-up"
+  title: "Beat 'Em Up"
+
+- item: "fighting"
+  title: "Fighting"
+
+- item: "brawler"
+  title: "Brawler"
+
+- item: "rhythm"
+  title: "Rhythm"
+
+- item: "music"
+  title: "Music"
+
+- item: "dance"
+  title: "Dance"
+
+- item: "card-game"
+  title: "Card Game"
+
+- item: "ccg"
+  title: "Collectible Card Game (CCG)"
+
+- item: "tcg"
+  title: "Trading Card Game (TCG)"
+
+- item: "deck-builder"
+  title: "Deck-Builder"
+
+- item: "board-game"
+  title: "Board Game"
+
+- item: "tabletop"
+  title: "Tabletop"
+
+- item: "war-game"
+  title: "War Game"
+
+- item: "grand-strategy"
+  title: "Grand Strategy"
+
+- item: "4x"
+  title: "4X"
+
+- item: "city-builder"
+  title: "City-Builder"
+
+- item: "colony-sim"
+  title: "Colony Sim"
+
+- item: "tycoon"
+  title: "Tycoon"
+
+- item: "management"
+  title: "Management"
+
+- item: "business-sim"
+  title: "Business Simulation"
+
+- item: "life-sim"
+  title: "Life Simulation"
+
+- item: "dating-sim"
+  title: "Dating Simulation"
+
+- item: "farming-sim"
+  title: "Farming Simulation"
+
+- item: "vehicle-sim"
+  title: "Vehicle Simulation"
+
+- item: "flight-sim"
+  title: "Flight Simulator"
+
+- item: "space-sim"
+  title: "Space Simulator"
+
+- item: "naval-sim"
+  title: "Naval Simulator"
+
+- item: "submarine-sim"
+  title: "Submarine Simulator"
+
+- item: "train-sim"
+  title: "Train Simulator"
+
+- item: "truck-sim"
+  title: "Truck Simulator"
+
+- item: "farming-simulator"
+  title: "Farming Simulator"
+
+- item: "construction-sim"
+  title: "Construction Simulator"
+
+- item: "medical-sim"
+  title: "Medical Simulator"
+
+- item: "surgery-sim"
+  title: "Surgery Simulator"
+
+- item: "park-sim"
+  title: "Park Simulator"
+
+- item: "zoo-sim"
+  title: "Zoo Simulator"
+
+- item: "aquarium-sim"
+  title: "Aquarium Simulator"
+
+- item: "pet-sim"
+  title: "Pet Simulator"
+
+- item: "god-game"
+  title: "God Game"
+
+- item: "demigod-game"
+  title: "Demigod Game"
+
+- item: "tower-defense"
+  title: "Tower Defense"
+
+- item: "tower-offense"
+  title: "Tower Offense"
+
+- item: "base-defense"
+  title: "Base Defense"
+
+- item: "wave-defense"
+  title: "Wave Defense"
+
+- item: "survival-crafting"
+  title: "Survival Crafting"
+
+- item: "crafting"
+  title: "Crafting"
+
+- item: "building"
+  title: "Building"
+
+- item: "exploration"
+  title: "Exploration"
+
+- item: "survival-building"
+  title: "Survival Building"
+
+- item: "base-building"
+  title: "Base Building"
+
+- item: "kingdom-building"
+  title: "Kingdom Building"
+
+- item: "empire-building"
+  title: "Empire Building"
+
+- item: "world-building-game"
+  title: "World Building"
+
+- item: "planet-building"
+  title: "Planet Building"
+
+- item: "universe-building"
+  title: "Universe Building"
+
+- item: "tyranny-game"
+  title: "Tyranny Game"
+
+- item: "utopia-game"
+  title: "Utopia Game"
+
+- item: "dystopia-game"
+  title: "Dystopia Game"
+
+- item: "apocalyptic"
+  title: "Apocalyptic"
+
+- item: "post-apocalyptic"
+  title: "Post-Apocalyptic"
+
+- item: "pre-apocalyptic"
+  title: "Pre-Apocalyptic"
+
+- item: "cyberpunk"
+  title: "Cyberpunk"
+
+- item: "steampunk"
+  title: "Steampunk"
+
+- item: "dieselpunk"
+  title: "Dieselpunk"
+
+- item: "solarpunk"
+  title: "Solarpunk"
+
+- item: "atompunk"
+  title: "Atompunk"
+
+- item: "clockpunk"
+  title: "Clockpunk"
+
+- item: "biopunk"
+  title: "Biopunk"
+
+- item: "nanopunk"
+  title: "Nanopunk"
+
+- item: "fantasy"
+  title: "Fantasy"
+
+- item: "high-fantasy"
+  title: "High Fantasy"
+
+- item: "low-fantasy"
+  title: "Low Fantasy"
+
+- item: "dark-fantasy"
+  title: "Dark Fantasy"
+
+- item: "light-fantasy"
+  title: "Light Fantasy"
+
+- item: "urban-fantasy"
+  title: "Urban Fantasy"
+
+- item: "medieval-fantasy"
+  title: "Medieval Fantasy"
+
+- item: "sci-fi"
+  title: "Science Fiction"
+
+- item: "hard-sci-fi"
+  title: "Hard Sci-Fi"
+
+- item: "soft-sci-fi"
+  title: "Soft Sci-Fi"
+
+- item: "space-opera"
+  title: "Space Opera"
+
+- item: "military-sci-fi"
+  title: "Military Sci-Fi"
+
+- item: "cyberpunk-sci-fi"
+  title: "Cyberpunk Sci-Fi"
+
+- item: "alternate-history"
+  title: "Alternate History"
+
+- item: "historical"
+  title: "Historical"
+
+- item: "ancient"
+  title: "Ancient"
+
+- item: "medieval"
+  title: "Medieval"
+
+- item: "renaissance"
+  title: "Renaissance"
+
+- item: "victorian"
+  title: "Victorian"
+
+- item: "world-war"
+  title: "World War"
+
+- item: "modern-warfare"
+  title: "Modern Warfare"
+
+- item: "cold-war"
+  title: "Cold War"
+
+- item: "mythology"
+  title: "Mythology"
+
+- item: "greek-mythology"
+  title: "Greek Mythology"
+
+- item: "norse-mythology"
+  title: "Norse Mythology"
+
+- item: "egyptian-mythology"
+  title: "Egyptian Mythology"
+
+- item: "hindu-mythology"
+  title: "Hindu Mythology"
+
+- item: "japanese-mythology"
+  title: "Japanese Mythology"
+
+- item: "chinese-mythology"
+  title: "Chinese Mythology"
+
+- item: "celtic-mythology"
+  title: "Celtic Mythology"
+
+- item: "aztec-mythology"
+  title: "Aztec Mythology"
+
+- item: "horror-survival"
+  title: "Horror Survival"
+
+- item: "psychological-horror"
+  title: "Psychological Horror"
+
+- item: "cosmic-horror"
+  title: "Cosmic Horror"
+
+- item: "gothic-horror"
+  title: "Gothic Horror"
+
+- item: "lovecraftian"
+  title: "Lovecraftian"
+
+- item: "slasher"
+  title: "Slasher"
+
+- item: "zombie"
+  title: "Zombie"
+
+- item: "vampire"
+  title: "Vampire"
+
+- item: "werewolf"
+  title: "Werewolf"
+
+- item: "ghost"
+  title: "Ghost"
+
+- item: "haunted-house"
+  title: "Haunted House"
+
+- item: "detective"
+  title: "Detective"
+
+- item: "mystery"
+  title: "Mystery"
+
+- item: "murder-mystery"
+  title: "Murder Mystery"
+
+- item: "whodunit"
+  title: "Whodunit"
+
+- item: "crime"
+  title: "Crime"
+
+- item: "mafia"
+  title: "Mafia"
+
+- item: "gangster"
+  title: "Gangster"
+
+- item: "heist"
+  title: "Heist"
+
+- item: "escapist"
+  title: "Escapist"
+
+- item: "prison"
+  title: "Prison"
+
+- item: "undercover"
+  title: "Undercover"
+
+- item: "spy"
+  title: "Spy"
+
+- item: "espionage"
+  title: "Espionage"
+
+- item: "political"
+  title: "Political"
+
+- item: "diplomatic"
+  title: "Diplomatic"
+
+- item: "legal"
+  title: "Legal"
+
+- item: "medical"
+  title: "Medical"
+
+- item: "educational"
+  title: "Educational"
+
+- item: "edutainment"
+  title: "Edutainment"
+
+- item: "typing"
+  title: "Typing"
+
+- item: "trivia"
+  title: "Trivia"
+
+- item: "quiz"
+  title: "Quiz"
+
+- item: "word-game"
+  title: "Word Game"
+
+- item: "brain-teaser"
+  title: "Brain Teaser"
+
+- item: "math-game"
+  title: "Math Game"
+
+- item: "physics-game"
+  title: "Physics Game"
+
+- item: "chemistry-game"
+  title: "Chemistry Game"
+
+- item: "biology-game"
+  title: "Biology Game"
+
+- item: "geography-game"
+  title: "Geography Game"
+
+- item: "history-game"
+  title: "History Game"
+
+- item: "language-game"
+  title: "Language Game"
+
+- item: "art-game"
+  title: "Art Game"
+
+- item: "music-game"
+  title: "Music Game"
+
+- item: "dance-game"
+  title: "Dance Game"
+
+- item: "fitness-game"
+  title: "Fitness Game"
+
+- item: "exergame"
+  title: "Exergame"
+
+- item: "wellness-game"
+  title: "Wellness Game"
+
+- item: "meditation-game"
+  title: "Meditation Game"
+
+- item: "mindfulness-game"
+  title: "Mindfulness Game"
+
+- item: "relaxation-game"
+  title: "Relaxation Game"
+
+- item: "cozy-game"
+  title: "Cozy Game"
+
+- item: "wholesome-game"
+  title: "Wholesome Game"
+
+- item: "stress-relief"
+  title: "Stress Relief"
+
+- item: "anti-stress"
+  title: "Anti-Stress"
+
+- item: "soothing"
+  title: "Soothing"
+
+- item: "calming"
+  title: "Calming"
+
+- item: "therapeutic"
+  title: "Therapeutic"
+
+- item: "gacha"
+  title: "Gacha"
+
+- item: "idle"
+  title: "Idle"
+
+- item: "clicker"
+  title: "Clicker"
+
+- item: "incremental"
+  title: "Incremental"
+
+- item: "cookie-clicker"
+  title: "Cookie Clicker"
+
+- item: "tap-game"
+  title: "Tap Game"
+
+- item: "merge-game"
+  title: "Merge Game"
+
+- item: "match-3"
+  title: "Match-3"
+
+- item: "match-4"
+  title: "Match-4"
+
+- item: "triple-match"
+  title: "Triple Match"
+
+- item: "jewel-game"
+  title: "Jewel Game"
+
+- item: "candy-game"
+  title: "Candy Game"
+
+- item: "fruit-game"
+  title: "Fruit Game"
+
+- item: "bubble-game"
+  title: "Bubble Game"
+
+- item: "ball-game"
+  title: "Ball Game"
+
+- item: "paddle-game"
+  title: "Paddle Game"
+
+- item: "pinball"
+  title: "Pinball"
+
+- item: "billiards"
+  title: "Billiards"
+
+- item: "bowling"
+  title: "Bowling"
+
+- item: "golf"
+  title: "Golf"
+
+- item: "tennis"
+  title: "Tennis"
+
+- item: "soccer"
+  title: "Soccer"
+
+- item: "football"
+  title: "Football"
+
+- item: "basketball"
+  title: "Basketball"
+
+- item: "baseball"
+  title: "Baseball"
+
+- item: "hockey"
+  title: "Hockey"
+
+- item: "cricket"
+  title: "Cricket"
+
+- item: "rugby"
+  title: "Rugby"
+
+- item: "boxing"
+  title: "Boxing"
+
+- item: "wrestling"
+  title: "Wrestling"
+
+- item: "mma"
+  title: "Mixed Martial Arts (MMA)"
+
+- item: "skateboarding"
+  title: "Skateboarding"
+
+- item: "snowboarding"
+  title: "Snowboarding"
+
+- item: "skiing"
+  title: "Skiing"
+
+- item: "surfing"
+  title: "Surfing"
+
+- item: "racing-car"
+  title: "Racing Car"
+
+- item: "motorcycle-racing"
+  title: "Motorcycle Racing"
+
+- item: "bike-racing"
+  title: "Bike Racing"
+
+- item: "boat-racing"
+  title: "Boat Racing"
+
+- item: "air-racing"
+  title: "Air Racing"
+
+- item: "space-racing"
+  title: "Space Racing"
+
+- item: "kart-racing"
+  title: "Kart Racing"
+
+- item: "drift-racing"
+  title: "Drift Racing"
+
+- item: "off-road-racing"
+  title: "Off-Road Racing"
+
+- item: "rally-racing"
+  title: "Rally Racing"
+
+- item: "f1-racing"
+  title: "Formula 1 Racing"
+
+- item: "nascar-racing"
+  title: "NASCAR Racing"
+
+- item: "drag-racing"
+  title: "Drag Racing"
+
+- item: "track-racing"
+  title: "Track Racing"
+
+- item: "street-racing"
+  title: "Street Racing"
+
+- item: "city-racing"
+  title: "City Racing"
+
+- item: "desert-racing"
+  title: "Desert Racing"
+
+- item: "jungle-racing"
+  title: "Jungle Racing"
+
+- item: "mountain-racing"
+  title: "Mountain Racing"
+
+- item: "winter-racing"
+  title: "Winter Racing"
+
+- item: "underwater-racing"
+  title: "Underwater Racing"
+
+- item: "space-racing"
+  title: "Space Racing"
