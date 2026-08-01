@@ -1,0 +1,599 @@
+- item: "minimalist"
+  title: "Minimalist"
+
+- item: "modern"
+  title: "Modern"
+
+- item: "contemporary"
+  title: "Contemporary"
+
+- item: "classic"
+  title: "Classic"
+
+- item: "vintage"
+  title: "Vintage"
+
+- item: "retro"
+  title: "Retro"
+
+- item: "mid-century"
+  title: "Mid-Century Modern"
+
+- item: "bauhaus"
+  title: "Bauhaus"
+
+- item: "swiss"
+  title: "Swiss / International Style"
+
+- item: "art-deco"
+  title: "Art Deco"
+
+- item: "brutalist"
+  title: "Brutalist"
+
+- item: "futuristic"
+  title: "Futuristic"
+
+- item: "cyberpunk"
+  title: "Cyberpunk"
+
+- item: "steampunk"
+  title: "Steampunk"
+
+- item: "vaporwave"
+  title: "Vaporwave"
+
+- item: "synthwave"
+  title: "Synthwave"
+
+- item: "neon"
+  title: "Neon"
+
+- item: "glitch"
+  title: "Glitch"
+
+- item: "dark"
+  title: "Dark Theme"
+
+- item: "light"
+  title: "Light Theme"
+
+- item: "monochromatic"
+  title: "Monochromatic"
+
+- item: "pastel"
+  title: "Pastel"
+
+- item: "gradient"
+  title: "Gradient"
+
+- item: "duotone"
+  title: "Duotone"
+
+- item: "black-white"
+  title: "Black & White"
+
+- item: "colorful"
+  title: "Colorful"
+
+- item: "bold"
+  title: "Bold & Vibrant"
+
+- item: "muted"
+  title: "Muted"
+
+- item: "earth-tones"
+  title: "Earth Tones"
+
+- item: "jewel-tones"
+  title: "Jewel Tones"
+
+- item: "scandinavian"
+  title: "Scandinavian"
+
+- item: "japandi"
+  title: "Japandi"
+
+- item: "wabi-sabi"
+  title: "Wabi-Sabi"
+
+- item: "zen"
+  title: "Zen"
+
+- item: "kawaii"
+  title: "Kawaii"
+
+- item: "grunge"
+  title: "Grunge"
+
+- item: "punk"
+  title: "Punk"
+
+- item: "street-art"
+  title: "Street Art"
+
+- item: "graffiti"
+  title: "Graffiti"
+
+- item: "collage"
+  title: "Collage"
+
+- item: "mixed-media"
+  title: "Mixed Media"
+
+- item: "hand-drawn"
+  title: "Hand-Drawn"
+
+- item: "watercolor"
+  title: "Watercolor"
+
+- item: "sketch"
+  title: "Sketch"
+
+- item: "doodle"
+  title: "Doodle"
+
+- item: "line-art"
+  title: "Line Art"
+
+- item: "geometric"
+  title: "Geometric"
+
+- item: "organic"
+  title: "Organic"
+
+- item: "abstract"
+  title: "Abstract"
+
+- item: "surreal"
+  title: "Surreal"
+
+- item: "pop-art"
+  title: "Pop Art"
+
+- item: "memphis"
+  title: "Memphis Design"
+
+- item: "tropical"
+  title: "Tropical"
+
+- item: "coastal"
+  title: "Coastal"
+
+- item: "mountain"
+  title: "Mountain"
+
+- item: "forest"
+  title: "Forest"
+
+- item: "desert"
+  title: "Desert"
+
+- item: "urban"
+  title: "Urban"
+
+- item: "industrial"
+  title: "Industrial"
+
+- item: "rustic"
+  title: "Rustic"
+
+- item: "farmhouse"
+  title: "Farmhouse"
+
+- item: "cottage-core"
+  title: "Cottagecore"
+
+- item: "dark-academia"
+  title: "Dark Academia"
+
+- item: "light-academia"
+  title: "Light Academia"
+
+- item: "clean"
+  title: "Clean"
+
+- item: "simple"
+  title: "Simple"
+
+- item: "elegant"
+  title: "Elegant"
+
+- item: "sophisticated"
+  title: "Sophisticated"
+
+- item: "luxury"
+  title: "Luxury"
+
+- item: "premium"
+  title: "Premium"
+
+- item: "quiet-luxury"
+  title: "Quiet Luxury"
+
+- item: "old-money"
+  title: "Old Money"
+
+- item: "corporate"
+  title: "Corporate"
+
+- item: "professional"
+  title: "Professional"
+
+- item: "editorial"
+  title: "Editorial"
+
+- item: "magazine"
+  title: "Magazine Style"
+
+- item: "newspaper"
+  title: "Newspaper Style"
+
+- item: "digital-native"
+  title: "Digital Native"
+
+- item: "tech"
+  title: "Tech"
+
+- item: "sleek"
+  title: "Sleek"
+
+- item: "futuristic-tech"
+  title: "Futuristic Tech"
+
+- item: "holographic"
+  title: "Holographic"
+
+- item: "iridescent"
+  title: "Iridescent"
+
+- item: "metallic"
+  title: "Metallic"
+
+- item: "textured"
+  title: "Textured"
+
+- item: "smooth"
+  title: "Smooth"
+
+- item: "glossy"
+  title: "Glossy"
+
+- item: "matte"
+  title: "Matte"
+
+- item: "satin"
+  title: "Satin"
+
+- item: "translucent"
+  title: "Translucent"
+
+- item: "glassmorphic"
+  title: "Glassmorphic"
+
+- item: "neumorphic"
+  title: "Neumorphic"
+
+- item: "claymorphic"
+  title: "Claymorphic"
+
+- item: "material"
+  title: "Material Design"
+
+- item: "fluent"
+  title: "Fluent Design"
+
+- item: "human-interface"
+  title: "Human Interface"
+
+- item: "flat"
+  title: "Flat Design"
+
+- item: "skeuomorphic"
+  title: "Skeuomorphic"
+
+- item: "responsive"
+  title: "Responsive"
+
+- item: "mobile-first"
+  title: "Mobile-First"
+
+- item: "desktop-first"
+  title: "Desktop-First"
+
+- item: "adaptive"
+  title: "Adaptive"
+
+- item: "accessible"
+  title: "Accessible"
+
+- item: "inclusive"
+  title: "Inclusive"
+
+- item: "sustainable"
+  title: "Sustainable"
+
+- item: "eco-friendly"
+  title: "Eco-Friendly"
+
+- item: "storytelling"
+  title: "Storytelling"
+
+- item: "cinematic"
+  title: "Cinematic"
+
+- item: "dramatic"
+  title: "Dramatic"
+
+- item: "playful"
+  title: "Playful"
+
+- item: "whimsical"
+  title: "Whimsical"
+
+- item: "fun"
+  title: "Fun"
+
+- item: "quirky"
+  title: "Quirky"
+
+- item: "edgy"
+  title: "Edgy"
+
+- item: "experimental"
+  title: "Experimental"
+
+- item: "avant-garde"
+  title: "Avant-Garde"
+
+- item: "post-modern"
+  title: "Post-Modern"
+
+- item: "meta-modern"
+  title: "Meta-Modern"
+
+- item: "new-aesthetic"
+  title: "New Aesthetic"
+
+- item: "interactive"
+  title: "Interactive"
+
+- item: "immersive"
+  title: "Immersive"
+
+- item: "parallax"
+  title: "Parallax"
+
+- item: "scrollytelling"
+  title: "Scrollytelling"
+
+- item: "animated"
+  title: "Animated"
+
+- item: "micro-interaction"
+  title: "Micro-Interaction"
+
+- item: "transition-heavy"
+  title: "Transition-Heavy"
+
+- item: "smooth-scrolling"
+  title: "Smooth Scrolling"
+
+- item: "full-screen"
+  title: "Full-Screen"
+
+- item: "split-screen"
+  title: "Split-Screen"
+
+- item: "asymmetric"
+  title: "Asymmetric Layout"
+
+- item: "grid-based"
+  title: "Grid-Based"
+
+- item: "masonry"
+  title: "Masonry"
+
+- item: "card-based"
+  title: "Card-Based"
+
+- item: "tile-based"
+  title: "Tile-Based"
+
+- item: "hub-and-spoke"
+  title: "Hub-and-Spoke"
+
+- item: "one-page"
+  title: "One-Page"
+
+- item: "multi-page"
+  title: "Multi-Page"
+
+- item: "single-column"
+  title: "Single Column"
+
+- item: "two-column"
+  title: "Two Column"
+
+- item: "three-column"
+  title: "Three Column"
+
+- item: "sidebar-layout"
+  title: "Sidebar Layout"
+
+- item: "no-sidebar"
+  title: "No Sidebar"
+
+- item: "boxed-layout"
+  title: "Boxed Layout"
+
+- item: "full-width"
+  title: "Full Width"
+
+- item: "limited-width"
+  title: "Limited Width"
+
+- item: "minimal-navigation"
+  title: "Minimal Navigation"
+
+- item: "mega-menu"
+  title: "Mega Menu"
+
+- item: "hamburger-menu"
+  title: "Hamburger Menu"
+
+- item: "sticky-header"
+  title: "Sticky Header"
+
+- item: "fixed-header"
+  title: "Fixed Header"
+
+- item: "transparent-header"
+  title: "Transparent Header"
+
+- item: "bottom-navigation"
+  title: "Bottom Navigation"
+
+- item: "tab-navigation"
+  title: "Tab Navigation"
+
+- item: "breadcrumb"
+  title: "Breadcrumb Navigation"
+
+- item: "large-hero"
+  title: "Large Hero"
+
+- item: "video-hero"
+  title: "Video Hero"
+
+- item: "carousel-hero"
+  title: "Carousel Hero"
+
+- item: "showcase-style"
+  title: "Showcase Style"
+
+- item: "feature-style"
+  title: "Feature Style"
+
+- item: "list-style"
+  title: "List Style"
+
+- item: "gallery-style"
+  title: "Gallery Style"
+
+- item: "shop-style"
+  title: "Shop Style"
+
+- item: "minimal-store"
+  title: "Minimal Store"
+
+- item: "luxury-store"
+  title: "Luxury Store"
+
+- item: "boutique-store"
+  title: "Boutique Store"
+
+- item: "marketplace-style"
+  title: "Marketplace Style"
+
+- item: "subscription-style"
+  title: "Subscription Style"
+
+- item: "member-style"
+  title: "Membership Style"
+
+- item: "course-style"
+  title: "Course Style"
+
+- item: "event-style"
+  title: "Event Style"
+
+- item: "booking-style"
+  title: "Booking Style"
+
+- item: "resume-style"
+  title: "Resume Style"
+
+- item: "portfolio-style"
+  title: "Portfolio Style"
+
+- item: "magazine-style"
+  title: "Magazine Style"
+
+- item: "news-style"
+  title: "News Style"
+
+- item: "blog-style"
+  title: "Blog Style"
+
+- item: "personal-blog"
+  title: "Personal Blog"
+
+- item: "food-blog"
+  title: "Food Blog"
+
+- item: "travel-blog"
+  title: "Travel Blog"
+
+- item: "fashion-blog"
+  title: "Fashion Blog"
+
+- item: "lifestyle-blog"
+  title: "Lifestyle Blog"
+
+- item: "tech-blog"
+  title: "Tech Blog"
+
+- item: "review-blog"
+  title: "Review Blog"
+
+- item: "photography-blog"
+  title: "Photography Blog"
+
+- item: "art-blog"
+  title: "Art Blog"
+
+- item: "music-blog"
+  title: "Music Blog"
+
+- item: "fitness-blog"
+  title: "Fitness Blog"
+
+- item: "wellness-blog"
+  title: "Wellness Blog"
+
+- item: "mindfulness-blog"
+  title: "Mindfulness Blog"
+
+- item: "spiritual-blog"
+  title: "Spiritual Blog"
+
+- item: "business-blog"
+  title: "Business Blog"
+
+- item: "finance-blog"
+  title: "Finance Blog"
+
+- item: "investing-blog"
+  title: "Investing Blog"
+
+- item: "real-estate-blog"
+  title: "Real Estate Blog"
+
+- item: "parenting-blog"
+  title: "Parenting Blog"
+
+- item: "education-blog"
+  title: "Education Blog"
+
+- item: "diy-blog"
+  title: "DIY Blog"
+
+- item: "craft-blog"
+  title: "Craft Blog"
+
+- item: "hobby-blog"
+  title: "Hobby Blog"
+
+- item: "gaming-blog"
+  title: "Gaming Blog"
