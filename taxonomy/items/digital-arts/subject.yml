@@ -1,0 +1,1028 @@
+- item: "digital-painting"
+  title: "Digital Painting"
+
+- item: "concept"
+  title: "Concept"
+
+- item: "character-design"
+  title: "Character Design"
+
+- item: "environment-design"
+  title: "Environment Design"
+
+- item: "creature-design"
+  title: "Creature Design"
+
+- item: "prop-design"
+  title: "Prop Design"
+
+- item: "vehicle-design"
+  title: "Vehicle Design"
+
+- item: "weapon-design"
+  title: "Weapon Design"
+
+- item: "mecha-design"
+  title: "Mecha Design"
+
+- item: "fashion-design"
+  title: "Fashion Design"
+
+- item: "costume-design"
+  title: "Costume Design"
+
+- item: "armor-design"
+  title: "Armor Design"
+
+- item: "jewelry-design"
+  title: "Jewelry Design"
+
+- item: "accessory-design"
+  title: "Accessory Design"
+
+- item: "hairstyle-design"
+  title: "Hairstyle Design"
+
+- item: "makeup-design"
+  title: "Makeup Design"
+
+- item: "tattoo-design"
+  title: "Tattoo Design"
+
+- item: "logo-design"
+  title: "Logo Design"
+
+- item: "brand-identity"
+  title: "Brand Identity"
+
+- item: "typography"
+  title: "Typography"
+
+- item: "calligraphy"
+  title: "Calligraphy"
+
+- item: "lettering"
+  title: "Lettering"
+
+- item: "icon-design"
+  title: "Icon Design"
+
+- item: "illustration"
+  title: "Illustration"
+
+- item: "editorial-illustration"
+  title: "Editorial Illustration"
+
+- item: "book-illustration"
+  title: "Book Illustration"
+
+- item: "childrens-illustration"
+  title: "Children's Illustration"
+
+- item: "scientific-illustration"
+  title: "Scientific Illustration"
+
+- item: "medical-illustration"
+  title: "Medical Illustration"
+
+- item: "botanical-illustration"
+  title: "Botanical Illustration"
+
+- item: "zoological-illustration"
+  title: "Zoological Illustration"
+
+- item: "anatomical-illustration"
+  title: "Anatomical Illustration"
+
+- item: "technical-illustration"
+  title: "Technical Illustration"
+
+- item: "architectural-illustration"
+  title: "Architectural Illustration"
+
+- item: "fashion-illustration"
+  title: "Fashion Illustration"
+
+- item: "food-illustration"
+  title: "Food Illustration"
+
+- item: "travel-illustration"
+  title: "Travel Illustration"
+
+- item: "fantasy-illustration"
+  title: "Fantasy Illustration"
+
+- item: "sci-fi-illustration"
+  title: "Sci-Fi Illustration"
+
+- item: "horror-illustration"
+  title: "Horror Illustration"
+
+- item: "comic-illustration"
+  title: "Comic Illustration"
+
+- item: "manga-illustration"
+  title: "Manga Illustration"
+
+- item: "manhwa-illustration"
+  title: "Manhwa Illustration"
+
+- item: "webtoon-illustration"
+  title: "Webtoon Illustration"
+
+- item: "storyboarding"
+  title: "Storyboarding"
+
+- item: "animatics"
+  title: "Animatics"
+
+- item: "2d-animation"
+  title: "2D Animation"
+
+- item: "3d-animation"
+  title: "3D Animation"
+
+- item: "character-animation"
+  title: "Character Animation"
+
+- item: "creature-animation"
+  title: "Creature Animation"
+
+- item: "object-animation"
+  title: "Object Animation"
+
+- item: "fx-animation"
+  title: "FX Animation"
+
+- item: "particle-animation"
+  title: "Particle Animation"
+
+- item: "rigging"
+  title: "Rigging"
+
+- item: "3d-modeling"
+  title: "3D Modeling"
+
+- item: "hard-surface-modeling"
+  title: "Hard Surface Modeling"
+
+- item: "organic-modeling"
+  title: "Organic Modeling"
+
+- item: "3d-sculpting"
+  title: "3D Sculpting"
+
+- item: "retopology"
+  title: "Retopology"
+
+- item: "uv-mapping"
+  title: "UV Mapping"
+
+- item: "texturing"
+  title: "Texturing"
+
+- item: "pbr-texturing"
+  title: "PBR Texturing"
+
+- item: "hand-painted-texturing"
+  title: "Hand-Painted Texturing"
+
+- item: "procedural-texturing"
+  title: "Procedural Texturing"
+
+- item: "shader-development"
+  title: "Shader Development"
+
+- item: "lighting"
+  title: "Lighting"
+
+- item: "rendering"
+  title: "Rendering"
+
+- item: "3d-printing"
+  title: "3D Printing"
+
+- item: "vfx"
+  title: "Visual Effects (VFX)"
+
+- item: "motion-graphics"
+  title: "Motion Graphics"
+
+- item: "kinetic-typography"
+  title: "Kinetic Typography"
+
+- item: "title-design"
+  title: "Title Design"
+
+- item: "music-visualization"
+  title: "Music Visualization"
+
+- item: "audio-reactive-design"
+  title: "Audio-Reactive Design"
+
+- item: "generative-design"
+  title: "Generative Design"
+
+- item: "procedural-generation"
+  title: "Procedural Generation"
+
+- item: "algorithmic"
+  title: "Algorithmic"
+
+- item: "data-visualization"
+  title: "Data Visualization"
+
+- item: "infographic-design"
+  title: "Infographic Design"
+
+- item: "ui-design"
+  title: "User Interface (UI) Design"
+
+- item: "ux-design"
+  title: "User Experience (UX) Design"
+
+- item: "interaction-design"
+  title: "Interaction Design"
+
+- item: "game-ui-design"
+  title: "Game UI Design"
+
+- item: "dashboard-design"
+  title: "Dashboard Design"
+
+- item: "app-design"
+  title: "App Design"
+
+- item: "web-design"
+  title: "Web Design"
+
+- item: "landing-page-design"
+  title: "Landing Page Design"
+
+- item: "ecommerce-design"
+  title: "E-commerce Design"
+
+- item: "social-media-design"
+  title: "Social Media Design"
+
+- item: "email-design"
+  title: "Email Design"
+
+- item: "presentation-design"
+  title: "Presentation Design"
+
+- item: "poster-design"
+  title: "Poster Design"
+
+- item: "flyer-design"
+  title: "Flyer Design"
+
+- item: "brochure-design"
+  title: "Brochure Design"
+
+- item: "magazine-design"
+  title: "Magazine Design"
+
+- item: "newspaper-design"
+  title: "Newspaper Design"
+
+- item: "book-design"
+  title: "Book Design"
+
+- item: "cover-design"
+  title: "Cover Design"
+
+- item: "packaging-design"
+  title: "Packaging Design"
+
+- item: "label-design"
+  title: "Label Design"
+
+- item: "merchandise-design"
+  title: "Merchandise Design"
+
+- item: "t-shirt-design"
+  title: "T-Shirt Design"
+
+- item: "apparel-design"
+  title: "Apparel Design"
+
+- item: "sneaker-design"
+  title: "Sneaker Design"
+
+- item: "accessory-design"
+  title: "Accessory Design"
+
+- item: "furniture-design"
+  title: "Furniture Design"
+
+- item: "lighting-design"
+  title: "Lighting Design"
+
+- item: "product-design"
+  title: "Product Design"
+
+- item: "industrial-design"
+  title: "Industrial Design"
+
+- item: "interior-design"
+  title: "Interior Design"
+
+- item: "exhibition-design"
+  title: "Exhibition Design"
+
+- item: "event-design"
+  title: "Event Design"
+
+- item: "stage-design"
+  title: "Stage Design"
+
+- item: "set-design"
+  title: "Set Design"
+
+- item: "pixel"
+  title: "Pixel"
+
+- item: "voxel"
+  title: "Voxel"
+
+- item: "isometric"
+  title: "Isometric"
+
+- item: "low-poly"
+  title: "Low-Poly"
+
+- item: "vector"
+  title: "Vector"
+
+- item: "digital-collage"
+  title: "Digital Collage"
+
+- item: "photo-manipulation"
+  title: "Photo Manipulation"
+
+- item: "digital-illustration"
+  title: "Digital Illustration"
+
+- item: "digital-sculpture"
+  title: "Digital Sculpture"
+
+- item: "landscape"
+  title: "Landscape"
+
+- item: "cityscape"
+  title: "Cityscape"
+
+- item: "seascape"
+  title: "Seascape"
+
+- item: "skyscape"
+  title: "Skyscape"
+
+- item: "portrait"
+  title: "Portrait"
+
+- item: "self-portrait"
+  title: "Self-Portrait"
+
+- item: "figure-drawing"
+  title: "Figure Drawing"
+
+- item: "gesture-drawing"
+  title: "Gesture Drawing"
+
+- item: "life-drawing"
+  title: "Life Drawing"
+
+- item: "sketching"
+  title: "Sketching"
+
+- item: "line"
+  title: "Line"
+
+- item: "monochrome"
+  title: "Monochrome"
+
+- item: "black-and-white"
+  title: "Black and White"
+
+- item: "grayscale"
+  title: "Grayscale"
+
+- item: "color-theory"
+  title: "Color Theory"
+
+- item: "color-palette-design"
+  title: "Color Palette Design"
+
+- item: "composition"
+  title: "Composition"
+
+- item: "perspective"
+  title: "Perspective"
+
+- item: "foreshortening"
+  title: "Foreshortening"
+
+- item: "anatomy"
+  title: "Anatomy"
+
+- item: "figure-anatomy"
+  title: "Figure Anatomy"
+
+- item: "animal-anatomy"
+  title: "Animal Anatomy"
+
+- item: "mechanical-anatomy"
+  title: "Mechanical Anatomy"
+
+- item: "botanical"
+  title: "Botanical"
+
+- item: "floral"
+  title: "Floral"
+
+- item: "still-life"
+  title: "Still Life"
+
+- item: "food"
+  title: "Food"
+
+- item: "drink"
+  title: "Drink"
+
+- item: "abstract"
+  title: "Abstract"
+
+- item: "geometric"
+  title: "Geometric"
+
+- item: "minimalist"
+  title: "Minimalist"
+
+- item: "surreal"
+  title: "Surreal"
+
+- item: "pop"
+  title: "Pop"
+
+- item: "op"
+  title: "Op"
+
+- item: "dada"
+  title: "Dada"
+
+- item: "psychedelic"
+  title: "Psychedelic"
+
+- item: "glitch"
+  title: "Glitch"
+
+- item: "databend"
+  title: "Databend"
+
+- item: "fractal"
+  title: "Fractal"
+
+- item: "mandala"
+  title: "Mandala"
+
+- item: "zentangle"
+  title: "Zentangle"
+
+- item: "doodle"
+  title: "Doodle"
+
+- item: "graffiti"
+  title: "Graffiti"
+
+- item: "street"
+  title: "Street"
+
+- item: "mural"
+  title: "Mural"
+
+- item: "installation"
+  title: "Installation"
+
+- item: "digital-installation"
+  title: "Digital Installation"
+
+- item: "interactive-installation"
+  title: "Interactive Installation"
+
+- item: "projection-mapping"
+  title: "Projection Mapping"
+
+- item: "video"
+  title: "Video"
+
+- item: "experimental-film"
+  title: "Experimental Film"
+
+- item: "short-film"
+  title: "Short Film"
+
+- item: "animated-short"
+  title: "Animated Short"
+
+- item: "music-video"
+  title: "Music Video"
+
+- item: "visual-music"
+  title: "Visual Music"
+
+- item: "sound-design"
+  title: "Sound Design"
+
+- item: "audio-branding"
+  title: "Audio Branding"
+
+- item: "voice-design"
+  title: "Voice Design"
+
+- item: "immersive-design"
+  title: "Immersive Design"
+
+- item: "vr-design"
+  title: "Virtual Reality Design"
+
+- item: "ar-design"
+  title: "Augmented Reality Design"
+
+- item: "mr-design"
+  title: "Mixed Reality Design"
+
+- item: "xr-design"
+  title: "Extended Reality Design"
+
+- item: "metaverse-design"
+  title: "Metaverse Design"
+
+- item: "game-design"
+  title: "Game Design"
+
+- item: "level-design"
+  title: "Level Design"
+
+- item: "world-building"
+  title: "World Building"
+
+- item: "lore-design"
+  title: "Lore Design"
+
+- item: "narrative-design"
+  title: "Narrative Design"
+
+- item: "interactive-storytelling"
+  title: "Interactive Storytelling"
+
+- item: "transmedia-design"
+  title: "Transmedia Design"
+
+- item: "cross-media-design"
+  title: "Cross-Media Design"
+
+- item: "multimedia-design"
+  title: "Multimedia Design"
+
+- item: "digital-publishing"
+  title: "Digital Publishing"
+
+- item: "e-book-design"
+  title: "E-Book Design"
+
+- item: "digital-magazine"
+  title: "Digital Magazine"
+
+- item: "digital-portfolio"
+  title: "Digital Portfolio"
+
+- item: "cv-design"
+  title: "CV Design"
+
+- item: "resume-design"
+  title: "Resume Design"
+
+- item: "business-card-design"
+  title: "Business Card Design"
+
+- item: "stationery-design"
+  title: "Stationery Design"
+
+- item: "invitation-design"
+  title: "Invitation Design"
+
+- item: "greeting-card-design"
+  title: "Greeting Card Design"
+
+- item: "wallpaper-design"
+  title: "Wallpaper Design"
+
+- item: "pattern-design"
+  title: "Pattern Design"
+
+- item: "textile-design"
+  title: "Textile Design"
+
+- item: "surface-design"
+  title: "Surface Design"
+
+- item: "ceramic-design"
+  title: "Ceramic Design"
+
+- item: "glass-design"
+  title: "Glass Design"
+
+- item: "metal-design"
+  title: "Metal Design"
+
+- item: "wood-design"
+  title: "Wood Design"
+
+- item: "leather-design"
+  title: "Leather Design"
+
+- item: "paper-design"
+  title: "Paper Design"
+
+- item: "craft-design"
+  title: "Craft Design"
+
+- item: "knitting-design"
+  title: "Knitting Design"
+
+- item: "crochet-design"
+  title: "Crochet Design"
+
+- item: "embroidery-design"
+  title: "Embroidery Design"
+
+- item: "beading-design"
+  title: "Beading Design"
+
+- item: "quilting-design"
+  title: "Quilting Design"
+
+- item: "patchwork-design"
+  title: "Patchwork Design"
+
+- item: "macrame-design"
+  title: "Macrame Design"
+
+- item: "weaving-design"
+  title: "Weaving Design"
+
+- item: "basket-weaving"
+  title: "Basket Weaving"
+
+- item: "origami-design"
+  title: "Origami Design"
+
+- item: "papercraft-design"
+  title: "Papercraft Design"
+
+- item: "card-making"
+  title: "Card Making"
+
+- item: "scrapbooking"
+  title: "Scrapbooking"
+
+- item: "journal-design"
+  title: "Journal Design"
+
+- item: "bullet-journal-design"
+  title: "Bullet Journal Design"
+
+- item: "planner-design"
+  title: "Planner Design"
+
+- item: "calendar-design"
+  title: "Calendar Design"
+
+- item: "diary-design"
+  title: "Diary Design"
+
+- item: "notebook-design"
+  title: "Notebook Design"
+
+- item: "sketchbook-design"
+  title: "Sketchbook Design"
+
+- item: "art-journal"
+  title: "Art Journal"
+
+- item: "zine-design"
+  title: "Zine Design"
+
+- item: "comic-design"
+  title: "Comic Design"
+
+- item: "graphic-novel-design"
+  title: "Graphic Novel Design"
+
+- item: "webcomic-design"
+  title: "Webcomic Design"
+
+- item: "manga-design"
+  title: "Manga Design"
+
+- item: "manhwa-design"
+  title: "Manhwa Design"
+
+- item: "webtoon-design"
+  title: "Webtoon Design"
+
+- item: "cartoon-design"
+  title: "Cartoon Design"
+
+- item: "animated-series-design"
+  title: "Animated Series Design"
+
+- item: "tv-graphics"
+  title: "TV Graphics"
+
+- item: "broadcast-design"
+  title: "Broadcast Design"
+
+- item: "news-graphics"
+  title: "News Graphics"
+
+- item: "sports-graphics"
+  title: "Sports Graphics"
+
+- item: "weather-graphics"
+  title: "Weather Graphics"
+
+- item: "channel-branding"
+  title: "Channel Branding"
+
+- item: "show-design"
+  title: "Show Design"
+
+- item: "sequence-design"
+  title: "Sequence Design"
+
+- item: "opening-credits"
+  title: "Opening Credits"
+
+- item: "closing-credits"
+  title: "Closing Credits"
+
+- item: "lower-thirds"
+  title: "Lower Thirds"
+
+- item: "bug-design"
+  title: "Bug Design"
+
+- item: "bumper-design"
+  title: "Bumper Design"
+
+- item: "promo-design"
+  title: "Promo Design"
+
+- item: "trailer-design"
+  title: "Trailer Design"
+
+- item: "teaser-design"
+  title: "Teaser Design"
+
+- item: "advertisement-design"
+  title: "Advertisement Design"
+
+- item: "billboard-design"
+  title: "Billboard Design"
+
+- item: "outdoor-design"
+  title: "Outdoor Design"
+
+- item: "transit-design"
+  title: "Transit Design"
+
+- item: "wrap-design"
+  title: "Wrap Design"
+
+- item: "signage-design"
+  title: "Signage Design"
+
+- item: "wayfinding-design"
+  title: "Wayfinding Design"
+
+- item: "environmental-graphics"
+  title: "Environmental Graphics"
+
+- item: "experiential-design"
+  title: "Experiential Design"
+
+- item: "retail-design"
+  title: "Retail Design"
+
+- item: "pop-design"
+  title: "Point of Purchase Design"
+
+- item: "display-design"
+  title: "Display Design"
+
+- item: "exhibit-design"
+  title: "Exhibit Design"
+
+- item: "museum-design"
+  title: "Museum Design"
+
+- item: "gallery-design"
+  title: "Gallery Design"
+
+- item: "curatorial-design"
+  title: "Curatorial Design"
+
+- item: "archival-design"
+  title: "Archival Design"
+
+- item: "preservation-design"
+  title: "Preservation Design"
+
+- item: "restoration-design"
+  title: "Restoration Design"
+
+- item: "reproduction-design"
+  title: "Reproduction Design"
+
+- item: "facsimile-design"
+  title: "Facsimile Design"
+
+- item: "replica-design"
+  title: "Replica Design"
+
+- item: "homage-design"
+  title: "Homage Design"
+
+- item: "parody-design"
+  title: "Parody Design"
+
+- item: "satire-design"
+  title: "Satire Design"
+
+- item: "caricature-design"
+  title: "Caricature Design"
+
+- item: "meme-design"
+  title: "Meme Design"
+
+- item: "internet-art"
+  title: "Internet Art"
+
+- item: "net-art"
+  title: "Net Art"
+
+- item: "post-internet"
+  title: "Post-Internet"
+
+- item: "social-media"
+  title: "Social Media"
+
+- item: "digital-activism"
+  title: "Digital Activism"
+
+- item: "political"
+  title: "Political"
+
+- item: "social-commentary"
+  title: "Social Commentary"
+
+- item: "cultural"
+  title: "Cultural"
+
+- item: "heritage"
+  title: "Heritage"
+
+- item: "traditional"
+  title: "Traditional"
+
+- item: "folk"
+  title: "Folk"
+
+- item: "indigenous"
+  title: "Indigenous"
+
+- item: "tribal"
+  title: "Tribal"
+
+- item: "ethnic"
+  title: "Ethnic"
+
+- item: "world"
+  title: "World"
+
+- item: "global"
+  title: "Global"
+
+- item: "fusion"
+  title: "Fusion"
+
+- item: "contemporary"
+  title: "Contemporary"
+
+- item: "modern"
+  title: "Modern"
+
+- item: "post-modern"
+  title: "Post-Modern"
+
+- item: "meta-modern"
+  title: "Meta-Modern"
+
+- item: "experimental"
+  title: "Experimental"
+
+- item: "conceptual"
+  title: "Conceptual"
+
+- item: "process"
+  title: "Process"
+
+- item: "performance"
+  title: "Performance"
+
+- item: "live"
+  title: "Live"
+
+- item: "durational"
+  title: "Durational"
+
+- item: "ephemeral"
+  title: "Ephemeral"
+
+- item: "site-specific"
+  title: "Site-Specific"
+
+- item: "installation"
+  title: "Installation"
+
+- item: "interactive"
+  title: "Interactive"
+
+- item: "participatory"
+  title: "Participatory"
+
+- item: "relational"
+  title: "Relational"
+
+- item: "community"
+  title: "Community"
+
+- item: "collaborative"
+  title: "Collaborative"
+
+- item: "collective"
+  title: "Collective"
+
+- item: "open-source"
+  title: "Open Source"
+
+- item: "free-culture"
+  title: "Free Culture"
+
+- item: "creative-commons"
+  title: "Creative Commons"
+
+- item: "public-domain"
+  title: "Public Domain"
+
+- item: "copyright-free"
+  title: "Copyright-Free"
+
+- item: "royalty-free"
+  title: "Royalty-Free"
+
+- item: "stock"
+  title: "Stock"
+
+- item: "asset-design"
+  title: "Asset Design"
+
+- item: "resource-design"
+  title: "Resource Design"
+
+- item: "library-design"
+  title: "Library Design"
+
+- item: "kit-design"
+  title: "Kit Design"
+
+- item: "bundle-design"
+  title: "Bundle Design"
+
+- item: "collection-design"
+  title: "Collection Design"
+
+- item: "series-design"
+  title: "Series Design"
+
+- item: "franchise-design"
+  title: "Franchise Design"
+
+- item: "universe-design"
+  title: "Universe Design"
+
+- item: "multiverse-design"
+  title: "Multiverse Design"
