@@ -1,10 +1,10 @@
 {
   "taxonomy_1": {
-    "item": "asset_type",
+    "item": "asset-type",
     "title": "asset type"
   },
   "taxonomy_2": {
-    "item": "game_engine",
+    "item": "game-engine",
     "title": "game engine"
   },
   "taxonomy_3": {
