@@ -1,0 +1,1343 @@
+- item: "digital-painting"
+  title: "Digital Painting"
+
+- item: "vector"
+  title: "Vector"
+
+- item: "pixel"
+  title: "Pixel"
+
+- item: "3d"
+  title: "3D"
+
+- item: "low-poly"
+  title: "Low-Poly"
+
+- item: "high-poly"
+  title: "High-Poly"
+
+- item: "photobashing"
+  title: "Photobashing"
+
+- item: "matte-painting"
+  title: "Matte Painting"
+
+- item: "concept"
+  title: "Concept"
+
+- item: "environment"
+  title: "Environment"
+
+- item: "character"
+  title: "Character"
+
+- item: "creature-design"
+  title: "Creature Design"
+
+- item: "vehicle-design"
+  title: "Vehicle Design"
+
+- item: "weapon-design"
+  title: "Weapon Design"
+
+- item: "prop-design"
+  title: "Prop Design"
+
+- item: "ui"
+  title: "UI"
+
+- item: "game"
+  title: "Game"
+
+- item: "background"
+  title: "Background"
+
+- item: "sprite"
+  title: "Sprite"
+
+- item: "spritesheet-design"
+  title: "Spritesheet Design"
+
+- item: "tileset-design"
+  title: "Tileset Design"
+
+- item: "texture"
+  title: "Texture"
+
+- item: "material"
+  title: "Material"
+
+- item: "shader"
+  title: "Shader"
+
+- item: "vfx"
+  title: "VFX"
+
+- item: "particle"
+  title: "Particle"
+
+- item: "lighting"
+  title: "Lighting"
+
+- item: "color-scripting"
+  title: "Color Scripting"
+
+- item: "storyboard"
+  title: "Storyboard"
+
+- item: "animatic"
+  title: "Animatic"
+
+- item: "2d-animation"
+  title: "2D Animation"
+
+- item: "3d-animation"
+  title: "3D Animation"
+
+- item: "stop-motion"
+  title: "Stop Motion"
+
+- item: "cutout-animation"
+  title: "Cutout Animation"
+
+- item: "rotoscoping"
+  title: "Rotoscoping"
+
+- item: "motion-graphics"
+  title: "Motion Graphics"
+
+- item: "kinetic-typography"
+  title: "Kinetic Typography"
+
+- item: "character-rigging"
+  title: "Character Rigging"
+
+- item: "3d-sculpting"
+  title: "3D Sculpting"
+
+- item: "3d-modeling"
+  title: "3D Modeling"
+
+- item: "hard-surface-modeling"
+  title: "Hard Surface Modeling"
+
+- item: "organic-modeling"
+  title: "Organic Modeling"
+
+- item: "retopology"
+  title: "Retopology"
+
+- item: "uv-unwrapping"
+  title: "UV Unwrapping"
+
+- item: "texturing"
+  title: "Texturing"
+
+- item: "pbr-texturing"
+  title: "PBR Texturing"
+
+- item: "hand-painted-texturing"
+  title: "Hand-Painted Texturing"
+
+- item: "procedural-texturing"
+  title: "Procedural Texturing"
+
+- item: "procedural"
+  title: "Procedural"
+
+- item: "generative"
+  title: "Generative"
+
+- item: "algorithmic"
+  title: "Algorithmic"
+
+- item: "computational"
+  title: "Computational"
+
+- item: "data"
+  title: "Data"
+
+- item: "data-visualization"
+  title: "Data Visualization"
+
+- item: "infographic"
+  title: "Infographic"
+
+- item: "information"
+  title: "Information"
+
+- item: "interactive"
+  title: "Interactive"
+
+- item: "immersive"
+  title: "Immersive"
+
+- item: "vr"
+  title: "VR"
+
+- item: "ar"
+  title: "AR"
+
+- item: "metaverse"
+  title: "Metaverse"
+
+- item: "digital-illustration"
+  title: "Digital Illustration"
+
+- item: "digital-collage"
+  title: "Digital Collage"
+
+- item: "photo-manipulation"
+  title: "Photo Manipulation"
+
+- item: "digital-mixed-media"
+  title: "Digital Mixed Media"
+
+- item: "glitch"
+  title: "Glitch"
+
+- item: "databend"
+  title: "Databend"
+
+- item: "fractal"
+  title: "Fractal"
+
+- item: "mandala"
+  title: "Mandala"
+
+- item: "geometric"
+  title: "Geometric"
+
+- item: "abstract"
+  title: "Abstract"
+
+- item: "minimal"
+  title: "Minimal"
+
+- item: "surreal"
+  title: "Surreal"
+
+- item: "fantasy"
+  title: "Fantasy"
+
+- item: "sci-fi"
+  title: "Sci-Fi"
+
+- item: "cyberpunk"
+  title: "Cyberpunk"
+
+- item: "steampunk"
+  title: "Steampunk"
+
+- item: "dieselpunk"
+  title: "Dieselpunk"
+
+- item: "solarpunk"
+  title: "Solarpunk"
+
+- item: "gothic"
+  title: "Gothic"
+
+- item: "dark"
+  title: "Dark"
+
+- item: "macabre"
+  title: "Macabre"
+
+- item: "horror"
+  title: "Horror"
+
+- item: "whimsical"
+  title: "Whimsical"
+
+- item: "cute"
+  title: "Cute"
+
+- item: "kawaii"
+  title: "Kawaii"
+
+- item: "chibi"
+  title: "Chibi"
+
+- item: "anime"
+  title: "Anime"
+
+- item: "manga"
+  title: "Manga"
+
+- item: "manhwa"
+  title: "Manhwa"
+
+- item: "webtoon"
+  title: "Webtoon"
+
+- item: "comic"
+  title: "Comic"
+
+- item: "graphic-novel"
+  title: "Graphic Novel"
+
+- item: "cartoon"
+  title: "Cartoon"
+
+- item: "caricature"
+  title: "Caricature"
+
+- item: "portrait"
+  title: "Portrait"
+
+- item: "landscape"
+  title: "Landscape"
+
+- item: "seascape"
+  title: "Seascape"
+
+- item: "cityscape"
+  title: "Cityscape"
+
+- item: "architectural"
+  title: "Architectural"
+
+- item: "interior"
+  title: "Interior"
+
+- item: "still-life"
+  title: "Still Life"
+
+- item: "figure-drawing"
+  title: "Figure Drawing"
+
+- item: "life-drawing"
+  title: "Life Drawing"
+
+- item: "gesture-drawing"
+  title: "Gesture Drawing"
+
+- item: "sketch"
+  title: "Sketch"
+
+- item: "line"
+  title: "Line"
+
+- item: "monoline"
+  title: "Monoline"
+
+- item: "stipple"
+  title: "Stipple"
+
+- item: "hatch"
+  title: "Hatch"
+
+- item: "crosshatch"
+  title: "Crosshatch"
+
+- item: "watercolor-digital"
+  title: "Watercolor Digital"
+
+- item: "oil-digital"
+  title: "Oil Digital"
+
+- item: "acrylic-digital"
+  title: "Acrylic Digital"
+
+- item: "pastel-digital"
+  title: "Pastel Digital"
+
+- item: "charcoal-digital"
+  title: "Charcoal Digital"
+
+- item: "pencil-digital"
+  title: "Pencil Digital"
+
+- item: "ink-digital"
+  title: "Ink Digital"
+
+- item: "marker-digital"
+  title: "Marker Digital"
+
+- item: "airbrush-digital"
+  title: "Airbrush Digital"
+
+- item: "spray-paint-digital"
+  title: "Spray Paint Digital"
+
+- item: "graffiti-digital"
+  title: "Graffiti Digital"
+
+- item: "street-digital"
+  title: "Street Digital"
+
+- item: "typography"
+  title: "Typography"
+
+- item: "lettering"
+  title: "Lettering"
+
+- item: "calligraphy-digital"
+  title: "Calligraphy Digital"
+
+- item: "poster"
+  title: "Poster"
+
+- item: "album"
+  title: "Album"
+
+- item: "cover"
+  title: "Cover"
+
+- item: "book-cover"
+  title: "Book Cover"
+
+- item: "magazine-cover"
+  title: "Magazine Cover"
+
+- item: "fan"
+  title: "Fan"
+
+- item: "fan-fiction"
+  title: "Fan Fiction"
+
+- item: "original-character"
+  title: "Original Character (OC)"
+
+- item: "scene"
+  title: "Scene"
+
+- item: "pinup"
+  title: "Pinup"
+
+- item: "boudoir"
+  title: "Boudoir"
+
+- item: "erotic"
+  title: "Erotic"
+
+- item: "political"
+  title: "Political"
+
+- item: "social-commentary"
+  title: "Social Commentary"
+
+- item: "activist"
+  title: "Activist"
+
+- item: "documentary"
+  title: "Documentary"
+
+- item: "journalism"
+  title: "Journalism"
+
+- item: "editorial"
+  title: "Editorial"
+
+- item: "childrens"
+  title: "Children's"
+
+- item: "educational"
+  title: "Educational"
+
+- item: "scientific"
+  title: "Scientific"
+
+- item: "medical"
+  title: "Medical"
+
+- item: "anatomical"
+  title: "Anatomical"
+
+- item: "botanical"
+  title: "Botanical"
+
+- item: "zoological"
+  title: "Zoological"
+
+- item: "archaeological"
+  title: "Archaeological"
+
+- item: "astronomical"
+  title: "Astronomical"
+
+- item: "space"
+  title: "Space"
+
+- item: "underwater"
+  title: "Underwater"
+
+- item: "fantasy-map"
+  title: "Fantasy Map"
+
+- item: "cartography"
+  title: "Cartography"
+
+- item: "heraldry"
+  title: "Heraldry"
+
+- item: "emblem"
+  title: "Emblem"
+
+- item: "logo"
+  title: "Logo"
+
+- item: "icon"
+  title: "Icon"
+
+- item: "badge"
+  title: "Badge"
+
+- item: "sticker"
+  title: "Sticker"
+
+- item: "emote"
+  title: "Emote"
+
+- item: "avatar"
+  title: "Avatar"
+
+- item: "vtuber"
+  title: "Vtuber"
+
+- item: "vroid"
+  title: "Vroid"
+
+- item: "nft"
+  title: "NFT"
+
+- item: "crypto"
+  title: "Crypto"
+
+- item: "digital-collectible"
+  title: "Digital Collectible"
+
+- item: "animated-nft"
+  title: "Animated NFT"
+
+- item: "generative-nft"
+  title: "Generative NFT"
+
+- item: "pixel-nft"
+  title: "Pixel NFT"
+
+- item: "3d-nft"
+  title: "3D NFT"
+
+- item: "voxel"
+  title: "Voxel"
+
+- item: "minecraft"
+  title: "Minecraft"
+
+- item: "roblox"
+  title: "Roblox"
+
+- item: "fortnite"
+  title: "Fortnite"
+
+- item: "pubg"
+  title: "PUBG"
+
+- item: "valorant"
+  title: "Valorant"
+
+- item: "league"
+  title: "League of Legends"
+
+- item: "dota"
+  title: "Dota 2"
+
+- item: "overwatch"
+  title: "Overwatch"
+
+- item: "genshin"
+  title: "Genshin Impact"
+
+- item: "honkai"
+  title: "Honkai"
+
+- item: "fate"
+  title: "Fate"
+
+- item: "final-fantasy"
+  title: "Final Fantasy"
+
+- item: "zelda"
+  title: "Zelda"
+
+- item: "mario"
+  title: "Mario"
+
+- item: "sonic"
+  title: "Sonic"
+
+- item: "pokemon"
+  title: "Pokemon"
+
+- item: "digimon"
+  title: "Digimon"
+
+- item: "yugioh"
+  title: "Yu-Gi-Oh"
+
+- item: "mtg"
+  title: "Magic: The Gathering"
+
+- item: "dnd"
+  title: "Dungeons & Dragons"
+
+- item: "warhammer"
+  title: "Warhammer"
+
+- item: "star-wars"
+  title: "Star Wars"
+
+- item: "marvel"
+  title: "Marvel"
+
+- item: "dc"
+  title: "DC"
+
+- item: "disney"
+  title: "Disney"
+
+- item: "pixar"
+  title: "Pixar"
+
+- item: "dreamworks"
+  title: "DreamWorks"
+
+- item: "ghibli"
+  title: "Studio Ghibli"
+
+- item: "spider-verse"
+  title: "Spider-Verse"
+
+- item: "arcane"
+  title: "Arcane"
+
+- item: "cyberpunk2077"
+  title: "Cyberpunk 2077"
+
+- item: "elden-ring"
+  title: "Elden Ring"
+
+- item: "bloodborne"
+  title: "Bloodborne"
+
+- item: "dark-souls"
+  title: "Dark Souls"
+
+- item: "sekiro"
+  title: "Sekiro"
+
+- item: "god-of-war"
+  title: "God of War"
+
+- item: "last-of-us"
+  title: "The Last of Us"
+
+- item: "horizon"
+  title: "Horizon"
+
+- item: "ghost-of-tsushima"
+  title: "Ghost of Tsushima"
+
+- item: "red-dead"
+  title: "Red Dead"
+
+- item: "gta"
+  title: "GTA"
+
+- item: "cyber"
+  title: "Cyber"
+
+- item: "synthwave"
+  title: "Synthwave"
+
+- item: "vaporwave"
+  title: "Vaporwave"
+
+- item: "outrun"
+  title: "Outrun"
+
+- item: "retrowave"
+  title: "Retrowave"
+
+- item: "dreamcore"
+  title: "Dreamcore"
+
+- item: "weirdcore"
+  title: "Weirdcore"
+
+- item: "traumacore"
+  title: "Traumacore"
+
+- item: "cryptid"
+  title: "Cryptid"
+
+- item: "folk-horror"
+  title: "Folk Horror"
+
+- item: "cosmic"
+  title: "Cosmic"
+
+- item: "occult"
+  title: "Occult"
+
+- item: "mystical"
+  title: "Mystical"
+
+- item: "ethereal"
+  title: "Ethereal"
+
+- item: "liminal"
+  title: "Liminal"
+
+- item: "backrooms"
+  title: "Backrooms"
+
+- item: "analog-horror"
+  title: "Analog Horror"
+
+- item: "knolling"
+  title: "Knolling"
+
+- item: "flatlay"
+  title: "Flatlay"
+
+- item: "isometric"
+  title: "Isometric"
+
+- item: "orthographic"
+  title: "Orthographic"
+
+- item: "perspective"
+  title: "Perspective"
+
+- item: "foreshortening"
+  title: "Foreshortening"
+
+- item: "chiaroscuro"
+  title: "Chiaroscuro"
+
+- item: "tenebrism"
+  title: "Tenebrism"
+
+- item: "sfumato"
+  title: "Sfumato"
+
+- item: "impasto"
+  title: "Impasto"
+
+- item: "plein-air"
+  title: "Plein Air"
+
+- item: "en-plein-air-digital"
+  title: "En Plein Air Digital"
+
+- item: "urban-sketching"
+  title: "Urban Sketching"
+
+- item: "travel-sketching"
+  title: "Travel Sketching"
+
+- item: "journal"
+  title: "Journal"
+
+- item: "bullet-journal"
+  title: "Bullet Journal"
+
+- item: "zine"
+  title: "Zine"
+
+- item: "comic-zine"
+  title: "Comic Zine"
+
+- item: "zine"
+  title: "Zine"
+
+- item: "photozine"
+  title: "Photozine"
+
+- item: "digital-zine"
+  title: "Digital Zine"
+
+- item: "webcomic"
+  title: "Webcomic"
+
+- item: "webtoon-style"
+  title: "Webtoon Style"
+
+- item: "manhua"
+  title: "Manhua"
+
+- item: "donghua"
+  title: "Donghua"
+
+- item: "otome"
+  title: "Otome"
+
+- item: "visual-novel"
+  title: "Visual Novel"
+
+- item: "dating-sim"
+  title: "Dating Sim"
+
+- item: "rpg"
+  title: "RPG"
+
+- item: "jrpg"
+  title: "JRPG"
+
+- item: "mmo"
+  title: "MMO"
+
+- item: "fps"
+  title: "FPS"
+
+- item: "tps"
+  title: "TPS"
+
+- item: "rts"
+  title: "RTS"
+
+- item: "strategy"
+  title: "Strategy Game"
+
+- item: "puzzle"
+  title: "Puzzle Game"
+
+- item: "platformer"
+  title: "Platformer"
+
+- item: "metroidvania"
+  title: "Metroidvania"
+
+- item: "roguelike"
+  title: "Roguelike"
+
+- item: "roguelite"
+  title: "Roguelite"
+
+- item: "survival"
+  title: "Survival Game"
+
+- item: "horror-game"
+  title: "Horror Game"
+
+- item: "psychological-horror"
+  title: "Psychological Horror"
+
+- item: "cosmic-horror"
+  title: "Cosmic Horror"
+
+- item: "lovecraftian"
+  title: "Lovecraftian"
+
+- item: "gothic-horror"
+  title: "Gothic Horror"
+
+- item: "slasher"
+  title: "Slasher"
+
+- item: "body-horror"
+  title: "Body Horror"
+
+- item: "biopunk"
+  title: "Biopunk"
+
+- item: "ecopunk"
+  title: "Ecopunk"
+
+- item: "nanopunk"
+  title: "Nanopunk"
+
+- item: "cassette-futurism"
+  title: "Cassette Futurism"
+
+- item: "atompunk"
+  title: "Atompunk"
+
+- item: "raypunk"
+  title: "Raypunk"
+
+- item: "clockpunk"
+  title: "Clockpunk"
+
+- item: "stone-punk"
+  title: "Stone Punk"
+
+- item: "caveman"
+  title: "Caveman"
+
+- item: "prehistoric"
+  title: "Prehistoric"
+
+- item: "mythological"
+  title: "Mythological"
+
+- item: "greek-myth"
+  title: "Greek Myth"
+
+- item: "norse-myth"
+  title: "Norse Myth"
+
+- item: "egyptian"
+  title: "Egyptian"
+
+- item: "hindu-myth"
+  title: "Hindu Myth"
+
+- item: "buddhist"
+  title: "Buddhist"
+
+- item: "shinto"
+  title: "Shinto"
+
+- item: "celtic-myth"
+  title: "Celtic Myth"
+
+- item: "aboriginal"
+  title: "Aboriginal"
+
+- item: "native-american"
+  title: "Native American"
+
+- item: "aztec"
+  title: "Aztec"
+
+- item: "maya"
+  title: "Maya"
+
+- item: "inca"
+  title: "Inca"
+
+- item: "african"
+  title: "African"
+
+- item: "tribal"
+  title: "Tribal"
+
+- item: "islamic"
+  title: "Islamic"
+
+- item: "persian"
+  title: "Persian"
+
+- item: "indian"
+  title: "Indian"
+
+- item: "moghul"
+  title: "Moghul"
+
+- item: "rajput"
+  title: "Rajput"
+
+- item: "pahari"
+  title: "Pahari"
+
+- item: "chinese"
+  title: "Chinese"
+
+- item: "japanese"
+  title: "Japanese"
+
+- item: "korean"
+  title: "Korean"
+
+- item: "southeast-asian"
+  title: "Southeast Asian"
+
+- item: "balinese"
+  title: "Balinese"
+
+- item: "indonesian"
+  title: "Indonesian"
+
+- item: "philippine"
+  title: "Philippine"
+
+- item: "maori"
+  title: "Maori"
+
+- item: "polynesian"
+  title: "Polynesian"
+
+- item: "hawaiian"
+  title: "Hawaiian"
+
+- item: "alaska-native"
+  title: "Alaska Native"
+
+- item: "arctic"
+  title: "Arctic"
+
+- item: "antarctic"
+  title: "Antarctic"
+
+- item: "desert"
+  title: "Desert"
+
+- item: "jungle"
+  title: "Jungle"
+
+- item: "rainforest"
+  title: "Rainforest"
+
+- item: "savanna"
+  title: "Savanna"
+
+- item: "taiga"
+  title: "Taiga"
+
+- item: "tundra"
+  title: "Tundra"
+
+- item: "mountain"
+  title: "Mountain"
+
+- item: "volcano"
+  title: "Volcano"
+
+- item: "cave"
+  title: "Cave"
+
+- item: "underwater-kingdom"
+  title: "Underwater Kingdom"
+
+- item: "sky-kingdom"
+  title: "Sky Kingdom"
+
+- item: "floating-islands"
+  title: "Floating Islands"
+
+- item: "steampunk-city"
+  title: "Steampunk City"
+
+- item: "cyberpunk-city"
+  title: "Cyberpunk City"
+
+- item: "solarpunk-city"
+  title: "Solarpunk City"
+
+- item: "dystopian"
+  title: "Dystopian"
+
+- item: "utopian"
+  title: "Utopian"
+
+- item: "post-apocalyptic"
+  title: "Post-Apocalyptic"
+
+- item: "pre-apocalyptic"
+  title: "Pre-Apocalyptic"
+
+- item: "extinction"
+  title: "Extinction"
+
+- item: "climate"
+  title: "Climate"
+
+- item: "eco"
+  title: "Eco"
+
+- item: "conservation"
+  title: "Conservation"
+
+- item: "wildlife"
+  title: "Wildlife"
+
+- item: "bird"
+  title: "Bird"
+
+- item: "fish"
+  title: "Fish"
+
+- item: "reptile"
+  title: "Reptile"
+
+- item: "amphibian"
+  title: "Amphibian"
+
+- item: "insect"
+  title: "Insect"
+
+- item: "arachnid"
+  title: "Arachnid"
+
+- item: "mammal"
+  title: "Mammal"
+
+- item: "primate"
+  title: "Primate"
+
+- item: "cat"
+  title: "Cat"
+
+- item: "dog"
+  title: "Dog"
+
+- item: "horse"
+  title: "Horse"
+
+- item: "dragon"
+  title: "Dragon"
+
+- item: "unicorn"
+  title: "Unicorn"
+
+- item: "phoenix"
+  title: "Phoenix"
+
+- item: "griffin"
+  title: "Griffin"
+
+- item: "mermaid"
+  title: "Mermaid"
+
+- item: "centaur"
+  title: "Centaur"
+
+- item: "fairy"
+  title: "Fairy"
+
+- item: "elf"
+  title: "Elf"
+
+- item: "dwarf"
+  title: "Dwarf"
+
+- item: "orc"
+  title: "Orc"
+
+- item: "troll"
+  title: "Troll"
+
+- item: "goblin"
+  title: "Goblin"
+
+- item: "demon"
+  title: "Demon"
+
+- item: "angel"
+  title: "Angel"
+
+- item: "deity"
+  title: "Deity"
+
+- item: "titan"
+  title: "Titan"
+
+- item: "kaiju"
+  title: "Kaiju"
+
+- item: "mecha"
+  title: "Mecha"
+
+- item: "gundam"
+  title: "Gundam"
+
+- item: "evangelion"
+  title: "Evangelion"
+
+- item: "macross"
+  title: "Macross"
+
+- item: "transformers"
+  title: "Transformers"
+
+- item: "robot"
+  title: "Robot"
+
+- item: "android"
+  title: "Android"
+
+- item: "cyborg"
+  title: "Cyborg"
+
+- item: "ai"
+  title: "AI"
+
+- item: "neural"
+  title: "Neural"
+
+- item: "gan"
+  title: "GAN"
+
+- item: "diffusion"
+  title: "Diffusion"
+
+- item: "style-transfer"
+  title: "Style Transfer"
+
+- item: "prompt"
+  title: "Prompt"
+
+- item: "ai-collaborative"
+  title: "AI Collaborative"
+
+- item: "human-ai"
+  title: "Human-AI"
+
+- item: "post-human"
+  title: "Post-Human"
+
+- item: "transhuman"
+  title: "Transhuman"
+
+- item: "machine"
+  title: "Machine"
+
+- item: "automaton"
+  title: "Automaton"
+
+- item: "clockwork"
+  title: "Clockwork"
+
+- item: "gear"
+  title: "Gear"
+
+- item: "steel"
+  title: "Steel"
+
+- item: "iron"
+  title: "Iron"
+
+- item: "brass"
+  title: "Brass"
+
+- item: "copper"
+  title: "Copper"
+
+- item: "gold"
+  title: "Gold"
+
+- item: "silver"
+  title: "Silver"
+
+- item: "platinum"
+  title: "Platinum"
+
+- item: "crystal"
+  title: "Crystal"
+
+- item: "gemstone"
+  title: "Gemstone"
+
+- item: "diamond"
+  title: "Diamond"
+
+- item: "glass"
+  title: "Glass"
+
+- item: "stained-glass"
+  title: "Stained Glass"
+
+- item: "mosaic"
+  title: "Mosaic"
+
+- item: "tessellation"
+  title: "Tessellation"
+
+- item: "origami"
+  title: "Origami"
+
+- item: "kirigami"
+  title: "Kirigami"
+
+- item: "papercraft"
+  title: "Papercraft"
+
+- item: "papercut"
+  title: "Papercut"
+
+- item: "silhouette"
+  title: "Silhouette"
+
+- item: "shadow"
+  title: "Shadow"
+
+- item: "light"
+  title: "Light"
+
+- item: "projection"
+  title: "Projection"
+
+- item: "laser"
+  title: "Laser"
+
+- item: "holographic"
+  title: "Holographic"
+
+- item: "chromatic"
+  title: "Chromatic"
+
+- item: "iridescent"
+  title: "Iridescent"
+
+- item: "opalescent"
+  title: "Opalescent"
+
+- item: "phosphorescent"
+  title: "Phosphorescent"
+
+- item: "bioluminescent"
+  title: "Bioluminescent"
+
+- item: "fluorescent"
+  title: "Fluorescent"
+
+- item: "neon"
+  title: "Neon"
+
+- item: "led"
+  title: "LED"
+
+- item: "digital-display"
+  title: "Digital Display"
+
+- item: "screen"
+  title: "Screen"
+
+- item: "projection-mapping"
+  title: "Projection Mapping"
+
+- item: "video"
+  title: "Video"
+
+- item: "experimental-video"
+  title: "Experimental Video"
+
+- item: "short-film"
+  title: "Short Film"
+
+- item: "music-video"
+  title: "Music Video"
+
+- item: "lyric-video"
+  title: "Lyric Video"
+
+- item: "live-visuals"
+  title: "Live Visuals"
+
+- item: "vj"
+  title: "VJ"
+
+- item: "club"
+  title: "Club"
+
+- item: "rave"
+  title: "Rave"
+
+- item: "festival"
+  title: "Festival"
+
+- item: "banner"
+  title: "Banner"
+
+- item: "flag"
+  title: "Flag"
+
+- item: "pennant"
+  title: "Pennant"
+
+- item: "bunting"
+  title: "Bunting"
