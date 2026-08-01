@@ -1,0 +1,422 @@
+- item: "ui-ux-design"
+  title: "UI/UX Design"
+
+- item: "graphic-design"
+  title: "Graphic Design"
+
+- item: "web-design"
+  title: "Web Design"
+
+- item: "app-design"
+  title: "Mobile App Design"
+
+- item: "logo-design"
+  title: "Logo Design & Branding"
+
+- item: "brand-identity"
+  title: "Brand Identity Design"
+
+- item: "print-design"
+  title: "Print Design (Brochures, Flyers, Posters)"
+
+- item: "packaging-design"
+  title: "Packaging Design"
+
+- item: "typography"
+  title: "Typography Design"
+
+- item: "motion-graphics"
+  title: "Motion Graphics Design"
+
+- item: "animation-design"
+  title: "Animation Design"
+
+- item: "3d-design"
+  title: "3D Design & Modeling"
+
+- item: "product-design"
+  title: "Product Design"
+
+- item: "industrial-design"
+  title: "Industrial Design"
+
+- item: "interior-design"
+  title: "Interior Design"
+
+- item: "exhibition-design"
+  title: "Exhibition & Event Design"
+
+- item: "fashion-design"
+  title: "Fashion Design"
+
+- item: "textile-design"
+  title: "Textile Design"
+
+- item: "jewelry-design"
+  title: "Jewelry Design"
+
+- item: "game-design"
+  title: "Game Design"
+
+- item: "character-design"
+  title: "Character Design"
+
+- item: "environment-design"
+  title: "Environment Design"
+
+- item: "illustration"
+  title: "Illustration Design"
+
+- item: "editorial-design"
+  title: "Editorial & Publication Design"
+
+- item: "book-cover-design"
+  title: "Book Cover Design"
+
+- item: "magazine-design"
+  title: "Magazine & Editorial Layout"
+
+- item: "information-design"
+  title: "Information Design"
+
+- item: "data-visualization"
+  title: "Data Visualization Design"
+
+- item: "infographic-design"
+  title: "Infographic Design"
+
+- item: "presentation-design"
+  title: "Presentation Design"
+
+- item: "social-media-design"
+  title: "Social Media Design"
+
+- item: "email-design"
+  title: "Email & Newsletter Design"
+
+- item: "advertising-design"
+  title: "Advertising Design"
+
+- item: "billboard-design"
+  title: "Billboard & Outdoor Design"
+
+- item: "retail-design"
+  title: "Retail & Point-of-Sale Design"
+
+- item: "wayfinding-design"
+  title: "Wayfinding & Signage Design"
+
+- item: "architectural-visualization"
+  title: "Architectural Visualization"
+
+- item: "landscape-design"
+  title: "Landscape Design"
+
+- item: "urban-design"
+  title: "Urban Design"
+
+- item: "set-design"
+  title: "Set & Stage Design"
+
+- item: "costume-design"
+  title: "Costume Design"
+
+- item: "prop-design"
+  title: "Prop Design"
+
+- item: "user-interface-design"
+  title: "User Interface (UI) Design"
+
+- item: "user-experience-design"
+  title: "User Experience (UX) Design"
+
+- item: "interaction-design"
+  title: "Interaction Design (IxD)"
+
+- item: "service-design"
+  title: "Service Design"
+
+- item: "experience-design"
+  title: "Experience Design (XD)"
+
+- item: "design-thinking"
+  title: "Design Thinking Strategy"
+
+- item: "design-research"
+  title: "Design Research & Ethnography"
+
+- item: "prototyping-design"
+  title: "Prototyping & Wireframing"
+
+- item: "responsive-design"
+  title: "Responsive Design"
+
+- item: "accessibility-design"
+  title: "Accessibility & Inclusive Design"
+
+- item: "sustainable-design"
+  title: "Sustainable Design"
+
+- item: "circular-design"
+  title: "Circular Design"
+
+- item: "biophilic-design"
+  title: "Biophilic Design"
+
+- item: "human-centered-design"
+  title: "Human-Centered Design"
+
+- item: "user-centered-design"
+  title: "User-Centered Design"
+
+- item: "design-system"
+  title: "Design System & Component Design"
+
+- item: "design-sprint"
+  title: "Design Sprint Facilitation"
+
+- item: "design-ops"
+  title: "Design Operations (DesignOps)"
+
+- item: "interface-animation"
+  title: "Interface Animation & Micro-interactions"
+
+- item: "sound-design"
+  title: "Sound Design"
+
+- item: "voice-design"
+  title: "Voice User Interface (VUI) Design"
+
+- item: "conversational-design"
+  title: "Conversational Design (Chatbots, AI)"
+
+- item: "vr-design"
+  title: "Virtual Reality (VR) Design"
+
+- item: "ar-design"
+  title: "Augmented Reality (AR) Design"
+
+- item: "metaverse-design"
+  title: "Metaverse Design"
+
+- item: "generative-design"
+  title: "Generative Design"
+
+- item: "parametric-design"
+  title: "Parametric Design"
+
+- item: "computational-design"
+  title: "Computational Design"
+
+- item: "digital-product-design"
+  title: "Digital Product Design"
+
+- item: "saas-design"
+  title: "SaaS Product Design"
+
+- item: "dashboard-design"
+  title: "Dashboard & Analytics Design"
+
+- item: "ecommerce-design"
+  title: "E-commerce Design"
+
+- item: "marketplace-design"
+  title: "Marketplace Platform Design"
+
+- item: "admin-panel-design"
+  title: "Admin Panel & CMS Design"
+
+- item: "landing-page-design"
+  title: "Landing Page Design"
+
+- item: "portfolio-design"
+  title: "Portfolio Design"
+
+- item: "resume-design"
+  title: "Resume & CV Design"
+
+- item: "stationery-design"
+  title: "Stationery Design"
+
+- item: "invitation-design"
+  title: "Invitation & Card Design"
+
+- item: "wallpaper-design"
+  title: "Wallpaper & Pattern Design"
+
+- item: "surface-design"
+  title: "Surface & Pattern Design"
+
+- item: "hand-lettering"
+  title: "Hand Lettering & Calligraphy"
+
+- item: "digital-illustration"
+  title: "Digital Illustration"
+
+- item: "children-book-illustration"
+  title: "Children's Book Illustration"
+
+- item: "scientific-illustration"
+  title: "Scientific & Medical Illustration"
+
+- item: "technical-illustration"
+  title: "Technical Illustration"
+
+- item: "map-design"
+  title: "Map Design & Cartography"
+
+- item: "icon-design"
+  title: "Icon Design"
+
+- item: "sticker-design"
+  title: "Sticker & Emoji Design"
+
+- item: "mascot-design"
+  title: "Mascot Design"
+
+- item: "t-shirt-design"
+  title: "T-Shirt & Apparel Design"
+
+- item: "sneaker-design"
+  title: "Sneaker & Footwear Design"
+
+- item: "furniture-design"
+  title: "Furniture Design"
+
+- item: "lighting-design"
+  title: "Lighting Design"
+
+- item: "ceramic-design"
+  title: "Ceramic Design"
+
+- item: "glass-design"
+  title: "Glass Design"
+
+- item: "metal-design"
+  title: "Metal & Sculpture Design"
+
+- item: "toy-design"
+  title: "Toy Design"
+
+- item: "dashboard-ui"
+  title: "Dashboard UI Design"
+
+- item: "design-management"
+  title: "Design Management"
+
+- item: "creative-direction"
+  title: "Creative Direction"
+
+- item: "art-direction"
+  title: "Art Direction"
+
+- item: "design-strategy"
+  title: "Design Strategy"
+
+- item: "design-leadership"
+  title: "Design Leadership"
+
+- item: "ux-research"
+  title: "UX Research"
+
+- item: "usability-testing"
+  title: "Usability Testing & User Research"
+
+- item: "ai-design"
+  title: "AI-Driven Design"
+
+- item: "no-code-design"
+  title: "No-Code Design"
+
+- item: "low-code-design"
+  title: "Low-Code Design"
+
+- item: "design-engineering"
+  title: "Design Engineering"
+
+- item: "ux-writing"
+  title: "UX Writing & Content Design"
+
+- item: "design-thinking-facilitation"
+  title: "Design Thinking Facilitation"
+
+- item: "co-creation-design"
+  title: "Co-Creation & Participatory Design"
+
+- item: "design-ethics"
+  title: "Design Ethics"
+
+- item: "inclusive-design"
+  title: "Inclusive Design"
+
+- item: "neurodesign"
+  title: "Neurodesign"
+
+- item: "behavioral-design"
+  title: "Behavioral Design"
+
+- item: "emotional-design"
+  title: "Emotional Design"
+
+- item: "kawaii-design"
+  title: "Kawaii Design"
+
+- item: "minimalist-design"
+  title: "Minimalist Design"
+
+- item: "maximalist-design"
+  title: "Maximalist Design"
+
+- item: "retro-design"
+  title: "Retro & Vintage Design"
+
+- item: "modern-design"
+  title: "Modern Design"
+
+- item: "swiss-design"
+  title: "Swiss Design"
+
+- item: "bauhaus-design"
+  title: "Bauhaus Design"
+
+- item: "art-deco-design"
+  title: "Art Deco Design"
+
+- item: "kitsch-design"
+  title: "Kitsch Design"
+
+- item: "flat-design"
+  title: "Flat Design"
+
+- item: "neumorphism"
+  title: "Neumorphism Design"
+
+- item: "skeuomorphism"
+  title: "Skeuomorphism Design"
+
+- item: "glassmorphism"
+  title: "Glassmorphism Design"
+
+- item: "claymorphism"
+  title: "Claymorphism Design"
+
+- item: "brutalism-design"
+  title: "Brutalism Design"
+
+- item: "cyberpunk-design"
+  title: "Cyberpunk Design"
+
+- item: "vaporwave-design"
+  title: "Vaporwave Design"
+
+- item: "memphis-design"
+  title: "Memphis Design"
+
+- item: "design-strategy-consulting"
+  title: "Design Strategy Consulting"
+
+- item: "design-audit"
+  title: "Design Audit & Review"
+
+- item: "design-handoff"
+  title: "Design Handoff & Developer Collaboration"
