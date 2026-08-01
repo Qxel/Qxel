@@ -2,9 +2,5 @@
   "taxonomy_1": {
     "item": "type",
     "title": "printable type"
-  },
-  "taxonomy_2": {
-    "item": "size",
-    "title": "paper size"
   }
 }
