@@ -1,0 +1,401 @@
+- item: "online"
+  title: "Online"
+
+- item: "offline"
+  title: "Offline / In-Person"
+
+- item: "hybrid"
+  title: "Hybrid"
+
+- item: "one-on-one"
+  title: "One-on-One"
+
+- item: "group"
+  title: "Group"
+
+- item: "small-group"
+  title: "Small Group (2-5)"
+
+- item: "medium-group"
+  title: "Medium Group (6-15)"
+
+- item: "large-group"
+  title: "Large Group (16+)"
+
+- item: "live-session"
+  title: "Live Session"
+
+- item: "recorded-session"
+  title: "Recorded Session"
+
+- item: "live-virtual"
+  title: "Live Virtual"
+
+- item: "pre-recorded"
+  title: "Pre-Recorded"
+
+- item: "self-paced"
+  title: "Self-Paced"
+
+- item: "instructor-led"
+  title: "Instructor-Led"
+
+- item: "mentor-led"
+  title: "Mentor-Led"
+
+- item: "peer-tutoring"
+  title: "Peer Tutoring"
+
+- item: "personalized"
+  title: "Personalized Learning"
+
+- item: "adaptive"
+  title: "Adaptive Learning"
+
+- item: "gamified"
+  title: "Gamified Learning"
+
+- item: "project-based"
+  title: "Project-Based"
+
+- item: "activity-based"
+  title: "Activity-Based"
+
+- item: "case-study-based"
+  title: "Case Study Based"
+
+- item: "problem-based"
+  title: "Problem-Based Learning"
+
+- item: "inquiry-based"
+  title: "Inquiry-Based Learning"
+
+- item: "interactive"
+  title: "Interactive"
+
+- item: "discussion-based"
+  title: "Discussion-Based"
+
+- item: "lecture-based"
+  title: "Lecture-Based"
+
+- item: "workshop"
+  title: "Workshop"
+
+- item: "seminar"
+  title: "Seminar"
+
+- item: "webinar"
+  title: "Webinar"
+
+- item: "masterclass"
+  title: "Masterclass"
+
+- item: "bootcamp"
+  title: "Bootcamp"
+
+- item: "intensive"
+  title: "Intensive"
+
+- item: "crash-course"
+  title: "Crash Course"
+
+- item: "foundation"
+  title: "Foundation Course"
+
+- item: "advanced"
+  title: "Advanced Course"
+
+- item: "refresher"
+  title: "Refresher Course"
+
+- item: "revision"
+  title: "Revision Session"
+
+- item: "doubt-clearing"
+  title: "Doubt Clearing"
+
+- item: "practice-session"
+  title: "Practice Session"
+
+- item: "home-tuition"
+  title: "Home Tuition"
+
+- item: "tuition-center"
+  title: "Tuition Center"
+
+- item: "coaching-institute"
+  title: "Coaching Institute"
+
+- item: "school-based"
+  title: "School-Based"
+
+- item: "college-based"
+  title: "College-Based"
+
+- item: "university-based"
+  title: "University-Based"
+
+- item: "corporate-training"
+  title: "Corporate Training"
+
+- item: "vocational-training"
+  title: "Vocational Training"
+
+- item: "exam-preparation"
+  title: "Exam Preparation"
+
+- item: "entrance-exam-coaching"
+  title: "Entrance Exam Coaching"
+
+- item: "competitive-exam-coaching"
+  title: "Competitive Exam Coaching"
+
+- item: "skill-development"
+  title: "Skill Development"
+
+- item: "language-training"
+  title: "Language Training"
+
+- item: "spoken-english"
+  title: "Spoken English"
+
+- item: "academic-support"
+  title: "Academic Support"
+
+- item: "homework-help"
+  title: "Homework Help"
+
+- item: "assignment-help"
+  title: "Assignment Help"
+
+- item: "project-guidance"
+  title: "Project Guidance"
+
+- item: "thesis-guidance"
+  title: "Thesis Guidance"
+
+- item: "dissertation-guidance"
+  title: "Dissertation Guidance"
+
+- item: "research-guidance"
+  title: "Research Guidance"
+
+- item: "public-speaking-training"
+  title: "Public Speaking Training"
+
+- item: "communication-training"
+  title: "Communication Training"
+
+- item: "soft-skills-training"
+  title: "Soft Skills Training"
+
+- item: "personality-development"
+  title: "Personality Development"
+
+- item: "career-guidance"
+  title: "Career Guidance"
+
+- item: "study-abroad-counseling"
+  title: "Study Abroad Counseling"
+
+- item: "admission-guidance"
+  title: "Admission Guidance"
+
+- item: "scholarship-guidance"
+  title: "Scholarship Guidance"
+
+- item: "online-course"
+  title: "Online Course"
+
+- item: "video-course"
+  title: "Video Course"
+
+- item: "text-course"
+  title: "Text Course"
+
+- item: "audio-course"
+  title: "Audio Course"
+
+- item: "interactive-course"
+  title: "Interactive Course"
+
+- item: "live-stream"
+  title: "Live Stream"
+
+- item: "zoom-class"
+  title: "Zoom Class"
+
+- item: "google-meet-class"
+  title: "Google Meet Class"
+
+- item: "teams-class"
+  title: "Microsoft Teams Class"
+
+- item: "app-based"
+  title: "App-Based Learning"
+
+- item: "platform-based"
+  title: "Platform-Based Learning"
+
+- item: "mobile-friendly"
+  title: "Mobile-Friendly"
+
+- item: "tablet-friendly"
+  title: "Tablet-Friendly"
+
+- item: "desktop-based"
+  title: "Desktop-Based"
+
+- item: "short-duration"
+  title: "Short Duration (1-4 weeks)"
+
+- item: "medium-duration"
+  title: "Medium Duration (1-6 months)"
+
+- item: "long-duration"
+  title: "Long Duration (6+ months)"
+
+- item: "flexible-timing"
+  title: "Flexible Timing"
+
+- item: "fixed-schedule"
+  title: "Fixed Schedule"
+
+- item: "weekend-classes"
+  title: "Weekend Classes"
+
+- item: "evening-classes"
+  title: "Evening Classes"
+
+- item: "morning-classes"
+  title: "Morning Classes"
+
+- item: "summer-camp"
+  title: "Summer Camp"
+
+- item: "winter-camp"
+  title: "Winter Camp"
+
+- item: "holiday-camp"
+  title: "Holiday Camp"
+
+- item: "after-school"
+  title: "After School"
+
+- item: "weekday-classes"
+  title: "Weekday Classes"
+
+- item: "drop-in"
+  title: "Drop-In Sessions"
+
+- item: "subscription-based"
+  title: "Subscription-Based"
+
+- item: "pay-per-session"
+  title: "Pay-Per-Session"
+
+- item: "package-based"
+  title: "Package-Based"
+
+- item: "group-discount"
+  title: "Group Discount"
+
+- item: "early-bird-discount"
+  title: "Early Bird Discount"
+
+- item: "referral-discount"
+  title: "Referral Discount"
+
+- item: "free-trial"
+  title: "Free Trial"
+
+- item: "demo-session"
+  title: "Demo Session"
+
+- item: "sample-class"
+  title: "Sample Class"
+
+- item: "assessment"
+  title: "Assessment Session"
+
+- item: "diagnostic-test"
+  title: "Diagnostic Test"
+
+- item: "progress-tracking"
+  title: "Progress Tracking"
+
+- item: "performance-report"
+  title: "Performance Report"
+
+- item: "certificate-completion"
+  title: "Certificate of Completion"
+
+- item: "certificate-attendance"
+  title: "Certificate of Attendance"
+
+- item: "recording-access"
+  title: "Recording Access"
+
+- item: "course-materials"
+  title: "Course Materials Included"
+
+- item: "study-guide-included"
+  title: "Study Guide Included"
+
+- item: "practice-tests"
+  title: "Practice Tests"
+
+- item: "mock-exams"
+  title: "Mock Exams"
+
+- item: "personalized-feedback"
+  title: "Personalized Feedback"
+
+- item: "mentorship"
+  title: "Mentorship Included"
+
+- item: "community-support"
+  title: "Community Support"
+
+- item: "forum-access"
+  title: "Forum Access"
+
+- item: "doubt-support"
+  title: "Doubt Support"
+
+- item: "24-7-support"
+  title: "24/7 Support"
+
+- item: "email-support"
+  title: "Email Support"
+
+- item: "chat-support"
+  title: "Chat Support"
+
+- item: "phone-support"
+  title: "Phone Support"
+
+- item: "whatsapp-support"
+  title: "WhatsApp Support"
+
+- item: "telegram-support"
+  title: "Telegram Support"
+
+- item: "discord-community"
+  title: "Discord Community"
+
+- item: "beginner-level"
+  title: "Beginner Level"
+
+- item: "intermediate-level"
+  title: "Intermediate Level"
+
+- item: "advanced-level"
+  title: "Advanced Level"
+
+- item: "expert-level"
+  title: "Expert Level"
+
+- item: "mixed-level"
+  title: "Mixed Level"
