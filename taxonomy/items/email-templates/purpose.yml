@@ -1,0 +1,878 @@
+- item: "welcome-email"
+  title: "Welcome Email"
+
+- item: "onboarding-email"
+  title: "Onboarding Email"
+
+- item: "confirmation-email"
+  title: "Confirmation Email"
+
+- item: "verification-email"
+  title: "Verification Email"
+
+- item: "activation-email"
+  title: "Account Activation Email"
+
+- item: "password-reset"
+  title: "Password Reset Email"
+
+- item: "security-alert"
+  title: "Security Alert Email"
+
+- item: "login-alert"
+  title: "Login Alert Email"
+
+- item: "2fa-email"
+  title: "Two-Factor Authentication Email"
+
+- item: "profile-update"
+  title: "Profile Update Confirmation"
+
+- item: "account-update"
+  title: "Account Update Email"
+
+- item: "subscription-confirmation"
+  title: "Subscription Confirmation"
+
+- item: "subscription-renewal"
+  title: "Subscription Renewal Email"
+
+- item: "subscription-cancellation"
+  title: "Subscription Cancellation Email"
+
+- item: "payment-confirmation"
+  title: "Payment Confirmation Email"
+
+- item: "payment-receipt"
+  title: "Payment Receipt Email"
+
+- item: "payment-invoice"
+  title: "Payment Invoice Email"
+
+- item: "payment-due"
+  title: "Payment Due Reminder"
+
+- item: "payment-overdue"
+  title: "Payment Overdue Notice"
+
+- item: "payment-failed"
+  title: "Payment Failed Email"
+
+- item: "refund-confirmation"
+  title: "Refund Confirmation Email"
+
+- item: "refund-processed"
+  title: "Refund Processed Email"
+
+- item: "order-confirmation"
+  title: "Order Confirmation Email"
+
+- item: "order-shipped"
+  title: "Order Shipped Email"
+
+- item: "order-delivered"
+  title: "Order Delivered Email"
+
+- item: "order-update"
+  title: "Order Update Email"
+
+- item: "order-cancellation"
+  title: "Order Cancellation Email"
+
+- item: "tracking-info"
+  title: "Tracking Information Email"
+
+- item: "delivery-confirmation"
+  title: "Delivery Confirmation Email"
+
+- item: "return-confirmation"
+  title: "Return Confirmation Email"
+
+- item: "exchange-confirmation"
+  title: "Exchange Confirmation Email"
+
+- item: "warranty-registration"
+  title: "Warranty Registration Email"
+
+- item: "product-registration"
+  title: "Product Registration Email"
+
+- item: "service-booking"
+  title: "Service Booking Confirmation"
+
+- item: "appointment-confirmation"
+  title: "Appointment Confirmation Email"
+
+- item: "appointment-reminder"
+  title: "Appointment Reminder Email"
+
+- item: "appointment-reschedule"
+  title: "Appointment Reschedule Email"
+
+- item: "appointment-cancellation"
+  title: "Appointment Cancellation Email"
+
+- item: "event-registration"
+  title: "Event Registration Confirmation"
+
+- item: "event-reminder"
+  title: "Event Reminder Email"
+
+- item: "event-update"
+  title: "Event Update Email"
+
+- item: "event-cancellation"
+  title: "Event Cancellation Email"
+
+- item: "ticket-confirmation"
+  title: "Ticket Confirmation Email"
+
+- item: "ticket-delivery"
+  title: "Ticket Delivery Email"
+
+- item: "webinar-registration"
+  title: "Webinar Registration Confirmation"
+
+- item: "webinar-reminder"
+  title: "Webinar Reminder Email"
+
+- item: "webinar-replay"
+  title: "Webinar Replay Email"
+
+- item: "workshop-registration"
+  title: "Workshop Registration Confirmation"
+
+- item: "course-enrollment"
+  title: "Course Enrollment Confirmation"
+
+- item: "course-progress"
+  title: "Course Progress Update"
+
+- item: "course-completion"
+  title: "Course Completion Certificate"
+
+- item: "certificate-issued"
+  title: "Certificate Issued Email"
+
+- item: "badge-earned"
+  title: "Badge Earned Email"
+
+- item: "achievement-unlocked"
+  title: "Achievement Unlocked Email"
+
+- item: "milestone-reached"
+  title: "Milestone Reached Email"
+
+- item: "anniversary-email"
+  title: "Anniversary Email"
+
+- item: "birthday-email"
+  title: "Birthday Email"
+
+- item: "holiday-email"
+  title: "Holiday Email"
+
+- item: "seasonal-email"
+  title: "Seasonal Email"
+
+- item: "new-year-email"
+  title: "New Year Email"
+
+- item: "thanksgiving-email"
+  title: "Thanksgiving Email"
+
+- item: "christmas-email"
+  title: "Christmas Email"
+
+- item: "diwali-email"
+  title: "Diwali Email"
+
+- item: "eid-email"
+  title: "Eid Email"
+
+- item: "newsletter"
+  title: "Newsletter"
+
+- item: "weekly-newsletter"
+  title: "Weekly Newsletter"
+
+- item: "monthly-newsletter"
+  title: "Monthly Newsletter"
+
+- item: "quarterly-newsletter"
+  title: "Quarterly Newsletter"
+
+- item: "digest-email"
+  title: "Digest Email"
+
+- item: "daily-digest"
+  title: "Daily Digest"
+
+- item: "weekly-digest"
+  title: "Weekly Digest"
+
+- item: "monthly-digest"
+  title: "Monthly Digest"
+
+- item: "blog-update"
+  title: "Blog Update Email"
+
+- item: "new-post-alert"
+  title: "New Post Alert"
+
+- item: "featured-content"
+  title: "Featured Content Email"
+
+- item: "top-content"
+  title: "Top Content Email"
+
+- item: "trending-content"
+  title: "Trending Content Email"
+
+- item: "popular-content"
+  title: "Popular Content Email"
+
+- item: "recommendation-email"
+  title: "Recommendation Email"
+
+- item: "personalized-offer"
+  title: "Personalized Offer Email"
+
+- item: "promotional-email"
+  title: "Promotional Email"
+
+- item: "discount-email"
+  title: "Discount Email"
+
+- item: "coupon-email"
+  title: "Coupon Email"
+
+- item: "flash-sale"
+  title: "Flash Sale Email"
+
+- item: "clearance-sale"
+  title: "Clearance Sale Email"
+
+- item: "holiday-sale"
+  title: "Holiday Sale Email"
+
+- item: "exclusive-offer"
+  title: "Exclusive Offer Email"
+
+- item: "loyalty-reward"
+  title: "Loyalty Reward Email"
+
+- item: "points-update"
+  title: "Points Update Email"
+
+- item: "referral-email"
+  title: "Referral Email"
+
+- item: "referral-invite"
+  title: "Referral Invite Email"
+
+- item: "referral-reward"
+  title: "Referral Reward Email"
+
+- item: "invite-email"
+  title: "Invite Email"
+
+- item: "invitation-email"
+  title: "Invitation Email"
+
+- item: "collaboration-invite"
+  title: "Collaboration Invite Email"
+
+- item: "partnership-invite"
+  title: "Partnership Invite Email"
+
+- item: "testimonial-request"
+  title: "Testimonial Request Email"
+
+- item: "review-request"
+  title: "Review Request Email"
+
+- item: "rating-request"
+  title: "Rating Request Email"
+
+- item: "feedback-request"
+  title: "Feedback Request Email"
+
+- item: "survey-email"
+  title: "Survey Email"
+
+- item: "poll-email"
+  title: "Poll Email"
+
+- item: "questionnaire-email"
+  title: "Questionnaire Email"
+
+- item: "nps-survey"
+  title: "NPS Survey Email"
+
+- item: "csat-survey"
+  title: "CSAT Survey Email"
+
+- item: "ces-survey"
+  title: "CES Survey Email"
+
+- item: "support-ticket"
+  title: "Support Ticket Confirmation"
+
+- item: "support-reply"
+  title: "Support Reply Email"
+
+- item: "support-resolved"
+  title: "Support Ticket Resolved"
+
+- item: "support-closed"
+  title: "Support Ticket Closed"
+
+- item: "chat-transcript"
+  title: "Chat Transcript Email"
+
+- item: "call-summary"
+  title: "Call Summary Email"
+
+- item: "meeting-invite"
+  title: "Meeting Invite Email"
+
+- item: "meeting-reminder"
+  title: "Meeting Reminder Email"
+
+- item: "meeting-summary"
+  title: "Meeting Summary Email"
+
+- item: "meeting-notes"
+  title: "Meeting Notes Email"
+
+- item: "follow-up-email"
+  title: "Follow-Up Email"
+
+- item: "check-in-email"
+  title: "Check-In Email"
+
+- item: "nurture-email"
+  title: "Nurture Email"
+
+- item: "drip-email"
+  title: "Drip Email"
+
+- item: "automated-email"
+  title: "Automated Email"
+
+- item: "triggered-email"
+  title: "Triggered Email"
+
+- item: "behavioral-email"
+  title: "Behavioral Email"
+
+- item: "abandoned-cart"
+  title: "Abandoned Cart Email"
+
+- item: "browse-abandonment"
+  title: "Browse Abandonment Email"
+
+- item: "wishlist-reminder"
+  title: "Wishlist Reminder Email"
+
+- item: "price-drop-alert"
+  title: "Price Drop Alert Email"
+
+- item: "back-in-stock"
+  title: "Back in Stock Email"
+
+- item: "restock-alert"
+  title: "Restock Alert Email"
+
+- item: "pre-order-email"
+  title: "Pre-Order Email"
+
+- item: "launch-email"
+  title: "Product Launch Email"
+
+- item: "feature-announcement"
+  title: "Feature Announcement Email"
+
+- item: "product-update"
+  title: "Product Update Email"
+
+- item: "version-update"
+  title: "Version Update Email"
+
+- item: "maintenance-email"
+  title: "Maintenance Notice Email"
+
+- item: "outage-notice"
+  title: "Outage Notice Email"
+
+- item: "service-update"
+  title: "Service Update Email"
+
+- item: "policy-update"
+  title: "Policy Update Email"
+
+- item: "privacy-policy"
+  title: "Privacy Policy Update Email"
+
+- item: "terms-update"
+  title: "Terms of Service Update Email"
+
+- item: "compliance-email"
+  title: "Compliance Email"
+
+- item: "legal-notice"
+  title: "Legal Notice Email"
+
+- item: "copyright-notice"
+  title: "Copyright Notice Email"
+
+- item: "dmca-notice"
+  title: "DMCA Notice Email"
+
+- item: "court-order"
+  title: "Court Order Notification"
+
+- item: "regulatory-email"
+  title: "Regulatory Email"
+
+- item: "audit-email"
+  title: "Audit Notification Email"
+
+- item: "report-email"
+  title: "Report Email"
+
+- item: "analytics-report"
+  title: "Analytics Report Email"
+
+- item: "performance-report"
+  title: "Performance Report Email"
+
+- item: "usage-report"
+  title: "Usage Report Email"
+
+- item: "activity-summary"
+  title: "Activity Summary Email"
+
+- item: "transaction-summary"
+  title: "Transaction Summary Email"
+
+- item: "monthly-statement"
+  title: "Monthly Statement Email"
+
+- item: "annual-report"
+  title: "Annual Report Email"
+
+- item: "tax-document"
+  title: "Tax Document Email"
+
+- item: "invoice-email"
+  title: "Invoice Email"
+
+- item: "estimate-email"
+  title: "Estimate Email"
+
+- item: "quote-email"
+  title: "Quote Email"
+
+- item: "proposal-email"
+  title: "Proposal Email"
+
+- item: "contract-email"
+  title: "Contract Email"
+
+- item: "agreement-email"
+  title: "Agreement Email"
+
+- item: "nda-email"
+  title: "NDA Email"
+
+- item: "onboarding-welcome"
+  title: "Onboarding Welcome Series"
+
+- item: "offboarding-email"
+  title: "Offboarding Email"
+
+- item: "farewell-email"
+  title: "Farewell Email"
+
+- item: "goodbye-email"
+  title: "Goodbye Email"
+
+- item: "win-back-email"
+  title: "Win-Back Email"
+
+- item: "re-engagement-email"
+  title: "Re-Engagement Email"
+
+- item: "reactivation-email"
+  title: "Reactivation Email"
+
+- item: "retention-email"
+  title: "Retention Email"
+
+- item: "churn-prevention"
+  title: "Churn Prevention Email"
+
+- item: "upsell-email"
+  title: "Upsell Email"
+
+- item: "cross-sell-email"
+  title: "Cross-Sell Email"
+
+- item: "bundle-offer"
+  title: "Bundle Offer Email"
+
+- item: "product-recommendation"
+  title: "Product Recommendation Email"
+
+- item: "personalized-recommendation"
+  title: "Personalized Recommendation Email"
+
+- item: "curated-content"
+  title: "Curated Content Email"
+
+- item: "handpicked-items"
+  title: "Handpicked Items Email"
+
+- item: "editorial-pick"
+  title: "Editorial Pick Email"
+
+- item: "staff-pick"
+  title: "Staff Pick Email"
+
+- item: "customer-spotlight"
+  title: "Customer Spotlight Email"
+
+- item: "case-study-email"
+  title: "Case Study Email"
+
+- item: "success-story"
+  title: "Success Story Email"
+
+- item: "tip-email"
+  title: "Tip Email"
+
+- item: "trick-email"
+  title: "Trick Email"
+
+- item: "hack-email"
+  title: "Hack Email"
+
+- item: "how-to-email"
+  title: "How-To Email"
+
+- item: "tutorial-email"
+  title: "Tutorial Email"
+
+- item: "guide-email"
+  title: "Guide Email"
+
+- item: "whitepaper-email"
+  title: "Whitepaper Email"
+
+- item: "ebook-email"
+  title: "Ebook Email"
+
+- item: "resource-email"
+  title: "Resource Email"
+
+- item: "template-email"
+  title: "Template Email"
+
+- item: "checklist-email"
+  title: "Checklist Email"
+
+- item: "workbook-email"
+  title: "Workbook Email"
+
+- item: "planner-email"
+  title: "Planner Email"
+
+- item: "calendar-email"
+  title: "Calendar Email"
+
+- item: "schedule-email"
+  title: "Schedule Email"
+
+- item: "timeline-email"
+  title: "Timeline Email"
+
+- item: "countdown-email"
+  title: "Countdown Email"
+
+- item: "deadline-reminder"
+  title: "Deadline Reminder Email"
+
+- item: "expiration-notice"
+  title: "Expiration Notice Email"
+
+- item: "renewal-reminder"
+  title: "Renewal Reminder Email"
+
+- item: "trial-expiring"
+  title: "Trial Expiring Email"
+
+- item: "trial-ended"
+  title: "Trial Ended Email"
+
+- item: "upgrade-email"
+  title: "Upgrade Email"
+
+- item: "downgrade-email"
+  title: "Downgrade Email"
+
+- item: "plan-change"
+  title: "Plan Change Confirmation"
+
+- item: "plan-upgrade"
+  title: "Plan Upgrade Confirmation"
+
+- item: "feature-access"
+  title: "Feature Access Email"
+
+- item: "permission-update"
+  title: "Permission Update Email"
+
+- item: "role-change"
+  title: "Role Change Email"
+
+- item: "team-invite"
+  title: "Team Invite Email"
+
+- item: "team-join"
+  title: "Team Join Confirmation"
+
+- item: "team-leave"
+  title: "Team Leave Email"
+
+- item: "group-invite"
+  title: "Group Invite Email"
+
+- item: "community-invite"
+  title: "Community Invite Email"
+
+- item: "forum-activity"
+  title: "Forum Activity Email"
+
+- item: "comment-notification"
+  title: "Comment Notification Email"
+
+- item: "reply-notification"
+  title: "Reply Notification Email"
+
+- item: "mention-notification"
+  title: "Mention Notification Email"
+
+- item: "like-notification"
+  title: "Like Notification Email"
+
+- item: "share-notification"
+  title: "Share Notification Email"
+
+- item: "follow-notification"
+  title: "Follow Notification Email"
+
+- item: "connection-request"
+  title: "Connection Request Email"
+
+- item: "connection-accepted"
+  title: "Connection Accepted Email"
+
+- item: "message-notification"
+  title: "Message Notification Email"
+
+- item: "dm-notification"
+  title: "Direct Message Notification"
+
+- item: "alert-email"
+  title: "Alert Email"
+
+- item: "warning-email"
+  title: "Warning Email"
+
+- item: "critical-alert"
+  title: "Critical Alert Email"
+
+- item: "emergency-notice"
+  title: "Emergency Notice Email"
+
+- item: "system-notification"
+  title: "System Notification Email"
+
+- item: "server-alert"
+  title: "Server Alert Email"
+
+- item: "performance-alert"
+  title: "Performance Alert Email"
+
+- item: "security-alert"
+  title: "Security Alert Email"
+
+- item: "fraud-alert"
+  title: "Fraud Alert Email"
+
+- item: "suspicious-activity"
+  title: "Suspicious Activity Alert"
+
+- item: "data-breach"
+  title: "Data Breach Notification"
+
+- item: "privacy-notice"
+  title: "Privacy Notice Email"
+
+- item: "cookie-notice"
+  title: "Cookie Notice Email"
+
+- item: "consent-request"
+  title: "Consent Request Email"
+
+- item: "opt-in-confirmation"
+  title: "Opt-In Confirmation Email"
+
+- item: "opt-out-confirmation"
+  title: "Opt-Out Confirmation Email"
+
+- item: "unsubscribe-confirmation"
+  title: "Unsubscribe Confirmation Email"
+
+- item: "preference-update"
+  title: "Preference Update Email"
+
+- item: "preference-center"
+  title: "Preference Center Email"
+
+- item: "communication-preference"
+  title: "Communication Preference Email"
+
+- item: "frequency-preference"
+  title: "Frequency Preference Email"
+
+- item: "channel-preference"
+  title: "Channel Preference Email"
+
+- item: "language-preference"
+  title: "Language Preference Email"
+
+- item: "timezone-preference"
+  title: "Timezone Preference Email"
+
+- item: "localization-email"
+  title: "Localization Email"
+
+- item: "translated-email"
+  title: "Translated Email"
+
+- item: "regional-email"
+  title: "Regional Email"
+
+- item: "country-specific"
+  title: "Country-Specific Email"
+
+- item: "culture-specific"
+  title: "Culture-Specific Email"
+
+- item: "seasonal-greeting"
+  title: "Seasonal Greeting Email"
+
+- item: "festival-greeting"
+  title: "Festival Greeting Email"
+
+- item: "thank-you-email"
+  title: "Thank You Email"
+
+- item: "appreciation-email"
+  title: "Appreciation Email"
+
+- item: "recognition-email"
+  title: "Recognition Email"
+
+- item: "shoutout-email"
+  title: "Shoutout Email"
+
+- item: "congratulation-email"
+  title: "Congratulation Email"
+
+- item: "celebration-email"
+  title: "Celebration Email"
+
+- item: "milestone-congrats"
+  title: "Milestone Congratulations"
+
+- item: "achievement-congrats"
+  title: "Achievement Congratulations"
+
+- item: "award-notification"
+  title: "Award Notification Email"
+
+- item: "nomination-email"
+  title: "Nomination Email"
+
+- item: "selection-email"
+  title: "Selection Email"
+
+- item: "rejection-email"
+  title: "Rejection Email"
+
+- item: "acceptance-email"
+  title: "Acceptance Email"
+
+- item: "waitlist-email"
+  title: "Waitlist Email"
+
+- item: "reminder-email"
+  title: "Reminder Email"
+
+- item: "gentle-reminder"
+  title: "Gentle Reminder Email"
+
+- item: "urgent-reminder"
+  title: "Urgent Reminder Email"
+
+- item: "final-reminder"
+  title: "Final Reminder Email"
+
+- item: "escalation-email"
+  title: "Escalation Email"
+
+- item: "manager-approval"
+  title: "Manager Approval Email"
+
+- item: "request-approval"
+  title: "Request Approval Email"
+
+- item: "approval-confirmation"
+  title: "Approval Confirmation Email"
+
+- item: "rejection-confirmation"
+  title: "Rejection Confirmation Email"
+
+- item: "request-email"
+  title: "Request Email"
+
+- item: "application-email"
+  title: "Application Email"
+
+- item: "submission-email"
+  title: "Submission Email"
+
+- item: "receipt-email"
+  title: "Receipt Email"
+
+- item: "acknowledgment-email"
+  title: "Acknowledgment Email"
+
+- item: "confirmation-email"
+  title: "Confirmation Email"
+
+- item: "verification-email"
+  title: "Verification Email"
+
+- item: "validation-email"
+  title: "Validation Email"
+
+- item: "authentication-email"
+  title: "Authentication Email"
+
+- item: "authorization-email"
+  title: "Authorization Email"
