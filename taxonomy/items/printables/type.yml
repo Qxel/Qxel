@@ -1,0 +1,947 @@
+- item: "poster"
+  title: "Poster"
+
+- item: "flyer"
+  title: "Flyer"
+
+- item: "brochure"
+  title: "Brochure"
+
+- item: "banner"
+  title: "Banner"
+
+- item: "signage"
+  title: "Signage"
+
+- item: "business-card"
+  title: "Business Card"
+
+- item: "greeting-card"
+  title: "Greeting Card"
+
+- item: "invitation-card"
+  title: "Invitation Card"
+
+- item: "thank-you-card"
+  title: "Thank You Card"
+
+- item: "holiday-card"
+  title: "Holiday Card"
+
+- item: "birthday-card"
+  title: "Birthday Card"
+
+- item: "wedding-card"
+  title: "Wedding Card"
+
+- item: "anniversary-card"
+  title: "Anniversary Card"
+
+- item: "congratulations-card"
+  title: "Congratulations Card"
+
+- item: "sympathy-card"
+  title: "Sympathy Card"
+
+- item: "get-well-card"
+  title: "Get Well Card"
+
+- item: "bookmark"
+  title: "Bookmark"
+
+- item: "label"
+  title: "Label"
+
+- item: "sticker"
+  title: "Sticker"
+
+- item: "decal"
+  title: "Decal"
+
+- item: "tag"
+  title: "Tag"
+
+- item: "hang-tag"
+  title: "Hang Tag"
+
+- item: "price-tag"
+  title: "Price Tag"
+
+- item: "gift-tag"
+  title: "Gift Tag"
+
+- item: "luggage-tag"
+  title: "Luggage Tag"
+
+- item: "place-card"
+  title: "Place Card"
+
+- item: "table-number"
+  title: "Table Number"
+
+- item: "menu"
+  title: "Menu"
+
+- item: "wine-list"
+  title: "Wine List"
+
+- item: "drink-menu"
+  title: "Drink Menu"
+
+- item: "dessert-menu"
+  title: "Dessert Menu"
+
+- item: "kids-menu"
+  title: "Kids Menu"
+
+- item: "tent-card"
+  title: "Tent Card"
+
+- item: "table-tent"
+  title: "Table Tent"
+
+- item: "coaster"
+  title: "Coaster"
+
+- item: "placemat"
+  title: "Placemat"
+
+- item: "napkin"
+  title: "Napkin"
+
+- item: "paper-bag"
+  title: "Paper Bag"
+
+- item: "gift-wrap"
+  title: "Gift Wrap"
+
+- item: "wrapping-paper"
+  title: "Wrapping Paper"
+
+- item: "tissue-paper"
+  title: "Tissue Paper"
+
+- item: "ribbon"
+  title: "Ribbon"
+
+- item: "bow"
+  title: "Bow"
+
+- item: "confetti"
+  title: "Confetti"
+
+- item: "party-hat"
+  title: "Party Hat"
+
+- item: "party-favor"
+  title: "Party Favor"
+
+- item: "goodie-bag"
+  title: "Goodie Bag"
+
+- item: "gift-box"
+  title: "Gift Box"
+
+- item: "gift-bag"
+  title: "Gift Bag"
+
+- item: "gift-basket"
+  title: "Gift Basket"
+
+- item: "packaging-box"
+  title: "Packaging Box"
+
+- item: "packaging-sleeve"
+  title: "Packaging Sleeve"
+
+- item: "packaging-insert"
+  title: "Packaging Insert"
+
+- item: "packaging-filler"
+  title: "Packaging Filler"
+
+- item: "product-box"
+  title: "Product Box"
+
+- item: "product-sleeve"
+  title: "Product Sleeve"
+
+- item: "product-insert"
+  title: "Product Insert"
+
+- item: "shipping-box"
+  title: "Shipping Box"
+
+- item: "mailer-box"
+  title: "Mailer Box"
+
+- item: "corrugated-box"
+  title: "Corrugated Box"
+
+- item: "carton"
+  title: "Carton"
+
+- item: "crate"
+  title: "Crate"
+
+- item: "pallet"
+  title: "Pallet"
+
+- item: "can-label"
+  title: "Can Label"
+
+- item: "jar-label"
+  title: "Jar Label"
+
+- item: "bottle-label"
+  title: "Bottle Label"
+
+- item: "tube-label"
+  title: "Tube Label"
+
+- item: "box-label"
+  title: "Box Label"
+
+- item: "shipping-label"
+  title: "Shipping Label"
+
+- item: "address-label"
+  title: "Address Label"
+
+- item: "name-label"
+  title: "Name Label"
+
+- item: "folder-label"
+  title: "Folder Label"
+
+- item: "file-label"
+  title: "File Label"
+
+- item: "binder-label"
+  title: "Binder Label"
+
+- item: "spine-label"
+  title: "Spine Label"
+
+- item: "cd-label"
+  title: "CD/DVD Label"
+
+- item: "cover-sleeve"
+  title: "Cover Sleeve"
+
+- item: "record-sleeve"
+  title: "Record Sleeve"
+
+- item: "vinyl-cover"
+  title: "Vinyl Cover"
+
+- item: "cd-cover"
+  title: "CD Cover"
+
+- item: "dvd-cover"
+  title: "DVD Cover"
+
+- item: "bluray-cover"
+  title: "Blu-ray Cover"
+
+- item: "game-case"
+  title: "Game Case"
+
+- item: "game-cover"
+  title: "Game Cover"
+
+- item: "manual"
+  title: "Manual"
+
+- item: "booklet"
+  title: "Booklet"
+
+- item: "pamphlet"
+  title: "Pamphlet"
+
+- item: "leaflet"
+  title: "Leaflet"
+
+- item: "catalog"
+  title: "Catalog"
+
+- item: "catalogue"
+  title: "Catalogue"
+
+- item: "product-catalog"
+  title: "Product Catalog"
+
+- item: "lookbook"
+  title: "Lookbook"
+
+- item: "portfolio"
+  title: "Portfolio"
+
+- item: "book"
+  title: "Book"
+
+- item: "hardcover"
+  title: "Hardcover Book"
+
+- item: "paperback"
+  title: "Paperback Book"
+
+- item: "spiral-bound"
+  title: "Spiral Bound"
+
+- item: "saddle-stitch"
+  title: "Saddle Stitch"
+
+- item: "perfect-bound"
+  title: "Perfect Bound"
+
+- item: "case-bound"
+  title: "Case Bound"
+
+- item: "wire-bound"
+  title: "Wire Bound"
+
+- item: "coil-bound"
+  title: "Coil Bound"
+
+- item: "comb-bound"
+  title: "Comb Bound"
+
+- item: "notebook"
+  title: "Notebook"
+
+- item: "journal"
+  title: "Journal"
+
+- item: "diary"
+  title: "Diary"
+
+- item: "planner"
+  title: "Planner"
+
+- item: "calendar"
+  title: "Calendar"
+
+- item: "wall-calendar"
+  title: "Wall Calendar"
+
+- item: "desk-calendar"
+  title: "Desk Calendar"
+
+- item: "pocket-calendar"
+  title: "Pocket Calendar"
+
+- item: "monthly-planner"
+  title: "Monthly Planner"
+
+- item: "weekly-planner"
+  title: "Weekly Planner"
+
+- item: "daily-planner"
+  title: "Daily Planner"
+
+- item: "hourly-planner"
+  title: "Hourly Planner"
+
+- item: "meal-planner"
+  title: "Meal Planner"
+
+- item: "fitness-planner"
+  title: "Fitness Planner"
+
+- item: "budget-planner"
+  title: "Budget Planner"
+
+- item: "goal-planner"
+  title: "Goal Planner"
+
+- item: "project-planner"
+  title: "Project Planner"
+
+- item: "event-planner"
+  title: "Event Planner"
+
+- item: "wedding-planner"
+  title: "Wedding Planner"
+
+- item: "baby-planner"
+  title: "Baby Planner"
+
+- item: "school-planner"
+  title: "School Planner"
+
+- item: "teacher-planner"
+  title: "Teacher Planner"
+
+- item: "student-planner"
+  title: "Student Planner"
+
+- item: "worksheet"
+  title: "Worksheet"
+
+- item: "activity-sheet"
+  title: "Activity Sheet"
+
+- item: "coloring-page"
+  title: "Coloring Page"
+
+- item: "dot-to-dot"
+  title: "Dot-to-Dot"
+
+- item: "maze"
+  title: "Maze"
+
+- item: "word-search"
+  title: "Word Search"
+
+- item: "crossword"
+  title: "Crossword"
+
+- item: "sudoku"
+  title: "Sudoku"
+
+- item: "puzzle"
+  title: "Puzzle"
+
+- item: "flashcard"
+  title: "Flashcard"
+
+- item: "vocabulary-card"
+  title: "Vocabulary Card"
+
+- item: "study-card"
+  title: "Study Card"
+
+- item: "quiz-card"
+  title: "Quiz Card"
+
+- item: "cheat-sheet"
+  title: "Cheat Sheet"
+
+- item: "reference-card"
+  title: "Reference Card"
+
+- item: "guide-card"
+  title: "Guide Card"
+
+- item: "recipe-card"
+  title: "Recipe Card"
+
+- item: "recipe-book"
+  title: "Recipe Book"
+
+- item: "cookbook"
+  title: "Cookbook"
+
+- item: "chart"
+  title: "Chart"
+
+- item: "graph"
+  title: "Graph"
+
+- item: "diagram"
+  title: "Diagram"
+
+- item: "flowchart"
+  title: "Flowchart"
+
+- item: "organizational-chart"
+  title: "Organizational Chart"
+
+- item: "family-tree"
+  title: "Family Tree"
+
+- item: "pedigree-chart"
+  title: "Pedigree Chart"
+
+- item: "ancestry-chart"
+  title: "Ancestry Chart"
+
+- item: "timeline"
+  title: "Timeline"
+
+- item: "schedule"
+  title: "Schedule"
+
+- item: "roster"
+  title: "Roster"
+
+- item: "checklist"
+  title: "Checklist"
+
+- item: "to-do-list"
+  title: "To-Do List"
+
+- item: "task-list"
+  title: "Task List"
+
+- item: "shopping-list"
+  title: "Shopping List"
+
+- item: "packing-list"
+  title: "Packing List"
+
+- item: "gift-list"
+  title: "Gift List"
+
+- item: "guest-list"
+  title: "Guest List"
+
+- item: "attendance-sheet"
+  title: "Attendance Sheet"
+
+- item: "sign-in-sheet"
+  title: "Sign-In Sheet"
+
+- item: "sign-out-sheet"
+  title: "Sign-Out Sheet"
+
+- item: "registration-form"
+  title: "Registration Form"
+
+- item: "application-form"
+  title: "Application Form"
+
+- item: "order-form"
+  title: "Order Form"
+
+- item: "invoice"
+  title: "Invoice"
+
+- item: "receipt"
+  title: "Receipt"
+
+- item: "purchase-order"
+  title: "Purchase Order"
+
+- item: "work-order"
+  title: "Work Order"
+
+- item: "estimate"
+  title: "Estimate"
+
+- item: "quote"
+  title: "Quote"
+
+- item: "proposal"
+  title: "Proposal"
+
+- item: "contract"
+  title: "Contract"
+
+- item: "agreement"
+  title: "Agreement"
+
+- item: "nda"
+  title: "Non-Disclosure Agreement"
+
+- item: "legal-form"
+  title: "Legal Form"
+
+- item: "medical-form"
+  title: "Medical Form"
+
+- item: "intake-form"
+  title: "Intake Form"
+
+- item: "consent-form"
+  title: "Consent Form"
+
+- item: "waiver-form"
+  title: "Waiver Form"
+
+- item: "release-form"
+  title: "Release Form"
+
+- item: "permission-slip"
+  title: "Permission Slip"
+
+- item: "report-card"
+  title: "Report Card"
+
+- item: "transcript"
+  title: "Transcript"
+
+- item: "certificate"
+  title: "Certificate"
+
+- item: "award"
+  title: "Award"
+
+- item: "certificate-of-achievement"
+  title: "Certificate of Achievement"
+
+- item: "certificate-of-completion"
+  title: "Certificate of Completion"
+
+- item: "certificate-of-attendance"
+  title: "Certificate of Attendance"
+
+- item: "certificate-of-participation"
+  title: "Certificate of Participation"
+
+- item: "diploma"
+  title: "Diploma"
+
+- item: "degree"
+  title: "Degree"
+
+- item: "license"
+  title: "License"
+
+- item: "permit"
+  title: "Permit"
+
+- item: "membership-card"
+  title: "Membership Card"
+
+- item: "loyalty-card"
+  title: "Loyalty Card"
+
+- item: "discount-card"
+  title: "Discount Card"
+
+- item: "gift-card"
+  title: "Gift Card"
+
+- item: "gift-certificate"
+  title: "Gift Certificate"
+
+- item: "voucher"
+  title: "Voucher"
+
+- item: "coupon"
+  title: "Coupon"
+
+- item: "discount-coupon"
+  title: "Discount Coupon"
+
+- item: "promo-code"
+  title: "Promo Code"
+
+- item: "ticket"
+  title: "Ticket"
+
+- item: "event-ticket"
+  title: "Event Ticket"
+
+- item: "concert-ticket"
+  title: "Concert Ticket"
+
+- item: "movie-ticket"
+  title: "Movie Ticket"
+
+- item: "theater-ticket"
+  title: "Theater Ticket"
+
+- item: "sports-ticket"
+  title: "Sports Ticket"
+
+- item: "boarding-pass"
+  title: "Boarding Pass"
+
+- item: "airline-ticket"
+  title: "Airline Ticket"
+
+- item: "train-ticket"
+  title: "Train Ticket"
+
+- item: "bus-ticket"
+  title: "Bus Ticket"
+
+- item: "parking-ticket"
+  title: "Parking Ticket"
+
+- item: "admission-ticket"
+  title: "Admission Ticket"
+
+- item: "raffle-ticket"
+  title: "Raffle Ticket"
+
+- item: "lottery-ticket"
+  title: "Lottery Ticket"
+
+- item: "bingo-card"
+  title: "Bingo Card"
+
+- item: "game-card"
+  title: "Game Card"
+
+- item: "scorecard"
+  title: "Scorecard"
+
+- item: "score-sheet"
+  title: "Score Sheet"
+
+- item: "record-sheet"
+  title: "Record Sheet"
+
+- item: "log-sheet"
+  title: "Log Sheet"
+
+- item: "timesheet"
+  title: "Timesheet"
+
+- item: "timesheet-template"
+  title: "Timesheet Template"
+
+- item: "invoice-template"
+  title: "Invoice Template"
+
+- item: "receipt-template"
+  title: "Receipt Template"
+
+- item: "estimate-template"
+  title: "Estimate Template"
+
+- item: "proposal-template"
+  title: "Proposal Template"
+
+- item: "contract-template"
+  title: "Contract Template"
+
+- item: "letterhead"
+  title: "Letterhead"
+
+- item: "envelope"
+  title: "Envelope"
+
+- item: "business-envelope"
+  title: "Business Envelope"
+
+- item: "window-envelope"
+  title: "Window Envelope"
+
+- item: "padded-envelope"
+  title: "Padded Envelope"
+
+- item: "mailer"
+  title: "Mailer"
+
+- item: "folder"
+  title: "Folder"
+
+- item: "file-folder"
+  title: "File Folder"
+
+- item: "pocket-folder"
+  title: "Pocket Folder"
+
+- item: "presentation-folder"
+  title: "Presentation Folder"
+
+- item: "document-folder"
+  title: "Document Folder"
+
+- item: "binder"
+  title: "Binder"
+
+- item: "binder-cover"
+  title: "Binder Cover"
+
+- item: "binder-spine"
+  title: "Binder Spine"
+
+- item: "binder-divider"
+  title: "Binder Divider"
+
+- item: "index-card"
+  title: "Index Card"
+
+- item: "note-card"
+  title: "Note Card"
+
+- item: "postcard"
+  title: "Postcard"
+
+- item: "photo-card"
+  title: "Photo Card"
+
+- item: "photo-print"
+  title: "Photo Print"
+
+- item: "canvas-print"
+  title: "Canvas Print"
+
+- item: "poster-print"
+  title: "Poster Print"
+
+- item: "art-print"
+  title: "Art Print"
+
+- item: "fine-art-print"
+  title: "Fine Art Print"
+
+- item: "giclée-print"
+  title: "Giclée Print"
+
+- item: "digital-print"
+  title: "Digital Print"
+
+- item: "offset-print"
+  title: "Offset Print"
+
+- item: "screen-print"
+  title: "Screen Print"
+
+- item: "letterpress-print"
+  title: "Letterpress Print"
+
+- item: "foil-stamp"
+  title: "Foil Stamp"
+
+- item: "emboss"
+  title: "Emboss"
+
+- item: "deboss"
+  title: "Deboss"
+
+- item: "engraving"
+  title: "Engraving"
+
+- item: "die-cut"
+  title: "Die Cut"
+
+- item: "perforation"
+  title: "Perforation"
+
+- item: "fold"
+  title: "Fold"
+
+- item: "score"
+  title: "Score"
+
+- item: "crease"
+  title: "Crease"
+
+- item: "lamination"
+  title: "Lamination"
+
+- item: "uv-coating"
+  title: "UV Coating"
+
+- item: "aqueous-coating"
+  title: "Aqueous Coating"
+
+- item: "varnish"
+  title: "Varnish"
+
+- item: "spot-varnish"
+  title: "Spot Varnish"
+
+- item: "gloss-varnish"
+  title: "Gloss Varnish"
+
+- item: "matte-varnish"
+  title: "Matte Varnish"
+
+- item: "satin-varnish"
+  title: "Satin Varnish"
+
+- item: "puzzle-print"
+  title: "Puzzle Print"
+
+- item: "magnets"
+  title: "Magnets"
+
+- item: "refrigerator-magnet"
+  title: "Refrigerator Magnet"
+
+- item: "button"
+  title: "Button"
+
+- item: "pin"
+  title: "Pin"
+
+- item: "lapel-pin"
+  title: "Lapel Pin"
+
+- item: "badge"
+  title: "Badge"
+
+- item: "name-badge"
+  title: "Name Badge"
+
+- item: "id-badge"
+  title: "ID Badge"
+
+- item: "wristband"
+  title: "Wristband"
+
+- item: "event-wristband"
+  title: "Event Wristband"
+
+- item: "admission-wristband"
+  title: "Admission Wristband"
+
+- item: "temporary-tattoo"
+  title: "Temporary Tattoo"
+
+- item: "transfer"
+  title: "Transfer"
+
+- item: "heat-transfer"
+  title: "Heat Transfer"
+
+- item: "water-transfer"
+  title: "Water Transfer"
+
+- item: "iron-on"
+  title: "Iron-On"
+
+- item: "patch"
+  title: "Patch"
+
+- item: "embroidered-patch"
+  title: "Embroidered Patch"
+
+- item: "iron-on-patch"
+  title: "Iron-On Patch"
+
+- item: "velcro-patch"
+  title: "Velcro Patch"
+
+- item: "flag"
+  title: "Flag"
+
+- item: "banner-flag"
+  title: "Banner Flag"
+
+- item: "tablecloth"
+  title: "Tablecloth"
+
+- item: "table-cover"
+  title: "Table Cover"
+
+- item: "floor-mat"
+  title: "Floor Mat"
+
+- item: "doormat"
+  title: "Doormat"
+
+- item: "coaster-mat"
+  title: "Coaster Mat"
+
+- item: "mousepad"
+  title: "Mousepad"
+
+- item: "desk-mat"
+  title: "Desk Mat"
+
+- item: "desk-pad"
+  title: "Desk Pad"
+
+- item: "wall-art"
+  title: "Wall Art"
+
+- item: "wall-decals"
+  title: "Wall Decals"
+
+- item: "wall-stickers"
+  title: "Wall Stickers"
+
+- item: "wall-mural"
+  title: "Wall Mural"
+
+- item: "wallpaper"
+  title: "Wallpaper"
