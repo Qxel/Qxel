@@ -1,0 +1,713 @@
+- item: "getting-started"
+  title: "Getting Started"
+
+- item: "beginner-guide"
+  title: "Beginner's Guide"
+
+- item: "intermediate-guide"
+  title: "Intermediate Guide"
+
+- item: "advanced-guide"
+  title: "Advanced Guide"
+
+- item: "expert-guide"
+  title: "Expert Guide"
+
+- item: "quick-start"
+  title: "Quick Start"
+
+- item: "step-by-step"
+  title: "Step-by-Step Tutorial"
+
+- item: "walkthrough"
+  title: "Walkthrough"
+
+- item: "comprehensive-guide"
+  title: "Comprehensive Guide"
+
+- item: "ultimate-guide"
+  title: "Ultimate Guide"
+
+- item: "definitive-guide"
+  title: "Definitive Guide"
+
+- item: "complete-guide"
+  title: "Complete Guide"
+
+- item: "essential-guide"
+  title: "Essential Guide"
+
+- item: "handbook"
+  title: "Handbook"
+
+- item: "manual"
+  title: "Manual"
+
+- item: "user-manual"
+  title: "User Manual"
+
+- item: "user-guide"
+  title: "User Guide"
+
+- item: "reference-guide"
+  title: "Reference Guide"
+
+- item: "quick-reference"
+  title: "Quick Reference"
+
+- item: "cheat-sheet"
+  title: "Cheat Sheet"
+
+- item: "tips-and-tricks"
+  title: "Tips and Tricks"
+
+- item: "best-practices"
+  title: "Best Practices"
+
+- item: "do-and-dont"
+  title: "Do's and Don'ts"
+
+- item: "common-mistakes"
+  title: "Common Mistakes"
+
+- item: "troubleshooting"
+  title: "Troubleshooting"
+
+- item: "faq"
+  title: "Frequently Asked Questions (FAQ)"
+
+- item: "glossary"
+  title: "Glossary"
+
+- item: "terminology"
+  title: "Terminology"
+
+- item: "concepts"
+  title: "Core Concepts"
+
+- item: "fundamentals"
+  title: "Fundamentals"
+
+- item: "basics"
+  title: "Basics"
+
+- item: "prerequisites"
+  title: "Prerequisites"
+
+- item: "setup-guide"
+  title: "Setup Guide"
+
+- item: "installation-guide"
+  title: "Installation Guide"
+
+- item: "configuration-guide"
+  title: "Configuration Guide"
+
+- item: "deployment-guide"
+  title: "Deployment Guide"
+
+- item: "migration-guide"
+  title: "Migration Guide"
+
+- item: "upgrade-guide"
+  title: "Upgrade Guide"
+
+- item: "update-guide"
+  title: "Update Guide"
+
+- item: "patch-notes"
+  title: "Patch Notes"
+
+- item: "release-notes"
+  title: "Release Notes"
+
+- item: "changelog"
+  title: "Changelog"
+
+- item: "version-history"
+  title: "Version History"
+
+- item: "roadmap"
+  title: "Roadmap"
+
+- item: "development-roadmap"
+  title: "Development Roadmap"
+
+- item: "product-roadmap"
+  title: "Product Roadmap"
+
+- item: "feature-roadmap"
+  title: "Feature Roadmap"
+
+- item: "planning"
+  title: "Planning"
+
+- item: "project-planning"
+  title: "Project Planning"
+
+- item: "workflow"
+  title: "Workflow"
+
+- item: "development-workflow"
+  title: "Development Workflow"
+
+- item: "design-workflow"
+  title: "Design Workflow"
+
+- item: "agile-methodology"
+  title: "Agile Methodology"
+
+- item: "scrum-guide"
+  title: "Scrum Guide"
+
+- item: "kanban-guide"
+  title: "Kanban Guide"
+
+- item: "lean-methodology"
+  title: "Lean Methodology"
+
+- item: "design-thinking"
+  title: "Design Thinking"
+
+- item: "user-centered-design"
+  title: "User-Centered Design"
+
+- item: "ux-research"
+  title: "UX Research"
+
+- item: "user-research"
+  title: "User Research"
+
+- item: "market-research"
+  title: "Market Research"
+
+- item: "competitive-analysis"
+  title: "Competitive Analysis"
+
+- item: "swot-analysis"
+  title: "SWOT Analysis"
+
+- item: "user-persona"
+  title: "User Persona"
+
+- item: "user-journey"
+  title: "User Journey"
+
+- item: "customer-journey"
+  title: "Customer Journey"
+
+- item: "user-flow"
+  title: "User Flow"
+
+- item: "information-architecture"
+  title: "Information Architecture"
+
+- item: "wireframing"
+  title: "Wireframing"
+
+- item: "prototyping"
+  title: "Prototyping"
+
+- item: "mockup-design"
+  title: "Mockup Design"
+
+- item: "visual-design"
+  title: "Visual Design"
+
+- item: "graphic-design"
+  title: "Graphic Design"
+
+- item: "typography-guide"
+  title: "Typography Guide"
+
+- item: "color-theory"
+  title: "Color Theory"
+
+- item: "color-palette"
+  title: "Color Palette Guide"
+
+- item: "composition"
+  title: "Composition Guide"
+
+- item: "layout-design"
+  title: "Layout Design"
+
+- item: "grid-system"
+  title: "Grid System"
+
+- item: "responsive-design"
+  title: "Responsive Design"
+
+- item: "mobile-design"
+  title: "Mobile Design"
+
+- item: "web-design"
+  title: "Web Design"
+
+- item: "app-design"
+  title: "App Design"
+
+- item: "ui-design"
+  title: "UI Design"
+
+- item: "ux-design"
+  title: "UX Design"
+
+- item: "interaction-design"
+  title: "Interaction Design"
+
+- item: "motion-design"
+  title: "Motion Design"
+
+- item: "animation-principles"
+  title: "Animation Principles"
+
+- item: "3d-design"
+  title: "3D Design"
+
+- item: "3d-modeling"
+  title: "3D Modeling Guide"
+
+- item: "3d-sculpting"
+  title: "3D Sculpting Guide"
+
+- item: "texturing-guide"
+  title: "Texturing Guide"
+
+- item: "lighting-guide"
+  title: "Lighting Guide"
+
+- item: "rendering-guide"
+  title: "Rendering Guide"
+
+- item: "game-design"
+  title: "Game Design"
+
+- item: "game-mechanics"
+  title: "Game Mechanics"
+
+- item: "game-balancing"
+  title: "Game Balancing"
+
+- item: "level-design"
+  title: "Level Design"
+
+- item: "world-building"
+  title: "World Building"
+
+- item: "storytelling"
+  title: "Storytelling"
+
+- item: "narrative-design"
+  title: "Narrative Design"
+
+- item: "character-design"
+  title: "Character Design"
+
+- item: "character-development"
+  title: "Character Development"
+
+- item: "enemy-design"
+  title: "Enemy Design"
+
+- item: "boss-design"
+  title: "Boss Design"
+
+- item: "creature-design"
+  title: "Creature Design"
+
+- item: "prop-design"
+  title: "Prop Design"
+
+- item: "environment-design"
+  title: "Environment Design"
+
+- item: "concept-art"
+  title: "Concept Art"
+
+- item: "digital-painting"
+  title: "Digital Painting"
+
+- item: "illustration-guide"
+  title: "Illustration Guide"
+
+- item: "drawing-guide"
+  title: "Drawing Guide"
+
+- item: "sketching-techniques"
+  title: "Sketching Techniques"
+
+- item: "figure-drawing"
+  title: "Figure Drawing"
+
+- item: "anatomy-guide"
+  title: "Anatomy Guide"
+
+- item: "perspective-guide"
+  title: "Perspective Guide"
+
+- item: "foreshortening"
+  title: "Foreshortening Guide"
+
+- item: "light-and-shadow"
+  title: "Light and Shadow"
+
+- item: "shading-techniques"
+  title: "Shading Techniques"
+
+- item: "blending-techniques"
+  title: "Blending Techniques"
+
+- item: "brush-techniques"
+  title: "Brush Techniques"
+
+- item: "layer-management"
+  title: "Layer Management"
+
+- item: "masking-techniques"
+  title: "Masking Techniques"
+
+- item: "photo-manipulation"
+  title: "Photo Manipulation"
+
+- item: "photo-editing"
+  title: "Photo Editing"
+
+- item: "color-grading"
+  title: "Color Grading"
+
+- item: "post-processing"
+  title: "Post-Processing"
+
+- item: "special-effects"
+  title: "Special Effects"
+
+- item: "vfx-guide"
+  title: "VFX Guide"
+
+- item: "particle-effects"
+  title: "Particle Effects Guide"
+
+- item: "shader-development"
+  title: "Shader Development"
+
+- item: "sound-design"
+  title: "Sound Design"
+
+- item: "music-production"
+  title: "Music Production"
+
+- item: "audio-engineering"
+  title: "Audio Engineering"
+
+- item: "voice-acting"
+  title: "Voice Acting"
+
+- item: "writing-guide"
+  title: "Writing Guide"
+
+- item: "copywriting"
+  title: "Copywriting"
+
+- item: "content-writing"
+  title: "Content Writing"
+
+- item: "technical-writing"
+  title: "Technical Writing"
+
+- item: "creative-writing"
+  title: "Creative Writing"
+
+- item: "scriptwriting"
+  title: "Scriptwriting"
+
+- item: "screenwriting"
+  title: "Screenwriting"
+
+- item: "dialogue-writing"
+  title: "Dialogue Writing"
+
+- item: "poetry-writing"
+  title: "Poetry Writing"
+
+- item: "blogging-guide"
+  title: "Blogging Guide"
+
+- item: "seo-guide"
+  title: "SEO Guide"
+
+- item: "content-strategy"
+  title: "Content Strategy"
+
+- item: "social-media-strategy"
+  title: "Social Media Strategy"
+
+- item: "marketing-guide"
+  title: "Marketing Guide"
+
+- item: "digital-marketing"
+  title: "Digital Marketing Guide"
+
+- item: "email-marketing"
+  title: "Email Marketing Guide"
+
+- item: "growth-hacking"
+  title: "Growth Hacking"
+
+- item: "analytics-guide"
+  title: "Analytics Guide"
+
+- item: "data-analysis"
+  title: "Data Analysis"
+
+- item: "data-visualization"
+  title: "Data Visualization"
+
+- item: "business-strategy"
+  title: "Business Strategy"
+
+- item: "business-planning"
+  title: "Business Planning"
+
+- item: "startup-guide"
+  title: "Startup Guide"
+
+- item: "entrepreneurship"
+  title: "Entrepreneurship Guide"
+
+- item: "freelancing-guide"
+  title: "Freelancing Guide"
+
+- item: "remote-work"
+  title: "Remote Work Guide"
+
+- item: "productivity-hacks"
+  title: "Productivity Hacks"
+
+- item: "time-management"
+  title: "Time Management"
+
+- item: "goal-setting"
+  title: "Goal Setting"
+
+- item: "self-improvement"
+  title: "Self-Improvement"
+
+- item: "mindset-guide"
+  title: "Mindset Guide"
+
+- item: "motivation-guide"
+  title: "Motivation Guide"
+
+- item: "confidence-building"
+  title: "Confidence Building"
+
+- item: "public-speaking"
+  title: "Public Speaking"
+
+- item: "communication-skills"
+  title: "Communication Skills"
+
+- item: "leadership-guide"
+  title: "Leadership Guide"
+
+- item: "team-management"
+  title: "Team Management"
+
+- item: "project-management"
+  title: "Project Management"
+
+- item: "risk-management"
+  title: "Risk Management"
+
+- item: "crisis-management"
+  title: "Crisis Management"
+
+- item: "decision-making"
+  title: "Decision Making"
+
+- item: "problem-solving"
+  title: "Problem Solving"
+
+- item: "creative-thinking"
+  title: "Creative Thinking"
+
+- item: "critical-thinking"
+  title: "Critical Thinking"
+
+- item: "strategic-thinking"
+  title: "Strategic Thinking"
+
+- item: "systems-thinking"
+  title: "Systems Thinking"
+
+- item: "design-thinking-guide"
+  title: "Design Thinking Guide"
+
+- item: "innovation-guide"
+  title: "Innovation Guide"
+
+- item: "disruption-guide"
+  title: "Disruption Guide"
+
+- item: "change-management"
+  title: "Change Management"
+
+- item: "digital-transformation"
+  title: "Digital Transformation"
+
+- item: "technology-trends"
+  title: "Technology Trends"
+
+- item: "emerging-tech"
+  title: "Emerging Technologies"
+
+- item: "ai-guide"
+  title: "AI Guide"
+
+- item: "machine-learning-guide"
+  title: "Machine Learning Guide"
+
+- item: "deep-learning-guide"
+  title: "Deep Learning Guide"
+
+- item: "data-science-guide"
+  title: "Data Science Guide"
+
+- item: "programming-guide"
+  title: "Programming Guide"
+
+- item: "coding-basics"
+  title: "Coding Basics"
+
+- item: "web-development"
+  title: "Web Development"
+
+- item: "frontend-guide"
+  title: "Frontend Development Guide"
+
+- item: "backend-guide"
+  title: "Backend Development Guide"
+
+- item: "fullstack-guide"
+  title: "Fullstack Development Guide"
+
+- item: "api-guide"
+  title: "API Guide"
+
+- item: "database-guide"
+  title: "Database Guide"
+
+- item: "cloud-computing"
+  title: "Cloud Computing Guide"
+
+- item: "devops-guide"
+  title: "DevOps Guide"
+
+- item: "testing-guide"
+  title: "Testing Guide"
+
+- item: "debugging-guide"
+  title: "Debugging Guide"
+
+- item: "optimization-guide"
+  title: "Optimization Guide"
+
+- item: "performance-tuning"
+  title: "Performance Tuning"
+
+- item: "scalability-guide"
+  title: "Scalability Guide"
+
+- item: "security-guide"
+  title: "Security Guide"
+
+- item: "cybersecurity-guide"
+  title: "Cybersecurity Guide"
+
+- item: "ethical-hacking"
+  title: "Ethical Hacking Guide"
+
+- item: "compliance-guide"
+  title: "Compliance Guide"
+
+- item: "legal-guide"
+  title: "Legal Guide"
+
+- item: "privacy-guide"
+  title: "Privacy Guide"
+
+- item: "accessibility-guide"
+  title: "Accessibility Guide"
+
+- item: "inclusive-design"
+  title: "Inclusive Design Guide"
+
+- item: "sustainability-guide"
+  title: "Sustainability Guide"
+
+- item: "eco-design"
+  title: "Eco-Design Guide"
+
+- item: "green-design"
+  title: "Green Design Guide"
+
+- item: "ethical-design"
+  title: "Ethical Design Guide"
+
+- item: "responsible-design"
+  title: "Responsible Design Guide"
+
+- item: "case-study"
+  title: "Case Study"
+
+- item: "success-story"
+  title: "Success Story"
+
+- item: "failure-story"
+  title: "Failure Story"
+
+- item: "lessons-learned"
+  title: "Lessons Learned"
+
+- item: "post-mortem"
+  title: "Post-Mortem"
+
+- item: "retrospective"
+  title: "Retrospective"
+
+- item: "interview-guide"
+  title: "Interview Guide"
+
+- item: "portfolio-guide"
+  title: "Portfolio Guide"
+
+- item: "resume-guide"
+  title: "Resume Guide"
+
+- item: "career-guide"
+  title: "Career Guide"
+
+- item: "professional-development"
+  title: "Professional Development"
+
+- item: "networking-guide"
+  title: "Networking Guide"
+
+- item: "mentorship-guide"
+  title: "Mentorship Guide"
+
+- item: "teaching-guide"
+  title: "Teaching Guide"
+
+- item: "learning-guide"
+  title: "Learning Guide"
+
+- item: "study-guide"
+  title: "Study Guide"
+
+- item: "exam-guide"
+  title: "Exam Guide"
+
+- item: "certification-guide"
+  title: "Certification Guide"
