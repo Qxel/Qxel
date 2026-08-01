@@ -1,0 +1,944 @@
+- item: "pop"
+  title: "Pop"
+
+- item: "rock"
+  title: "Rock"
+
+- item: "alternative-rock"
+  title: "Alternative Rock"
+
+- item: "indie-rock"
+  title: "Indie Rock"
+
+- item: "hard-rock"
+  title: "Hard Rock"
+
+- item: "metal"
+  title: "Metal"
+
+- item: "heavy-metal"
+  title: "Heavy Metal"
+
+- item: "thrash-metal"
+  title: "Thrash Metal"
+
+- item: "death-metal"
+  title: "Death Metal"
+
+- item: "black-metal"
+  title: "Black Metal"
+
+- item: "power-metal"
+  title: "Power Metal"
+
+- item: "progressive-metal"
+  title: "Progressive Metal"
+
+- item: "nu-metal"
+  title: "Nu-Metal"
+
+- item: "metalcore"
+  title: "Metalcore"
+
+- item: "deathcore"
+  title: "Deathcore"
+
+- item: "grindcore"
+  title: "Grindcore"
+
+- item: "post-rock"
+  title: "Post-Rock"
+
+- item: "post-punk"
+  title: "Post-Punk"
+
+- item: "punk-rock"
+  title: "Punk Rock"
+
+- item: "pop-punk"
+  title: "Pop-Punk"
+
+- item: "emo"
+  title: "Emo"
+
+- item: "screamo"
+  title: "Screamo"
+
+- item: "hardcore-punk"
+  title: "Hardcore Punk"
+
+- item: "ska"
+  title: "Ska"
+
+- item: "ska-punk"
+  title: "Ska-Punk"
+
+- item: "reggae"
+  title: "Reggae"
+
+- item: "dancehall"
+  title: "Dancehall"
+
+- item: "ska-reggae"
+  title: "Ska Reggae"
+
+- item: "roots-reggae"
+  title: "Roots Reggae"
+
+- item: "dub"
+  title: "Dub"
+
+- item: "hip-hop"
+  title: "Hip-Hop"
+
+- item: "rap"
+  title: "Rap"
+
+- item: "old-school-hip-hop"
+  title: "Old School Hip-Hop"
+
+- item: "gangsta-rap"
+  title: "Gangsta Rap"
+
+- item: "trap"
+  title: "Trap"
+
+- item: "drill"
+  title: "Drill"
+
+- item: "grime"
+  title: "Grime"
+
+- item: "uk-rap"
+  title: "UK Rap"
+
+- item: "french-rap"
+  title: "French Rap"
+
+- item: "desi-hip-hop"
+  title: "Desi Hip-Hop"
+
+- item: "conscious-rap"
+  title: "Conscious Rap"
+
+- item: "alternative-hip-hop"
+  title: "Alternative Hip-Hop"
+
+- item: "instrumental-hip-hop"
+  title: "Instrumental Hip-Hop"
+
+- item: "lo-fi-hip-hop"
+  title: "Lo-Fi Hip-Hop"
+
+- item: "jazz-rap"
+  title: "Jazz Rap"
+
+- item: "r-and-b"
+  title: "R&B"
+
+- item: "contemporary-r-and-b"
+  title: "Contemporary R&B"
+
+- item: "soul"
+  title: "Soul"
+
+- item: "neo-soul"
+  title: "Neo-Soul"
+
+- item: "funk"
+  title: "Funk"
+
+- item: "disco"
+  title: "Disco"
+
+- item: "dance-pop"
+  title: "Dance-Pop"
+
+- item: "synth-pop"
+  title: "Synth-Pop"
+
+- item: "new-wave"
+  title: "New Wave"
+
+- item: "new-romantic"
+  title: "New Romantic"
+
+- item: "electronic"
+  title: "Electronic"
+
+- item: "edm"
+  title: "EDM (Electronic Dance Music)"
+
+- item: "house"
+  title: "House"
+
+- item: "deep-house"
+  title: "Deep House"
+
+- item: "tech-house"
+  title: "Tech House"
+
+- item: "progressive-house"
+  title: "Progressive House"
+
+- item: "tropical-house"
+  title: "Tropical House"
+
+- item: "future-house"
+  title: "Future House"
+
+- item: "bass-house"
+  title: "Bass House"
+
+- item: "techno"
+  title: "Techno"
+
+- item: "minimal-techno"
+  title: "Minimal Techno"
+
+- item: "detroit-techno"
+  title: "Detroit Techno"
+
+- item: "trance"
+  title: "Trance"
+
+- item: "progressive-trance"
+  title: "Progressive Trance"
+
+- item: "vocal-trance"
+  title: "Vocal Trance"
+
+- item: "psytrance"
+  title: "Psytrance"
+
+- item: "goa-trance"
+  title: "Goa Trance"
+
+- item: "drum-and-bass"
+  title: "Drum and Bass"
+
+- item: "liquid-dnb"
+  title: "Liquid DnB"
+
+- item: "neurofunk"
+  title: "Neurofunk"
+
+- item: "jungle"
+  title: "Jungle"
+
+- item: "breakbeat"
+  title: "Breakbeat"
+
+- item: "big-beat"
+  title: "Big Beat"
+
+- item: "dubstep"
+  title: "Dubstep"
+
+- item: "brostep"
+  title: "Brostep"
+
+- item: "riddim"
+  title: "Riddim"
+
+- item: "future-bass"
+  title: "Future Bass"
+
+- item: "trap-edm"
+  title: "Trap (EDM)"
+
+- item: "bass-music"
+  title: "Bass Music"
+
+- item: "garage"
+  title: "Garage"
+
+- item: "uk-garage"
+  title: "UK Garage"
+
+- item: "speed-garage"
+  title: "Speed Garage"
+
+- item: "grime"
+  title: "Grime"
+
+- item: "bassline"
+  title: "Bassline"
+
+- item: "electro"
+  title: "Electro"
+
+- item: "electro-pop"
+  title: "Electro-Pop"
+
+- item: "electro-house"
+  title: "Electro House"
+
+- item: "downtempo"
+  title: "Downtempo"
+
+- item: "chillout"
+  title: "Chillout"
+
+- item: "ambient"
+  title: "Ambient"
+
+- item: "dark-ambient"
+  title: "Dark Ambient"
+
+- item: "drone"
+  title: "Drone"
+
+- item: "noise"
+  title: "Noise"
+
+- item: "industrial"
+  title: "Industrial"
+
+- item: "industrial-rock"
+  title: "Industrial Rock"
+
+- item: "industrial-metal"
+  title: "Industrial Metal"
+
+- item: "synthwave"
+  title: "Synthwave"
+
+- item: "retrowave"
+  title: "Retrowave"
+
+- item: "vaporwave"
+  title: "Vaporwave"
+
+- item: "outrun"
+  title: "Outrun"
+
+- item: "chillwave"
+  title: "Chillwave"
+
+- item: "dream-pop"
+  title: "Dream Pop"
+
+- item: "shoegaze"
+  title: "Shoegaze"
+
+- item: "ethereal-wave"
+  title: "Ethereal Wave"
+
+- item: "cold-wave"
+  title: "Cold Wave"
+
+- item: "dark-wave"
+  title: "Dark Wave"
+
+- item: "gothic-rock"
+  title: "Gothic Rock"
+
+- item: "gothic-metal"
+  title: "Gothic Metal"
+
+- item: "doom-metal"
+  title: "Doom Metal"
+
+- item: "stoner-rock"
+  title: "Stoner Rock"
+
+- item: "psychedelic-rock"
+  title: "Psychedelic Rock"
+
+- item: "progressive-rock"
+  title: "Progressive Rock"
+
+- item: "art-rock"
+  title: "Art Rock"
+
+- item: "krautrock"
+  title: "Krautrock"
+
+- item: "space-rock"
+  title: "Space Rock"
+
+- item: "folk-rock"
+  title: "Folk Rock"
+
+- item: "country-rock"
+  title: "Country Rock"
+
+- item: "southern-rock"
+  title: "Southern Rock"
+
+- item: "blues-rock"
+  title: "Blues Rock"
+
+- item: "jazz-rock"
+  title: "Jazz Rock"
+
+- item: "math-rock"
+  title: "Math Rock"
+
+- item: "noise-rock"
+  title: "Noise Rock"
+
+- item: "garage-rock"
+  title: "Garage Rock"
+
+- item: "garage-punk"
+  title: "Garage Punk"
+
+- item: "lo-fi"
+  title: "Lo-Fi"
+
+- item: "bedroom-pop"
+  title: "Bedroom Pop"
+
+- item: "hyperpop"
+  title: "Hyperpop"
+
+- item: "glitch-pop"
+  title: "Glitch Pop"
+
+- item: "folktronica"
+  title: "Folktronica"
+
+- item: "world-music"
+  title: "World Music"
+
+- item: "folk"
+  title: "Folk"
+
+- item: "indie-folk"
+  title: "Indie Folk"
+
+- item: "americana"
+  title: "Americana"
+
+- item: "country"
+  title: "Country"
+
+- item: "bluegrass"
+  title: "Bluegrass"
+
+- item: "classic-country"
+  title: "Classic Country"
+
+- item: "outlaw-country"
+  title: "Outlaw Country"
+
+- item: "country-pop"
+  title: "Country Pop"
+
+- item: "blues"
+  title: "Blues"
+
+- item: "delta-blues"
+  title: "Delta Blues"
+
+- item: "chicago-blues"
+  title: "Chicago Blues"
+
+- item: "electric-blues"
+  title: "Electric Blues"
+
+- item: "acoustic-blues"
+  title: "Acoustic Blues"
+
+- item: "jazz"
+  title: "Jazz"
+
+- item: "bebop"
+  title: "Bebop"
+
+- item: "hard-bop"
+  title: "Hard Bop"
+
+- item: "cool-jazz"
+  title: "Cool Jazz"
+
+- item: "modal-jazz"
+  title: "Modal Jazz"
+
+- item: "free-jazz"
+  title: "Free Jazz"
+
+- item: "fusion-jazz"
+  title: "Fusion Jazz"
+
+- item: "smooth-jazz"
+  title: "Smooth Jazz"
+
+- item: "acid-jazz"
+  title: "Acid Jazz"
+
+- item: "nu-jazz"
+  title: "Nu-Jazz"
+
+- item: "swing"
+  title: "Swing"
+
+- item: "big-band"
+  title: "Big Band"
+
+- item: "vocal-jazz"
+  title: "Vocal Jazz"
+
+- item: "latin-jazz"
+  title: "Latin Jazz"
+
+- item: "afro-cuban-jazz"
+  title: "Afro-Cuban Jazz"
+
+- item: "bossa-nova"
+  title: "Bossa Nova"
+
+- item: "samba"
+  title: "Samba"
+
+- item: "tango"
+  title: "Tango"
+
+- item: "latin-music"
+  title: "Latin Music"
+
+- item: "reggaeton"
+  title: "Reggaeton"
+
+- item: "bachata"
+  title: "Bachata"
+
+- item: "merengue"
+  title: "Merengue"
+
+- item: "cumbia"
+  title: "Cumbia"
+
+- item: "salsa"
+  title: "Salsa"
+
+- item: "mambo"
+  title: "Mambo"
+
+- item: "rumba"
+  title: "Rumba"
+
+- item: "flamenco"
+  title: "Flamenco"
+
+- item: "fado"
+  title: "Fado"
+
+- item: "classical"
+  title: "Classical"
+
+- item: "baroque"
+  title: "Baroque"
+
+- item: "romantic"
+  title: "Romantic"
+
+- item: "modern-classical"
+  title: "Modern Classical"
+
+- item: "minimalist"
+  title: "Minimalist"
+
+- item: "contemporary-classical"
+  title: "Contemporary Classical"
+
+- item: "opera"
+  title: "Opera"
+
+- item: "operatic"
+  title: "Operatic"
+
+- item: "choral"
+  title: "Choral"
+
+- item: "orchestral"
+  title: "Orchestral"
+
+- item: "symphonic"
+  title: "Symphonic"
+
+- item: "chamber-music"
+  title: "Chamber Music"
+
+- item: "soundtrack"
+  title: "Soundtrack"
+
+- item: "film-score"
+  title: "Film Score"
+
+- item: "video-game-music"
+  title: "Video Game Music"
+
+- item: "chiptune"
+  title: "Chiptune"
+
+- item: "8-bit-music"
+  title: "8-Bit Music"
+
+- item: "16-bit-music"
+  title: "16-Bit Music"
+
+- item: "anime-music"
+  title: "Anime Music"
+
+- item: "j-pop"
+  title: "J-Pop"
+
+- item: "j-rock"
+  title: "J-Rock"
+
+- item: "city-pop"
+  title: "City Pop"
+
+- item: "k-pop"
+  title: "K-Pop"
+
+- item: "k-rock"
+  title: "K-Rock"
+
+- item: "k-hip-hop"
+  title: "K-Hip-Hop"
+
+- item: "k-indie"
+  title: "K-Indie"
+
+- item: "c-pop"
+  title: "C-Pop"
+
+- item: "mandopop"
+  title: "Mandopop"
+
+- item: "cantopop"
+  title: "Cantopop"
+
+- item: "t-pop"
+  title: "T-Pop"
+
+- item: "v-pop"
+  title: "V-Pop"
+
+- item: "bollywood"
+  title: "Bollywood"
+
+- item: "tollywood"
+  title: "Tollywood"
+
+- item: "kollywood"
+  title: "Kollywood"
+
+- item: "mollywood"
+  title: "Mollywood"
+
+- item: "bhojpuri"
+  title: "Bhojpuri"
+
+- item: "punjabi"
+  title: "Punjabi"
+
+- item: "bhangra"
+  title: "Bhangra"
+
+- item: "ghazal"
+  title: "Ghazal"
+
+- item: "qawwali"
+  title: "Qawwali"
+
+- item: "sufi"
+  title: "Sufi"
+
+- item: "devotional"
+  title: "Devotional"
+
+- item: "bhajan"
+  title: "Bhajan"
+
+- item: "kirtan"
+  title: "Kirtan"
+
+- item: "aarti"
+  title: "Aarti"
+
+- item: "classical-indian"
+  title: "Classical Indian"
+
+- item: "hindustani"
+  title: "Hindustani"
+
+- item: "carnatic"
+  title: "Carnatic"
+
+- item: "indian-folk"
+  title: "Indian Folk"
+
+- item: "fusion-indian"
+  title: "Fusion Indian"
+
+- item: "indie-pop"
+  title: "Indie Pop"
+
+- item: "indie-electronic"
+  title: "Indie Electronic"
+
+- item: "indie-soul"
+  title: "Indie Soul"
+
+- item: "acoustic"
+  title: "Acoustic"
+
+- item: "unplugged"
+  title: "Unplugged"
+
+- item: "live-music"
+  title: "Live Music"
+
+- item: "cover-songs"
+  title: "Cover Songs"
+
+- item: "remix"
+  title: "Remix"
+
+- item: "mashup"
+  title: "Mashup"
+
+- item: "medley"
+  title: "Medley"
+
+- item: "instrumental"
+  title: "Instrumental"
+
+- item: "a-cappella"
+  title: "A Cappella"
+
+- item: "christmas-music"
+  title: "Christmas Music"
+
+- item: "holiday-music"
+  title: "Holiday Music"
+
+- item: "spiritual"
+  title: "Spiritual"
+
+- item: "gospel"
+  title: "Gospel"
+
+- item: "christian"
+  title: "Christian"
+
+- item: "catholic"
+  title: "Catholic"
+
+- item: "jewish-music"
+  title: "Jewish Music"
+
+- item: "klezmer"
+  title: "Klezmer"
+
+- item: "arabic"
+  title: "Arabic"
+
+- item: "middle-eastern"
+  title: "Middle Eastern"
+
+- item: "turkish"
+  title: "Turkish"
+
+- item: "persian"
+  title: "Persian"
+
+- item: "african"
+  title: "African"
+
+- item: "afrobeat"
+  title: "Afrobeat"
+
+- item: "afropop"
+  title: "Afropop"
+
+- item: "amapiano"
+  title: "Amapiano"
+
+- item: "gqom"
+  title: "Gqom"
+
+- item: "highlife"
+  title: "Highlife"
+
+- item: "juju"
+  title: "Juju"
+
+- item: "mbube"
+  title: "Mbube"
+
+- item: "soukous"
+  title: "Soukous"
+
+- item: "mbalax"
+  title: "Mbalax"
+
+- item: "kizomba"
+  title: "Kizomba"
+
+- item: "zouk"
+  title: "Zouk"
+
+- item: "soca"
+  title: "Soca"
+
+- item: "calypso"
+  title: "Calypso"
+
+- item: "steel-drum"
+  title: "Steel Drum"
+
+- item: "caribbean"
+  title: "Caribbean"
+
+- item: "hawaiian"
+  title: "Hawaiian"
+
+- item: "maori"
+  title: "Maori"
+
+- item: "aboriginal"
+  title: "Aboriginal"
+
+- item: "polynesian"
+  title: "Polynesian"
+
+- item: "celtic"
+  title: "Celtic"
+
+- item: "irish-folk"
+  title: "Irish Folk"
+
+- item: "scottish-folk"
+  title: "Scottish Folk"
+
+- item: "nordic-folk"
+  title: "Nordic Folk"
+
+- item: "eastern-european"
+  title: "Eastern European"
+
+- item: "klezmer"
+  title: "Klezmer"
+
+- item: "gypsy"
+  title: "Gypsy"
+
+- item: "balkan"
+  title: "Balkan"
+
+- item: "latin-american"
+  title: "Latin American"
+
+- item: "norteño"
+  title: "Norteño"
+
+- item: "banda"
+  title: "Banda"
+
+- item: "mariachi"
+  title: "Mariachi"
+
+- item: "ranchera"
+  title: "Ranchera"
+
+- item: "cumbia"
+  title: "Cumbia"
+
+- item: "vallenato"
+  title: "Vallenato"
+
+- item: "forró"
+  title: "Forró"
+
+- item: "pagode"
+  title: "Pagode"
+
+- item: "sertanejo"
+  title: "Sertanejo"
+
+- item: "música-popular-brasileira"
+  title: "Música Popular Brasileira (MPB)"
+
+- item: "childrens-music"
+  title: "Children's Music"
+
+- item: "lullaby"
+  title: "Lullaby"
+
+- item: "nursery-rhymes"
+  title: "Nursery Rhymes"
+
+- item: "edu-tainment"
+  title: "Edu-tainment"
+
+- item: "comedy-music"
+  title: "Comedy Music"
+
+- item: "novelty"
+  title: "Novelty"
+
+- item: "parody"
+  title: "Parody"
+
+- item: "singer-songwriter"
+  title: "Singer-Songwriter"
+
+- item: "pop-rock"
+  title: "Pop-Rock"
+
+- item: "power-pop"
+  title: "Power Pop"
+
+- item: "soft-rock"
+  title: "Soft Rock"
+
+- item: "adult-contemporary"
+  title: "Adult Contemporary"
+
+- item: "easy-listening"
+  title: "Easy Listening"
+
+- item: "background-music"
+  title: "Background Music"
+
+- item: "muzak"
+  title: "Muzak"
+
+- item: "workout-music"
+  title: "Workout Music"
+
+- item: "fitness-music"
+  title: "Fitness Music"
+
+- item: "meditation-music"
+  title: "Meditation Music"
+
+- item: "yoga-music"
+  title: "Yoga Music"
+
+- item: "sleep-music"
+  title: "Sleep Music"
+
+- item: "relaxation"
+  title: "Relaxation"
+
+- item: "nature-sounds"
+  title: "Nature Sounds"
+
+- item: "white-noise"
+  title: "White Noise"
+
+- item: "asmr"
+  title: "ASMR"
+
+- item: "healing"
+  title: "Healing"
+
+- item: "therapy-music"
+  title: "Therapy Music"
